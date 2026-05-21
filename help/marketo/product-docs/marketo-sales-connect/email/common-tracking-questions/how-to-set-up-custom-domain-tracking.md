@@ -4,10 +4,12 @@ description: Découvrez comment configurer le suivi des domaines personnalisés 
 title: Comment configurer le suivi de domaine personnalisé
 exl-id: 55a9b5b7-214d-44e6-a52b-612d03835f01
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/iK8QMNOkLI25nbr0laGsU6sM6-ChiAlmcsModzw3Fkk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 14%
+source-wordcount: 102
+ht-degree: 13%
 
 ---
 

@@ -3,9 +3,11 @@ description: Découvrez comment ajouter ou mettre à jour votre signature e-mail
 title: Ajouter ou mettre à jour votre signature d’e-mail
 exl-id: 5a8c2ca2-2f27-4478-984b-f6b7c62b178d
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/D3WmFI421ngdFPd9t4evDUanachKNs-xHJlnYMkOWuU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: 123
 ht-degree: 9%
 
 ---

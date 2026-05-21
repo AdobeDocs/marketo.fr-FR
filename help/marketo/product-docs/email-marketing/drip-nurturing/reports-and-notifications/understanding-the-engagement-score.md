@@ -4,9 +4,13 @@ description: Découvrez le score d’engagement (0 à 100) et comment il mesure 
 title: Présentation du score d’engagement
 exl-id: 9ba7d6d1-839b-429a-a082-1d87676c394e
 feature: Engagement Programs, Reporting
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/b8-UTMy8MRLxXte2IbMJDfBT3srjzy5FIWgLUH256x8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: 194
 ht-degree: 4%
 
 ---

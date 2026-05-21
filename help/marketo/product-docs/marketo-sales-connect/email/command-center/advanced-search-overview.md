@@ -4,9 +4,11 @@ description: Découvrez la recherche avancée dans le centre de commande Sales C
 title: Vue d’ensemble de la recherche avancée
 exl-id: bb6e2c9f-b44a-43ba-94ae-ae30e182bcc8
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/iKvWJgc64doQj-GwRYdlnXU16VPU0qm7aQOp8Iovh4s
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: 420
 ht-degree: 4%
 
 ---

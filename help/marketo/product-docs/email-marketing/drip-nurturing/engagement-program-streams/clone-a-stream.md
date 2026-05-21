@@ -4,10 +4,13 @@ description: Découvrez comment cloner un flux de programme d’engagement pour 
 title: Cloner un flux
 exl-id: 9e1b83c0-38ce-4729-a922-80b927673717
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/Z-U9iTTV04OrhnjcfU00R1n9lZ9XB27TIGDhHkzE96M
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 6%
+source-wordcount: 85
+ht-degree: 7%
 
 ---
 
@@ -26,8 +29,6 @@ Clonez un flux pour diverses raisons, notamment en testant différents ordres et
    >[!NOTE]
    >
    >Vous pouvez avoir jusqu’à 25 flux par programme d’engagement.
-
-   Bien joué ! N&#39;aimez-vous pas les choses qui vous facilitent la vie ?
 
    ![](assets/image2014-9-15-17-3a1-3a20.png)
 

@@ -4,9 +4,13 @@ description: Découvrez comment partager un modèle sur plusieurs espaces de tra
 title: Partager un modèle dans plusieurs espaces de travail
 exl-id: 3a118f63-a97d-432a-a50c-3e08d934405e
 feature: Reporting
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/54AZg-nW-XT8P8u6uJFXJpbsx53thKlDh7aAWyJ2RlU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: 131
 ht-degree: 9%
 
 ---

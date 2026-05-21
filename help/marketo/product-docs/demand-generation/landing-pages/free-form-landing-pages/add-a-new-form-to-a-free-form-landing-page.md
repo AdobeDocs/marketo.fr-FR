@@ -4,16 +4,17 @@ description: Découvrez comment ajouter un nouveau formulaire à une page de des
 title: Ajouter un nouveau formulaire à une page de destination à structure libre
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/FTZtA2OAveQS9d9MLetBmTb99aSH0xIWwO6LsT2T7Ic
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 15%
+source-wordcount: 150
+ht-degree: 17%
 
 ---
 
 # Ajouter un nouveau formulaire à une page de destination à structure libre {#add-a-new-form-to-a-free-form-landing-page}
-
-Formulaire, page de destination. Page de destination, formulaire de correspondance.
 
 >[!PREREQUISITES]
 >
@@ -52,6 +53,4 @@ Formulaire, page de destination. Page de destination, formulaire de correspondan
 
    ![](assets/image2014-9-16-14-3a44-3a38.png)
 
-   Bien joué !
-
-Fermez simplement l’éditeur de page de destination et [approuvez le brouillon de page de destination](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Fermez l’éditeur de page de destination et [approuvez le brouillon de page de destination](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).

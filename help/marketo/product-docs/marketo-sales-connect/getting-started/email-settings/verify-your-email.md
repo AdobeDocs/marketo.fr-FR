@@ -4,9 +4,11 @@ description: Découvrez comment vérifier votre adresse e-mail dans Sales Connec
 title: Vérifier votre e-mail
 exl-id: 43aa286c-c7af-40c6-a9ea-7ab3c6544733
 feature: Marketo Sales Connect
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+TQID: https://experienceleague.adobe.com/6dX26M2k3ZoRa7KLiopasn5Mb-7fqM-hVGtWb-hPvAg
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: 97
 ht-degree: 6%
 
 ---

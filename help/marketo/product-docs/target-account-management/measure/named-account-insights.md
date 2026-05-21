@@ -4,10 +4,15 @@ description: Découvrez le tableau de bord des comptes nommés et sa vue à 360 
 title: Informations sur le compte nommé
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+TQID: https://experienceleague.adobe.com/AFf4miCMLQKRhYC-gIn-q8KinQD8NZ8-8FxsxC1hxMg
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+subfeature_v2: id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '432'
-ht-degree: 3%
+source-wordcount: 444
+ht-degree: 2%
 
 ---
 
@@ -58,7 +63,7 @@ Disponible pour les utilisateurs de [!DNL Marketo Sales Insight], consultez les 
 
 **Principales personnes**
 
-Ces personnes sont calculées en fonction des priorités basées sur la récence ou l’urgence affichée par des personnes de comptes nommés (identique aux [&#x200B; Meilleurs résultats &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) dans Sales Insight), ou sur les scores définis par l’utilisateur. **[!UICONTROL Priorité]** n’est disponible que pour les utilisateurs et utilisatrices de [!DNL Marketo Sales Insight].
+Ces personnes sont calculées en fonction des priorités basées sur la récence ou l’urgence affichée par des personnes de comptes nommés (identique aux [ Meilleurs résultats ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) dans Sales Insight), ou sur les scores définis par l’utilisateur. **[!UICONTROL Priorité]** n’est disponible que pour les utilisateurs et utilisatrices de [!DNL Marketo Sales Insight].
 
 ![](assets/top-ten.png)
 

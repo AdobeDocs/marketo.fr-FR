@@ -4,10 +4,13 @@ description: Découvrez comment ajouter des HTML personnalisées à une page de 
 title: Ajouter du HTML personnalisé à une page de destination à structure libre
 exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/SxcMmBYB5tq4xcwlpAvP-1y39nZPS7Xp0jylXdNwVoU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 9%
+source-wordcount: 166
+ht-degree: 10%
 
 ---
 
@@ -23,7 +26,7 @@ Vous pouvez ajouter des scripts personnalisés, des feuilles CSS ou d’autres H
 
    ![](assets/image2014-9-17-12-3a2-3a15.png)
 
-1. Dans l&#39;éditeur de landing page, faites glisser l&#39;élément **HTML**.
+1. Dans l&#39;éditeur de landing page, faites glisser l&#39;élément ****.
 
    ![](assets/image2015-5-21-15-3a52-3a42.png)
 
@@ -31,7 +34,7 @@ Vous pouvez ajouter des scripts personnalisés, des feuilles CSS ou d’autres H
 
    ![](assets/image2014-9-17-12-3a3-3a39.png)
 
-Joli ! Insérez les scripts ou les feuilles CSS de votre choix.
+Vous pouvez ajouter n’importe quel script ou CSS à l’élément HTML.
 
 >[!TIP]
 >

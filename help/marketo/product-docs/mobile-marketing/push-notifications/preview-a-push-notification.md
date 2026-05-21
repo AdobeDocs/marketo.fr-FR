@@ -4,9 +4,11 @@ description: Découvrez comment prévisualiser une notification push sur Android
 title: Prévisualiser une notification push
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
 feature: Mobile Marketing
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/NhCFj8K9wVU4-fDLt8s3vYsccElm2NcHQ9VV19cD5lU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: 266
 ht-degree: 3%
 
 ---

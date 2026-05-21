@@ -4,9 +4,13 @@ description: Exiger une authentification unique pour tous les utilisateurs afin 
 title: Limiter la connexion de l’utilisateur ou de l’utilisatrice aux connexions par authentification unique
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+TQID: https://experienceleague.adobe.com/2YaweRRhrf8po6RR3V64kCan8qQhDNKDrhr7TfnNNJs
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: 273
 ht-degree: 5%
 
 ---
@@ -41,7 +45,7 @@ Si vous [utilisez SSO](/help/marketo/product-docs/administration/additional-inte
 
 >[!NOTE]
 >
->Une bonne pratique consiste à inviter le(s) utilisateur(s) et à accepter l’invitation. _Une fois_ l’invitation acceptée, les administrateurs doivent la définir sur « [!UICONTROL &#x200B; Exiger une authentification unique &#x200B;]. »
+>Une bonne pratique consiste à inviter le(s) utilisateur(s) et à accepter l’invitation. _Une fois_ l’invitation acceptée, les administrateurs doivent la définir sur « [!UICONTROL  Exiger une authentification unique ]. »
 
 >[!TIP]
 >

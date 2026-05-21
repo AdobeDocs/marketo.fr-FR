@@ -4,9 +4,12 @@ description: Découvrez comment activer et mettre en forme la barre de recommand
 title: Activer la barre de recommandation de contenu
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+TQID: https://experienceleague.adobe.com/mrCYs8-z6i2GbrfgeySrm-a6-vPC--yVr4yf9UhbH4s
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: eb30f47f-d87a-400f-8f78-63ce7979ff56
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: 341
 ht-degree: 3%
 
 ---

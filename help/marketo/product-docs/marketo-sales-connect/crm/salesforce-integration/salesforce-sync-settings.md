@@ -4,9 +4,13 @@ description: comprendre les paramètres de synchronisation Salesforce pour Sales
 title: Paramètres de synchronisation Salesforce
 exl-id: 024c60ac-569f-4051-9eee-1e8d00f7296c
 feature: Marketo Sales Connect
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/6K6-oLauXJW9Ow1cnQfVBGJ-iVEvo88g-mknLd5PJyc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '444'
+source-wordcount: 444
 ht-degree: 4%
 
 ---
@@ -111,6 +115,6 @@ Si vous ne voyez pas Mon e-mail à Salesforce sous vos paramètres, c’est peut
 
    ![](assets/seven-2.png)
 
-1. Choisissez l’option souhaitée (la case « [!UICONTROL &#x200B; Ne pas synchroniser avec les tâches Salesforce &#x200B;] est sélectionnée par défaut).
+1. Choisissez l’option souhaitée (la case « [!UICONTROL  Ne pas synchroniser avec les tâches Salesforce ] est sélectionnée par défaut).
 
    ![](assets/eight.png)

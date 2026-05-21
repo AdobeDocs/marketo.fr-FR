@@ -4,9 +4,11 @@ description: Découvrez comment configurer un canal de diffusion personnalisé d
 title: Configurationd’ un canal de remise personnalisé
 exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
 feature: Marketo Sales Connect
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/3AyKPoZ-rxPE-6cpQQ4flbL23aILwkVpmnMQAUjQLmI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: 404
 ht-degree: 4%
 
 ---

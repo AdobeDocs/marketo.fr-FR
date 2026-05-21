@@ -3,9 +3,12 @@ description: Document d’instance hérité Votre configuration - Documents Mark
 title: L’Instance Héritée Documente Votre Configuration
 feature: Getting Started
 exl-id: 57057a05-b05a-4451-a13f-05729d5410dc
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/nmRkM3TVZyi9ZwXxwM-nXNg-6qJoqx-cBL4ALs2zWXI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: 299
 ht-degree: 4%
 
 ---
@@ -46,10 +49,10 @@ Maintenant que vous avez appris les principales zones de produit à auditer lors
   <tr>
    <td>Dictionnaire de données</td>
    <td><li>Existe-t-il un dictionnaire de données distinct expliquant les champs disponibles ?
-   <br/>     Dans le cas contraire, pensez à en créer un dans un dossier accessible à votre équipe des opérations marketing.</li></td>
+   <br/> Dans le cas contraire, envisagez d’en créer un dans un dossier accessible à votre équipe des opérations marketing.</li></td>
   </tr>
   <tr>
-   <td>Organisation</td>
+   <td>Entreprise</td>
     <td><li>Disposez-vous d’une documentation fiable sur l’organisation de votre instance Marketo Engage et pourquoi ?</li>
    <p><img src="assets/action-item-icon.png" alt="icône d’élément d’action">Action Item : créez une documentation qui contient la structure des dossiers, la convention de nommage et les canaux utilisés dans votre instance.</td>
   </tr>
@@ -61,7 +64,7 @@ Maintenant que vous avez appris les principales zones de produit à auditer lors
   <tr>
    <td>Playbooks</td>
     <td><li>Votre organisation dispose-t-elle d’un playbook d’utilisateur ou d’administrateur ?
-    <br/>     Si oui, mettez-les à jour en conséquence.</li></td>
+    <br/> Si c’est le cas, mettez-les à jour.</li></td>
   </tr>
   <tr>
    <td>Conversations avec les parties prenantes internes</td>

@@ -3,9 +3,13 @@ description: Découvrez le remplacement de priorité pour les campagnes de décl
 title: Remplacement de priorité pour les campagnes à déclencheur
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/XEyORsYajQEhtF-bajLFTtbOsSFg-lM9zU4gUyFcmWk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: 260
 ht-degree: 5%
 
 ---
@@ -16,7 +20,7 @@ Les administrateurs peuvent remplacer la priorité déterminée par Marketo Enga
 
 >[!NOTE]
 >
->Cette fonctionnalité n’est disponible que pour les campagnes de déclenchement et pour les utilisateurs et utilisatrices qui disposent de l’autorisation [&#x200B; « Modifier la priorité des campagnes de déclenchement »](#grant-priority-override-access).
+>Cette fonctionnalité n’est disponible que pour les campagnes de déclenchement et pour les utilisateurs et utilisatrices qui disposent de l’autorisation [ « Modifier la priorité des campagnes de déclenchement »](#grant-priority-override-access).
 
 >[!CAUTION]
 >
@@ -40,7 +44,7 @@ Les administrateurs peuvent remplacer la priorité déterminée par Marketo Enga
 
    ![](assets/priority-override-for-trigger-campaigns-3.png)
 
-## Annuler la priorité  {#override-priority}
+## Annuler la priorité {#override-priority}
 
 1. Recherchez votre campagne Trigger. Cliquez dessus avec le bouton droit et sélectionnez **[!UICONTROL Remplacer la priorité de campagne]**.
 

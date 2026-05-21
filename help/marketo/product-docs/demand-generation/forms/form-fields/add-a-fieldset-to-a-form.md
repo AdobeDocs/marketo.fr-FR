@@ -4,9 +4,12 @@ description: Découvrez comment ajouter un jeu de champs à un formulaire Market
 title: Ajouter un FieldSet à un formulaire
 exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
 feature: Forms
-source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
+TQID: https://experienceleague.adobe.com/roCUm7V5CeTZqvUOSXm45TjsQtZQCf8quVhjWjRZyO4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: 105
 ht-degree: 15%
 
 ---
@@ -41,4 +44,4 @@ Les jeux de champs regroupent un ensemble de champs. Vous pouvez contrôler un b
 
 >[!TIP]
 >
->Vous pouvez masquer/afficher l’ensemble du jeu de champs de manière dynamique en fonction d’un autre champ. En savoir plus sur les [&#x200B; règles de visibilité &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).
+>Vous pouvez masquer/afficher l’ensemble du jeu de champs de manière dynamique en fonction d’un autre champ. En savoir plus sur les [ règles de visibilité ](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).

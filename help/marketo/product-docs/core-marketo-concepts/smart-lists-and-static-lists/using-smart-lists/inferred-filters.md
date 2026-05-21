@@ -4,22 +4,26 @@ description: Découvrez les filtres déduits dans les listes dynamiques. Découv
 title: Filtres automatiques
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 feature: Smart Lists
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/-dKeAfCxfD1ErbfBzLqARUMwFY-I9RdkWGC0b-ZtNyE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: 218
 ht-degree: 1%
 
 ---
 
 # Filtres automatiques {#inferred-filters}
 
-Lorsqu&#39;une personne visite votre site web, [&#128279;](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} crée un cookie et le place dans le système. Le système recherche leur adresse IP dans une base de données spéciale et déduit toutes sortes d&#39;informations.
+Lorsqu&#39;une personne visite votre site web, [](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} crée un cookie et le place dans le système. Le système recherche leur adresse IP dans une base de données spéciale et déduit toutes sortes d&#39;informations.
 
 >[!NOTE]
 >
 >Pour que les valeurs de champ déduites restent à jour, la base de données utilisée pour les recherches d’adresses IP est régulièrement mise à jour. Les mises à jour de la base de données peuvent introduire de nouvelles valeurs de champ déduites que vous devrez peut-être ajouter aux définitions de filtre de liste dynamique.
 >
->Des mises à jour de base de données peuvent se produire au cours d&#39;une version de produit [&#128279;](/help/marketo/release-notes/release-schedule.md){target="_blank"}. Lorsqu&#39;une mise à jour se produit, les notes de mise à jour de [&#128279;](/help/marketo/release-notes/current.md){target="_blank"} contiennent une explication de toute modification apportée aux valeurs de champ déduites.
+>Des mises à jour de base de données peuvent se produire au cours d&#39;une version de produit [](/help/marketo/release-notes/release-schedule.md){target="_blank"}. Lorsqu&#39;une mise à jour se produit, les notes de mise à jour de [](/help/marketo/release-notes/current.md){target="_blank"} contiennent une explication de toute modification apportée aux valeurs de champ déduites.
 
 ![](assets/inferred-filters-1.png)
 

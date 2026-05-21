@@ -3,9 +3,13 @@ description: Découvrez comment ajouter ou supprimer des champs d’objet person
 title: Ajouter/supprimer un champ d’objet personnalisé en tant que contraintes de liste intelligente/déclencheur
 exl-id: b01923be-c307-4788-afb9-0eb4eb018a6d
 feature: Veeva CRM
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/YPDsggNd6x8r9-HzIo-PIHzBiIUjkO9TVZd1QvqsIL4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
+subfeature_v2: id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: 193
 ht-degree: 11%
 
 ---

@@ -4,9 +4,12 @@ description: Découvrez comment ajouter des images et des fichiers à Marketo. C
 title: Ajouter des images et des fichiers à Marketo
 exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
 feature: Image Editor
-source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
+TQID: https://experienceleague.adobe.com/Hbjtgp4C0Qg3XLzvpHb0HP98CDeLRvdDbDeKNbxr3yE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: 129
 ht-degree: 9%
 
 ---

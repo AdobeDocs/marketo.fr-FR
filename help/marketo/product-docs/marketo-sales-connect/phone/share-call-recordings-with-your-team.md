@@ -4,9 +4,11 @@ description: Découvrez comment partager des enregistrements d’appels Sales Co
 title: Partager les enregistrements des appels avec votre équipe
 exl-id: fabd5fba-14a4-4885-93ba-9a3857e2a298
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/tXpUxHcMFEmJew6jNl3B-MlvqELIGcicj9bZ-A7ykiM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: 181
 ht-degree: 6%
 
 ---

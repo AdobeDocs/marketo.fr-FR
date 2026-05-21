@@ -3,9 +3,14 @@ description: Découvrez les déclencheurs SMS, les filtres et les étapes de flu
 title: Utilisation des options SMS dans une campagne intelligente
 feature: Mobile Marketing
 exl-id: 199b7cae-86d2-42fe-8934-10aa780f4454
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/wpXQpXx-Og5t9TJtlZnuXS2sgGkdDPYv7n5ehPSPHC4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: 420
 ht-degree: 7%
 
 ---

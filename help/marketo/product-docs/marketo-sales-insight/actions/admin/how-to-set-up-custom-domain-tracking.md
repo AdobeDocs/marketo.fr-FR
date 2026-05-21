@@ -3,10 +3,12 @@ description: Découvrez comment configurer le suivi des domaines personnalisés 
 title: Comment configurer le suivi de domaine personnalisé
 exl-id: 6dea7f3d-d44d-4f67-af44-a8963c95c378
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/gn3uC4uxpwp35IVYcUs-cZJFqbmPc-7vTmgbIPm8lTk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 6%
+source-wordcount: 197
+ht-degree: 7%
 
 ---
 

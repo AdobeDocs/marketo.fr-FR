@@ -4,9 +4,13 @@ description: En savoir plus sur Mes jetons dans un programme. Utilisez des jeton
 title: Présentation de Mes jetons dans un programme
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/UYz7UtSHFbDdslMLdaGmIbdaHKedxjAhU-K8RhkgmS4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: 441
 ht-degree: 6%
 
 ---
@@ -46,7 +50,7 @@ Exemples :
   </tr>
   <tr>
    <td>Script de l’e-mail <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
-   <td>Utilisez ce jeton pour exécuter un script Velocity dans vos e-mails. En savoir plus <a href="https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/email-scripting" title="Suivre le lien" rel="nofollow">ici</a>. </td>
+   <td>Utilisez ce jeton pour exécuter un script Velocity dans vos e-mails. En savoir plus <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Suivre le lien" rel="nofollow">ici</a>. </td>
   </tr>
   <tr>
    <td>Nombre <span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td>

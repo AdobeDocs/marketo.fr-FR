@@ -4,9 +4,13 @@ description: Lier  [!DNL Google AdWords]  Marketo via LaunchPoint pour charger d
 title: Add [!DNL Google AdWords] as a [!DNL LaunchPoint] Service
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 feature: Administration, Integrations
-source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
+TQID: https://experienceleague.adobe.com/gpw57sy3WitNAh6g4mkajXuuFlRFzunZmfedM4aCrCk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: 284
 ht-degree: 3%
 
 ---
@@ -15,7 +19,7 @@ ht-degree: 3%
 
 Liez votre compte [!DNL Google AdWords] à Marketo pour charger automatiquement les données de conversion hors ligne de Marketo vers [!DNL Google AdWords]. Ensuite, à partir de l’interface utilisateur de [!DNL AdWords], vous pouvez voir quels clics ont généré des prospects qualifiés, des opportunités et de nouveaux clients (ou toutes les étapes de revenus que vous souhaitez suivre) après avoir [ajouté des colonnes personnalisées](https://support.google.com/adwords/answer/3073556){target="_blank"} dans [!DNL AdWords]. Ces informations n’apparaissent pas dans l’interface utilisateur de Marketo.
 
-En savoir plus sur la fonctionnalité d’importation de conversions hors ligne de [&#128279;](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
+En savoir plus sur la fonctionnalité d’importation de conversions hors ligne de [](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
 >[!AVAILABILITY]
 >

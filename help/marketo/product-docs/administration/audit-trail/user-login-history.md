@@ -4,9 +4,13 @@ description: Afficher qui s’est connecté à votre abonnement et quand, y comp
 title: Historique des connexions d’utilisateur et d’utilisatrice
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 feature: Audit Trail
-source-git-commit: 759f14f3913491d95e637e0d80217720beda55b1
+TQID: https://experienceleague.adobe.com/2fMWo9jb03Tzv1k5T6nBSZ5T8DKJw8W4ED3Fv9k348w
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: 191
 ht-degree: 6%
 
 ---

@@ -3,10 +3,12 @@ description: Découvrez le dispositif de suivi de la boîte de réception pour t
 title: Tutoriels sur Inbox Tracker
 feature: Deliverability
 exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/OOmWMW8Fw1r8NsYMp2-GBIThxu-cLtk6WJk1GbVUwWc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 3%
+source-wordcount: 309
+ht-degree: 2%
 
 ---
 
@@ -26,9 +28,9 @@ Bird a créé plusieurs vidéos de formation pour vous aider à tirer le meilleu
 
 * [Navigation de base](https://veed.io/view/263a0e5e-3b0c-40a4-98a7-945fe28173a1){target="_blank"}
 
-* [Paramètres des utilisateurs et des comptes](https://veed.io/view/dae8007a-89b4-4a2a-b666-0e9b12706866){target="_blank"}
+* [Paramètres de compte et d’utilisateur](https://veed.io/view/dae8007a-89b4-4a2a-b666-0e9b12706866){target="_blank"}
 
-* [Intelliseed (configurer et télécharger)](https://veed.io/view/8b9e398e-21c9-49dc-a133-e1d8eb8ba03d){target="_blank"}
+* [Intellised (Configuration et téléchargement)](https://veed.io/view/8b9e398e-21c9-49dc-a133-e1d8eb8ba03d){target="_blank"}
 
 ## Section Délivrabilité Du Dispositif De Suivi De La Boîte De Réception {#inbox-tracker-deliverability-section}
 
@@ -46,13 +48,13 @@ Bird a créé plusieurs vidéos de formation pour vous aider à tirer le meilleu
 
 * [Présentation du dispositif de suivi de Campaign](https://veed.io/view/8c92bdc5-4131-498c-a450-a518f2e91b17){target="_blank"}
 
-* [Suivi De Campagne (Révision De Campagne)](https://veed.io/view/9c8e18a4-5d9e-495c-ad92-83309f40314a){target="_blank"}
+* [Suivi De Campagne (Révision De La Campagne)](https://veed.io/view/9c8e18a4-5d9e-495c-ad92-83309f40314a){target="_blank"}
 
 * [Analytics Tracker](https://veed.io/view/b458f788-07e1-4553-b743-2d469a356ba2){target="_blank"}
 
 * [Moniteur de profil](https://veed.io/view/6ca38d3f-df46-4707-a6cb-dde0fbad470b){target="_blank"}
 
-* [Moniteur de piège à spam](https://veed.io/view/ce488da2-1688-4584-9c26-27baa9c8ed19){target="_blank"}
+* [Surveillance des pièges à spam](https://veed.io/view/ce488da2-1688-4584-9c26-27baa9c8ed19){target="_blank"}
 
 ## Protection de la marque du dispositif de suivi de la boîte de réception {#inbox-tracker-brand-protection}
 
@@ -64,7 +66,7 @@ Bird a créé plusieurs vidéos de formation pour vous aider à tirer le meilleu
 
 ## Outils De Postmaster Du Dispositif De Suivi De La Boîte De Réception {#inbox-tracker-postmaster-tools}
 
-* [Outils Google Postmaster](https://veed.io/view/7c89c0d8-ead2-46ad-9709-7509d043442a){target="_blank"}
+* [Outils de postmaster Google](https://veed.io/view/7c89c0d8-ead2-46ad-9709-7509d043442a){target="_blank"}
 
 ## Suivi de conception {#design-tracker}
 

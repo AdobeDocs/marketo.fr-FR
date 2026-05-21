@@ -4,9 +4,11 @@ description: Découvrez comment ajouter des champs Marketo à l’édition profe
 title: Étape 1 sur 3 - Ajout de champs Marketo à Salesforce (Professional)
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 feature: Salesforce Integration
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/RUXVwNEVQ7kaqc5QZvAOErO5B--hgyGLhx3TzlJfI70
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '767'
+source-wordcount: 767
 ht-degree: 9%
 
 ---

@@ -4,16 +4,19 @@ description: Comprendre la vérification du désabonnement de Marketo dans Sales
 title: Vérification du désabonnement par Marketo
 exl-id: b8bd5b38-a4f5-4ac7-a5ce-a155fce57998
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/ZowbVUMoJ8xNXBl47SJDZWpYvjfkAP90xPT1d6dQdPA
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: 201
 ht-degree: 5%
 
 ---
 
 # Vérification du désabonnement par Marketo {#marketo-unsubscribe-check}
 
-La vérification de désabonnement de [!UICONTROL Marketo] utilise la connexion de votre équipe à Marketo pour empêcher les e-mails d&#39;atteindre les personnes désabonnées dans le système de gestion des leads de Marketo. Lorsqu’un commercial envoie un e-mail avec [!DNL Sales Connect], un appel API est effectué vers Marketo pour vérifier si l’ID d’e-mail est désabonné. Si c’est le cas, nous bloquerons l’envoi de l’e-mail.
+La vérification de désabonnement de  utilise la connexion de votre équipe à Marketo pour empêcher les e-mails d&#39;atteindre les personnes désabonnées dans le système de gestion des leads de Marketo. Lorsqu’un commercial envoie un e-mail avec [!DNL Sales Connect], un appel API est effectué vers Marketo pour vérifier si l’ID d’e-mail est désabonné. Si c’est le cas, nous bloquerons l’envoi de l’e-mail.
 
 >[!NOTE]
 >
@@ -33,7 +36,7 @@ La vérification de désabonnement de [!UICONTROL Marketo] utilise la connexion 
 
    ![](assets/three-3.png)
 
-1. Dans la section [!UICONTROL Vérification du désabonnement de Marketo], cliquez sur le curseur pour activer la vérification.
+1. Dans la section [!UICONTROL Vérification du désabonnement de ], cliquez sur le curseur pour activer la vérification.
 
    ![](assets/four-2.png)
 

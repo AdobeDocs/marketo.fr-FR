@@ -4,10 +4,12 @@ description: Découvrez comment identifier et impliquer des comptes et des perso
 title: Filtres de compte
 exl-id: a359f53b-c0a0-4b46-bad0-2840ba668892
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+TQID: https://experienceleague.adobe.com/KOr4iyPEQZ5o35-iVAPWaYIbcqipcQX-NfiuoTB8zMI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 1%
+source-wordcount: 205
+ht-degree: 0%
 
 ---
 

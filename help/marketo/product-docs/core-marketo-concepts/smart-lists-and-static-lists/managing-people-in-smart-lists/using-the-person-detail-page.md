@@ -4,10 +4,14 @@ description: Découvrez comment utiliser la page des détails de la personne. Af
 title: Utilisation de la page Détails d’une personne
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/ANLA7fu7O3m6mBjiY1b2z3UQH-PqWf6cAn5nQ5S3Yrk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '537'
-ht-degree: 34%
+source-wordcount: 552
+ht-degree: 33%
 
 ---
 
@@ -23,7 +27,7 @@ Il existe de nombreuses façons d’ouvrir des personnes spécifiques. Voici que
 * Toute **liste dynamique** ou liste
 * **Membres** onglet d’un programme
 * **Afficher les membres de la campagne** dans une campagne dynamique
-* Quelques **rapports**
+* Certains **rapports**
   <br> 
 
 1. Double-cliquez sur une personne ou cliquez une seule fois sur l’ID sur la gauche.
@@ -60,7 +64,7 @@ Les informations sur les personnes sont classées dans les onglets suivants :
 
 >[!NOTE]
 >
->Vous pouvez également consulter les informations sur les opportunités [insérées via l’API](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/lead-database/opportunities) pour les instances qui ne sont pas synchronisées avec un CRM.
+>Vous pouvez également consulter les informations sur les opportunités [insérées via l’API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) pour les instances qui ne sont pas synchronisées avec un CRM.
 
 ## Modification d’un champ {#editing-a-field}
 

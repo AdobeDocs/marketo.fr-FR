@@ -2,9 +2,12 @@
 description: Découvrez l’onglet Paramètres pour les règles de qualification de campagne intelligente, les exécutions et la périodicité. Définissez la fréquence à laquelle les utilisateurs parcourent votre flux de campagne.
 title: Onglet Paramètres
 exl-id: 622ad162-a2b1-4a37-93d8-c1dd8c6e10c8
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/Qk7st47AobYHVid3SsHeNHSRVfWKiPqm11moqgomYjk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: 324
 ht-degree: 3%
 
 ---

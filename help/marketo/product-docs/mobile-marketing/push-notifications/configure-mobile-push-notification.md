@@ -3,9 +3,12 @@ description: Découvrez comment configurer une notification push mobile. Défini
 title: Configurer la notification push pour mobile
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/-8Uq6iWU2ithRZ9pUDoFgCjICxCIggt2jtrQapokriw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: 521
 ht-degree: 4%
 
 ---
@@ -82,7 +85,7 @@ Un URI de lien profond est constitué de trois parties : nom du schéma, chemin 
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-Cela dit, la structure de lien profond de votre application peut être différente de l’exemple ci-dessus. Votre développeur dispose de nombreuses options pour définir des URI de liens profonds. Par conséquent, demandez à votre développeur de vous envoyer les URI (liens) pour les pages que vous souhaitez utiliser. Cela permet de s’assurer que les URI que vous saisissez dans les messages push pointent aux bons endroits. Votre développeur peut [trouver plus d’informations ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+Cela dit, la structure de lien profond de votre application peut être différente de l’exemple ci-dessus. Votre développeur dispose de nombreuses options pour définir des URI de liens profonds. Par conséquent, demandez à votre développeur de vous envoyer les URI (liens) pour les pages que vous souhaitez utiliser. Cela permet de s’assurer que les URI que vous saisissez dans les messages push pointent aux bons endroits. Votre développeur peut [trouver plus d’informations ici](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 ## URI de redirection {#redirect-uris}
 

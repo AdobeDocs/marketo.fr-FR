@@ -4,9 +4,11 @@ description: Découvrez comment ajouter des CNAME de page de destination supplé
 title: Ajouter des CNAME de page de destination supplémentaires
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/IhpbLwq0syIQpnKsRApy6YtEKhe56dbDciW8lSYJ9tI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: 232
 ht-degree: 6%
 
 ---
@@ -23,7 +25,7 @@ Vous pouvez ajouter des CNAME de page de destination pour permettre à différen
 >
 >**Même domaine de niveau supérieur - Bien ! Les cookies sont partagés**.<br/> **aller**.mycompany.com > **info**.mycompany.com
 >
->**Différents domaines de niveau supérieur - Mauvais ! Les cookies ne sont _pas_ partagés**.<br/>.**mycompany**.com > aller.**mynewcompany**.com
+>**Différents domaines de niveau supérieur - Mauvais ! Les cookies ne sont _pas_ partagés**.<br/> go.**mycompany**.com > go.**mynewcompany**.com
 
 >[!NOTE]
 >
@@ -61,7 +63,7 @@ Vous pouvez ajouter des CNAME de page de destination pour permettre à différen
 
    ![](assets/add-additional-landing-page-cnames-6.png)
 
-1. Saisissez votre **[!UICONTROL alias de domaine].** La **[!UICONTROL Page par défaut]** s’affiche si le visiteur ne saisit pas d’URL. Dans ce cas, indiquez où ils doivent aller.
+1. Saisissez votre **[!UICONTROL alias de domaine]**. La **[!UICONTROL Page par défaut]** s’affiche si le visiteur ne saisit pas d’URL. Dans ce cas, indiquez où ils doivent aller.
 
    >[!NOTE]
    >
@@ -73,4 +75,4 @@ Vous pouvez ajouter des CNAME de page de destination pour permettre à différen
 
    ![](assets/add-additional-landing-page-cnames-8.png)
 
-Joli ! Vous savez maintenant quoi faire si vous souhaitez ajouter un CNAME.
+Vous savez maintenant comment ajouter un CNAME à vos pages de destination.

@@ -4,10 +4,14 @@ description: En savoir plus sur la page Sales Insight pour les administrateurs M
 title: Page Informations sur les ventes pour les administrateurs et administratrices Marketo
 exl-id: d98bc9d8-1a72-405f-b1d7-b71ad88c8493
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/FTOgWRDvY14tovIUclyWrED5DBXcHXH8APcprG-DlK4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '409'
-ht-degree: 2%
+source-wordcount: 416
+ht-degree: 3%
 
 ---
 
@@ -50,7 +54,7 @@ Par défaut, [!DNL Marketo Sales Insight] utilise le champ Score du lead pour ca
 
    ![](assets/seven.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**. Le recalcul de Sales insight prendra un certain temps. Vous pouvez vérifier votre CRM plus tard pour voir les étoiles et les flammes.
+1. Cliquez sur **[!UICONTROL Enregistrer]** Le recalcul de Sales insight prendra un certain temps. Vous pouvez vérifier votre CRM plus tard pour voir les étoiles et les flammes.
 
    ![](assets/eight.png)
 
@@ -60,7 +64,7 @@ Par défaut, [!DNL Marketo Sales Insight] utilise le champ Score du lead pour ca
 
    >[!MORELIKETHIS]
    >
-   >[Étoiles et flammes &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
+   >[Étoiles et flammes ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
 
 ## Paramètres {#settings}
 
@@ -85,7 +89,7 @@ Lorsque cette option est activée, les utilisateurs MSI peuvent afficher leur fl
 
 **Expiration du jeton :**
 
-L’expiration des jetons est contrôlée dans le Gestionnaire de fonctionnalités. Pour l’activer/désactiver, contactez l’assistance technique de [Marketo](https://nation.marketo.com/t5/Support/ct-p/Support). Lorsqu’ils sont activés, tous les jetons Marketo expirent dans les 10 minutes. Lorsqu’ils sont désactivés, les jetons Marketo n’expirent pas.
+L’expiration des jetons est contrôlée dans le Gestionnaire de fonctionnalités. Pour l’activer/désactiver, contactez l’assistance technique de [](https://nation.marketo.com/t5/Support/ct-p/Support). Lorsqu’ils sont activés, tous les jetons Marketo expirent dans les 10 minutes. Lorsqu’ils sont désactivés, les jetons Marketo n’expirent pas.
 
 Les jetons générés avant l’activation de l’expiration des jetons ne disposeront pas d’un délai d’expiration en fonction duquel effectuer une validation, ils n’expireront donc pas même si la fonctionnalité est actuellement activée.
 

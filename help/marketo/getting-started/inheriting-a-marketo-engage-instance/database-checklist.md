@@ -3,9 +3,14 @@ description: Liste de contrôle de la base de données d’instance héritée - 
 title: Liste de contrôle de la base de données de l'instance héritée
 feature: Getting Started
 exl-id: 278a6a2f-7b68-4003-8727-129e0dc96c12
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/ssiWj0vQTwU1qBD5fyZ8VHz7RmFjaVxu1dj7J8G-P5U
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: 423
 ht-degree: 8%
 
 ---
@@ -27,7 +32,7 @@ Comprenez le nombre total de personnes, de personnes commercialisables et de sou
    <td><li>Combien de personnes existent dans la <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md" target="_blank">base de données</a> ?</li>
 <li>Si votre base de données est presque pleine, votre politique d’entreprise recommande-t-elle d’étendre la taille de votre base de données ou de nettoyer les données historiques ?</li>
 <li>Votre base de données globale est-elle commercialisable à au moins 85 % ?
-<br/>     Placer sur la liste bloquée Si la vôtre est inférieure à ce seuil, examinez les autres listes intelligentes système (, Marketing Suspendu, Dupliqués, Désabonnement) avec une plus grande attention.</li></td>
+<br/> Si la vôtre n’atteint pas ce seuil, examinez de plus près les autres listes dynamiques du système (, Marketing suspendu, Doublons, Désabonnement).</li></td>
   </tr>
   <tr>
    <td>Personnes désinscrites</td>
@@ -43,22 +48,22 @@ Comprenez le nombre total de personnes, de personnes commercialisables et de sou
   </tr>
    <tr>
    <td>Liste de blocage</td>
-   <td><li>Placer sur la liste bloquée Quels sont vos critères pour les enregistrements <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" target="_blank"></a> ? Placer sur la liste bloquée Y a-t-il trop de gens qui sont traités?</li></td>
+   <td><li>Quels sont vos critères pour les enregistrements <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" target="_blank"></a> ? Y a-t-il trop de gens qui sont traités?</li></td>
   </tr>
   <tr>
    <td>Adresses e-mail renvoyées</td>
    <td><li>Y a-t-il beaucoup de <a href="/help/marketo/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md" target="_blank">personnes ayant rebondi</a> dans votre base de données ?
-   <br/>     Si oui, envisagez d’en rechercher la raison.</li></td></li></td>
+   <br/> Si oui, envisagez d’en rechercher la raison.</li></td></li></td>
   </tr>
   <tr>
    <td>Doublons possibles</td>
    <td><li>Combien y a-t-il d’enregistrements <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">potentiellement en double</a> ?
-   <br/>     Envisagez de les supprimer ou de les fusionner.</li></td>
+   <br/> Envisager de les supprimer ou de les fusionner.</li></td>
   </tr>
    <tr>
-   <td>Pas de programme d'acquisition</td>
+   <td>Pas de programme d’acquisition</td>
    <td><li>Combien de personnes n'ont pas de <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">programme d'acquisition</a>?
-   <br/>     S’il y en a beaucoup, envisagez d’en examiner la raison.</li></td>
+   <br/> S’il y en a beaucoup, envisagez d’en rechercher la raison.</li></td>
   </tr>
  </tbody>
 </table>
@@ -76,7 +81,7 @@ Comprenez le nombre total de personnes, de personnes commercialisables et de sou
    <td><li>Combien y a-t-il de <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">listes intelligentes</a> ? Comment sont-ils utilisés dans ce cas ?</li>
    <p><img src="assets/note-icon.png" alt="icône de note"> REMARQUE : dans la section Base de données, les listes dynamiques de groupe sont générées par l'utilisateur et les listes dynamiques système sont des listes créées par défaut par Marketo Engage.
 <li>Les listes sont-elles organisées dans une structure de dossiers cohérente ?
-<br/>     Si vous disposez de listes orphelines, pensez à organiser votre arborescence afin que les ressources soient faciles à trouver.</li>
+<br/> Si vous disposez de listes orphelines, pensez à organiser votre arborescence afin que les ressources soient faciles à trouver.</li>
 <p><img src="assets/tip-icon.png" alt="icône d’astuce">CONSEIL : l’<a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">archivage</a> les listes dynamiques devenues inutiles facilitent l’organisation et améliorent les performances.</td>
   </tr>
  </tbody>
@@ -111,7 +116,7 @@ Comprenez le nombre total de personnes, de personnes commercialisables et de sou
    <td><li>Quelles <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" target="_blank">segmentations</a> y a-t-il ? Comment sont-ils utilisés ?</li>
 <li>Y a-t-il trop de personnes dans les <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">segments par défaut</a> ?</li>
 <li>Existe-t-il une segmentation pour l’audience commercialisable ?
-<br/>     Sinon, envisagez d’en créer un.</li></td>
+<br/> Dans le cas contraire, envisagez d’en créer un.</li></td>
   </tr>
  </tbody>
 </table>

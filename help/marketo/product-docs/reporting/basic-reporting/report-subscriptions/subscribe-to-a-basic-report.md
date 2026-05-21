@@ -4,9 +4,13 @@ description: Découvrez comment abonner des adresses e-mail à des rapports de b
 title: S’abonner à un rapport de base
 exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
 feature: Reporting
-source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
+TQID: https://experienceleague.adobe.com/nzHWkfIO974yciBe8al3vexlfeGCq6nUpPWg6au7hxE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: 125
 ht-degree: 12%
 
 ---

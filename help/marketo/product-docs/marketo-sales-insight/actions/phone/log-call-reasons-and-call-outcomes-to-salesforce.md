@@ -3,9 +3,13 @@ description: Découvrez comment consigner les raisons des appels et les résulta
 title: Consigner les raisons des appels et les résultats des appels dans Salesforce
 exl-id: cfe71388-282b-45e5-a817-45a951f613bc
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/JStWQ2NIpa5ct7f5cvFzrHjNHsBnoDJK1vgCxNcAUQ0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '469'
+source-wordcount: 471
 ht-degree: 6%
 
 ---

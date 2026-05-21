@@ -4,9 +4,13 @@ description: Découvrez comment créer un événement avec une réunion web de n
 title: Créez un événement avec  [!DNL Level 3 Web Meeting]
 exl-id: 17ade784-a2f4-4e92-a875-3bf2f80c13ab
 feature: Events
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/FDopt-Q5j-hEC4HocyJRgn96DGgTPtDPUC4L-Q3acUk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: 179
 ht-degree: 1%
 
 ---
@@ -19,7 +23,7 @@ ht-degree: 1%
 >* [Créer un programme d’événement](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Définir les [actions de flux](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) appropriées pour suivre l’engagement
 
-Créez d’abord votre webinaire dans [!DNL Level 3]. Si vous avez besoin d’aide, consultez la [[!DNL Level 3]  Bibliothèque de ressources &#x200B;](https://www.level3.com/en/resource-library/). C&#39;est très similaire à [!DNL BrightTalk].  Marketo utilise un petit sous-ensemble de champs [!DNL Level 3] :
+Créez d’abord votre webinaire dans [!DNL Level 3]. Si vous avez besoin d’aide, consultez la [[!DNL Level 3]  Bibliothèque de ressources ](https://www.level3.com/en/resource-library/). C&#39;est très similaire à [!DNL BrightTalk].  Marketo utilise un petit sous-ensemble de champs [!DNL Level 3] :
 
 * **Nom** - Nom de la diffusion web.
 * **Date de début** - Date de début de la diffusion web.

@@ -4,9 +4,14 @@ description: Découvrez les segments web dans Marketo Engage, y compris le fait 
 title: Segments web
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/rMjE1DOlcGdvg8QQkXcth5kJtO074hoZqAsoD-lmBFQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '2061'
+source-wordcount: 2104
 ht-degree: 5%
 
 ---
@@ -17,7 +22,7 @@ ht-degree: 5%
 
 ![](assets/image2014-11-11-20-3a24-3a5.png)
 
-L’onglet Segments affiche tous les segments personnalisés définis que vous configurez en fonction de divers attributs.  **Un segment est un ensemble de visiteurs qui répondent aux critères spécifiés définis dans la page « Définir un segment ».** Un segment peut être constitué de visiteurs provenant d’un secteur ou d’un emplacement spécifique, ou en fonction de l’activité sur site du visiteur.
+L’onglet Segments affiche tous les segments personnalisés définis que vous configurez en fonction de divers attributs.  **Un segment est un ensemble de visiteurs qui répondent aux critères spécifiés définis dans la page « Définir un segment ».**  Un segment peut être constitué de visiteurs provenant d’un secteur ou d’un emplacement spécifique, ou en fonction de l’activité sur site du visiteur.
 
 Dans [!DNL Web Personalizatio] , un visiteur peut correspondre à plusieurs segments. Par exemple, s’il existe un segment pour les visiteurs des États-Unis et un segment pour les sociétés de financement, un visiteur web de Bank of America correspondrait **à la fois** au segment pour les visiteurs des États-Unis et au segment pour les sociétés de financement.
 
@@ -76,7 +81,7 @@ Ces informations incluent :
 
 ![](assets/image2014-11-12-10-3a48-3a9.png)
 
-Pour activer ou désactiver un segment, cochez la case correspondant à ce segment dans le tableau, puis dans la liste déroulante « [!UICONTROL &#x200B; Choisir une action &#x200B;] » au bas du tableau, sélectionnez l’action « [!UICONTROL &#x200B; Activer &#x200B;] » ou « [!UICONTROL &#x200B; Désactiver &#x200B;]. Lorsqu’un segment est désactivé, le mot « désactiver » s’affiche sous la colonne [!UICONTROL État].
+Pour activer ou désactiver un segment, cochez la case correspondant à ce segment dans le tableau, puis dans la liste déroulante « [!UICONTROL  Choisir une action ] » au bas du tableau, sélectionnez l’action « [!UICONTROL  Activer ] » ou « [!UICONTROL  Désactiver ]. Lorsqu’un segment est désactivé, le mot « désactiver » s’affiche sous la colonne [!UICONTROL État].
 
 ## Création de segments {#create-segments}
 
@@ -149,7 +154,7 @@ Une fois le pays ajouté, vous pouvez également spécifier l’État, la ville 
 
 >[!TIP]
 >
->**Quelles conditions de segment dois-je choisir ? &#39;AND&#39; ou &#39;OR&#39; ?** OU fonctionne comme une option supplémentaire dans chaque champ. Les prospects n’ont besoin de remplir qu’un seul des critères des différents critères sélectionnés dans chaque champ pour être qualifiés pour le segment. (Par exemple, les prospects peuvent provenir des États-Unis *ou* de l&#39;industrie de la défense). ET fonctionne comme un paramètre obligatoire supplémentaire qui doit être satisfait pour ce segment. (Par exemple, les prospects doivent provenir à la fois des États-Unis et de l&#39;industrie de la défense). Dans chaque profil de segmentation, chaque champ distinct peut fonctionner comme « AND » ou « OR » selon la condition de segment sélectionnée.
+>**Quelles conditions de segment dois-je choisir ? &#39;AND&#39; ou &#39;OR&#39;?** OU fonctionne comme une option supplémentaire dans chaque champ. Les prospects n’ont besoin de remplir qu’un seul des critères des différents critères sélectionnés dans chaque champ pour être qualifiés pour le segment. (Par exemple, les prospects peuvent provenir des États-Unis ou des États-Unis. *ou* de l&#39;industrie de la défense). ET fonctionne comme un paramètre obligatoire supplémentaire qui doit être satisfait pour ce segment. (Par exemple, les prospects doivent provenir à la fois des États-Unis et de l&#39;industrie de la défense). Dans chaque profil de segmentation, chaque champ distinct peut fonctionner comme « AND » ou « OR » selon la condition de segment sélectionnée.
 
 **Industries** Dans la section **[!UICONTROL Segmentation de profil]**, cochez la case en regard de **[!UICONTROL Industrie]**.
 
@@ -177,7 +182,7 @@ Dans la section **[!UICONTROL Segmentation de profil]**, cochez la case en regar
 * **Provient de ces sociétés (noms spécifiques)**
 
    * Sélectionnez la société à cibler dans le menu déroulant « Sélectionner la société à ajouter ».
-   * Vous pouvez saisir le nom exact de l’organisation que vous souhaitez cibler. *Il est *toujours* recommandé d’utiliser les listes de comptes nommés au lieu de saisir les noms manuellement pour de meilleures correspondances (voir ci-dessous).
+   * Vous pouvez saisir le nom exact de l’organisation que vous souhaitez cibler. *Il est* toujours* recommandé d’utiliser les listes de comptes nommés au lieu de saisir les noms manuellement pour de meilleures correspondances (voir ci-dessous).
 
 **Liste des comptes nommés**
 
@@ -187,7 +192,7 @@ Effectuez une sélection dans une [Liste de comptes nommés](/help/marketo/produ
 
 >[!NOTE]
 >
->Le nombre entre crochets en regard du nom de la liste des comptes nommés est utilisé comme référence d’index pour la liste de Web Personalization [API de lecture](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/web-personalization).
+>Le nombre entre crochets en regard du nom de la liste des comptes nommés est utilisé comme référence d’index pour la liste de Web Personalization [API de lecture](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **Exclure le FAI**
 
@@ -282,11 +287,11 @@ Ciblez les visiteurs et visiteuses qui utilisent des types et/ou des versions de
 
 **Événements de données** - Segmentez les visiteurs qui déclenchent des événements de données personnalisés spécifiques
 
-Ajoutez la valeur d’événement à cibler. Par exemple, à partir de sources de données tierces.
+Ajoutez la valeur d’événement à cibler. E.g. à partir de sources de données tierces.
 
 **API de contexte utilisateur**
 
-Appel API Web Personalization [en savoir plus ici.](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Appel API Web Personalization [en savoir plus ici.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

@@ -4,9 +4,12 @@ title: Collaboration par e-mail
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 686a6950-6ca0-412f-8f47-24974c6428af
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/6reAug0ptdiT2k0wzEez9HmH3vEksrA8FCXXxfLQi9s
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: 316
 ht-degree: 2%
 
 ---
@@ -21,7 +24,7 @@ Les utilisateurs disposant d’autorisations de modification d’une ressource d
 
 ## Ajouter des commentaires {#add-comments}
 
-1. Lors de la création ou de la modification d’un e-mail dans le Designer d’e-mail, cliquez sur une structure, une colonne ou un contenu (texte, image, bouton, etc.) au-dessus d’une section modifiable.
+1. Lors de la création ou de la modification d’un e-mail dans le Designer e-mail, cliquez sur une structure, une colonne ou un contenu (texte, image, bouton, etc.) sur n’importe quelle section modifiable.
 
    ![](assets/email-collaboration-1.png)
 
@@ -39,7 +42,7 @@ Les utilisateurs disposant d’autorisations de modification d’une ressource d
 
 ## Afficher tous les commentaires {#view-all-comments}
 
-1. Cliquez sur l’icône _Collaboration_ sur le côté droit.
+1. Cliquez sur l’icône __ sur le côté droit.
 
    ![](assets/email-collaboration-4.png)
 

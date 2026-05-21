@@ -4,9 +4,12 @@ description: Découvrez comment définir l’objectif de l’algorithme de conte
 title: Paramètres d’objectif d’algorithme
 exl-id: b07a5b71-c6f3-47e8-bc31-10ba64483ad0
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+TQID: https://experienceleague.adobe.com/AWWzwAwRxqy6w-NDGCJX4X-KNAGFWGCQnawyRGpKjG8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: 126
 ht-degree: 32%
 
 ---

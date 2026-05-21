@@ -4,10 +4,12 @@ description: Découvrez comment envoyer des e-mails par e-mail de groupe dans Sa
 title: Envoi d’e-mails via la fonction E-mail de groupe
 exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/f32d4DuWA3TMzH1b-8DJzOGevSpIZ3QQQFDkZbS4QK4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 5%
+source-wordcount: 175
+ht-degree: 8%
 
 ---
 

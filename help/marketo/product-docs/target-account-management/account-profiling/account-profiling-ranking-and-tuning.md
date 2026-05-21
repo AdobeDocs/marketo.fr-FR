@@ -4,9 +4,13 @@ description: Découvrez comment le profilage de compte classe les entreprises en
 title: Classement et réglage d’Account Profiling
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/nuRK415J6iR46j8ft0lShUapom3GzqWiuNf-k2-Ca5w
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: 426
 ht-degree: 5%
 
 ---
@@ -158,7 +162,7 @@ Pointez sur les info-bulles pour obtenir une description de chaque colonne.
 
 ![](assets/tool-tip.png)
 
-Cliquez sur le menu déroulant [!UICONTROL &#x200B; Ajouter un indicateur ICP &#x200B;] pour insérer des indicateurs supplémentaires dans votre modèle.
+Cliquez sur le menu déroulant [!UICONTROL  Ajouter un indicateur ICP ] pour insérer des indicateurs supplémentaires dans votre modèle.
 
 ![](assets/add-icp.png)
 

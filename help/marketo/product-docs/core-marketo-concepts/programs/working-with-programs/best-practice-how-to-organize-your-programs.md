@@ -4,9 +4,13 @@ description: Obtenez de l’aide sur les bonnes pratiques pour organiser vos pro
 title: Bonne pratique - Comment organiser vos programmes
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/umVs0Y7YO6uYe0VsltT287eYBiViR8mFvxCC3WvIkaw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: ebde5b41-29c9-4f5e-9ef6-1197e85409e3id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '855'
+source-wordcount: 855
 ht-degree: 5%
 
 ---
@@ -121,4 +125,4 @@ Certaines personnes convertissent même la plupart du texte des e-mails et des l
 
 ## Résumé {#summary}
 
-Comme vous pouvez le voir, il y a beaucoup de pouvoir à Marketo. Les principes de base sont abordés ici, mais envisagez des services supplémentaires de [experts &#x200B;](https://business.adobe.com/fr/products/marketo/services-support.html){target="_blank"} pour affiner et configurer votre système en vue du succès.
+Comme vous pouvez le voir, il y a beaucoup de pouvoir à Marketo. Les principes de base sont abordés ici, mais envisagez des services supplémentaires de [experts ](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} pour affiner et configurer votre système en vue du succès.

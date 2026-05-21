@@ -4,9 +4,11 @@ title: Déconnecter Salesforce d’Actions des informations sur les ventes
 hide: true
 exl-id: 4b3838d1-92de-4baf-81af-4cd7fc316c06
 feature: Sales Insight Actions
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/zMPouZTq9-cmwJsDKuHgA5qo0TPVU88cp79VZfkj9aU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: 96
 ht-degree: 8%
 
 ---
@@ -25,7 +27,7 @@ Parfois, vous devrez peut-être déconnecter votre compte [!DNL Salesforce] de v
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-2.png)
 
-1. Dans l’onglet [!UICONTROL &#x200B; Connexions et personnalisations &#x200B;], cliquez sur **[!UICONTROL Déconnecter]**.
+1. Dans l’onglet [!UICONTROL  Connexions et personnalisations ], cliquez sur **[!UICONTROL Déconnecter]**.
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-3.png)
 
@@ -35,10 +37,10 @@ Parfois, vous devrez peut-être déconnecter votre compte [!DNL Salesforce] de v
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-4.png)
 
-1. Sous [!UICONTROL &#x200B; Mon compte &#x200B;], sélectionnez **[!UICONTROL Salesforce]**.
+1. Sous [!UICONTROL  Mon compte ], sélectionnez **[!UICONTROL Salesforce]**.
 
 PICC
 
-1. Dans l’onglet [!UICONTROL &#x200B; Connexions et personnalisations &#x200B;], cliquez sur **[!UICONTROL Déconnecter]**.
+1. Dans l’onglet [!UICONTROL  Connexions et personnalisations ], cliquez sur **[!UICONTROL Déconnecter]**.
 
 PICC

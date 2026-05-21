@@ -3,9 +3,12 @@ description: Découvrez comment tester un webinaire interactif avant sa mise en 
 title: Test d’un webinaire interactif
 feature: Interactive Webinars
 exl-id: 40dc1c86-6978-4b9f-abeb-96a5cab7dc5d
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/sZ2mZgzdcX3f7nD5BJ5MG9ZPPtqoC6IZ8ayyT9I7XQQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: 384
 ht-degree: 2%
 
 ---

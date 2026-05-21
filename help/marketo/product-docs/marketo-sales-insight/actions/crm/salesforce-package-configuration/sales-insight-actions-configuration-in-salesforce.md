@@ -2,9 +2,13 @@
 description: Découvrez comment configurer les actions Sales Insight dans Salesforce. Ajoutez des sites distants, activez les actions MSI et saisissez la clé secrète API.
 title: Configuration d’Actions des informations sur les ventes dans Salesforce
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/5S-pqmvARTyOj8ED-PrL5zLHGbsBAej8TYuYZw7rtSQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: 251
 ht-degree: 3%
 
 ---
@@ -53,7 +57,7 @@ ht-degree: 3%
 
    ![](assets/msi-actions-configuration-in-salesforce-6.png)
 
-1. Saisissez la [!UICONTROL &#x200B; Clé secrète API &#x200B;].
+1. Saisissez la [!UICONTROL  Clé secrète API ].
 
    ![](assets/msi-actions-configuration-in-salesforce-7.png)
 

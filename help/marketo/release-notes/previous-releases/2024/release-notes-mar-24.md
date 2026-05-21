@@ -3,10 +3,14 @@ description: Notes De Mise À Jour - Mars 2024 - Documents Marketo - Documentati
 title: Notes de mise à jour - Mars 2024
 feature: Release Information
 exl-id: d8bc7f88-a77b-4b49-aed5-aceab9e639f0
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+TQID: https://experienceleague.adobe.com/uyu2IwlX7zpRMqlc5N5VMZgq5ndkPKp7lvGsnpSLgrc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 30%
+source-wordcount: 387
+ht-degree: 27%
 
 ---
 

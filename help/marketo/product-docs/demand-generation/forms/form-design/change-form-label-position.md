@@ -4,9 +4,12 @@ description: Découvrez comment modifier la position du libellé du formulaire d
 title: Modifier la position du libellé du formulaire
 exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
 feature: Forms
-source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
+TQID: https://experienceleague.adobe.com/IxxxWXYM9gLd8QgtwAYtW0A1Fb0DuqeQ5PuQT1i36xc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: 108
 ht-degree: 14%
 
 ---

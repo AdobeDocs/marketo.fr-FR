@@ -4,9 +4,12 @@ description: Découvrez comment approuver plusieurs pages de destination à la f
 title: Approuver plusieurs pages de destination à la fois
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/UaNuf1ByD4EoI7naSn6XTXVzarlNyvFEL2r9R3DhvDQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: 95
 ht-degree: 12%
 
 ---
@@ -29,11 +32,11 @@ ht-degree: 12%
    >
    >Ne cliquez pas sur le nom réel de la page de destination. Il s’agit de liens qui vous mèneront à la page elle-même.
 
-1. Une fois vos pages de destination sélectionnées, cliquez sur le menu déroulant **Actions de page de destination** et sélectionnez **Approuver**.
+1. Une fois vos pages de destination sélectionnées, cliquez sur le menu déroulant **[!UICONTROL Actions de page de destination]** et sélectionnez **[!UICONTROL Approuver]**.
 
    ![](assets/approve-multiple-landing-pages-at-once-4.png)
 
-1. Cliquez sur **Approuver**.
+1. Cliquez sur **[!UICONTROL Approuver]**.
 
    ![](assets/approve-multiple-landing-pages-at-once-5.png)
 

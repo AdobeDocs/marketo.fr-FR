@@ -4,9 +4,11 @@ description: Découvrez le statut de synchronisation de Microsoft Dynamics et co
 title: Statut de synchronisation
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/GPyQNHoAdVHHBUSbkTTupH02XNnlD3UESZsxMpuJK3Q
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: 186
 ht-degree: 2%
 
 ---

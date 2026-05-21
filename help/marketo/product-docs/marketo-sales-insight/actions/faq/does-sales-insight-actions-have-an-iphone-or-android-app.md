@@ -3,9 +3,11 @@ description: Découvrez si Sales Insight Actions dispose d’une application mob
 title: Existe-t-il une application Actions des informations sur les ventes pour iPhone ou Android ?
 exl-id: 2789c76e-a26f-4efd-ae6b-e897197b9f55
 feature: Sales Insight Actions
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/hF8n215bm1Q-HUWLyVGDhBWucogI1SdQC4scLK97wls
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: 60
 ht-degree: 16%
 
 ---

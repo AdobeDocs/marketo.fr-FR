@@ -3,9 +3,13 @@ description: Découvrez comment concevoir des webinaires interactifs dans Market
 title: Concevoir des webinaires interactifs
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/-QrRSSkG0-w5Wfkgd-qESFfKtWdcC053-J-xzKT2Uec
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: 602
 ht-degree: 1%
 
 ---
@@ -76,9 +80,9 @@ Découvrez comment concevoir votre webinaire en fonction de vos besoins.
 
 **Pod** : composant à l’intérieur d’un modèle qui effectue une activité particulière pendant le webinaire. Par exemple, la configuration et la diffusion d’un sondage pour capturer les réponses des participants dans une activité qui peut être réalisée par un sondage. De même, discuter avec les participants pour transmettre un message ou interagir avec eux de manière informelle peut être une activité proposée par le biais du module de conversation. Plusieurs autres pods sont disponibles, tels que Partager, Notes, Vidéo, Conversation, Liste des participants, Fichiers, Liens web, Sondages et Questions/Réponses.
 
-      **Survey Pod** : permet aux hôtes de concevoir et de diffuser des formulaires de commentaires structurés directement dans une session en direct. La capsule de sondage étend les capacités existantes de la capsule de sondage en permettant de présenter plusieurs questions ensemble, offrant ainsi un moyen plus rationalisé et plus cohérent de recueillir les commentaires des participants. [En savoir plus](https://helpx.adobe.com/fr/adobe-connect/using/survey-pod.html){target="_blank"}
+      **Survey Pod** : permet aux hôtes de concevoir et de diffuser des formulaires de commentaires structurés directement dans une session en direct. La capsule de sondage étend les capacités existantes de la capsule de sondage en permettant de présenter plusieurs questions ensemble, offrant ainsi un moyen plus rationalisé et plus cohérent de recueillir les commentaires des participants. [En savoir plus](https://helpx.adobe.com/adobe-connect/using/survey-pod.html){target="_blank"}
 
-      **pod de ressources** : remplace les pods de fichiers et de liens web précédents, fournissant un moyen unique et unifié de partager des ressources pendant les sessions en direct. [En savoir plus](https://helpx.adobe.com/fr/adobe-connect/using/resources-pod.html){target="_blank"}
+      **pod de ressources** : remplace les pods de fichiers et de liens web précédents, fournissant un moyen unique et unifié de partager des ressources pendant les sessions en direct. [En savoir plus](https://helpx.adobe.com/adobe-connect/using/resources-pod.html){target="_blank"}
 
 >[!MORELIKETHIS]
 >

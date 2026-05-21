@@ -4,9 +4,13 @@ description: Découvrez comment créer un événement avec l'adaptateur Marketo 
 title: Créer un événement avec l’adaptateur Marketo ON24
 exl-id: a240ff72-b12f-4e3a-8e14-94fddb02f944
 feature: Events
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/LlMV9lfVxqvMh0E-6K3aStBiqOERGIKJOYSyJdaBvFw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: 303
 ht-degree: 22%
 
 ---
@@ -15,14 +19,14 @@ ht-degree: 22%
 
 Vous devez connaître les blocs de création et la séquence recommandée pour la création d’événements dans Marketo. Vous devez également avoir une connaissance pratique des concepts Marketo suivants :
 
-* [Programmes &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"} ainsi que les événements, et les différences entre eux
+* [Programmes ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"} ainsi que les événements, et les différences entre eux
 * [Canaux](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}
 * [Ressources locales](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md){target="_blank"}
 * [Campagnes enfants](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"} et [Statuts des programmes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"}
 
 >[!NOTE]
 >
->Consultez la [documentation de l’API &#x200B;](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} pour plus d’informations sur les API Marketo.
+>Consultez la [documentation de l’API ](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} pour plus d’informations sur les API Marketo.
 
 ## Conditions préalables {#prerequisites}
 

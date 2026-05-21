@@ -1,12 +1,14 @@
 ---
 unique-page-id: 7515131
-description: Découvrez comment fonctionne la suppression des prospects et des contacts entre Salesforce et Marketo. SFDC Découvrez les actions de flux Supprimer une personne et Supprimer à partir de SFDC .
+description: Découvrez comment fonctionne la suppression des prospects et des contacts entre Salesforce et Marketo. Découvrez les actions de flux Supprimer une personne et Supprimer à partir de SFDC .
 title: Synchronisation de SFDC - Suppression d’un lead/contact
 exl-id: b859357e-09c5-48e5-940e-f5b4e955e374
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+TQID: https://experienceleague.adobe.com/v0nRloqmlp-iedcmE4DdATxpYXnvB13cxkEn7809Hy4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: 149
 ht-degree: 4%
 
 ---

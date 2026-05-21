@@ -3,16 +3,19 @@ description: Découvrez la vérification du désabonnement de Marketo afin que l
 title: Vérification du désabonnement par Marketo
 exl-id: 3c242d04-cf6c-466b-9bcd-e77c6d97d308
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/RaIYKEVyjdeUlOa4paltYIS8NPZHi1XWTmO4IeLBy-o
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: 149
 ht-degree: 6%
 
 ---
 
-# [!UICONTROL Vérification du désabonnement de Marketo] {#marketo-unsubscribe-check}
+# [!UICONTROL Vérification du désabonnement de ] {#marketo-unsubscribe-check}
 
-La vérification de désabonnement de [!UICONTROL Marketo] utilise la connexion de votre équipe à Marketo pour empêcher les e-mails d&#39;atteindre les personnes désabonnées dans le système de gestion des leads de Marketo. Lorsqu’un commercial envoie un e-mail avec [!DNL Marketo Sales], un appel API est effectué vers Marketo pour vérifier si l’ID d’e-mail est désabonné. Si c’est le cas, nous bloquerons l’envoi de l’e-mail.
+La vérification de désabonnement de  utilise la connexion de votre équipe à Marketo pour empêcher les e-mails d&#39;atteindre les personnes désabonnées dans le système de gestion des leads de Marketo. Lorsqu’un commercial envoie un e-mail avec [!DNL Marketo Sales], un appel API est effectué vers Marketo pour vérifier si l’ID d’e-mail est désabonné. Si c’est le cas, nous bloquerons l’envoi de l’e-mail.
 
 >[!NOTE]
 >
@@ -28,7 +31,7 @@ La vérification de désabonnement de [!UICONTROL Marketo] utilise la connexion 
 
    ![](assets/marketo-unsubscribe-check-2.png)
 
-1. Cliquez sur l’onglet **[!UICONTROL Intégrations]**. Dans la section [!UICONTROL Vérification du désabonnement de Marketo], cliquez sur le curseur pour activer la vérification.
+1. Cliquez sur l’onglet **[!UICONTROL Intégrations]**. Dans la section [!UICONTROL Vérification du désabonnement de ], cliquez sur le curseur pour activer la vérification.
 
    ![](assets/marketo-unsubscribe-check-3.png)
 

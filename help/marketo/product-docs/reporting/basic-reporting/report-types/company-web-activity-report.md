@@ -4,9 +4,13 @@ description: Découvrez les rapports Activité web de l’entreprise qui indique
 title: Rapport d’activité web de la société
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+TQID: https://experienceleague.adobe.com/U075R1PGYsqHdHOwEv5IgD-Wb6I4ejtmY4CylsXeXds
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: 275
 ht-degree: 6%
 
 ---
@@ -19,7 +23,7 @@ Créez un [rapport d’activité de page web](/help/marketo/product-docs/reporti
 
 >[!PREREQUISITES]
 >
->Pour capturer l’activité de votre site web dans Marketo, vous devez d’abord configurer [&#x200B; [!DNL Munchkin] sur votre site](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>Pour capturer l’activité de votre site web dans Marketo, vous devez d’abord configurer [ [!DNL Munchkin] sur votre site](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
 1. [Créez un rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) puis sélectionnez le [!UICONTROL Activité Web de l’entreprise] Rapport [type de rapport](report-type-overview.md).
 

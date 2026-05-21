@@ -4,10 +4,13 @@ description: Découvrez les jetons pour personnaliser les pages de destination d
 title: Vue d’ensemble des jetons
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 feature: Landing Pages
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/nwWdqv-I5E0SfUIDAwMGnQHlx3kJ3crT4uwT0HEvaA8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '313'
-ht-degree: 88%
+source-wordcount: 314
+ht-degree: 79%
 
 ---
 
@@ -110,7 +113,7 @@ Dans cet exemple, l’e-mail dira « Bonjour (prénom) » ou « Bonjour terr
 * `{{Company.Site}}`
 * `{{Company.State}}`
 * `{{Company.Website}}`
-* Les champs d’entreprise personnalisés fonctionnent également si vous utilisez leur nom d’affichage, par exemple `{{Company.Custom Field Name}}`.
+* Les champs de société personnalisés fonctionnent également si vous utilisez leur nom d’affichage, par exemple `{{Company.Custom Field Name}}`
 
 ## Jetons de campagne {#campaign-tokens}
 
@@ -163,7 +166,7 @@ Dans cet exemple, l’e-mail dira « Bonjour (prénom) » ou « Bonjour terr
 
 ## Jeton de personne membre {#member-token}
 
-Les jetons de personne membre sont utilisés pour insérer des valeurs uniques provenant de partenaires de services intégrés. Les jetons de personne membre sont fréquemment utilisés pour les URL uniques des participantes et des participants au webinaire. Chaque personne dispose d’une URL unique pour accéder au webinaire, qui peut être insérée à l’aide d’un jeton `{{member.webinar url}}`. Le jeton `{{member.webinar url}}` résout automatiquement l’URL de confirmation unique de la personne générée par le fournisseur de service.
+Les jetons de personne membre sont utilisés pour insérer des valeurs uniques provenant de partenaires de services intégrés. Les jetons de personne membre sont fréquemment utilisés pour les URL uniques des participantes et des participants au webinaire. Chaque personne dispose d’une URL unique pour accéder au webinaire, qui peut être insérée à l’aide d’un jeton `{{member.webinar url}}`. Le jeton d’`{{member.webinar url}}` résout automatiquement l’URL de confirmation unique de la personne générée par le fournisseur d’accès d’accès.
 
 * `{{member.webinar url}}`
 

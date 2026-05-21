@@ -4,16 +4,19 @@ description: Découvrez comment ajouter une vue mobile pour votre page de destin
 title: Ajouter une vue mobile à votre page de destination à structure libre
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/LG5T0Wbo05-MpqhFgcBWsvj9mZsLwVc4iSsaJmvWfOQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: 147
 ht-degree: 19%
 
 ---
 
 # Ajouter une vue mobile à votre page de destination à structure libre {#add-a-mobile-view-for-your-free-form-landing-page}
 
-Il est facile de rendre vos pages de destination de forme libre attrayantes sur un smartphone.
+Vous pouvez optimiser vos pages de destination de forme libre pour les afficher correctement sur les smartphones.
 
 >[!NOTE]
 >
@@ -43,7 +46,7 @@ Il est facile de rendre vos pages de destination de forme libre attrayantes sur 
    >
    >Il se peut que le modèle à structure libre doive être mis à niveau. Si ce message s’affiche, découvrez rapidement comment [rendre compatible un modèle de page de destination de forme libre existant](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).
 
-1. Fantastique ! Vous avez maintenant activé la version mobile de votre page de destination. Cliquez sur **[!UICONTROL Fermer]**.
+1. Vous avez maintenant activé la version mobile de votre page de destination. Cliquez sur **[!UICONTROL Fermer]**.
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 

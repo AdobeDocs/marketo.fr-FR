@@ -4,9 +4,13 @@ description: Découvrez comment afficher des campagnes web à partir d’un libe
 title: Afficher des campagnes web à partir d’une étiquette spécifique
 exl-id: 2611c79f-eb12-4597-9394-8749903f494c
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/1DafoRMYVvnubXV1akPsqze9bQWvOPHRXiuWAI-lGXk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: 99
 ht-degree: 14%
 
 ---

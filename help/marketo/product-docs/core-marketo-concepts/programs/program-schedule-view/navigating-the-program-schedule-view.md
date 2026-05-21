@@ -4,9 +4,12 @@ description: Découvrez comment naviguer dans la vue Planning du programme. Se d
 title: Navigation dans la vue Planning du programme
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
-source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
+TQID: https://experienceleague.adobe.com/KnAyn3lq7uLGVgNvEqA-iDTtHwDyKa8Z6aWw78LuXmI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: 171
 ht-degree: 8%
 
 ---

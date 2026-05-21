@@ -4,9 +4,12 @@ description: Découvrez comment ajouter du texte enrichi à un formulaire Market
 title: Ajouter du texte enrichi à un formulaire
 exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
 feature: Forms
-source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
+TQID: https://experienceleague.adobe.com/V-HB-9V8PbdL1xgnhdSceyT7v6DVCo0iZnFAWLRsLmQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: 105
 ht-degree: 19%
 
 ---

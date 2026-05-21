@@ -4,9 +4,12 @@ description: Découvrez comment ajouter une liste de sélection de pays à votre
 title: Ajouter une liste de sélection de pays à votre formulaire
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
-source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
+TQID: https://experienceleague.adobe.com/Y81zF-8yQXWydT7bb6x0OTKYPk4lw6It7ZkUxqVNssg
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: 156
 ht-degree: 14%
 
 ---

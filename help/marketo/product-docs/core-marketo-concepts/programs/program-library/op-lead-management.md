@@ -3,9 +3,13 @@ description: Modèle de programme opérationnel de gestion des leads. Utilisez-l
 title: OP-Gestion des leads
 feature: Programs
 exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
-source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
+TQID: https://experienceleague.adobe.com/KJvZjFZ9OsjIXXZTfbnscxf8puUxu-IxFXnNaj9JJFs
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: c5f60233-d5ea-4453-a799-0ad258b4d399id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: 279
 ht-degree: 16%
 
 ---
@@ -18,7 +22,7 @@ Il s’agit d’un exemple de workflow des bonnes pratiques de gestion de prospe
 >
 >Dans Marketo Engage, les enregistrements de votre base de données sont appelés personnes/personne. Dans cet exemple, la gestion des prospects se rapporte aux enregistrements de votre CRM.
 
-Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/fr/customers/consulting-services/main.html).
+Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html).
 
 ## Résumé du canal {#channel-summary}
 

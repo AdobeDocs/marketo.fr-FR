@@ -4,9 +4,11 @@ description: Découvrez comment fonctionne le suivi des vues dans Sales Connect.
 title: Fonctionnement du suivi des vues
 exl-id: 5eae19f7-c360-486a-9da5-38a3059ad7af
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/ZhM38XC2nxZuvt7-HFX9JfXW2abdbGHBYOwrmg-pMmg
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: 122
 ht-degree: 6%
 
 ---

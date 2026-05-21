@@ -4,9 +4,13 @@ description: Découvrez comment cloner les rapports de Mes rapports pour les reg
 title: Cloner un rapport sur des rapports de groupe
 exl-id: e5587d17-9ff6-4a38-ae50-1fe8c2685a72
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/4PmhVYpR4aFrgi21CQfaEQ7oOgB2pcW-DbTH9nxssCI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: 130
 ht-degree: 9%
 
 ---

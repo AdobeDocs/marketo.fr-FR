@@ -4,9 +4,12 @@ description: Découvrez comment envoyer un e-mail suivi dans Sales Connect. Envo
 title: Envoi d’un e-mail suivi
 exl-id: 9a2a53a5-93b9-4254-8540-510c83a6c083
 feature: Marketo Sales Connect
-source-git-commit: e085e6b7554f8532a1c73f8c386325aa7f4e1ab6
+TQID: https://experienceleague.adobe.com/TBEuqnKhnaJuZaNivU36NNZJ6cV7-13Stp8SwSdNY78
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: 207
 ht-degree: 3%
 
 ---

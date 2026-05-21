@@ -4,9 +4,12 @@ description: Découvrez comment importer des membres d'une feuille de calcul dan
 title: Importer des personnes membres dans un programme à partir d’une feuille de calcul
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
-source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
+TQID: https://experienceleague.adobe.com/Nhpg0NekmvoYRBT2IcVLdxUsxcMbsaN5INNNtTCTWFc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: 162
 ht-degree: 9%
 
 ---

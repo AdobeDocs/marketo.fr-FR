@@ -3,9 +3,14 @@ description: Contenu sur le modèle de programme Page de destination Marketo. Ut
 title: CT-AAAA-MM-Contenu de la page de destination Marketo
 feature: Programs
 exl-id: 638c4d6a-a8c7-4f03-9dae-07fecfb1302b
-source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
+TQID: https://experienceleague.adobe.com/LhFSdbyJCQCwdlCB2WRX1Bxj1nrJZkoeRTo2lujy9L8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: ea6641cb-8461-4151-a8a9-9faaa44a928a
+topic_v2: id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '501'
+source-wordcount: 501
 ht-degree: 16%
 
 ---
@@ -14,7 +19,7 @@ ht-degree: 16%
 
 Cet exemple est conçu pour être un programme de contenu qui utilise une page de destination Marketo Engage avec un formulaire Marketo Engage utilisant un programme par défaut Marketo Engage. Le formulaire permet d’accéder au contenu/à l’offre. Le lien vers l’offre peut être affiché sur la page de remerciement, envoyé dans un e-mail de remerciement ou les deux.
 
-Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/fr/customers/consulting-services/main.html){target="_blank"}.
+Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Résumé du canal {#channel-summary}
 

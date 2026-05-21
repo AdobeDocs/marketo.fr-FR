@@ -3,9 +3,12 @@ description: Glossaire des icônes - Documents Marketo Engage - Documentation d
 title: Glossaire des icônes
 feature: Getting Started
 exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '242'
+TQID: https://experienceleague.adobe.com/JzvT5UwsTTmvs-QCBwiDr-C9hipDM-VMLGioDLQhJb0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+workflow-type: tm+mt
+source-wordcount: 245
 ht-degree: 100%
 
 ---
@@ -46,7 +49,7 @@ Vous trouverez ci-dessous les icônes de l’interface actuelle d’Adobe Marke
   <tr>
    <td><img src="assets/classic-email.png"></td>
    <td><img src="assets/email.png"></td>
-   <td>E-mail</td>
+   <td>Adresse e-mail</td>
   </tr>
   <tr>
    <td><img src="assets/classic-email-program.png"></td>
@@ -111,7 +114,7 @@ Vous trouverez ci-dessous les icônes de l’interface actuelle d’Adobe Marke
   <tr>
    <td><img src="assets/classic-form.png"></td>
    <td><img src="assets/form.png"></td>
-   <td>Form</td>
+   <td>Formulaire</td>
   </tr>
   <tr>
    <td><img src="assets/classic-images-and-files.png"></td>
@@ -151,7 +154,7 @@ Vous trouverez ci-dessous les icônes de l’interface actuelle d’Adobe Marke
   <tr>
    <td><img src="assets/classic-push-notification.png"></td>
    <td><img src="assets/push-notification.png"></td>
-   <td>Notification push</td>
+   <td>Notification Push</td>
   </tr>
   <tr>
    <td><img src="assets/classic-referral-offer.png"></td>
@@ -166,7 +169,7 @@ Vous trouverez ci-dessous les icônes de l’interface actuelle d’Adobe Marke
   <tr>
    <td><strong>s/o</strong></td>
    <td><img src="assets/search.png"></td>
-   <td>Recherche</td>
+   <td>Rechercher</td>
   </tr>
   <tr>
    <td><img src="assets/classic-segment.png"></td>
@@ -196,7 +199,7 @@ Vous trouverez ci-dessous les icônes de l’interface actuelle d’Adobe Marke
   <tr>
    <td><img src="assets/classic-social-button.png"></td>
    <td><img src="assets/social-button.png"></td>
-   <td>Bouton social</td>
+   <td>Réseaux sociaux</td>
   </tr>
   <tr>
    <td><img src="assets/classic-static-list.png"></td>
@@ -258,7 +261,7 @@ Vous trouverez ci-dessous les icônes de l’interface actuelle d’Adobe Marke
   <tr>
    <td><img src="assets/classic-smart-campaign-never-run.png"></td>
    <td><img src="assets/never-run.png"></td>
-   <td>Jamais d’exécution</td>
+   <td>Ne jamais exécuter</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td>
@@ -327,7 +330,7 @@ Vous trouverez ci-dessous les icônes de l’interface actuelle d’Adobe Marke
   <tr>
    <td><img src="assets/classic-email-program-aborted.png"></td>
    <td><img src="assets/aborted.png"></td>
-   <td>Interrompu</td>
+   <td>Abandonné</td>
   </tr>
   <tr>
    <td><img src="assets/classic-email-program-complete.png"></td>

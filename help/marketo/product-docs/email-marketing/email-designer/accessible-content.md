@@ -6,16 +6,22 @@ role: User
 level: Beginner, Intermediate
 keywords: e-mail, conception, accessibilité
 exl-id: 6768d304-54c5-4eea-b3a7-b3a4eb3b4955
-source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
+TQID: https://experienceleague.adobe.com/kqwxM0mBZnchTEISiowpQOy7AZlKmmryK0GGkENiFdI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1374'
-ht-degree: 45%
+source-wordcount: 1432
+ht-degree: 54%
 
 ---
 
 # Concevoir du contenu accessible {#accessible-content}
 
-La [loi européenne sur l&#39;accessibilité](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019L0882){target="_blank"} est une directive visant à renforcer le marché intérieur des produits et services accessibles en éliminant les obstacles dus aux différences entre les règles nationales des États membres.
+L’[Acte législatif européen sur l’accessibilité](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019L0882){target="_blank"} est une directive visant à renforcer le marché intérieur des produits et services accessibles en éliminant les obstacles dus aux divergences entre les règles nationales des États membres.
 
 Ce règlement stipule que toutes les communications numériques, y compris les e-mails, les newsletters, les fichiers PDF et le contenu téléchargeable, doivent être accessibles. Lors de la création de contenu pour vos destinataires, vous devez donc suivre des instructions spécifiques, telles que l’utilisation de polices et de formats lisibles accessibles, et fournir un texte secondaire pour les images.
 
@@ -35,9 +41,9 @@ Pour les polices et le texte, suivez ces instructions :
 
 **Sélection de la police**
 
-* Utilisez des polices sans-serif telles qu’Arial, Verdana, Tahoma, Helvetica ou Open Sans.
-* Évitez les polices en relief, cursives ou décoratives dans le contenu du corps.
-* Conservez un jeu de polices limité pour garantir la cohérence et la fonctionnalité de secours (par exemple : `font-family: Arial, Helvetica, sans-serif;`).
+* Utilisez des polices sans empattement telles qu’Arial, Verdana, Tahoma, Helvetica ou Open Sans.
+* Évitez les polices avec empattement, cursives ou décoratives dans le contenu du corps.
+* Utilisez un petit nombre de polices pour garantir la cohérence et disposer d’une solution de remplacement (par exemple : `font-family: Arial, Helvetica, sans-serif;`).
 
 **Taille de la police**
 
@@ -47,7 +53,7 @@ Pour les polices et le texte, suivez ces instructions :
 **Contraste des couleurs**
 
 * Utilisez un rapport de contraste d’au moins 4,5:1 entre le texte et l’arrière-plan.
-* Pour un texte volumineux (≥24 px ou 18 px en gras), assurez-vous d’avoir un contraste d’au moins 3:1.
+* Pour les grands textes (≥24 px ou 18 px en gras), assurez-vous d’utiliser un contraste d’au moins 3:1.
 * Évitez le texte gris clair ou pastel sur fond blanc.
 * Ne vous fiez pas uniquement à la couleur pour donner du sens. Utilisez des soulignements, des icônes, etc.
 
@@ -85,7 +91,7 @@ Utilisez le composant **[!UICONTROL Image]** pour fournir un texte secondaire po
 <!--![](assets/accessible-alt-text.png){width="90%"}-->
 
 * Décrivez l’objectif de l’image de manière concise et contextuelle.
-* Évitez les expressions redondantes telles que « Image de... » et utilisez un texte secondaire vide pour les images décoratives.
+* Évitez les expressions redondantes telles que « Image de ... ». et utilisez du texte de remplacement vide pour les images décoratives.
 * Pour les icônes significatives, fournissez des libellés significatifs. Pour les images complexes, utilisez un bref texte secondaire ainsi qu’une description plus détaillée ailleurs.
 
 ## Utiliser un format lisible {#readable-format}
@@ -107,7 +113,7 @@ Pour être lisible, votre contenu doit être clair, bien structuré et utilisabl
 * Limitez les phrases à une vingtaine de mots ou moins.
 * Modifiez votre copie pour qu’elle soit directe et concise.
 * Utilisez la voix active pour simplifier la structure de la phrase.
-* Évitez l&#39;argot, le jargon ou les mots régionaux que certaines personnes ne connaissent pas.
+* Évitez l’argot, le jargon ou les expressions régionales que certaines personnes ne connaissent pas.
 
 Pour évaluer la lisibilité de vos e-mails, vous pouvez utiliser le test de lisibilité [Flesch Reading Ease](https://support.microsoft.com/fr-fr/office/get-your-document-s-readability-and-level-statistics-85b4969e-e80a-4777-8dd3-f7fc3c8b3fd2){target="_blank"}, disponible dans Microsoft Word et qui calcule la facilité de lecture de votre contenu sur une échelle de 0 à 100.
 
@@ -127,7 +133,7 @@ Pour vérifier de manière plus fiable si votre contenu est accessible, recherch
 
 * Le [vérificateur de contraste WebAim](https://webaim.org/resources/contrastchecker/){target="_blank"} et l’[outil d’évaluation de l’accessibilité web WAVE](https://wave.webaim.org/){target="_blank"} pour évaluer le contraste et la conformité ;
 
-* Les technologies d’assistance comme les lecteurs d’écran (par exemple : [NVDA](https://www.nvaccess.org/download/){target="_blank"} ou [VoiceOver](https://support.apple.com/fr-fr/guide/iphone/iph3e2e415f/ios){target="_blank"} sur iPhone) pour consulter les e-mails du point de vue des utilisateurs souffrant de déficience visuelle.
+* Les technologies d’assistance comme les lecteurs d’écran (par exemple : [NVDA](https://www.nvaccess.org/download/){target="_blank"} ou [VoiceOver](https://support.apple.com/fr-fr/guide/iphone/iph3e2e415f/ios){target="_blank"} sur iPhone) pour consulter les e-mails du point de vue des personnes souffrant de déficience visuelle.
 
 ## Utiliser le mode sombre {#dark-mode}
 
@@ -210,8 +216,8 @@ Ajoutez `role="presentation"` (ou `role="none"`) aux tableaux de mise en page po
 </table>
 ```
 
-Les lecteurs d’écran lisent :
-« Bonjour tout le monde. Bienvenue dans notre newsletter. » _(Aucune mention de lignes, colonnes ni tableau)_
+Les lecteurs d’écran lisent :
+« Bonjour le monde. Bienvenue dans notre newsletter. » _(Aucune mention de lignes, colonnes ni tableau)_
 
 +++
 
@@ -234,8 +240,8 @@ Les lecteurs d’écran lisent :
 </table>
 ```
 
-Les lecteurs d’écran lisent :
-« Tableau avec 2 colonnes et 3 lignes. »
+Les lecteurs d’écran lisent :
+« Tableau avec 2 colonnes et 3 lignes. »
 
 « Nom, Peter. Score, 19. »
 
@@ -263,8 +269,8 @@ Utilisez le Designer d’e-mail pour ajouter un lien à votre contenu et modifie
 </p>
 ```
 
-Les lecteurs d’écran lisent :
-« Lien, notes de mise à jour d’août. »
+Les lecteurs d’écran lisent :
+« Lien, notes de mise à jour d’août. »
 
 +++
 
@@ -276,8 +282,8 @@ Les lecteurs d’écran lisent :
 </p>
 ```
 
-Les lecteurs d’écran lisent :
-« Lien, cliquez ici. » *(Ne fournit aucun contexte en dehors de l’ordre de lecture.)*
+Les lecteurs d’écran lisent :
+« Lien, cliquez ici. » *(Ne fournit aucun contexte en dehors de l’ordre de lecture.)*
 
 +++
 

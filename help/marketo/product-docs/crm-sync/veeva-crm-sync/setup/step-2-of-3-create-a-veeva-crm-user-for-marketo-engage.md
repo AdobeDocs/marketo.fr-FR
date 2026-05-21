@@ -3,9 +3,12 @@ description: Découvrez comment créer un utilisateur Veeva CRM pour la synchron
 title: Étape 2 sur 3 - Créer un utilisateur Veeva CRM pour Marketo Engage
 exl-id: 78945192-36b0-4e0b-830a-f37eb0b83484
 feature: Veeva CRM
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/xBrDKmj-kFlbwaisJkDElcAI8GFlNp7EjWyISrvVJ3g
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: 636
 ht-degree: 6%
 
 ---
@@ -110,11 +113,11 @@ La procédure suivante permet à l’utilisateur de la synchronisation Marketo d
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-13.png)
 
-1. Dans la section [!UICONTROL &#x200B; Autorisations d’objet standard &#x200B;], assurez-vous que les autorisations [!UICONTROL Lecture], [!UICONTROL Créer], [!UICONTROL Modifier] et [!UICONTROL Supprimer] sont cochées pour [!UICONTROL Comptes] et [!UICONTROL Contacts].
+1. Dans la section [!UICONTROL  Autorisations d’objet standard ], assurez-vous que les autorisations [!UICONTROL Lecture], [!UICONTROL Créer], [!UICONTROL Modifier] et [!UICONTROL Supprimer] sont cochées pour [!UICONTROL Comptes] et [!UICONTROL Contacts].
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-14.png)
 
-1. Sous la section [!UICONTROL &#x200B; Autorisations d’objet personnalisé &#x200B;], assurez-vous que les autorisations [!UICONTROL Lecture] sont vérifiées pour [!UICONTROL Appel], [!UICONTROL Message de clé d’appel] et tout autre objet personnalisé souhaité.
+1. Sous la section [!UICONTROL  Autorisations d’objet personnalisé ], assurez-vous que les autorisations [!UICONTROL Lecture] sont vérifiées pour [!UICONTROL Appel], [!UICONTROL Message de clé d’appel] et tout autre objet personnalisé souhaité.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-15.png)
 

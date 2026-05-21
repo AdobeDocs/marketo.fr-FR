@@ -4,16 +4,20 @@ description: Découvrez les rapports par e-mail automatisés pour Web Personaliz
 title: Rapports d’e-mail
 exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/zRp6gzCiiXIdVvJYd3Lrg4AhnqldJ7iGKijK9QA-DVg
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e2290edd-b061-4880-9d79-dee306cf5aa9id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: 438
 ht-degree: 2%
 
 ---
 
 # Rapports d’e-mail {#email-reports}
 
-Pour personnaliser le rapport d’e-mail automatisé que l’utilisateur reçoit, consultez la section [[!UICONTROL Paramètres utilisateur] &#x200B;](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
+Pour personnaliser le rapport d’e-mail automatisé que l’utilisateur reçoit, consultez la section [[!UICONTROL Paramètres utilisateur] ](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
 
 ## Rapports sur les e-mails de Web Personalization {#web-personalization-email-reports}
 

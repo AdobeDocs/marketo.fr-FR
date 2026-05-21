@@ -4,9 +4,13 @@ description: Découvrez comment comprendre l’analyse de contenu dans Marketo E
 title: Présentation de Content Analytics
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/LYR0jnGcjfCf-R3YoxNQBArEuj0a5TTidVBBmSWoNq4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: 390
 ht-degree: 2%
 
 ---
@@ -17,11 +21,11 @@ La page Content Analytics affiche le contenu existant que vous avez découvert (
 
 ## Afficher Content Analytics {#view-content-analytics}
 
-Accédez à **[!UICONTROL Content Analytics]**.
+Accédez à ****.
 
 ![](assets/one.png)
 
-Sur la page [!UICONTROL Content Analytics], vous pouvez :
+Sur la page , vous pouvez :
 
 * Filtrer par période (jour, semaine et mois)
 * Recherche par titre de contenu et URL de contenu
@@ -86,7 +90,7 @@ Les analyses de contenu supplémentaires comprennent :
 
 * **[!UICONTROL Vues]** : vues de cet élément de contenu pour la période sélectionnée
 * **[!UICONTROL Conversions directes]** : visiteurs et visiteuses web qui ont consulté le contenu et rempli un formulaire au cours de la même visite.
-* **[!UICONTROL Taux de conversion]**&#x200B;**&#x200B; :** taux de conversion en pourcentage calculé par les conversions directes divisées par les clics
+* **[!UICONTROL Taux de conversion]**** :** taux de conversion en pourcentage calculé par les conversions directes divisées par les clics
 
 **[!UICONTROL Tendances]**
 
@@ -96,7 +100,7 @@ Les analyses de contenu supplémentaires comprennent :
 
 ![](assets/six.png)
 
-Sur la page [!UICONTROL Content Analytics], cliquez sur l&#39;icône de suppression du contenu que vous souhaitez supprimer. Un message s’affiche pour confirmer que vous souhaitez supprimer le contenu.
+Sur la page , cliquez sur l&#39;icône de suppression du contenu que vous souhaitez supprimer. Un message s’affiche pour confirmer que vous souhaitez supprimer le contenu.
 
 >[!MORELIKETHIS]
 >

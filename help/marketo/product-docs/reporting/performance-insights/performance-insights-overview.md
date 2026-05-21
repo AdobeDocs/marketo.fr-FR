@@ -4,9 +4,13 @@ description: Découvrez les informations sur les performances qui permettent d�
 title: Vue d’ensemble de Performance Insights
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/FAsjOuq5ZH1WEmEZm2Z9TpQB6W7A9wgHIouafiX1nsM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: 263
 ht-degree: 3%
 
 ---
@@ -37,7 +41,7 @@ Par défaut, les données affichées reflètent les performances par [!UICONTROL
 
 ## Tendance {#trend}
 
-Découvrez [&#x200B; tendances à long terme &#x200B;](/help/marketo/product-docs/reporting/performance-insights/performance-insights-trend-overview.md) repérer des stratégies gagnantes cohérentes.
+Découvrez [ tendances à long terme ](/help/marketo/product-docs/reporting/performance-insights/performance-insights-trend-overview.md) repérer des stratégies gagnantes cohérentes.
 
 ![](assets/4.png)
 

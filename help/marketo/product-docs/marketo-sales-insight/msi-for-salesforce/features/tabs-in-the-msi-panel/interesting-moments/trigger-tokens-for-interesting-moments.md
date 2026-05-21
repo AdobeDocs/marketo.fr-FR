@@ -4,9 +4,12 @@ description: Découvrez les jetons de déclenchement pour les moments intéressa
 title: Jetons de déclenchement pour les moments intéressants
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/4N7eK5miPjqckjCkMddlqBOm-LZZMMKdk8SnTgSvgFc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '557'
+source-wordcount: 557
 ht-degree: 67%
 
 ---
@@ -15,7 +18,7 @@ ht-degree: 67%
 
 >[!PREREQUISITES]
 >
->Découvrez comment utiliser l’étape de flux [&#x200B; Moment intéressant &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
+>Découvrez comment utiliser l’étape de flux [ Moment intéressant ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 
 ## Jetons disponibles {#available-tokens}
 
@@ -1055,7 +1058,7 @@ En fonction du déclencheur utilisé dans une campagne intelligente, des jetons 
 
 >[!NOTE]
 >
->S’il ne comporte pas de ![&#x200B; de vérification (coche)](assets/check.png) il renvoie une chaîne vide (rien) au moment intéressant.
+>S’il ne comporte pas de ![ de vérification (coche)](assets/check.png) il renvoie une chaîne vide (rien) au moment intéressant.
 
 &#42;La page web Déclencheur **Visites** comporte quelques jetons supplémentaires :
 

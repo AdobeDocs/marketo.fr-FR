@@ -4,9 +4,12 @@ description: Découvrez comment supprimer des personnes d’une campagne Salesfo
 title: Supprimer de la campagne SFDC
 exl-id: d19e7847-2287-4926-b0bb-635e7700668f
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+TQID: https://experienceleague.adobe.com/9KJw9YITNMzWVH-x--1xqcm0dXah-IVpujE9ZC5T6CY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: 116
 ht-degree: 6%
 
 ---

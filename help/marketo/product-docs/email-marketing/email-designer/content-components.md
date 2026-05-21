@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '1320'
-ht-degree: 78%
+source-wordcount: '1317'
+ht-degree: 75%
 
 ---
 
@@ -135,7 +135,7 @@ Utilisez le composant **[!UICONTROL HTML]** pour copier-coller les différentes 
 
 >[!NOTE]
 >
->Pour rendre un contenu externe compatible avec le concepteur d’e-mail, Adobe recommande de créer entièrement un message et de copier le contenu de votre e-mail existant dans des composants.
+>Pour rendre le contenu externe compatible avec Email Designer, Adobe recommande de créer entièrement un message et de copier le contenu de l’e-mail existant dans des composants.
 
 ## Image {#image}
 
@@ -198,7 +198,7 @@ Utilisez le composant **[!UICONTROL Décision d’offre]** pour insérer des off
 
    CAPTURE D’ÉCRAN
 
-1. Dans la liste déroulante, sélectionnez vos **[!UICONTROL emplacements]**.  Sélectionnez ensuite la **[!UICONTROL décision d’offres]** à ajouter à votre contenu, puis cliquez sur **[!UICONTROL Ajouter]**.
+1. Dans la liste déroulante, sélectionnez vos **[!UICONTROL emplacements]**. Sélectionnez ensuite la **[!UICONTROL décision d’offres]** à ajouter à votre contenu, puis cliquez sur **[!UICONTROL Ajouter]**.
 
    CAPTURE D’ÉCRAN
 

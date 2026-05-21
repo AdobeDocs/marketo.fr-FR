@@ -4,9 +4,13 @@ description: 'Découvrez comment planifier une campagne web dans Marketo Engage,
 title: Planifier une campagne web
 exl-id: 53ad93ef-b1a8-42fd-8aff-923e02946527
 feature: Web Personalization
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/SlO5Mg3h-z6zcLmPTSUcpFc2nKvAoqlCSmYTILjy98c
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: 318
 ht-degree: 3%
 
 ---

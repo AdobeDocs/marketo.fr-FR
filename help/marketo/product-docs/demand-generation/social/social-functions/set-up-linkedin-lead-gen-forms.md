@@ -4,9 +4,12 @@ description: Découvrez comment configurer LinkedIn Lead Gen Forms avec Marketo.
 title: Configurer les formulaires de génération de leads LinkedIn
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/M71uOB2ibUQ43e52t04-kjgVkbI5c4dsw-ajqD44ZIs
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: 512
 ht-degree: 3%
 
 ---
@@ -31,7 +34,7 @@ Utilisez LinkedIn Lead Gen Forms pour exécuter des campagnes publicitaires dans
 
    ![](assets/set-up-linkedin-lead-gen-forms-2.png)
 
-1. Saisissez un _Nom d’affichage_ pour votre service, sélectionnez le service **[!UICONTROL LinkedIn Lead Gen]** dans la liste déroulante, puis cliquez sur **[!UICONTROL Suivant]**.
+1. Saisissez un **[!UICONTROL Nom d’affichage]** pour votre service, sélectionnez le service **[!UICONTROL LinkedIn Lead Gen]** dans la liste déroulante, puis cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/set-up-linkedin-lead-gen-forms-3.png)
 
@@ -57,7 +60,7 @@ Utilisez LinkedIn Lead Gen Forms pour exécuter des campagnes publicitaires dans
 
    >[!CAUTION]
    >
-   >Le service expire automatiquement un an après l’autorisation. Pour récupérer l’accès, cliquez simplement sur **[!UICONTROL Réautoriser]**. Il se peut que vous deviez saisir à nouveau votre mot de passe LinkedIn, selon les paramètres de votre navigateur.
+   >Le service expire automatiquement un an après l’autorisation. Pour récupérer l’accès, cliquez sur **[!UICONTROL Réautoriser]**. Il se peut que vous deviez saisir à nouveau votre mot de passe LinkedIn, selon les paramètres de votre navigateur.
 
 1. Sélectionnez le ou les comptes depuis lesquels vous souhaitez que les leads LinkedIn de génération de leads arrivent dans Marketo et cliquez sur **[!UICONTROL Suivant]**.
 
@@ -67,7 +70,7 @@ Utilisez LinkedIn Lead Gen Forms pour exécuter des campagnes publicitaires dans
 
    ![](assets/set-up-linkedin-lead-gen-forms-8.png)
 
-1. Pour accepter les mappages LinkedIn/champs Marketo par défaut, cliquez simplement sur **[!UICONTROL Créer]**. Si vous souhaitez modifier le mappage des champs par défaut, supprimer un mappage des champs ou ajouter un nouveau mappage des champs, vous pouvez le faire par champ à l’aide de la boîte de dialogue modale ci-dessous.
+1. Pour accepter les mappages de champs LinkedIn/Marketo par défaut, cliquez sur **[!UICONTROL Créer]**. Si vous souhaitez modifier le mappage des champs par défaut, supprimer un mappage des champs ou ajouter un nouveau mappage des champs, vous pouvez le faire par champ à l’aide de la boîte de dialogue modale ci-dessous.
 
    >[!CAUTION]
    >
@@ -81,7 +84,7 @@ Utilisez LinkedIn Lead Gen Forms pour exécuter des campagnes publicitaires dans
 
    ![](assets/set-up-linkedin-lead-gen-forms-10.png)
 
-Bien joué ! Les personnes qui envoient des formulaires LinkedIn de génération de leads commenceront à affluer dans Marketo lorsque vous exécuterez des campagnes réussies du côté LinkedIn.
+Les personnes qui envoient des formulaires LinkedIn de génération de leads commenceront à affluer dans Marketo lorsque vous exécuterez des campagnes réussies du côté LinkedIn.
 
 >[!NOTE]
 >

@@ -2,9 +2,12 @@
 description: Découvrez l’éditeur d’image dans Marketo Design Studio. Recadrez, redimensionnez et apportez des modifications de base aux images sans quitter Marketo.
 title: Éditeur d’image
 exl-id: fef96635-3011-4549-9c40-e92c3f33c398
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/-yOiblNuK6ZI6QIgIE74viMfcp0aOgN1EPkJfYj5Cyw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: 71
 ht-degree: 11%
 
 ---

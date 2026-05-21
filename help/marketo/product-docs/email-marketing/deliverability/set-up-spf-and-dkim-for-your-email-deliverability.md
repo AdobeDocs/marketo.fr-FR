@@ -4,10 +4,12 @@ description: Découvrez comment configurer SPF et DKIM dans votre DNS pour amél
 title: Configurer SPF et DKIM pour la délivrabilité de vos e-mails
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/ZZvIOz7gmqXEht3xw1Pj1tabkQqjvGokF0BgOjdNzjs
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '434'
-ht-degree: 89%
+source-wordcount: 432
+ht-degree: 71%
 
 ---
 
@@ -17,7 +19,7 @@ Une méthode rapide pour améliorer vos taux de diffusion e-mail consiste à inc
 
 >[!CAUTION]
 >
->Votre administrateur ou administratrice réseau devra effectuer cette modification dans votre enregistrement DNS.
+>Votre administrateur réseau devra effectuer cette modification dans votre enregistrement DNS.
 
 ## Configurer SPF {#set-up-spf}
 
@@ -41,16 +43,16 @@ DKIM est un protocole d’authentification utilisé par les personnes destinatai
 
 **Fonctionnement de DKIM**
 
-Après avoir configuré la clé publique dans votre enregistrement DNS et activé le domaine d’envoi dans la section Admin (A), nous activerons la signature DKIM personnalisée pour vos messages sortants, qui inclura une signature numérique chiffrée avec chaque e-mail que nous envoyons pour vous (B). Les personnes destinataires pourront déchiffrer la signature numérique en recherchant la « clé publique » dans le DNS (C) de votre domaine d’envoi. Si la clé dans l’e-mail correspond à la clé de votre enregistrement DNS, le serveur de messagerie de réception sera plus susceptible d’accepter l’e-mail Marketo envoyé en votre nom.
+Une fois que vous avez configuré la clé publique dans votre enregistrement DNS et activé le domaine d’envoi dans la section Admin (A), Marketo active la signature DKIM personnalisée pour vos messages sortants, qui inclut une signature numérique chiffrée avec chaque e-mail envoyé en votre nom (B). Les personnes destinataires pourront déchiffrer la signature numérique en recherchant la « clé publique » dans le DNS (C) de votre domaine d’envoi. Si la clé dans l’e-mail correspond à la clé de votre enregistrement DNS, le serveur de messagerie de réception sera plus susceptible d’accepter l’e-mail Marketo envoyé en votre nom.
 
 ![](assets/image2015-1-12-13-3a56-3a55.png)
 
 **Comment configurer DKIM ?**
 
-Reportez-vous à [Configuration d’une signature DKIM personnalisée](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
+Voir [Configurer une signature DKIM personnalisée](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->* En savoir plus sur SPF et son fonctionnement`: http://www.open-spf.org/Introduction/`
+>* En savoir plus sur SPF et son fonctionnement : `http://www.open-spf.org/Introduction/`
 >* Mon SPF est-il correctement configuré ? : `https://www.kitterman.com/spf/validate.html`
 >* Ai-je utilisé la bonne syntaxe ? : `http://www.open-spf.org/SPF_Record_Syntax/`

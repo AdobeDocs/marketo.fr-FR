@@ -4,9 +4,12 @@ description: Découvrez comment cloner un groupe de test de page de destination 
 title: Clonage d’un groupe de test de page de destination
 exl-id: d94fde6b-b377-42fc-a91a-e8ee4bf7c8bb
 feature: Landing Pages
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/oPgQ0I0RJTGzy-9ae4iwTnBvAs0cEGSsO6fRz09-p-s
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: 189
 ht-degree: 6%
 
 ---

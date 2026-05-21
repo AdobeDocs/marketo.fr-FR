@@ -3,9 +3,11 @@ description: Découvrez comment configurer l’application cliente sur Microsoft
 title: Étape 3 sur 4 - Configurer l’application cliente sur MS [!DNL Dynamics]
 exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/-zVs1Dq2fO4u055kIx9i77YLTyhplheh6153JYZnmp4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: 380
 ht-degree: 0%
 
 ---
@@ -17,7 +19,7 @@ ht-degree: 0%
 >* [Étape 1 de 4 : installer la solution Marketo avec la connexion de contrôle de mot de passe du propriétaire de la ressource](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md){target="_blank"}
 >* [Étape 2 de 4 : configurer la solution Marketo avec une connexion de contrôle de mot de passe du propriétaire de la ressource](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md){target="_blank"}
 
-1. Accédez à cet article [&#128279;](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registration){target="_blank"}.
+1. Accédez à cet article [](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registration){target="_blank"}.
 
 1. Suivez toutes les étapes. Pour l&#39;étape 3, entrez un nom d&#39;application approprié (p. ex. « [!DNL Marketo Integration] »). Sous Types de compte pris en charge, sélectionnez Compte dans cet annuaire organisationnel uniquement.
 

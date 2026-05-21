@@ -4,9 +4,13 @@ description: Découvrez les types de rapports disponibles, notamment les rapport
 title: Vue d’ensemble du type de rapport
 exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
 feature: Reporting
-source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
+TQID: https://experienceleague.adobe.com/j8AUZtKfJz-8Q4DpoXcl-u9qHSuWIHOtrnI0MeZkyk0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: 235
 ht-degree: 17%
 
 ---
@@ -59,11 +63,11 @@ Lorsque vous [créez un rapport dans un programme](/help/marketo/product-docs/re
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Rapport sur les performances du flux d’engagement</a> </strong></td>
-   <td>Découvrez comment fonctionne votre <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programme d’engagement</a>.</td>
+   <td>Découvrez comment fonctionne votre <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programme d’engagement</a>.</td>
   </tr>
    <tr>
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md">Performance campagne e-mail</a> </strong></td>
-   <td>Découvrez comment fonctionne votre <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programme d’engagement</a>.</td>
+   <td>Découvrez comment fonctionne votre <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programme d’engagement</a>.</td>
   </tr>
  </tbody>
 </table>

@@ -4,9 +4,11 @@ description: Découvrez comment installer la solution Marketo pour Dynamics 2015
 title: Installation de Marketo for Microsoft Dynamics 2015 On-Premise Étape 1 sur 3
 exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/i6ILYEtzZ2vJnyELO-Zb8T-hRh0b2yVzbHaOzIEkF-k
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: 313
 ht-degree: 0%
 
 ---
@@ -55,7 +57,7 @@ Avant de pouvoir synchroniser [!DNL Microsoft Dynamics] 2015 On-Premise avec Mar
 
    ![](assets/step6.png)
 
-1. De retour sur la page [!UICONTROL &#x200B; Informations sur la solution &#x200B;], cliquez sur **[!UICONTROL Suivant]**.
+1. De retour sur la page [!UICONTROL  Informations sur la solution ], cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/image2015-3-19-9-21-50.png)
 

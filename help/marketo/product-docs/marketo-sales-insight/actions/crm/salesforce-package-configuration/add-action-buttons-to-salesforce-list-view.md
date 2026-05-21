@@ -2,9 +2,12 @@
 description: Découvrez comment ajouter les boutons Envoyer un e-mail commercial et Ajouter à la campagne commerciale aux vues de liste Salesforce. Configurez dans Lightning ou Classic via les mises en page des boutons de la vue Liste.
 title: Ajouter des boutons d’action à la vue Liste de Salesforce
 exl-id: 6265437c-341d-485c-8c84-b9cb5c7298fc
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/FrAMWFxN0sB-1GYy9FUF39CypvHJxmv1nxuyNNnj02Q
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: 308
 ht-degree: 8%
 
 ---

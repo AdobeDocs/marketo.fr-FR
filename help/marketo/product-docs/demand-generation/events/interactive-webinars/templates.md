@@ -3,9 +3,12 @@ description: Découvrez comment créer et implémenter des modèles dans les web
 title: Modèles de webinaires interactifs
 feature: Interactive Webinars
 exl-id: 779deab6-f257-4002-904b-80d20bb73e3e
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/daGGDpwlOHMRNSVPRZm0cdW79lSPtpXYatCiKPSCGlE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: 333
 ht-degree: 3%
 
 ---

@@ -4,9 +4,13 @@ description: Découvrez comment désactiver le préremplissage d’un champ de f
 title: Désactiver le préremplissage d’un champ de formulaire
 exl-id: c600e0ce-1b94-4f7b-b75d-f550a2904799
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/loH0b6d25kDL0dReI7lU62IFyXGr3p8tygqwTPx-OVk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: 192
 ht-degree: 10%
 
 ---

@@ -4,9 +4,13 @@ description: Ajoutez [!DNL Zoom] as a LaunchPoint Service pour que Marketo puiss
 title: Add [!DNL Zoom] as a [!DNL LaunchPoint] Service
 exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
 feature: Administration, Integrations
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+TQID: https://experienceleague.adobe.com/b0mxXTjrJjwRWHpeCdcNYu6JjY6qcHM7NX7ghiqMLaw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: 131
 ht-degree: 2%
 
 ---
@@ -59,4 +63,4 @@ Votre compte [!DNL Zoom] est maintenant synchronisé avec Marketo et se trouve d
 
 >[!MORELIKETHIS]
 >
->Découvrez comment [&#x200B; créer un événement avec  [!DNL Zoom]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).
+>Découvrez comment [ créer un événement avec  [!DNL Zoom]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).

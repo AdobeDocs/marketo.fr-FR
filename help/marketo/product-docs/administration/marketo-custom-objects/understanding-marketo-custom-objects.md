@@ -4,9 +4,13 @@ description: Présentation des objets personnalisés pour le suivi des mesures s
 title: Présentation des objets personnalisés Marketo
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
+TQID: https://experienceleague.adobe.com/XYlpKUB0bDiuVIYU3-Cjw97zQU3ZBD5myE13beaYNrs
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '736'
+source-wordcount: 736
 ht-degree: 1%
 
 ---

@@ -3,9 +3,13 @@ description: Découvrez comment activer CAPTCHA sur les formulaires Marketo. Ré
 title: Activer CAPTCHA dans Marketo Forms
 exl-id: d83fc2d3-7ae4-4927-9a09-ea6995013b6f
 feature: Forms
-source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
+TQID: https://experienceleague.adobe.com/h96LW3aYKHgGcqtPPctlQJsX2VNvPf-7rtxe7U-AAkI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+topic_v2: id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: 115
 ht-degree: 10%
 
 ---

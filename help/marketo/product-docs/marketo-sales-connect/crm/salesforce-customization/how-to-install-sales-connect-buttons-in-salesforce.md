@@ -4,9 +4,11 @@ description: Découvrez comment installer les boutons Sales Connect dans Salesfo
 title: Comment installer des boutons Sales Connect dans Salesforce
 exl-id: 8c263c46-5e49-4637-9316-5770e74117fc
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/NlfDR0iYREXhLnNW-GRSqAw7n61nDZs5BAgxsOnSGvk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: 126
 ht-degree: 18%
 
 ---

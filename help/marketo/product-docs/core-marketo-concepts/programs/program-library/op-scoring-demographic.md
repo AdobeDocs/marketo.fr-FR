@@ -3,9 +3,12 @@ description: Modèle de programme opérationnel Démographie de notation. Utilis
 title: OP-Score-Démographique
 feature: Programs
 exl-id: ed11616e-b587-4d03-b293-9cc9fa3c1699
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/AQLLsHWsrvSN0lyexi4HjCBc1L-Zh7-q-jc8R60O7RI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: 326
 ht-degree: 34%
 
 ---
@@ -14,7 +17,7 @@ ht-degree: 34%
 
 Il s’agit d’un exemple de programme opérationnel avancé (segmenté en unités lexicales) utilisant un programme par défaut de Marketo Engage pour la notation démographique. Affichez et modifiez les valeurs de notation sous l’onglet « Mes jetons » du programme. Nécessite un champ de score personnalisé appelé « Score démographique ».
 
-Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/fr/customers/consulting-services/main.html){target="_blank"}.
+Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Résumé du canal {#channel-summary}
 

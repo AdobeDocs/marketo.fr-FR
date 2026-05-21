@@ -4,9 +4,11 @@ description: Découvrez Marketo Sales Connect et comment il stimule l’engageme
 title: Vue d’ensemble de Sales Connect
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/e9-WD7YGig59MLzMMrBidiGIZ0XAqFKCnUhRvs20q8k
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: 256
 ht-degree: 15%
 
 ---
@@ -48,11 +50,11 @@ Découvrez comment vos prospects participent à vos efforts de vente.
    <td><p>L’utilisateur a envoyé un e-mail de vente à partir de Sales Connect.</p></td>
   </tr>
   <tr>
-   <td><p>Ouvrir l’e-mail commercial</p></td>
+   <td><p>Ouvrir e-mail de vente</p></td>
    <td><p>Le prospect a ouvert un e-mail de vente envoyé à partir de Sales Connect.</p></td>
   </tr>
   <tr>
-   <td><p>Cliquer sur l’e-mail commercial</p></td>
+   <td><p>Cliquer sur e-mail de vente</p></td>
    <td><p>Le prospect a cliqué sur un lien dans un e-mail de vente envoyé à partir de Sales Connect.</p></td>
   </tr>
   <tr>
@@ -80,7 +82,7 @@ Découvrez comment vos prospects participent à vos efforts de vente.
 
 ## Partager des campagnes marketing {#share-marketing-campaigns}
 
-Créez une campagne intelligente simple pour donner à vos commerciaux l’accès aux données de la campagne [Marketo](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
+Créez une campagne intelligente simple pour donner à vos commerciaux l’accès aux données de la campagne [](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
 
 ![](assets/campaign-is-requested.jpg)
 

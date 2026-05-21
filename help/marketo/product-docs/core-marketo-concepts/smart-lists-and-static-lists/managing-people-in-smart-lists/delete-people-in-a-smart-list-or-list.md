@@ -4,9 +4,12 @@ description: Découvrez comment supprimer des personnes d’une liste dynamique 
 title: Supprimer des personnes dans une liste intelligente ou une liste
 exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 feature: Smart Lists
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/2a609g-CTuuL0QjXpzFPhNRqcl87LhCcILbtp2cjA4I
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: 294
 ht-degree: 6%
 
 ---

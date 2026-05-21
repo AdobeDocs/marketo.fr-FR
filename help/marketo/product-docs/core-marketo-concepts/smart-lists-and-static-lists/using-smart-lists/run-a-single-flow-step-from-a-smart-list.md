@@ -4,9 +4,11 @@ description: Découvrez comment exécuter une seule étape de flux à partir d�
 title: Exécuter une seule étape de flux à partir d’une liste intelligente
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 feature: Smart Lists
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/GdWQiObUSnllii3M8x1bTuHRByAtg-UF03V-3sOuI9I
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: 239
 ht-degree: 9%
 
 ---
@@ -39,7 +41,7 @@ Si vous souhaitez exécuter une seule étape de flux unique, vous pouvez utilise
    >
    >Si les résultats s’étendent sur plusieurs pages, le fait de cliquer sur **[!UICONTROL Tout sélectionner]** sélectionne toutes les personnes sur toutes les pages.
 
-1. Sous **[!UICONTROL Actions de personne]**, sélectionnez l’étape de flux de votre choix. Cet exemple utilise [&#x200B; Modifier la valeur des données &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
+1. Sous **[!UICONTROL Actions de personne]**, sélectionnez l’étape de flux de votre choix. Cet exemple utilise [ Modifier la valeur des données ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-4.png)
 

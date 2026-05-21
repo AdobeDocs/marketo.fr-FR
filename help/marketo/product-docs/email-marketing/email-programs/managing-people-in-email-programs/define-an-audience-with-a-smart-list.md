@@ -4,9 +4,12 @@ description: Découvrez comment définir une audience de programme d’e-mail av
 title: Définir une audience avec une liste intelligente
 exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 feature: Email Programs
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/sGFMl-NIr1URbKsPhRb-ze6h2c1k72W-E28f-8p--sE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: 276
 ht-degree: 8%
 
 ---

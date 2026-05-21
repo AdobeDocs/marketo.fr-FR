@@ -4,16 +4,18 @@ description: Découvrez comment prévisualiser une page de destination dans Mark
 title: Prévisualiser une page de destination
 exl-id: fa786e68-9dd6-479d-9e9b-5acd3e323cef
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/3bgFcAopW5NAzIhEbI8hWVv9BP4njL6dX-pKRbEQV4Y
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 9%
+source-wordcount: 149
+ht-degree: 8%
 
 ---
 
 # Prévisualiser une page de destination {#preview-a-landing-page}
 
-Vous souhaitez probablement voir à quoi ressemble votre page de destination avant de la rendre active.
+Prévisualisez votre page de destination pour voir à quoi elle ressemble avant de la mettre en ligne.
 
 ## Prévisualiser une page de destination {#preview-a-landing-page-1}
 
@@ -49,4 +51,4 @@ Vous souhaitez probablement voir à quoi ressemble votre page de destination ava
 
    ![](assets/image2014-9-17-10-3a10-3a20.png)
 
-Beau travail ! Vous savez maintenant comment prévisualiser des pages de destination.
+Vous savez désormais prévisualiser des pages de destination.

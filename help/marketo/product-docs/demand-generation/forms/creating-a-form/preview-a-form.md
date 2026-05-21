@@ -4,9 +4,12 @@ description: Découvrez comment prévisualiser un formulaire dans Marketo avant 
 title: Prévisualiser un formulaire
 exl-id: 7d7522ef-422f-4c20-a1dc-2bcb856ac373
 feature: Forms
-source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
+TQID: https://experienceleague.adobe.com/Fb4g7wFlNGtMA65i7SiGAaX4gclY1B7sVIYpjgzfr6s
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: 79
 ht-degree: 12%
 
 ---

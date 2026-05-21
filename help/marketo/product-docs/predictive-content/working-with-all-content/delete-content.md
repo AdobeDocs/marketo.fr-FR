@@ -4,9 +4,11 @@ description: Découvrez comment supprimer du contenu de la page Tout le contenu 
 title: Supprimer le contenu
 exl-id: b4463baf-689f-432e-bf5b-375fe218a407
 feature: Predictive Content
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+TQID: https://experienceleague.adobe.com/sV45l1U1foBNaxzunMOoqRsyPCGXuOf29qQfR38xs5I
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: 72
 ht-degree: 5%
 
 ---

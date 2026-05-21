@@ -4,9 +4,11 @@ description: Découvrez comment modifier Toutes les listes de contenu pour le ti
 title: Modifier le contenu
 exl-id: 138b620e-4435-4a81-b4c8-132c2d6e25f5
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+TQID: https://experienceleague.adobe.com/oD18RRwL0cNaf-2SfsnlYD7DoxtjG9R5bzfS2JUpjh0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: 110
 ht-degree: 7%
 
 ---

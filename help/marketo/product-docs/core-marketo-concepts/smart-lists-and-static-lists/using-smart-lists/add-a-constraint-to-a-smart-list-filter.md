@@ -4,9 +4,11 @@ description: Découvrez comment ajouter une contrainte à un filtre de liste dyn
 title: Ajouter une contrainte à un filtre de liste intelligente
 exl-id: 5345019c-55e7-4afd-b583-90f1a687a71c
 feature: Smart Lists
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/UqkPxJFs-78VaVMNgOa1p2sTuDo-FM74HXp3CAbruhA
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: 182
 ht-degree: 10%
 
 ---

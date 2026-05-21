@@ -4,9 +4,13 @@ description: Découvrez comment actualiser manuellement les rapports pour obteni
 title: Actualiser un rapport
 exl-id: 022e338c-4e50-4d12-a5cb-d864aa60b131
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/R4c5dx5i8lZxIiZx20Fy8lrNmLD-7MAJnFpWFX80eW4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: 136
 ht-degree: 4%
 
 ---

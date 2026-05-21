@@ -3,9 +3,12 @@ description: Découvrez les flux de conversation et en quoi ils diffèrent des b
 title: Vue d’ensemble du flux conversationnel
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/9y7MvnN91I03IMieLIKv1QhjKdr2uPFOnby-DbpR-cE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: 370
 ht-degree: 3%
 
 ---
@@ -82,7 +85,7 @@ Dans la partie inférieure de l’onglet Paramètres , personnalisez le déclenc
 
 >[!TIP]
 >
->Voir [Conversations SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=fr){target="_blank"} en action !
+>Voir [Conversations SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} en action !
 
 >[!MORELIKETHIS]
 >

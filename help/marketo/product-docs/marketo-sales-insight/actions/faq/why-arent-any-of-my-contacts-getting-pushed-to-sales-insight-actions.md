@@ -3,9 +3,11 @@ description: Résolution d’un problème lorsqu’aucun contact ne se synchroni
 title: Pourquoi aucun de mes contacts n’est envoyé vers Actions des informations sur les ventes ?
 exl-id: 04087f45-eae8-4785-8f81-f3275f4e2d73
 feature: Sales Insight Actions
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/sqY3p1-DNHlyMlHR-QfXOKd4GsKboMGTfA4jnHe9oSs
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: 92
 ht-degree: 13%
 
 ---

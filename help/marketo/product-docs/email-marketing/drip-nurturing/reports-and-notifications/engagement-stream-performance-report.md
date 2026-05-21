@@ -4,9 +4,13 @@ description: Découvrez comment créer et exécuter le rapport Performance du fl
 title: Rapport sur les performances du flux d’engagement
 exl-id: e838fcd8-0fe3-4e96-b453-30b15b911ede
 feature: Engagement Programs, Reporting
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/63c8ll4a9f8PleyGPDFDIKmXW9b9TsJ3pmqnorwKU2g
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: 166
 ht-degree: 6%
 
 ---
@@ -36,7 +40,7 @@ Vous souhaitez connaître les performances de votre contenu d’engagement ? Ess
 
    ![](assets/image2014-9-15-18-3a24-3a23.png)
 
-   D&#39;accord ! Maintenant, examinons les paramètres.
+   Configurez maintenant les paramètres.
 
 ## Modifier les paramètres {#edit-settings}
 
@@ -54,7 +58,7 @@ Vous souhaitez connaître les performances de votre contenu d’engagement ? Ess
 
 ## Exécuter le rapport {#run-report}
 
-1. Pour exécuter le rapport, cliquez simplement sur l’onglet **[!UICONTROL Rapport]**.
+1. Pour exécuter le rapport, cliquez sur l’onglet **[!UICONTROL Rapport]**.
 
    ![](assets/image2014-9-15-18-3a25-3a15.png)
 
@@ -62,4 +66,4 @@ Vous souhaitez connaître les performances de votre contenu d’engagement ? Ess
    >
    >Bien que non illustré, le score de l’engagement est une colonne de ce rapport. Consultez [Comprendre le score de l’engagement](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) pour plus d’informations.
 
-   Très bon travail ! Notez que le rapport est regroupé par programme d’engagement.
+   Notez que le rapport est regroupé par programme d’engagement.

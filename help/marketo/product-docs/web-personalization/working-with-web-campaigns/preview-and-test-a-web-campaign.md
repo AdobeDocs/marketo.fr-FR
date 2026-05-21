@@ -4,9 +4,13 @@ description: Découvrez comment prévisualiser et tester une campagne web dans M
 title: Prévisualiser et tester une campagne web
 exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/adIevghigq2k-DWBtDdTO0ZBl3r6ZJw5X3q43qb7ppU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: 427
 ht-degree: 4%
 
 ---
@@ -39,7 +43,7 @@ Cet article vous explique différentes manières de prévisualiser une campagne 
 
    >[!NOTE]
    >
-   >Vous avez également la possibilité d’installer un plug-in de navigateur ([[!DNL Chrome]](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) ou [[!DNL Firefox]](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) pour bénéficier de la meilleure expérience en prévisualisant votre campagne. Voir la section ci-dessous.
+   >Vous avez également la possibilité d’installer un plug-in de navigateur ([[!DNL Chrome]](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) ou [[!DNL Firefox]](0.0.0.8.xpi)) pour bénéficier de la meilleure expérience en prévisualisant votre campagne. Voir la section ci-dessous.
 
 ## Prévisualisez une campagne web sur la page de création à l’aide du module externe de navigateur {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 

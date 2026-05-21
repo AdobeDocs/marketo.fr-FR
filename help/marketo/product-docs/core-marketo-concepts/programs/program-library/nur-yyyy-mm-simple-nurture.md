@@ -3,9 +3,12 @@ description: Modèle de programme Simple Nurture. Utilisez-le pour des campagnes
 title: NUR-AAAA-MM-Fidélisation simple
 feature: Programs
 exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
-source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
+TQID: https://experienceleague.adobe.com/4dEZucMMXmSHngRHdUqasKVAg08MkwZFIDn1OzbxnVg
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: c5f60233-d5ea-4453-a799-0ad258b4d399id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: 369
 ht-degree: 20%
 
 ---
@@ -14,7 +17,7 @@ ht-degree: 20%
 
 Il s’agit d’un exemple de programmes de formation simples, utilisant le programme d’engagement Marketo Engage, avec du contenu cadencé qui s’écoule au fil du temps vers votre base de données tout en utilisant des flux pour guider les enregistrements à travers les parcours en fonction du comportement.
 
-Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/fr/customers/consulting-services/main.html){target="_blank"}.
+Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un programme, contactez l’équipe du compte Adobe ou rendez-vous sur la page [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Résumé du canal {#channel-summary}
 

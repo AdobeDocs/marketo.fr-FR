@@ -3,9 +3,11 @@ description: Comprendre les raisons des appels dans Sales Connect. Définissez e
 title: Raisons des appels
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/XNu9fMEF6EPqkCW-EIpuirNtR1w3mPAg5GNZYj6mKnQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: 176
 ht-degree: 2%
 
 ---

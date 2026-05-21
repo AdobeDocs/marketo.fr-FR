@@ -4,9 +4,11 @@ description: Découvrez comment créer une présentation de calendrier marketing
 title: Créer une présentation
 exl-id: 3a591c03-2604-44be-b335-2258151beaeb
 feature: Marketing Calendar
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+TQID: https://experienceleague.adobe.com/r9VP69sXaGanXpwEJjzsWRcnAVz100cLCgzqSrvxwYw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: 101
 ht-degree: 7%
 
 ---

@@ -4,9 +4,11 @@ description: Découvrez la page de destination du lien de désabonnement dans Sa
 title: Page de destination du lien de désabonnement
 exl-id: 1ef22db5-56ca-47fb-894b-ef94ec4527ac
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/99Q9QG-NsyL4ETfwyzGkyIavhWpTnqc50ldFepBDxVs
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: 69
 ht-degree: 11%
 
 ---

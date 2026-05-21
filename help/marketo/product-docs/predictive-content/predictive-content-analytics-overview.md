@@ -4,9 +4,12 @@ description: Découvrez les tableaux de bord de Content Analytics prédictive po
 title: Vue d’ensemble de l’analyse du contenu prédictif
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+TQID: https://experienceleague.adobe.com/dsTO6zxeynglOg3JAs-2k0Balx-bRNc3ikPpxhR5x4E
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: 380
 ht-degree: 10%
 
 ---
@@ -69,7 +72,7 @@ Affiche la montée en popularité d’un élément de contenu en examinant la de
 
 ![](assets/new-8.png)
 
-## [!UICONTROL &#x200B; Contenu suggéré &#x200B;] {#suggested-content}
+## [!UICONTROL  Contenu suggéré ] {#suggested-content}
 
 Affiche le contenu que nous vous suggérons de promouvoir dans vos activités marketing en fonction du filtre que vous avez défini.
 

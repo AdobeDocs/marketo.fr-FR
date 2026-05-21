@@ -4,10 +4,15 @@ description: Trouvez des réponses aux questions fréquentes sur les information
 title: Questions fréquentes sur Performance Insights
 exl-id: cee791c3-1845-4fca-b803-c0dc1c644549
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/j0yX-068dvoBY9FHEfDzoVyPzZ5rbFSFYHg-eVAr7wE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+subfeature_v2: id: b9f06cb0-cdf7-4b83-a9d1-a701d132779b
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1367'
-ht-degree: 0%
+source-wordcount: 1391
+ht-degree: 1%
 
 ---
 
@@ -82,7 +87,7 @@ Les champs personnalisés, le type d’opportunité et les filtres ABM sont tous
 
 ## Je souhaite utiliser un champ d’opportunité Salesforce personnalisé pour le compte rendu des performances au lieu du champ montant de l’opportunité Salesforce standard. Est-ce que MPI me le permettra? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-Oui. La prise en charge de [Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) peut remapper le champ Montant de l’opportunité de Marketo vers un champ d’opportunité Salesforce personnalisé tant que le type de champ est devise. Comme MPI pointe vers le champ Montant de l’opportunité Marketo , MPI peut utiliser les données du champ Salesforce personnalisé remappé.
+Oui. La prise en charge de [](https://nation.marketo.com/t5/Support/ct-p/Support) peut remapper le champ Montant de l’opportunité de Marketo vers un champ d’opportunité Salesforce personnalisé tant que le type de champ est devise. Comme MPI pointe vers le champ Montant de l’opportunité Marketo , MPI peut utiliser les données du champ Salesforce personnalisé remappé.
 
 >[!NOTE]
 >

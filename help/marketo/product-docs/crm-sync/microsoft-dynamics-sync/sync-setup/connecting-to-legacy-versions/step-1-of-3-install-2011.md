@@ -4,9 +4,11 @@ description: Découvrez comment installer la solution Marketo pour Dynamics 2011
 title: Étape 1 sur 3 - Installation de la solution Marketo (2011 On-Premise)
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/KgYgMIHjfI4IpVk0ai98AcoZpOUPvYuHnab6LnCyGWk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: 304
 ht-degree: 6%
 
 ---
@@ -79,7 +81,7 @@ Avant de pouvoir synchroniser [!DNL Microsoft Dynamics] On-Premise et Marketo, v
 
    ![](assets/image2015-4-2-11-3a44-3a44.png)
 
-1. [!UICONTROL Gestion des prospects &#x200B;] apparaît désormais sur la page **[!UICONTROL Toutes les solutions]**.
+1. [!UICONTROL Gestion des prospects ] apparaît désormais sur la page **[!UICONTROL Toutes les solutions]**.
 
    ![](assets/image2015-4-2-11-3a46-3a55.png)
 

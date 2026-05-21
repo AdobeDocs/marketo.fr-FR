@@ -4,9 +4,13 @@ description: Découvrez comment filtrer les campagnes web dans Marketo Engage à
 title: Filtrer les campagnes web
 exl-id: 07237fff-02d7-4974-9651-09a328d27365
 feature: Web Personalization
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/wE-ph9x-v952b6jIpWcfIFGrSLu57TcmWGdvHSNpg8c
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: 116
 ht-degree: 6%
 
 ---
@@ -19,7 +23,7 @@ Après avoir créé des centaines de campagnes [!DNL Web Personalization], il es
 
    ![](assets/web-campaigns-hand-8.jpg)
 
-1. Sur la page [!UICONTROL &#x200B; Campagnes web &#x200B;], cliquez sur **[!UICONTROL Filtrer]**.
+1. Sur la page [!UICONTROL  Campagnes web ], cliquez sur **[!UICONTROL Filtrer]**.
 
    ![](assets/web-campaigns-page-filter-hand.jpg)
 

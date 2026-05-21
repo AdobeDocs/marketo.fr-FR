@@ -4,9 +4,11 @@ description: Découvrez comment joindre un élément de contenu à partir du plu
 title: Jointure d’un élément de contenu
 exl-id: eb47b53e-5b6c-4473-93e0-43f6a6f3eb28
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/4rUQgSc4Dpn-hiHADtGwHD25qFRg4ztnNFOVXy9yuC4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: 81
 ht-degree: 12%
 
 ---

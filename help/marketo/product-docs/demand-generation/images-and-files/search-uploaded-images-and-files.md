@@ -4,9 +4,12 @@ description: Découvrez comment rechercher des images et des fichiers chargés d
 title: Rechercher des images et fichiers chargés
 exl-id: c8eb7493-768a-4580-a76e-5b59ca9c14b1
 feature: Image Editor
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/bHD-qDzuv37pjKNQHfRV-X3X2eo1y7rDU-0NN7Xuelw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: 99
 ht-degree: 10%
 
 ---

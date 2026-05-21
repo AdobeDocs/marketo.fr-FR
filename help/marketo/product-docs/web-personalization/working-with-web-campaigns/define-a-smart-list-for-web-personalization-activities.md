@@ -4,9 +4,13 @@ description: Découvrez comment définir une liste dynamique pour les activités
 title: Définir une liste intelligente pour les activités Web Personalization
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 feature: Web Personalization
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/hxhAO-zK6QPXwtm93WY951MT9SHKmvFYtja495CDWtM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: 307
 ht-degree: 2%
 
 ---

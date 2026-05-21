@@ -3,9 +3,11 @@ description: Découvrez comment installer la solution Marketo pour Dynamics 2016
 title: Installez Marketo for [!DNL Microsoft Dynamics] 2016/Dynamics 365 On-Premise Étape 1 de 3
 exl-id: 0a494ae7-87da-4ff9-bb47-990b957533e1
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/E0wIT7zgodm4Ujjt8yuU4KIA9csv8iK3PMmC6X2ifRA
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: 324
 ht-degree: 0%
 
 ---

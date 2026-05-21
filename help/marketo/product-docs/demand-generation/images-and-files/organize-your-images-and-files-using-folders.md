@@ -4,9 +4,12 @@ description: Découvrez comment organiser des images et des fichiers à l’aide
 title: Organiser vos images et fichiers à l’aide de dossiers
 exl-id: b2961d6b-8bc0-4376-b438-03d9fd26be72
 feature: Image Editor
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/V3M5hJaWEtN8C98L88riBgTm-I396PYWp5Rqao6sNeM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: 115
 ht-degree: 17%
 
 ---

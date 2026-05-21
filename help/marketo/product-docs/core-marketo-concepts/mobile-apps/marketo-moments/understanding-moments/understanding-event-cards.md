@@ -4,9 +4,13 @@ description: En savoir plus sur les cartes d’événement dans les moments Mark
 title: Présentation des vignettes d’événement
 exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/bHRcbjtFH9FHztjFrMujxWZ3ulWfkF2oXm8a93QQfhc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+subfeature_v2: id: ffdd6159-0e10-4a57-8021-94e93bab8183
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: 186
 ht-degree: 4%
 
 ---

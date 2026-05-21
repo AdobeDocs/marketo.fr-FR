@@ -4,9 +4,11 @@ description: Découvrez comment exécuter les tests d’objet Champion/Challenge
 title: Champion/Challenger - Objet
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/CyptDxnnRX1bG8RvAXE-lpfEVoibAkdBFcmMZzDqfxM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: 290
 ht-degree: 2%
 
 ---

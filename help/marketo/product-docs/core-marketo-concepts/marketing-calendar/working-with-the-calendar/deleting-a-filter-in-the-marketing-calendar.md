@@ -4,9 +4,11 @@ description: Découvrez comment supprimer un filtre dans le calendrier marketing
 title: Suppression d’un filtre dans le calendrier marketing
 exl-id: 1c53f346-ab35-44d4-9b8a-6e31f97044ca
 feature: Marketing Calendar
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+TQID: https://experienceleague.adobe.com/yz7ySu7PcMw75WILn3vC-JiIUE2oqMVlmTn6pVIF67E
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '37'
+source-wordcount: 37
 ht-degree: 37%
 
 ---

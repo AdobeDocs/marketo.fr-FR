@@ -4,16 +4,19 @@ description: Découvrez comment installer le complément Marketo pour Outlook av
 title: Installer le complément Marketo pour [!DNL Outlook] avec une clé d’entreprise
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/mCdqWN-z7sArN7jcB-BqQ-zcxIiLDeJAZxb69986yjU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '279'
-ht-degree: 0%
+source-wordcount: 319
+ht-degree: 2%
 
 ---
 
 # Installation du complément Marketo pour [!DNL Outlook] avec une clé d&#39;entreprise {#install-the-marketo-add-in-for-outlook-with-an-enterprise-key}
 
-Souvent, les représentants commerciaux ne disposent pas de privilèges d&#39;administration sur leurs ordinateurs portables et leurs équipes informatiques sont chargées d&#39;installer tous les logiciels à distance. Le complément Marketo pour Outlook peut être installé de cette manière à l&#39;aide de votre clé d&#39;entreprise, qui se trouve dans la section Insight des ventes d&#39;Admin. Si vous ne voyez pas le bouton Afficher la clé d&#39;entreprise, contactez le support technique de [Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) pour l&#39;activer.
+Souvent, les représentants commerciaux ne disposent pas de privilèges d&#39;administration sur leurs ordinateurs portables et leurs équipes informatiques sont chargées d&#39;installer tous les logiciels à distance. Le complément Marketo pour Outlook peut être installé de cette manière à l&#39;aide de votre clé d&#39;entreprise, qui se trouve dans la section Insight des ventes d&#39;Admin. Si vous ne voyez pas le bouton Afficher la clé d&#39;entreprise, contactez le support technique de [](https://nation.marketo.com/t5/Support/ct-p/Support) pour l&#39;activer.
 
 >[!PREREQUISITES]
 >
@@ -43,4 +46,4 @@ Souvent, les représentants commerciaux ne disposent pas de privilèges d&#39;ad
 
    ![](assets/image2016-7-25-14-3a39-3a9.png)
 
-   C&#39;est tout ! Ensuite, le commercial passe par le processus d’enregistrement [&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md).
+   C&#39;est tout ! Ensuite, le commercial passe par le processus d’enregistrement ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md).[

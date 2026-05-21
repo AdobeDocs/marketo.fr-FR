@@ -4,9 +4,13 @@ description: Créez des campagnes web de widget qui s’affichent sous la forme 
 title: Créer une campagne web de widget
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/N5fOUcDPWM9bxW225YElTMZi6qkoqNEoGHHW3QXj8dw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: 655
 ht-degree: 4%
 
 ---
@@ -67,7 +71,7 @@ Une campagne web est une réaction personnalisée associée à un segment spéci
   </tr>
   <tr>
    <td colspan="1" rowspan="1"><p><strong>Bouton Widget</strong><br></p></td>
-   <td colspan="1" rowspan="1">Personnalisez le bouton du widget lui-même.<br>Flèche : vous permet de choisir parmi plusieurs icônes différentes dans le menu déroulant de droite. La liste déroulante de gauche détermine sa couleur.<br>Personnalisé : permet d’insérer l’URL de toute image hébergée. Types de fichiers acceptés : .JPEG, .GIF (y compris animé), .PNG, .APNG, .SVG, .BMP.<br>Texte : le widget peut être en texte. Personnalisez sa couleur, sa taille et sa police.</td>
+   <td colspan="1" rowspan="1">Personnaliser le bouton du widget lui-même.<br>Flèche : vous permet de choisir parmi plusieurs icônes différentes dans le menu déroulant de droite. Le menu déroulant de gauche détermine sa couleur.<br>Personnalisé : insérez l’URL de toute image hébergée. Types de fichiers acceptés - .JPEG, .GIF (y compris animé), .PNG, .APNG, .SVG, .BMP.<br>Text : le widget peut être texte - personnalisez sa couleur, sa taille et sa police.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Fixe</strong></td>
@@ -95,7 +99,7 @@ Une campagne web est une réaction personnalisée associée à un segment spéci
 
 >[!NOTE]
 >
->**Vous souhaitez tester vos campagnes web A/B ?** Une ou plusieurs campagnes web peuvent être testées [A/B pour obtenir des résultats optimaux](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Grâce à la fonctionnalité [!UICONTROL &#x200B; Réglage automatique &#x200B;], la plateforme reconnaît automatiquement les campagnes les plus performantes, continue avec les campagnes de conversion les plus performantes et met en pause les autres.
+>**Vous souhaitez tester vos campagnes web A/B ?** Une ou plusieurs campagnes web peuvent être testées [A/B pour obtenir des résultats optimaux](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Grâce à la fonctionnalité [!UICONTROL  Réglage automatique ], la plateforme reconnaît automatiquement les campagnes les plus performantes, continue avec les campagnes de conversion les plus performantes et met en pause les autres.
 
 ## Modification d’une campagne web {#edit-a-web-campaign}
 

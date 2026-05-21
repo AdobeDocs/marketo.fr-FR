@@ -3,9 +3,14 @@ description: Découvrez les autorisations et les profils de produits Dynamic Cha
 title: Autorisations
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/8GC80rOGWsEf1t-JHDoTW3E4ZwFLvt9QkW1SiSmsVsM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '737'
+source-wordcount: 737
 ht-degree: 6%
 
 ---
@@ -16,7 +21,7 @@ Vous pouvez modifier cinq profils par défaut avec des autorisations prédéfini
 
 ## Modifier les autorisations existantes {#edit-existing-permissions}
 
-1. Dans [&#128279;](https://adminconsole.adobe.com/){target="_blank"}, cliquez sur **Dynamic Chat**.
+1. Dans [](https://adminconsole.adobe.com/){target="_blank"}, cliquez sur **Dynamic Chat**.
 
    ![](assets/permissions-1.png)
 
@@ -50,7 +55,7 @@ Vous pouvez maintenant répéter ce processus pour toutes les autres zones de Dy
 
 ## Création d’un profil {#create-a-profile}
 
-1. Dans [&#128279;](https://adminconsole.adobe.com/){target="_blank"}, cliquez sur **Dynamic Chat**.
+1. Dans [](https://adminconsole.adobe.com/){target="_blank"}, cliquez sur **Dynamic Chat**.
 
    ![](assets/permissions-8.png)
 

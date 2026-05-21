@@ -4,10 +4,13 @@ description: Découvrez comment créer un jeton de script de messagerie. Défini
 title: Créer un jeton de script d’e-mail
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
 feature: Tokens
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/3FbkNKaOjEX--zXCOC1EHLEVr5ChimEOJTROMY0bHmc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 6%
+source-wordcount: 258
+ht-degree: 5%
 
 ---
 
@@ -49,9 +52,9 @@ Pour les développeurs avancés, vous pouvez utiliser des scripts [Velocity](htt
 
 1. Écrivez votre script dans Velocity. Voici quelques ressources utiles :
 
-   * [Documentation Sur Les Scripts De Messagerie Pour Les Développeurs Marketo](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/email-scripting)
+   * [Documentation sur les scripts de messagerie des développeurs Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
    * [Guide de l’utilisateur Velocity](https://velocity.apache.org/engine/devel/user-guide.html)
-   * [Guide de référence Velocity](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
+   * [Guide de référence de Velocity](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Outils Velocity Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
 1. Une fois votre script terminé, cliquez sur **[!UICONTROL Enregistrer]**.

@@ -4,9 +4,11 @@ description: Alerter le représentant commercial - Documents Marketo - Documenta
 title: Prévenir un représentant commercial ou une représentante commerciale
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 feature: Getting Started
-source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
+TQID: https://experienceleague.adobe.com/Qd-0TR8Sa4JWsQs7sWzUOmcFU0iRxl6SH62fWnm1GT8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: 405
 ht-degree: 10%
 
 ---
@@ -61,7 +63,7 @@ Pour envoyer automatiquement des e-mails d’alerte aux représentants commercia
 
    >[!NOTE]
    >
-   >`{{SP_Send_Alert_Info}}` est un jeton spécial pour les e-mails d’alerte. Pour en savoir plus, voir [&#x200B; Utilisation du jeton d’envoi d’informations d’alerte &#x200B;](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}.
+   >`{{SP_Send_Alert_Info}}` est un jeton spécial pour les e-mails d’alerte. Pour en savoir plus, voir [ Utilisation du jeton d’envoi d’informations d’alerte ](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}.
 
 1. Cliquez sur **[!UICONTROL Enregistrer]**
 

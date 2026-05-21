@@ -4,9 +4,11 @@ description: Découvrez comment partager un moment dans l’application Marketo 
 title: Partage d’un Moment
 exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
 feature: Mobile Marketing
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+TQID: https://experienceleague.adobe.com/23phcVfYqFTEoOApmIsIkOvekpuQsH-i545qJtxmbo8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: 173
 ht-degree: 4%
 
 ---

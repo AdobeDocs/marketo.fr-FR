@@ -4,9 +4,12 @@ description: Découvrez comment autoriser le plug-in Marketo Outlook. Complétez
 title: Autoriser le plug [!DNL Outlook] in Marketo
 exl-id: 4eeed6db-2d28-4ec9-8aa0-1c599f68b2bf
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/IQv2V0dX-p2RE5zfco8s8Q5hSaD35mpQyuWGPpxcITE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: 216
 ht-degree: 0%
 
 ---

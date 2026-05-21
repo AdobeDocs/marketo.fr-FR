@@ -4,9 +4,12 @@ description: Découvrez comment activer le verrouillage de contenu pour empêche
 title: Verrouillage de contenu
 exl-id: 9f47a6e9-5dad-4934-ba9b-70235c958a31
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/WgP-o-qMEGv78EVaeoxQxuwJA3aoCffF13r-XqECB1s
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: 114
 ht-degree: 3%
 
 ---
@@ -17,7 +20,7 @@ En activant le verrouillage du contenu, empêchez les utilisateurs non-administr
 
 >[!NOTE]
 >
->Les utilisateurs **&#x200B;**&#x200B;pourront toujours modifier le contenu d’un e-mail au moment de l’envoi ou du lancement d’une campagne.
+>Les utilisateurs **pourront toujours modifier le contenu d’un e-mail au moment de l’envoi ou du lancement d’une campagne.**
 
 1. Dans [!UICONTROL Sales Connect], cliquez sur l’icône des paramètres et sélectionnez **[!UICONTROL Settings]**.
 

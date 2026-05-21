@@ -4,9 +4,14 @@ description: Découvrez comment utiliser du contenu dynamique dans une page de d
 title: Utiliser du contenu dynamique dans une page de destination
 exl-id: 9f71473b-1805-43ab-b2d7-e4f9854f1944
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/RuwAISV2vhWpTHsJoE5ny6KRSJf8QA3J-JVrA-gF7oo
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272id: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: 209
 ht-degree: 8%
 
 ---
@@ -63,7 +68,7 @@ L’utilisation de contenu dynamique dans les pages de destination fait particip
 
    ![](assets/image2015-5-21-12-3a42-3a11.png)
 
-1. Une coche verte indique le contenu spécifique au segment. Un champ vide indique le contenu du segment par défaut.
+1. Une coche verte indique le contenu spécifique à un segment. Un champ vide indique le contenu du segment par défaut.
 
    ![](assets/image2015-5-21-12-3a44-3a24.png)
 
@@ -75,7 +80,7 @@ L’utilisation de contenu dynamique dans les pages de destination fait particip
    >
    >Créez une page de destination par défaut avant de modifier le contenu des différents segments.
 
-Voila ! Vous pouvez désormais envoyer du contenu ciblé.
+Vous pouvez désormais envoyer du contenu ciblé à vos segments.
 
 >[!MORELIKETHIS]
 >

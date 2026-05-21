@@ -4,16 +4,19 @@ description: Découvrez le modèle de page de destination guidée par le modèle
 title: Modèle 16-E
 exl-id: 063cd16b-e697-4631-9c53-5bde216f9d98
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/-aMJl8n5oSJc8u78PgJj-I-lDXeWpioQMVumMCdpRAA
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: 83
 ht-degree: 0%
 
 ---
 
 # Modèle 16-E {#template-16e}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 16-E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16e.html?lang=fr)
+Cliquez avec le bouton droit pour [télécharger le modèle 16-E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16e.html)
 
 ![](assets/image2015-8-14-13-3a27-3a39.png)
 
@@ -29,4 +32,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez avec le bouton droit de la souris ci-dessous pour télécharger ce modèle :**
 
-[Modèle 16-E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16e.html?lang=fr)
+[Modèle 16-E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16e.html)

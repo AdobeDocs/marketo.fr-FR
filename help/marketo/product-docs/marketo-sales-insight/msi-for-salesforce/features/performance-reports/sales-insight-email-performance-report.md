@@ -4,10 +4,14 @@ description: Découvrez le rapport Performance des e-mails de Sales Insight dans
 title: E-mail du rapport de performance concernant les Informations sur les ventes
 exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/kuMKUZCy3kzbgGvMdq0TQhJyazKAs-epl8U7zR8glOI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 16%
+source-wordcount: 163
+ht-degree: 15%
 
 ---
 

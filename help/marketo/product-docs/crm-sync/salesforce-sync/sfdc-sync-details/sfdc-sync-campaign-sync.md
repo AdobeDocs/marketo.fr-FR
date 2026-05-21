@@ -4,9 +4,13 @@ description: Découvrez comment synchroniser les programmes Marketo avec les cam
 title: Synchronisation de SFDC - Synchronisation de la campagne
 exl-id: 62435e00-9c59-4dee-a9b7-ccf1d1f41b78
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+TQID: https://experienceleague.adobe.com/RnUIcPDeA48j-ioSkepxzv0-0Hmh9n5eTcIAsgdHC4s
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: 376
 ht-degree: 7%
 
 ---
@@ -49,22 +53,22 @@ Filtres:
 
 ## Puis-je ajouter des personnes Marketo à ma campagne SFDC ? {#can-i-add-marketo-people-to-my-sfdc-campaign}
 
-Oui, utiliser l’action de flux de campagne [&#x200B; Ajouter à SFDC &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md). Si cette personne n’existe pas dans [!DNL Salesforce], Marketo la créera dans [!DNL Salesforce] puis l’ajoutera à la campagne.
+Oui, utiliser l’action de flux de campagne [ Ajouter à SFDC ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md). Si cette personne n’existe pas dans [!DNL Salesforce], Marketo la créera dans [!DNL Salesforce] puis l’ajoutera à la campagne.
 
 ## Puis-je supprimer des membres de ma campagne SFDC à l’aide de Marketo ? {#can-i-remove-members-from-my-sfdc-campaign-using-marketo}
 
-Oui, utiliser l’action de flux [&#x200B; Supprimer de SFDC Campaign &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/remove-from-sfdc-campaign.md){target="_blank"}.
+Oui, utiliser l’action de flux [ Supprimer de SFDC Campaign ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/remove-from-sfdc-campaign.md){target="_blank"}.
 
 ## Puis-je modifier le statut de membre de la campagne à l’aide de Marketo ? {#can-i-change-campaign-member-status-using-marketo}
 
-Oui, utiliser l’action de flux [&#x200B; Modifier le statut dans SFDC Campaign &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"}.
+Oui, utiliser l’action de flux [ Modifier le statut dans SFDC Campaign ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md){target="_blank"}.
 
 ## Pourquoi est-ce que je ne vois aucune de mes campagnes [!DNL Salesforce] ? {#why-cant-i-see-any-of-my-salesforce-campaigns}
 
 Voici ce que vous pouvez vérifier :
 
 1. Assurez-vous que la [synchronisation de la campagne est activée](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
-1. Vérifiez que votre [utilisateur de synchronisation Marketo](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) est un [utilisateur marketing](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) dans [!DNL Salesforce].
+1. Vérifiez que votre [utilisateur de synchronisation ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) est un [utilisateur marketing](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) dans [!DNL Salesforce].
 
 >[!NOTE]
 >

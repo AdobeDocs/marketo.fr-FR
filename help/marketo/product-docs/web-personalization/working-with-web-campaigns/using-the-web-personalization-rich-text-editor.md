@@ -4,9 +4,13 @@ description: Découvrez comment utiliser l’éditeur de texte enrichi de person
 title: Utilisation de l’éditeur de texte enrichi pour Web Personalization
 exl-id: a07d8f2b-0ec6-4799-a430-0a5f7cf5f583
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/XmnR-DkqT-OfgqQndug3Yvos4EtYsv0U-Zmuq8rruQ8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: 193
 ht-degree: 9%
 
 ---

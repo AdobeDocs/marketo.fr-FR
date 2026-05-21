@@ -6,10 +6,15 @@ description: Découvrez comment verrouiller le contenu de modèles d’e-mail po
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/riZ-B0-N9bYRCi6gu8ajpskmwcNri6YHnSjbe1xrIJo
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '903'
-ht-degree: 73%
+source-wordcount: 909
+ht-degree: 76%
 
 ---
 
@@ -39,7 +44,7 @@ Le verrouillage de contenu peut être appliqué au niveau **structure** ou au ni
 
 ### Activation du verrouillage de contenu {#enable-content-locking}
 
-Vous pouvez activer le verrouillage de contenu pour un modèle d’e-mail directement dans le Designer d’e-mail, que vous créiez un nouveau modèle ou en modifiiez un existant.
+Vous pouvez activer le verrouillage de contenu pour un modèle d’e-mail directement dans le Concepteur d’e-mail que vous créiez un nouveau modèle ou que vous en modifiiez un existant.
 
 1. Ouvrez ou créez un modèle d’e-mail et accédez à l’écran de modification du contenu dans le Concepteur d’e-mail.
 

@@ -4,9 +4,13 @@ description: Découvrez comment exclure des adresses IP ou des plages d’adress
 title: Exclure des adresses IP spécifiques du suivi
 exl-id: d6989c8f-46ff-40a8-bf7f-5d34e701b359
 feature: Web Personalization
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/iWnjpI93pHG0A5xXrQhz8EP7CB-4-QeNAaLh203-l5o
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: 224
 ht-degree: 5%
 
 ---

@@ -4,9 +4,11 @@ description: Découvrez l’adaptateur Marketo ON24 et comment il connecte les w
 title: Présentation des événements d’adaptateur ON24 Marketo
 exl-id: 00c3ac54-b139-4cff-af53-d4d83d2610f9
 feature: Events
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+TQID: https://experienceleague.adobe.com/LtTKin68LiI09y1m2hu1BIhhSE4d03-HkGHCfsDNxE0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: 145
 ht-degree: 6%
 
 ---

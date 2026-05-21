@@ -4,9 +4,12 @@ description: Découvrez comment importer des ressources de Adobe Experience Mana
 title: Importer des ressources avec Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
 feature: Integrations
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/DQqJuvBbIZwHVKae9T3NknMvdGG0-f5Al1ERxnaotl8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: 245
 ht-degree: 4%
 
 ---
@@ -21,7 +24,7 @@ Le sélecteur de ressources permet aux clients Marketo d’accéder aux ressourc
 
 >[!PREREQUISITES]
 >
->Vérifiez que la configuration [&#128279;](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md) a déjà été effectuée.
+>Vérifiez que la configuration [](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md) a déjà été effectuée.
 
 >[!IMPORTANT]
 >

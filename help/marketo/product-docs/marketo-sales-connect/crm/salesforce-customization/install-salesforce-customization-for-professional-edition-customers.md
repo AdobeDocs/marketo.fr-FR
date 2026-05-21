@@ -4,9 +4,11 @@ description: Découvrez comment installer la personnalisation de Salesforce Sale
 title: Installation [!DNL Salesforce] personnalisation pour les clients Professional Edition
 exl-id: dc004a28-b580-4449-9fde-e744681ac53a
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/-u-VxODTzqp8V86ulyItc3J90xNZRV9grChJyR6rcSg
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: 261
 ht-degree: 0%
 
 ---
@@ -58,4 +60,4 @@ Les clients disposant de l’édition professionnelle de [!DNL Salesforce] devro
 
 [Guide d’installation de Salesforce Classic](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
 
-[&#x200B; Guide d’installation de Salesforce Lightning &#x200B;](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+[Guide d’installation de Salesforce Lightning](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)

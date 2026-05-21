@@ -3,9 +3,12 @@ unique-page-id: 2952292
 description: Découvrez les notifications Marketo Engage pour les échecs de campagne et la synchronisation CRM. Abonnez-vous pour recevoir des alertes par e-mail et rester à jour.
 title: Présentation des notifications
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+TQID: https://experienceleague.adobe.com/2gXuzpDABMzULJZfzqvuc5u39hzfEuabZsz9TkjnSaY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: 247
 ht-degree: 3%
 
 ---

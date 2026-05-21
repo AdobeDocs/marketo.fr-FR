@@ -4,9 +4,13 @@ description: Découvrez comment installer et configurer Marketo Sales Insight da
 title: Installer et configurer Informations sur les ventes Marketo dans Microsoft Dynamics 2015
 exl-id: 26c1f02c-c910-445d-8560-0b37961eadcb
 feature: Marketo Sales Insights
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/WLVudq3p-fFYelDK6tYN3MRHstQgp7rRVK0L07iJFOk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: 418
 ht-degree: 5%
 
 ---
@@ -85,7 +89,7 @@ Lions votre instance Marketo à [!DNL Sales Insight] dans [!DNL Dynamics]. Proc�
 
    ![](assets/image2014-12-12-9-3a6-3a50.png)
 
-1. Dans la section Insight des ventes, cliquez sur **[!UICONTROL Modifier la configuration de l’API]**.
+1. Dans la section Insight des ventes], cliquez sur **[!UICONTROL Modifier la configuration de l’API]**.[!UICONTROL 
 
    ![](assets/image2014-12-12-9-3a7-3a0.png)
 

@@ -4,9 +4,14 @@ description: Découvrez le contenu dynamique de Marketo pour personnaliser les l
 title: Présentation du contenu dynamique
 exl-id: 1e74cdb5-f879-424e-8db0-0a788d13fd5e
 feature: Dynamic Content
-source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
+TQID: https://experienceleague.adobe.com/BviUqkD7KLjb0HahOgVbfhK2CHeWc7Hi-y-icFwjzac
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272id: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: 239
 ht-degree: 4%
 
 ---
@@ -25,7 +30,7 @@ Tout d&#39;abord, vous devrez diviser vos employés en sous-groupes. Cela s’ap
 >
 >**Définition**
 >
->La segmentation classe votre audience en différents sous-groupes en fonction d’une règle [&#x200B; Liste dynamique &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md). Ces groupes sont appelés segments.
+>La segmentation classe votre audience en différents sous-groupes en fonction d’une règle [ Liste dynamique ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md). Ces groupes sont appelés segments.
 
 Par exemple, si nous avons une segmentation appelée Industrie, certains des segments pourraient être : Santé, Technologie, Financier, Biens de consommation, etc.
 

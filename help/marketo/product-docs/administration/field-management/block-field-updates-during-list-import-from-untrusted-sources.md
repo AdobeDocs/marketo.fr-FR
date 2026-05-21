@@ -4,9 +4,13 @@ description: Empêchez le remplacement des champs clés lors des imports de list
 title: Bloquer les mises à jour des champs lors de l’import de liste à partir de sources non approuvées
 exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
 feature: Field Management
-source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
+TQID: https://experienceleague.adobe.com/cT1pOoWjR-UdHLqNJwhwgR9R12ciIa95q1xHPTf7rBY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: 205
 ht-degree: 10%
 
 ---

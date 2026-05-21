@@ -4,10 +4,13 @@ description: Découvrez comment ajouter Vibes as a LaunchPoint Service. Saisisse
 title: Ajouter Vibes en tant que service LaunchPoint
 exl-id: 13f153c1-609e-4bee-a588-eb4665755acc
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+TQID: https://experienceleague.adobe.com/gEjUFyBWpi3na2ipKGw51TStNkZauQyhrRipUov1Fng
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 9%
+source-wordcount: 189
+ht-degree: 8%
 
 ---
 

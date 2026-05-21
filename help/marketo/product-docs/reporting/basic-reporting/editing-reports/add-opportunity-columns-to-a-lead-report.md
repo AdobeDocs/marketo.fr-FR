@@ -4,9 +4,13 @@ description: Découvrez comment ajouter des colonnes d’opportunités aux rappo
 title: Ajouter des colonnes d’opportunités à un rapport de lead
 exl-id: 446befcd-a2fe-478b-9f36-288a6a31adbd
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/kmlBFnduGoU6Y17m7gRFeOxe8u8L8Zmeougjbo1Ea6Y
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: 297
 ht-degree: 7%
 
 ---
@@ -55,13 +59,13 @@ Pour afficher les statistiques sur les opportunités dans vos rapports de person
    | [!UICONTROL Jours sans opportunité] | Âge moyen, en jours, des personnes qui ne sont *pas* un contact principal. |
    | [!UICONTROL A une opportunité] | Nombre de personnes qui sont le contact principal de l’opportunité. |
    | [!UICONTROL A L’Opportunité %] | Pourcentage de personnes qui sont le contact principal de l’opportunité. |
-   | [!UICONTROL &#x200B; Jours Avant L’Opportunité &#x200B;] | Nombre moyen de jours nécessaire pour convertir un contact de personne en contact d&#39;opportunité principal. |
+   | [!UICONTROL  Jours Avant L’Opportunité ] | Nombre moyen de jours nécessaire pour convertir un contact de personne en contact d&#39;opportunité principal. |
    | [!UICONTROL Montant total de l’opportunité] | Somme de tous les montants de l’opportunité. |
    | [!UICONTROL Montant moyen de l’opportunité] | Somme des montants des opportunités, divisée par le nombre d’opportunités. |
    | [!UICONTROL Opportunité totale] | Nombre de toutes les opportunités. |
    | [!UICONTROL Fermé] | Nombre d’opportunités qui ont été clôturées, gagnées ou perdues. |
    | [!UICONTROL Gagné] | Nombre d’opportunités qui ont été conclues. |
-   | [!UICONTROL &#x200B; % Gagné] | Pourcentage d’opportunités qui ont été gagnées. |
+   | [!UICONTROL  % Gagné] | Pourcentage d’opportunités qui ont été gagnées. |
    | [!UICONTROL Montant total gagné] | Somme des montants des opportunités confirmées. |
    | [!UICONTROL Jours avant la fermeture] | Nombre moyen de jours pour fermer les opportunités. |
    | [!UICONTROL Jours de soldes] | Durée moyenne du cycle de vente (jours avant l&#39;opportunité + jours avant la fermeture). |

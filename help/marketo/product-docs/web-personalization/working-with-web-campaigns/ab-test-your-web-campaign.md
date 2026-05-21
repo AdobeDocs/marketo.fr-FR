@@ -4,9 +4,13 @@ description: Découvrez un test de votre campagne web dans Marketo Engage, y com
 title: Effectuer un test AB de votre campagne web
 exl-id: 65d61b96-d39b-4388-971d-260c9c0aff93
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/mwO5mF2HGjYZr3CPpE4uan-7bn89bie-EjSR2JP6NvM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: 346
 ht-degree: 4%
 
 ---
@@ -19,7 +23,7 @@ Pour tester A/B vos campagnes personnalisées, vous pouvez sélectionner deux ca
 
 >[!TIP]
 >
->Si vous préférez calculer manuellement et voir quelle campagne est la plus performante, n’activez pas l’option [!UICONTROL &#x200B; Réglage automatique &#x200B;].
+>Si vous préférez calculer manuellement et voir quelle campagne est la plus performante, n’activez pas l’option [!UICONTROL  Réglage automatique ].
 
 ## Configuration d’un test A/B partagé {#how-to-set-up-a-split-a-b-test}
 

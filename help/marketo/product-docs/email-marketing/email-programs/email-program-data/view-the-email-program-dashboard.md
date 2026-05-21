@@ -4,9 +4,13 @@ description: Découvrez comment afficher le tableau de bord du programme de mess
 title: Afficher le tableau de bord du programme d’e-mail
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/XFLGP-fP49QTNHdurvS6vs-ZFJu8SUIw3oFyC46ojcc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: 233
 ht-degree: 6%
 
 ---

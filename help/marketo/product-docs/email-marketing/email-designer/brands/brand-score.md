@@ -7,7 +7,7 @@ feature: Email Designer
 role: User
 level: Beginner, Intermediate
 exl-id: 719686f7-16f5-423f-a4b1-f0a35005d222
-source-git-commit: b1c177e03fab297e5f94b1848103ac3239e4d079
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: '570'
 ht-degree: 10%

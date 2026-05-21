@@ -4,9 +4,12 @@ description: Découvrez comment réorganiser les champs d’un formulaire Market
 title: Réorganiser les champs d’un formulaire
 exl-id: 62846099-f925-44d6-8ff3-d9fffd2816b9
 feature: Forms
-source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
+TQID: https://experienceleague.adobe.com/0-QBGjbQEK-DJbXmwwtVcB9NsUyTrdySJqcxCTNAcJQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: 79
 ht-degree: 20%
 
 ---

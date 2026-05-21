@@ -4,9 +4,11 @@ description: Découvrez comment approuver votre test e-mail Champion/Challenger.
 title: Champion/Challenger - Approuvez Votre Test E-Mail
 exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/5UVOPS2POHH6g9n7nWU1Z4UpSr0nZnNC-RLJ1K5F4WI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: 152
 ht-degree: 7%
 
 ---

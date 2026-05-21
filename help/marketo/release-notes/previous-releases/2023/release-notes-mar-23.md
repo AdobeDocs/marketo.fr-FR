@@ -3,9 +3,11 @@ description: Notes De Mise À Jour - Mars 2023 - Documents Marketo - Documentati
 title: Notes de mise à jour - Mars 2023
 exl-id: f07abfef-5740-4380-9ca9-069a323486eb
 feature: Release Information
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+TQID: https://experienceleague.adobe.com/Sisp6sUlykUIMGVZjQlLgTarYQBgz-2QP5-3JW5d0t0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: 587
 ht-degree: 22%
 
 ---
@@ -136,7 +138,7 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
   </tbody>
 </table>
 
-* **Attributs déduits pour Dynamic Chat** : vérifie que les données IP déduites (ville, État, pays, etc.) sont écrites dans l’enregistrement de personne pour les nouvelles personnes acquises par Dynamic Chat.
+* **Attributs déduits pour Dynamic Chat** : vérifie les données IP déduites (ville, État, pays, etc.) est écrit dans l’enregistrement de personne pour les nouvelles personnes acquises par Dynamic Chat.
 
 <table>
   <tr>

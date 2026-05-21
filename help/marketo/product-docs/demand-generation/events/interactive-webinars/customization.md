@@ -3,9 +3,13 @@ description: Découvrez comment personnaliser les webinaires interactifs dans Ma
 title: Personnalisation des webinaires interactifs
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/WV5faY8xCe28CjNG18u-fXeLb2LtkhQp68bVQF9sk-Q
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '807'
+source-wordcount: 807
 ht-degree: 0%
 
 ---
@@ -141,4 +145,4 @@ Sélectionnez **Appliquer** pour enregistrer les modifications ou **Réinitialis
 
 * Les hôtes peuvent choisir des thèmes pendant la création de la salle ou les mettre à jour ultérieurement à partir de la page d&#39;informations de la salle (**Barre supérieure de la salle** > **Menu Plus** > **Afficher les informations de la salle**).
 
-En savoir plus sur les [thèmes](https://helpx.adobe.com/fr/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.
+En savoir plus sur les [thèmes](https://helpx.adobe.com/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.

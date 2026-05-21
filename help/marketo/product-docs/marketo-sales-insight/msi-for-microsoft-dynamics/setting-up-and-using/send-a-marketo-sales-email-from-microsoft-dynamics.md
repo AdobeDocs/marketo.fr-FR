@@ -4,9 +4,13 @@ description: Découvrez comment envoyer un e-mail de vente Marketo à partir de 
 title: Envoyer un e-mail commercial Marketo à partir de Microsoft Dynamics
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/Tt835Xzb29Zs590QSOUtPIXo55eEkBRB8bbXD1W7gAk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: 165
 ht-degree: 6%
 
 ---

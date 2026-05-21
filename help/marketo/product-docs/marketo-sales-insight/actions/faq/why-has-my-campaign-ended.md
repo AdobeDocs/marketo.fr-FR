@@ -2,9 +2,11 @@
 description: Comprenez pourquoi votre campagne de vente s'est terminée. Découvrez les conditions de fin manuelle, de réponse, de suppression des rebonds et de fin automatique.
 title: Pourquoi ma campagne s’est-elle arrêtée ?
 exl-id: db53f9ea-9ee2-40c2-a0c5-67b0e916a36d
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/jlwVQCOdIRz0kG4wW8QwhnKhSC8dQ2koR-E8Szrt8mI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: 90
 ht-degree: 11%
 
 ---

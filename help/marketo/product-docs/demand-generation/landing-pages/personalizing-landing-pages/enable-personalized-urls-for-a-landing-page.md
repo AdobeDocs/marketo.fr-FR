@@ -4,16 +4,18 @@ description: Découvrez comment activer les URL personnalisées pour une page de
 title: Activer les URL personnalisées pour une page de destination
 exl-id: d87486f6-da49-406e-b1cf-781caba596c1
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/62RoGtAhtBHDi9sxFFXeL4oAKjC25cuRHC6y3m5mO-I
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 16%
+source-wordcount: 90
+ht-degree: 15%
 
 ---
 
 # Activer les URL personnalisées pour une page de destination {#enable-personalized-urls-for-a-landing-page}
 
-Les URL personnalisées sont idéales pour les campagnes par courrier imprimé.
+Les URL personnalisées fonctionnent bien pour les campagnes par courrier imprimé.
 
 >[!PREREQUISITES]
 >
@@ -27,4 +29,4 @@ Les URL personnalisées sont idéales pour les campagnes par courrier imprimé.
 
    ![](assets/image2014-9-18-13-3a23-3a53.png)
 
-Fantastique ! Vous avez maintenant activé les URL personnalisées pour votre page de destination. Les visiteurs qui utilisent cette URL seront reconnus et les jetons fonctionneront correctement.
+Vous avez activé les URL personnalisées pour votre page de destination. Les visiteurs qui utilisent cette URL seront reconnus et les jetons fonctionneront correctement.

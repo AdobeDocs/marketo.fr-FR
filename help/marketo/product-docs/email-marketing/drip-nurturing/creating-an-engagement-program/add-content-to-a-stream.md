@@ -4,16 +4,19 @@ description: Découvrez comment ajouter des e-mails ou des programmes à un flux
 title: Ajouter du contenu à un flux
 exl-id: b2db9f49-2baa-4d42-9755-480390a91041
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/mEXmi2TJ3INTU2G3cFvw1uJyVbMIwRjNil65pFCY7DY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: 157
 ht-degree: 8%
 
 ---
 
 # Ajouter du contenu à un flux {#add-content-to-a-stream}
 
-Une fois que vous avez créé votre programme d’engagement, vous devez ajouter du contenu aux flux. Vous pouvez ajouter des e-mails ou des programmes à un flux.
+Après avoir créé votre programme d’engagement, vous devez ajouter du contenu au flux. Vous pouvez ajouter des e-mails ou des programmes à un flux.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 
@@ -48,8 +51,6 @@ Icône **+**
    >[!NOTE]
    >
    >Une campagne intelligente doit contenir le filtre **[!UICONTROL Membre du programme d’engagement]** pour qu’elle fonctionne correctement.
-
-Très bon travail ! Vous savez maintenant comment ajouter du contenu à vos flux de programme. Ajoutez-en autant que nécessaire pour votre éducation. Consultez l’article connexe ci-dessous pour plus d’informations.
 
 >[!MORELIKETHIS]
 >

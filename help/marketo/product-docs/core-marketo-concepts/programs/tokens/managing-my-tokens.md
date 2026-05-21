@@ -4,9 +4,12 @@ description: Découvrez comment gérer Mes jetons dans un programme. Créez et u
 title: Gestion de Mes jetons
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 feature: Tokens
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/-DdWyWBFeKkrsZMgLvxhhzaqMcAXXjSYY6euh-vMXOY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: 226
 ht-degree: 7%
 
 ---
@@ -17,7 +20,7 @@ L’utilisation de jetons peut simplifier vos efforts dans Marketo Engage. Vous 
 
 >[!TIP]
 >
->En savoir plus sur les jetons déjà disponibles dans [&#x200B; Présentation des jetons &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
+>En savoir plus sur les jetons déjà disponibles dans [ Présentation des jetons ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
 ## Créer un My Token local ou global {#create-a-my-token}
 

@@ -4,9 +4,13 @@ description: Découvrez comment sélectionner les colonnes à afficher dans vos 
 title: Sélectionner les colonnes d’un rapport
 exl-id: 11357993-7b29-41cb-a376-06de387d1e92
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/-mcweOXdEFlur-T67gBfJiHSYwz0TL12I2cAI-IBq24
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: 78
 ht-degree: 7%
 
 ---

@@ -4,16 +4,19 @@ description: Découvrez comment planifier les diffusions du programme d’engage
 title: Planifier des programmes d’engagement avec le fuseau horaire de la personne destinataire
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/PkmvMBNzpWUNrJy9K-4TVrJMBWfKp5Vm2K-jiIeKBVg
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: 205
 ht-degree: 9%
 
 ---
 
 # Planifier des programmes d’engagement avec le fuseau horaire de la personne destinataire {#schedule-engagement-programs-with-recipient-time-zone}
 
-Lorsque vous planifiez un flux de programme d’engagement et que le fuseau horaire du destinataire est actif, la diffusion du programme commence à s’exécuter à minuit dans le premier fuseau horaire (UTC +14:00). Nous exigeons que vous planifiiez la première distribution **au moins 25 heures** à l&#39;avenir parce qu&#39;il peut y avoir des gens qui sont admissibles à la distribution dans tous les fuseaux horaires à travers le monde. Le fait de commencer le traitement à cette heure dans le premier fuseau horaire garantit que nous enverrons l’e-mail à la date et à l’heure planifiées pour chaque destinataire.
+Lorsque vous planifiez un flux de programme d’engagement et que le fuseau horaire du destinataire est actif, la diffusion du programme commence à s’exécuter à minuit dans le premier fuseau horaire (UTC +14:00). Le premier casting doit être programmé **au moins 25 heures** à l&#39;avenir car il peut y avoir des personnes qui remplissent les critères pour le cast dans tous les fuseaux horaires à travers le monde. Le fait de commencer le traitement à cette heure dans le premier fuseau horaire garantit que l’e-mail sera diffusé à la date et à l’heure planifiées pour chaque destinataire.
 
 1. Dans votre programme d’engagement, accédez à l’onglet **[!UICONTROL Flux]** et cliquez sur le planning de cadence d’un flux pour le modifier.
 

@@ -4,9 +4,13 @@ description: Découvrez comment mettre à niveau votre package Marketo Sales Ins
 title: Mise à niveau de votre package MSI
 exl-id: 45004990-8452-4824-a9b2-89cd8302fe43
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/wOriEL9vVh3fEb7SdMYiT2OmbrWJmEJ7yoraRr3Ogss
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: 276
 ht-degree: 2%
 
 ---

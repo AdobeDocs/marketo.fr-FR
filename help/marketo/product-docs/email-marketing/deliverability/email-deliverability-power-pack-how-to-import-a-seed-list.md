@@ -4,9 +4,11 @@ description: Découvrez comment importer une liste d’adresses de contrôle dan
 title: Power Pack sur la délivrabilité des e-mails - Comment importer une liste de contrôle
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/VKfpLEXYck1SKLiwg-d8em3BpYmaxHIuiyZZYYRgZ-0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: 339
 ht-degree: 2%
 
 ---
@@ -47,7 +49,7 @@ Une liste de contrôle est une liste de comptes de messagerie de plusieurs fourn
 
    >[!TIP]
    >
-   >Veillez à donner à votre liste un nom qui la rendra plus facile à trouver.
+   >Nommez votre liste de manière à la rendre plus facile à trouver.
 
    >[!CAUTION]
    >

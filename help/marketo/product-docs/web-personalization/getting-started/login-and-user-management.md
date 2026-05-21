@@ -4,9 +4,13 @@ description: Découvrez comment vous connecter et gérer les utilisateurs dans M
 title: Gestion des connexions et des utilisateurs et utilisatrices
 exl-id: 3cf5a50a-1926-4fb6-a1fe-39ba5eb2560f
 feature: Web Personalization
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/YDr1WsoffJR07q6pyCNZt2zU1dtgYUueaIae-aW2qj4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: 326
 ht-degree: 2%
 
 ---

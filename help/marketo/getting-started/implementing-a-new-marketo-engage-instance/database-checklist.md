@@ -3,14 +3,19 @@ description: Configurez la section Base de données pour votre nouvelle instance
 title: Bonnes pratiques relatives aux nouvelles instances - Liste de contrôle de la base de données
 feature: Getting Started
 exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+TQID: https://experienceleague.adobe.com/yHZP1MXkAnmnz3zeucu2Bdm6FrCVtmnX9opKWiIJTAA
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 9%
+source-wordcount: 451
+ht-degree: 7%
 
 ---
 
-# Bonnes Pratiques Relatives Aux Nouvelles Instances : Liste De Contrôle De Base De Données {#new-instance-best-practices-database-checklist}
+# Bonnes pratiques relatives à une nouvelle instance : liste de contrôle de la base de données {#new-instance-best-practices-database-checklist}
 
 Dans la section Base de données, vous trouverez les attributs clés des personnes de votre instance. Découvrez les étapes nécessaires pour parcourir les différentes listes et segmentations de votre base de données, ainsi que pour gérer les enregistrements de personnes.
 
@@ -29,26 +34,26 @@ N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting
   <tr>
     <td>Toutes les personnes</td>
     <td><li>Déterminez la mise en œuvre d’une synchronisation 1:1 avec votre CRM ou l’application de filtres pour limiter les personnes qui passent d’un système à un autre et quand.</li>
-    <li>Vérifiez le nombre total de personnes et de personnes commercialisables dans votre base de données <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.html?lang=fr" target="_blank">Marketo Engage</a>.</li></td>
+    <li>Vérifiez le nombre total de personnes et de personnes commercialisables dans votre base de données <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.html" target="_blank"></a>.</li></td>
   </tr>
   <tr>
     <td>Liste de blocage</td>
-    <td><li>Définissez des critères de place sur la liste bloquée. Envisagez d'ajouter les domaines de vos concurrents à votre <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.html?lang=fr" target="_blank">liste bloquée </a> pour les empêcher de recevoir l'un de vos e-mails.</li></td>
+    <td><li>Définissez des critères de place sur la liste bloquée. Envisagez d'ajouter les domaines de vos concurrents à votre <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.html" target="_blank">liste bloquée </a> pour les empêcher de recevoir l'un de vos e-mails.</li></td>
   </tr>
   <tr>
     <td>Marketing interrompu</td>
-    <td><li>Définissez les critères <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe#marketing-suspended" target="_blank">Marketing suspendu</a>.</li></td>
+    <td><li>Définissez les critères <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe#marketing-suspended" target="_blank">Marketing suspendu</a>.</li></td>
   </tr>
   <tr>
     <td>Adresses e-mail renvoyées </td>
     <td><li>Définissez vos critères pour les adresses e-mail de rebond.</li>
-    <li>Vérifiez les personnes de la catégorie « E-mail non valide » et déterminez si leurs e-mails doivent être <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.html?lang=fr" target="_blank">réinitialisés manuellement</a>.</li></td>
+    <li>Vérifiez les personnes de la catégorie « E-mail non valide » et déterminez si leurs e-mails doivent être <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.html" target="_blank">réinitialisés manuellement</a>.</li></td>
   </tr>
   <tr>
     <td>Doublons possibles</td>
     <td><li>Vérifier les personnes dans la liste des doublons possibles.</li>
-    <li>Définissez votre stratégie de gestion des doublons afin de déterminer si vous souhaitez <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html?lang=fr" target="_blank">fusionner les personnes manuellement</a>.</li>
-    <li>Si vous disposez d’une intégration CRM, définissez un processus et un compte pour <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people#effect-in-salesforce" target="_blank">l’effet de la fusion des prospects dans votre CRM</a>.</li></td>
+    <li>Définissez votre stratégie de gestion des doublons afin de déterminer si vous souhaitez <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html" target="_blank">fusionner les personnes manuellement</a>.</li>
+    <li>Si vous disposez d’une intégration CRM, définissez un processus et un compte pour <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people#effect-in-salesforce" target="_blank">l’effet de la fusion des prospects dans votre CRM</a>.</li></td>
   </tr>
   <tr>
     <td>Pas de programme d'acquisition</td>
@@ -56,7 +61,7 @@ N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting
   </tr>
   <tr>
     <td>Personnes désinscrites</td>
-    <td><li>Vérifiez vos critères pour <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html?lang=fr" target="_blank">Personnes désabonnées</a>.</li></td>
+    <td><li>Vérifiez vos critères pour <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html" target="_blank">Personnes désabonnées</a>.</li></td>
   </tr>
 </tbody>
 </table>
@@ -91,7 +96,7 @@ N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting
 <tbody>
   <tr>
     <td>Segmentation</td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html?lang=fr" target="_blank">Créez des segmentations</a> en fonction des besoins de votre entreprise. Chaque abonnement est limité à 20 segmentations et 100 segments dans chaque segmentation.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html" target="_blank">Créez des segmentations</a> en fonction des besoins de votre entreprise. Chaque abonnement est limité à 20 segmentations et 100 segments dans chaque segmentation.</li></td>
   </tr>
 </tbody>
 </table>

@@ -3,9 +3,11 @@ description: Découvrez comment ajouter une identité d’e-mail dans les action
 title: Ajouter une identité
 exl-id: a85937c3-aa15-4900-a42b-950ab2ae1776
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/Ks7LppvQ13D6463U27VN7UMbjS8lfx2WAxii9XCxAig
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: 197
 ht-degree: 2%
 
 ---
