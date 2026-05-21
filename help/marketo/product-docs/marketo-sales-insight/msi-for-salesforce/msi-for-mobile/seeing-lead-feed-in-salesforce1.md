@@ -5,8 +5,10 @@ title: Afficher le flux de leads dans Salesforce1
 exl-id: c6811752-0e60-4b38-88bb-7b1061ee6f7b
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/jNgJLm4LvwGsZZuys5TeYm1-XuLLWTYFXetbD-NNrOY
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 85
@@ -18,7 +20,7 @@ ht-degree: 7%
 
 Le flux de leads est une liste à la minute près d’événements intéressants réalisés par vos leads.
 
-1. Accédez à la zone **** dans [!DNL Salesforce1].
+1. Accédez à la zone **&#x200B;**&#x200B;dans [!DNL Salesforce1].
 
    ![](assets/image2015-4-20-15-3a14-3a15.png)
 

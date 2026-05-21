@@ -4,7 +4,8 @@ title: Envoyer votre message in-app
 exl-id: 4ec196df-e8ef-45f8-9486-70d2b7c7ab1f
 feature: Mobile Marketing
 TQID: https://experienceleague.adobe.com/0dcl-alZ3vFV-by2GFlm6DZ3sL3zYDUkttFoO8k2lDw
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 183
@@ -36,4 +37,4 @@ Une fois votre message in-app créé, il est temps de l’envoyer. La procédure
 
    ![Image 4](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-4.png)
 
-Prêt ? Commencez par [ définir l’audience ](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md).
+Prêt ? Commencez par [&#x200B; définir l’audience &#x200B;](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md).

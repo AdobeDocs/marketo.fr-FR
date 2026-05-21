@@ -5,9 +5,16 @@ title: Intégrer RTP à Google Universal Analytics
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 feature: Web Personalization
 TQID: https://experienceleague.adobe.com/ozCazXzX-TzsUx61u7c30v2p-Z4k1b-kQbEsw9HvgPo
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 447
@@ -122,7 +129,7 @@ Une fois que vous avez activé les dimensions personnalisées dans GUA, accédez
 ## Supprimer les anciens tableaux de bord dans Google Analytics {#remove-old-dashboards-in-google-analytics}
 
 1. Dans Google Analytics. Accédez à **[!UICONTROL Reporting].**
-1. Cliquez sur **[!UICONTROL Tableaux de bord ].**.
+1. Cliquez sur **[!UICONTROL Tableaux de bord &#x200B;].**.
 1. Sélectionnez un **[!UICONTROL Tableau de bord]** (RTP B2B ou Performances RTP)
 1. Cliquez sur **[!UICONTROL Supprimer le tableau de bord]**.
 

@@ -5,9 +5,13 @@ title: Remarketing personnalisé dans Google
 exl-id: cc733f43-161d-41e4-afdf-8b5217700810
 feature: Web Personalization
 TQID: https://experienceleague.adobe.com/qAvf6tO5v6j29k3wWf3irTqhwv6EDq0eHzijvOjGXls
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 310
@@ -38,7 +42,7 @@ Le remarketing personnalisé vous permet de réengager vos utilisateurs à l’a
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. Dans le Créateur d’audience, cliquez sur **[!UICONTROL Séquences]** et **[!UICONTROL Rechercher les données RTP]** sous [!UICONTROL Dimensions personnalisées], [!UICONTROL [!]Variables personnalisées UICONTROL], [!UICONTROL Events].
+1. Dans le Créateur d’audience, cliquez sur **[!UICONTROL Séquences]** et **[!UICONTROL Rechercher les données RTP]** sous [!UICONTROL Dimensions personnalisées], [!UICONTROL UICONTROL [ !]Variables personnalisées &#x200B;], [!UICONTROL Events].
 
 >[!TIP]
 >

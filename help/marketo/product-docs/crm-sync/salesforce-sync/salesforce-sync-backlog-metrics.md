@@ -4,9 +4,14 @@ title: Mesures de la liste d’attente de synchronisation Salesforce
 feature: Reporting
 exl-id: 6b58eb50-ff0d-4774-a232-3ae929948e2a
 TQID: https://experienceleague.adobe.com/RSYhWjNNh7gQiyEw1ImnHr6q23UpaVWhBll6aziHkJk
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 1155
@@ -24,7 +29,7 @@ La liste d’attente de synchronisation est le nom utilisé pour les enregistrem
 
    ![](assets/salesforce-sync-backlog-metrics-1.png)
 
-1. Sélectionnez ****.
+1. Sélectionnez **&#x200B;**.
 
    ![](assets/salesforce-sync-backlog-metrics-2.png)
 
@@ -96,7 +101,7 @@ Lorsqu’un grand nombre de mises à jour sont effectuées (par exemple à parti
 
 **Champs visibles pour l’utilisateur de la synchronisation** : assurez-vous que les champs visibles à synchroniser sont uniquement ceux qui doivent être synchronisés et ont une valeur pour les efforts marketing. Toute mise à jour d’un enregistrement dans Salesforce qui met à jour la date et l’heure de la dernière modification met un enregistrement en file d’attente dans la liste d’attente de synchronisation. De plus, la synchronisation des champs inutiles peut ralentir les champs plus importants sous synchronisation. Si les champs inutiles sont masqués à l’utilisateur de la synchronisation, les mises à jour de ces champs entraîneront une omission beaucoup plus rapide qu’une mise à jour. Contactez votre administrateur Salesforce pour passer en revue les bonnes pratiques [ici](https://nation.marketo.com/t5/marketo-whisperer-blogs/best-practices-for-determining-which-fields-to-sync-with-marketo/ba-p/247449){target="_blank"} et mettre à jour les champs visibles par l’utilisateur de synchronisation Marketo.
 
-**Masquer ou filtrer les enregistrements inutiles** : si un enregistrement n’est pas commercialisable, cela peut entraîner une perte de ressources de synchronisation. Si l’utilisateur ou l’utilisatrice de la synchronisation ne peut pas le voir, il ne gaspillera pas de ressources à essayer de le synchroniser. La prise en charge de [](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"} peut vous aider à configurer un filtre de synchronisation pour empêcher la synchronisation des enregistrements en fonction de critères supplémentaires. Vous trouverez plus d’informations sur la configuration d’un filtre de synchronisation personnalisé [ici](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}. Il est vivement recommandé d’utiliser les champs d’index dans Salesforce (contactez Salesforce pour plus d’informations).
+**Masquer ou filtrer les enregistrements inutiles** : si un enregistrement n’est pas commercialisable, cela peut entraîner une perte de ressources de synchronisation. Si l’utilisateur ou l’utilisatrice de la synchronisation ne peut pas le voir, il ne gaspillera pas de ressources à essayer de le synchroniser. La prise en charge de [&#128279;](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"} peut vous aider à configurer un filtre de synchronisation pour empêcher la synchronisation des enregistrements en fonction de critères supplémentaires. Vous trouverez plus d’informations sur la configuration d’un filtre de synchronisation personnalisé [ici](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}. Il est vivement recommandé d’utiliser les champs d’index dans Salesforce (contactez Salesforce pour plus d’informations).
 
 **Planifier des mises à jour en bloc pendant les heures non critiques** : passez en revue vos modèles de synchronisation des données pour identifier les périodes non critiques. Vérifiez si des mises à jour en bloc peuvent être planifiées au cours de ces périodes non critiques, si possible.
 

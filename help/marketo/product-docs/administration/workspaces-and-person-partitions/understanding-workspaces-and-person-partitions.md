@@ -5,10 +5,20 @@ title: Présentation des espaces de travail et des répartitions de personnes
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
 TQID: https://experienceleague.adobe.com/Ex-WBSNYTFvevcwryuO4CzUsg79nOmjkVx4WMUx9nqA
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2: id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 551
@@ -22,7 +32,7 @@ ht-degree: 78%
 
 >[!CAUTION]
 >
->La configuration des espaces de travail peut être complexe. Contactez le support technique de [](https://nation.marketo.com/t5/Support/ct-p/Support) pour savoir s&#39;ils vous conviennent.
+>La configuration des espaces de travail peut être complexe. Contactez le support technique de [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support) pour savoir s&#39;ils vous conviennent.
 
 Les espaces de travail sont des zones distinctes de Marketo qui contiennent des ressources marketing telles que des programmes, des pages de destination, des e-mails, etc. Ils peuvent être utilisés par plusieurs personnes. Chaque personne a accès à un ou plusieurs espaces de travail.
 
@@ -39,7 +49,7 @@ Les espaces de travail sont des zones distinctes de Marketo qui contiennent des 
 
 >[!NOTE]
 >
->Découvrez comment [ créer un espace de travail ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
+>Découvrez comment [&#x200B; créer un espace de travail &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
 
 ## Partage sur plusieurs espaces de travail {#sharing-across-workspaces}
 
@@ -114,7 +124,7 @@ Pour déplacer des ressources vers un nouvel espace de travail, placez-les dans 
 
 ## Répartitions de personnes {#person-partitions}
 
-Les répartitions de personnes se comportent comme des bases de données distinctes. Chaque répartition a ses propres personnes qui ne sont pas dédupliquées ni mélangées avec d’autres répartitions. Si votre cas d’utilisation professionnel nécessite des enregistrements en double avec la même adresse e-mail, contactez l’assistance Marketo [](https://nation.marketo.com/t5/Support/ct-p/Support).
+Les répartitions de personnes se comportent comme des bases de données distinctes. Chaque répartition a ses propres personnes qui ne sont pas dédupliquées ni mélangées avec d’autres répartitions. Si votre cas d’utilisation professionnel nécessite des enregistrements en double avec la même adresse e-mail, contactez l’assistance Marketo [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 Vous pouvez affecter des répartitions de personne aux [espaces de travail](create-a-new-workspace.md) dans les configurations suivantes :
 

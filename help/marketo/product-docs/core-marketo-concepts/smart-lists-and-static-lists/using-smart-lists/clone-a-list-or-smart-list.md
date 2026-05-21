@@ -5,7 +5,8 @@ title: Cloner une liste ou une liste intelligente
 exl-id: e802fa74-5884-4201-9b55-d6cd7e2a7d9f
 feature: Smart Lists
 TQID: https://experienceleague.adobe.com/hHo0TWwP-GQ2DbHbiFKG9Bcx3RS-FR4GT1rSXPn5UzE
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 88

@@ -5,10 +5,18 @@ title: Intégrer RTP à Google Analytics
 exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
 feature: Web Personalization
 TQID: https://experienceleague.adobe.com/nnx4MhOQreSZOHY2526qb11svyumVMlOzqbybuPWxRQ
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: df8eb12b-4f82-491f-acbb-d74012ca5654
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 629
@@ -77,7 +85,7 @@ Mesurez vos campagnes RTP et corrélez-les avec la moyenne globale de votre site
 
 1. Sous **[!UICONTROL Paramètres du compte]**, **[!UICONTROL Domaine]** et **[!UICONTROL Analytics]**.
 
-1. Cliquez sur ****.
+1. Cliquez sur **&#x200B;**.
 
 1. Activez les **Variables personnalisées** et **Événements** appropriées pour ajouter ces données du RTP au Google Analytics.
 
@@ -89,7 +97,7 @@ Mesurez vos campagnes RTP et corrélez-les avec la moyenne globale de votre site
 
 >[!NOTE]
 >
->Pour envoyer des données de segment à GA, sous la page [[!UICONTROL Modifier le segment] ](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) de la plateforme RTP, cochez la case **[!UICONTROL Envoyer l’événement à Google Analytics lors de la correspondance de segments]**.
+>Pour envoyer des données de segment à GA, sous la page [[!UICONTROL Modifier le segment] &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) de la plateforme RTP, cochez la case **[!UICONTROL Envoyer l’événement à Google Analytics lors de la correspondance de segments]**.
 
 ## Configuration de rapports Google Analytics avec des données RTP {#setting-up-google-analytics-reports-with-rtp-data}
 

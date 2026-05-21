@@ -5,9 +5,12 @@ title: Gérer les abonnements aux rapports
 exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
 feature: Reporting
 TQID: https://experienceleague.adobe.com/PChZcOt9WAOeYcjzhKiBa0QDy2BM-S9UB6n3NuaO7uM
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 231
@@ -27,7 +30,7 @@ Configurez et supprimez les abonnements aux rapports.
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
-   Cette page affiche les abonnements à tous les rapports de votre compte, regroupés par [ type de rapport ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Cela inclut les [abonnements aux rapports de base](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) et aux rapports de l’Explorateur du cycle du chiffre d’affaires.
+   Cette page affiche les abonnements à tous les rapports de votre compte, regroupés par [&#x200B; type de rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Cela inclut les [abonnements aux rapports de base](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) et aux rapports de l’Explorateur du cycle du chiffre d’affaires.
 
    >[!TIP]
    >

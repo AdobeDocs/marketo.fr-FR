@@ -5,9 +5,13 @@ title: Créer une campagne web de widget
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
 TQID: https://experienceleague.adobe.com/N5fOUcDPWM9bxW225YElTMZi6qkoqNEoGHHW3QXj8dw
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
-topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 655
@@ -99,7 +103,7 @@ Une campagne web est une réaction personnalisée associée à un segment spéci
 
 >[!NOTE]
 >
->**Vous souhaitez tester vos campagnes web A/B ?** Une ou plusieurs campagnes web peuvent être testées [A/B pour obtenir des résultats optimaux](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Grâce à la fonctionnalité [!UICONTROL  Réglage automatique ], la plateforme reconnaît automatiquement les campagnes les plus performantes, continue avec les campagnes de conversion les plus performantes et met en pause les autres.
+>**Vous souhaitez tester vos campagnes web A/B ?** Une ou plusieurs campagnes web peuvent être testées [A/B pour obtenir des résultats optimaux](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Grâce à la fonctionnalité [!UICONTROL &#x200B; Réglage automatique &#x200B;], la plateforme reconnaît automatiquement les campagnes les plus performantes, continue avec les campagnes de conversion les plus performantes et met en pause les autres.
 
 ## Modification d’une campagne web {#edit-a-web-campaign}
 

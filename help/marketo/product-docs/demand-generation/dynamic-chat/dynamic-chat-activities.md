@@ -3,7 +3,8 @@ description: Découvrez les filtres et les déclencheurs Dynamic Chat pour les l
 title: Activités [!DNL Dynamic Chat]
 exl-id: ef3bb1a3-6758-4798-92eb-fef28a5ff9c7
 TQID: https://experienceleague.adobe.com/YemfbaYyWpVKNZTszv-v2yVr5NNGKFEOe7H0lmrNG0E
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 257

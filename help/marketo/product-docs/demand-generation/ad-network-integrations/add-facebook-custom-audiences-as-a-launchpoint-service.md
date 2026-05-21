@@ -5,9 +5,12 @@ title: Ajout  [!DNL Facebook] ’audiences personnalisées en tant que  [!DNL La
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
 TQID: https://experienceleague.adobe.com/oqtZ6Dbnnj8FgpPOLwZbLrmTmmex5spooX0VuJeugT0
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-topic_v2: id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+topic_v2:
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 314
@@ -67,7 +70,7 @@ Avec cette intégration, vous pouvez envoyer des données d’audience à partir
 
    >[!CAUTION]
    >
-   >Avant d’utiliser votre intégration, les conditions relatives aux audiences personnalisées de [Accept [!DNL Facebook] sont ](https://www.facebook.com/ads/manage/customaudiences/tos.php) dans votre compte [!DNL Facebook]. Sans cela, les mises à jour de l’audience échoueront.
+   >Avant d’utiliser votre intégration, les conditions relatives aux audiences personnalisées de [Accept [!DNL Facebook] sont &#x200B;](https://www.facebook.com/ads/manage/customaudiences/tos.php) dans votre compte [!DNL Facebook]. Sans cela, les mises à jour de l’audience échoueront.
 
 >[!MORELIKETHIS]
 >

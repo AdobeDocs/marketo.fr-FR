@@ -7,10 +7,15 @@ level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
 TQID: https://experienceleague.adobe.com/67dASITuTPfA7ZDovhR9WKzpSAL3gm3jO98RO8qyAqg
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: f5c2a4bb-71ca-4d7e-8efd-442250e6ba48
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: f5c2a4bb-71ca-4d7e-8efd-442250e6ba48
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 857
@@ -77,7 +82,7 @@ Il existe deux manières d’accéder à l’éditeur Adobe Express :
 
 1. Cochez la case en regard de l’image à modifier. Dans la liste déroulante **[!UICONTROL Actions relatives aux images et aux fichiers]**, sélectionnez **[!UICONTROL Modifier dans Adobe Express]**.
 
-   ![En cochant la case en regard du nom de l’image et en utilisant le menu déroulant Images et actions de fichier ](assets/edit-images-with-adobe-express-2b.png){width="600" zoomable="yes"}
+   ![En cochant la case en regard du nom de l’image et en utilisant le menu déroulant Images et actions de fichier &#x200B;](assets/edit-images-with-adobe-express-2b.png){width="600" zoomable="yes"}
 
    >[!CAUTION]
    >

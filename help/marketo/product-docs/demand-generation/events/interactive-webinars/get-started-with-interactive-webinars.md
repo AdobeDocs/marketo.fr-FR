@@ -4,8 +4,10 @@ title: Prise en main des webinaires interactifs
 feature: Interactive Webinars
 exl-id: 6e1409aa-a60a-4fb2-8abd-cdc0c20a20d9
 TQID: https://experienceleague.adobe.com/u7P-Uv0T5fiVcT2WlMpQjsoQSxWt2alZhIJCi--H-5c
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 295
@@ -15,7 +17,7 @@ ht-degree: 3%
 
 # Prise en main des webinaires interactifs {#get-started-with-interactive-webinars}
 
-Vous avez donc lu la [ Présentation des webinaires interactifs ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md){target="_blank"}{target="_blank"} et êtes prêt à vous lancer. Suivez les étapes ci-dessous pour commencer.
+Vous avez donc lu la [&#x200B; Présentation des webinaires interactifs &#x200B;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md){target="_blank"}{target="_blank"} et êtes prêt à vous lancer. Suivez les étapes ci-dessous pour commencer.
 
 ![](assets/get-started-with-interactive-webinars-1.png)
 

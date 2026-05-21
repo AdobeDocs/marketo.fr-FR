@@ -4,9 +4,12 @@ title: Transmission
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
 TQID: https://experienceleague.adobe.com/AmH0g8c2lKCUOyMiZ2m5J5h-pHbb0JFyq-m7ujEEwow
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 360
@@ -76,7 +79,7 @@ Identifiez et chargez votre compte cible et les propriétaires de ventes respect
 
 +++ Activer les autorisations de routage de compte
 
-1. Connectez-vous à [](https://adminconsole.adobe.com/){target="_blank"}.
+1. Connectez-vous à [&#128279;](https://adminconsole.adobe.com/){target="_blank"}.
 
 1. Sous _Produits_, sélectionnez **Dynamic Chat**.
 

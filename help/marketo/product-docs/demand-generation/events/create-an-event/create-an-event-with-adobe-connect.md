@@ -5,10 +5,16 @@ title: Créer un événement avec Adobe Connect
 exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
 feature: Events
 TQID: https://experienceleague.adobe.com/I6k5QNBRUFdvHu-7xQMolmzHeyVYt-0ajZ0jV-HIPFY
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-subfeature_v2: id: ffdd6159-0e10-4a57-8021-94e93bab8183
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+subfeature_v2:
+  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 425
@@ -25,7 +31,7 @@ La synchronisation avec Adobe Connect vous permet de gérer l’inscription et l
 >* [Lier Adobe Connect et Marketo](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
 >* [Créer un programme d’événement](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
-Tout d’abord, vérifiez que vous avez créé votre réunion ou séminaire dans Adobe Connect. Si vous avez besoin d’aide, consultez le [Guide de l’utilisateur ](https://help.adobe.com/en_US/connect/9.0/using/index.html).
+Tout d’abord, vérifiez que vous avez créé votre réunion ou séminaire dans Adobe Connect. Si vous avez besoin d’aide, consultez le [Guide de l’utilisateur &#x200B;](https://help.adobe.com/en_US/connect/9.0/using/index.html).
 
 Les réunions et séminaires créés dans Adobe Connect doivent l&#39;être dans le dossier spécifié lors de la saisie des informations d&#39;identification dans Marketo. Après avoir créé votre réunion ou séminaire, notez toute information logistique pertinente (comme le numéro de téléphone), à utiliser dans votre e-mail de confirmation et votre fichier ICS.
 

@@ -4,8 +4,10 @@ title: Configurer votre connexion Marketo
 exl-id: 5b499c73-1319-4a58-ac49-61ae5558c05f
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/7fRQ1yvSR3t4KrxEv8Au-sSkM6dRrsLy-TG9Kyt42UI
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 183
@@ -45,7 +47,7 @@ Vous devez obtenir un ensemble d’informations d’identification dans Marketo.
 
    ![](assets/manually-set-up-your-marketo-connection-4.png)
 
-1. Sous [!UICONTROL  Paramètres d’administration ], sélectionnez **[!UICONTROL Marketo]**.
+1. Sous [!UICONTROL &#x200B; Paramètres d’administration &#x200B;], sélectionnez **[!UICONTROL Marketo]**.
 
    ![](assets/manually-set-up-your-marketo-connection-5.png)
 

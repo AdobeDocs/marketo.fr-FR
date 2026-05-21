@@ -5,8 +5,11 @@ hide: true
 exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
 feature: Smart Campaigns
 TQID: https://experienceleague.adobe.com/qhmH0wkDe82aC0sU-wpHNl7kZOQFEYz0JH1dpeIHwVU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: c5f60233-d5ea-4453-a799-0ad258b4d399
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 133
@@ -26,7 +29,7 @@ Outre l’exécution d’actions de flux uniques à partir d’une liste dynamiq
 
    ![](assets/single-flow-actions-from-person-detail-page-2.png)
 
-1. Cliquez sur le menu déroulant **[!UICONTROL Actions de personne]** et sélectionnez l’étape de flux de votre choix. Dans cet exemple, nous utiliserons [ Envoyer un e-mail ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md){target="_blank"}.
+1. Cliquez sur le menu déroulant **[!UICONTROL Actions de personne]** et sélectionnez l’étape de flux de votre choix. Dans cet exemple, nous utiliserons [&#x200B; Envoyer un e-mail &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md){target="_blank"}.
 
    ![](assets/single-flow-actions-from-person-detail-page-3.png)
 

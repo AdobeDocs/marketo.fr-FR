@@ -5,9 +5,12 @@ title: Découverte de nouveau compte
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
 TQID: https://experienceleague.adobe.com/9Bf4cR5lkY9pIFqUSVSpgQL8XJwTv0-jX8-zQdD9Bbw
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 323
@@ -81,4 +84,4 @@ La détection de nouveaux comptes peut vous aider à trouver de nouveaux comptes
 
    >[!TIP]
    >
-   >Une fois vos comptes enregistrés, vous pouvez utiliser une [ audience correspondante sur  [!DNL LinkedIn]](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) pour les cibler.
+   >Une fois vos comptes enregistrés, vous pouvez utiliser une [&#x200B; audience correspondante sur  [!DNL LinkedIn]](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) pour les cibler.

@@ -5,7 +5,8 @@ title: Enregistrez une application sur Azure pour obtenir votre identifiant clie
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 feature: Microsoft Dynamics
 TQID: https://experienceleague.adobe.com/d3mD6KvWIa2q6EWknuPJvnn5oLO-P6hd1zaDxDYuVJg
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 355
@@ -19,7 +20,7 @@ Azure Active Directory étend vos répertoires locaux dans le cloud, fournissant
 
 ## Enregistrement d’une nouvelle application {#registering-a-new-app}
 
-1. [ Connectez-vous ](https://login.microsoftonline.com/){target="_blank"} portail de gestion Microsoft Azure à l’aide d’un compte disposant d’autorisations d’administrateur. Vous pouvez également accéder au portail Microsoft Azure via le Centre d’administration Office 365 en développant l’élément **[!UICONTROL Admin]** dans le volet de navigation de gauche et en sélectionnant **[!UICONTROL Azure AD]**.
+1. [&#x200B; Connectez-vous &#x200B;](https://login.microsoftonline.com/){target="_blank"} portail de gestion Microsoft Azure à l’aide d’un compte disposant d’autorisations d’administrateur. Vous pouvez également accéder au portail Microsoft Azure via le Centre d’administration Office 365 en développant l’élément **[!UICONTROL Admin]** dans le volet de navigation de gauche et en sélectionnant **[!UICONTROL Azure AD]**.
 
    >[!CAUTION]
    >

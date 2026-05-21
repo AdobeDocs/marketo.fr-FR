@@ -5,7 +5,8 @@ title: Étape 1 sur 3 - Ajouter des champs Marketo à Salesforce (Entreprise/Ill
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/YYHZHerCNZ2xlShIBOz07jphJ15S5dGclIMMtb2HD0I
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 764
@@ -131,7 +132,7 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés pour
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. Dans le menu Générer sur la gauche, cliquez sur **[!UICONTROL Personnaliser]** et sélectionnez Contacts. Cliquez sur [!UICONTROL  Champs ].
+1. Dans le menu Générer sur la gauche, cliquez sur **[!UICONTROL Personnaliser]** et sélectionnez Contacts. Cliquez sur [!UICONTROL &#x200B; Champs &#x200B;].
 1. Exécutez les étapes 3 à 10 pour les champs Score, Date d&#39;acquisition et Programme d&#39;acquisition sur l&#39;objet de contact, comme vous l&#39;avez fait pour l&#39;objet de prospect.
 1. Vous pouvez éventuellement utiliser la procédure ci-dessus pour tout champ personnalisé supplémentaire de ce tableau.
 

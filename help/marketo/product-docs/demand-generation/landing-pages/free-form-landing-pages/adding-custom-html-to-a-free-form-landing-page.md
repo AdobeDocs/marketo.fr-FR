@@ -5,8 +5,10 @@ title: Ajouter du HTML personnalisé à une page de destination à structure lib
 exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/SxcMmBYB5tq4xcwlpAvP-1y39nZPS7Xp0jylXdNwVoU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
 source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
 source-wordcount: 166
@@ -26,7 +28,7 @@ Vous pouvez ajouter des scripts personnalisés, des feuilles CSS ou d’autres H
 
    ![](assets/image2014-9-17-12-3a2-3a15.png)
 
-1. Dans l&#39;éditeur de landing page, faites glisser l&#39;élément ****.
+1. Dans l&#39;éditeur de landing page, faites glisser l&#39;élément **&#x200B;**.
 
    ![](assets/image2015-5-21-15-3a52-3a42.png)
 

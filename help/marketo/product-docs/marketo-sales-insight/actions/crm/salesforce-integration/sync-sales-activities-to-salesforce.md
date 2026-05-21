@@ -3,9 +3,13 @@ description: Découvrez comment synchroniser les activités de vente avec Salesf
 title: Synchroniser les activités de vente avec Salesforce
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
 TQID: https://experienceleague.adobe.com/enTE6uqTCWaafotiQUOpOPKYit0m9ov9FNCCsyJ8H9U
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 775
@@ -29,7 +33,7 @@ Cette fonctionnalité nécessite que vous utilisiez l’édition Enterprise/Unli
 
    ![](assets/sync-sales-activities-to-salesforce-1.png)
 
-1. Sous Paramètres d&#39;administration (ou « Mon compte » si vous n&#39;êtes pas administrateur), cliquez sur ****.
+1. Sous Paramètres d&#39;administration (ou « Mon compte » si vous n&#39;êtes pas administrateur), cliquez sur **&#x200B;**.
 
    ![](assets/sync-sales-activities-to-salesforce-2.png)
 
@@ -59,7 +63,7 @@ Une fois que vous avez activé « E-mail à Salesforce (Cci) », vous recevez un
 
    ![](assets/sync-sales-activities-to-salesforce-6.png)
 
-1. Sous Paramètres d&#39;administration (ou « Mon compte » si vous n&#39;êtes pas administrateur), cliquez sur ****.
+1. Sous Paramètres d&#39;administration (ou « Mon compte » si vous n&#39;êtes pas administrateur), cliquez sur **&#x200B;**.
 
    ![](assets/sync-sales-activities-to-salesforce-7.png)
 
@@ -103,7 +107,7 @@ Si vous ne voyez pas Mon e-mail à Salesforce sous vos paramètres, c’est peut
 
    ![](assets/sync-sales-activities-to-salesforce-10.png)
 
-1. Sous Paramètres d&#39;administration (ou « Mon compte » si vous n&#39;êtes pas administrateur), cliquez sur ****.
+1. Sous Paramètres d&#39;administration (ou « Mon compte » si vous n&#39;êtes pas administrateur), cliquez sur **&#x200B;**.
 
    ![](assets/sync-sales-activities-to-salesforce-11.png)
 

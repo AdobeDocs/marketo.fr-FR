@@ -5,8 +5,10 @@ title: Modifier la famille de police du formulaire
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 feature: Forms
 TQID: https://experienceleague.adobe.com/PMKMOWsSq7Sp3GbNkLvtYp-s2-iWu4bmZrNDJAU5zPU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 116
@@ -38,7 +40,7 @@ Les polices Google sont intégrées à l’éditeur de formulaires.
 
    >[!TIP]
    >
-   >Un grand nombre de [polices ](https://fonts.google.com/){target="_blank"} sont disponibles.
+   >Un grand nombre de [polices &#x200B;](https://fonts.google.com/){target="_blank"} sont disponibles.
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 

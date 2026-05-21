@@ -3,8 +3,11 @@ description: Découvrez comment connecter Outlook aux actions Sales Insight. Env
 title: Se connecter à Outlook
 exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
 TQID: https://experienceleague.adobe.com/tonzxiPICvRgvLIfWFADeUL1CLdSVwcqx-dAIETCDOc
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 577

@@ -4,7 +4,8 @@ title: Erreurs de synchronisation Salesforce
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
 feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/vEPgjXh8QKyzC1AiAhRqf4tF-MZpu9GETxrRAJHYVIo
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 197
@@ -26,7 +27,7 @@ Affichez un résumé des erreurs survenues pendant le processus de synchronisati
 
    ![](assets/salesforce-sync-errors-1.png)
 
-1. Sous Intégration, cliquez sur ****, puis sur l’onglet **[!UICONTROL Erreurs de synchronisation]**.
+1. Sous Intégration, cliquez sur **&#x200B;**, puis sur l’onglet **[!UICONTROL Erreurs de synchronisation]**.
 
    ![](assets/salesforce-sync-errors-2.png)
 

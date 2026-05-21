@@ -4,7 +4,8 @@ title: Raisons des appels
 exl-id: 82533d6b-a373-49c7-9cee-271e36916111
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/EYf6JhfnBf-Xk6JeRQs4ojd-F-H3C4iT8DbgFfuyrSk
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 181

@@ -5,9 +5,14 @@ title: Mapper des champs personnalisés à Marketo
 exl-id: c52c9bcb-6448-4ebe-b87f-9e3a48e3d27d
 feature: Integrations
 TQID: https://experienceleague.adobe.com/whJl1biZjBUAZp0w3kkmM5AplWTDXcV3-2KayHmsMnE
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: f82558ea-6af5-44eb-a424-5b3389abb0a3
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 266
@@ -39,7 +44,7 @@ Pour configurer ce paramètre, procédez comme suit dans la zone LaunchPoint de 
 
    ![](assets/image2017-10-24-14-3a56-3a48.png)
 
-1. Comme auparavant, laissez les pages sélectionnées telles quelles, n’apportez **** modifications. Cliquez sur **[!UICONTROL Suivant]**.
+1. Comme auparavant, laissez les pages sélectionnées telles quelles, n’apportez **&#x200B;**&#x200B;modifications. Cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/image2017-10-24-15-3a0-3a54.png)
 

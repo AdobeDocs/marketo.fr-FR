@@ -5,9 +5,12 @@ title: Synchronisation de SFDC - Synchronisation d’objet personnalisé
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/JIkS3cBJD3SlUmKOJKUOuIXTbZyMTZ0LCdOgnz7SHSA
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
-subfeature_v2: id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 311
@@ -71,7 +74,7 @@ Les objets personnalisés créés dans votre instance [!DNL Salesforce] peuvent 
    >
    >N’oubliez pas de réactiver la synchronisation globale.
 
-1. Revenez à l’onglet ****.
+1. Revenez à l’onglet **&#x200B;**.
 
    ![](assets/image2015-4-22-10-3a46-3a25.png)
 

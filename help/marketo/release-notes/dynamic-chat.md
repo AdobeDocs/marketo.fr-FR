@@ -4,9 +4,19 @@ title: Notes de mise à jour de Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
 TQID: https://experienceleague.adobe.com/AAOfVuJRhzuwLD48wA3me91Hx6LPD9NCOGHGaXe-vyA
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 3551
@@ -118,7 +128,7 @@ La solution de secours du round-robin n’est prise en compte que lorsqu’aucun
 
 <p>
 
-_**Transmission du compte**_
+_&#x200B;**Transmission du compte**&#x200B;_
 
 <table><thead>
   <tr>
@@ -144,7 +154,7 @@ _**Transmission du compte**_
   </tr>
 </tbody></table>
 
-_**Transmission personnalisée**_
+_&#x200B;**Transmission personnalisée**&#x200B;_
 
 <table><thead>
   <tr>
@@ -170,7 +180,7 @@ _**Transmission personnalisée**_
   </tr>
 </tbody></table>
 
-_**Transmission d’équipe**_
+_&#x200B;**Transmission d’équipe**&#x200B;_
 
 <table><thead>
   <tr>
@@ -196,7 +206,7 @@ _**Transmission d’équipe**_
   </tr>
 </tbody></table>
 
-_**Transmission du round-robin**_
+_&#x200B;**Transmission du round-robin**&#x200B;_
 
 <table><thead>
   <tr>

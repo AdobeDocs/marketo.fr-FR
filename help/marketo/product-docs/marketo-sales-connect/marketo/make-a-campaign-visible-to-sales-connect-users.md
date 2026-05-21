@@ -5,7 +5,8 @@ title: Rendre une campagne visible pour les utilisateurs et les utilisatrices Sa
 exl-id: 1fde53e3-2764-4e4b-897f-635b78534133
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/WdSLwrvoXF6L4jID6HThIn2JST-aDvtPtXAoWqJO7ZI
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 124
@@ -37,11 +38,11 @@ Les campagnes ne peuvent être partagées que si elles sont rendues visibles. Vo
 
    ![](assets/make-a-marketing-campaign-visible-msc-5.png)
 
-1. Ajoutez l’action de flux [!UICONTROL  Moment intéressant ].
+1. Ajoutez l’action de flux [!UICONTROL &#x200B; Moment intéressant &#x200B;].
 
    ![](assets/make-a-marketing-campaign-visible-msc-6.png)
 
-1. Pour [!UICONTROL  Type ], sélectionnez **[!UICONTROL Web]**.
+1. Pour [!UICONTROL &#x200B; Type &#x200B;], sélectionnez **[!UICONTROL Web]**.
 
    ![](assets/make-a-marketing-campaign-visible-msc-7.png)
 

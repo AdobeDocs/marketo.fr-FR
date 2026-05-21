@@ -5,8 +5,10 @@ title: Activer/désactiver dynamiquement la visibilité d’un champ de formulai
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
 feature: Forms
 TQID: https://experienceleague.adobe.com/U3Lcsc5iBDigd3OdgrN0D7S3NBWllz9BwfztqeDBV98
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 262
@@ -72,6 +74,6 @@ Désormais, lorsque les personnes remplissent ce formulaire et sélectionnent É
 
 >[!IMPORTANT]
 >
->Le comportement des champs de formulaire fonctionne de manière transparente lorsque les valeurs de champ sont définies/mises à jour par le biais d’un script personnalisé à l’aide de [ fonctions API ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} dans Forms 2.0.
+>Le comportement des champs de formulaire fonctionne de manière transparente lorsque les valeurs de champ sont définies/mises à jour par le biais d’un script personnalisé à l’aide de [&#x200B; fonctions API &#x200B;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} dans Forms 2.0.
 >
 >Les champs conditionnels peuvent ne pas fonctionner comme prévu si les valeurs de champ sont modifiées par des scripts externes autres que l’API JavaScript Forms 2.0.

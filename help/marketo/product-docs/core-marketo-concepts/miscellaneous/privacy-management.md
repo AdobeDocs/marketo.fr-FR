@@ -3,8 +3,10 @@ description: Découvrez les outils de gestion de la confidentialité dans Market
 title: Gestion de la confidentialité
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
 TQID: https://experienceleague.adobe.com/MzzRnGGXqzNNFzl2VYU0fZDsdyqhKqJ5BDwfdw1fQaY
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2: id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 439

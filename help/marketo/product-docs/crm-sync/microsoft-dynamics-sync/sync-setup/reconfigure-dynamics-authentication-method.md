@@ -4,7 +4,8 @@ title: Reconfigure [!DNL Dynamics] Authentication Method
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
 feature: Microsoft Dynamics
 TQID: https://experienceleague.adobe.com/wRcBTP-m1VtKDg6L4zrH6zzPIvrFuMEPQd5QoSrrm3I
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 283
@@ -27,7 +28,7 @@ Suivez les étapes ci-dessous pour mettre à jour votre méthode d’authentific
 
    ![](assets/reconfigure-dynamics-authentication-method-1.png)
 
-1. Cliquez sur **** puis **[!UICONTROL Désactiver la synchronisation]**.
+1. Cliquez sur **&#x200B;**&#x200B;puis **[!UICONTROL Désactiver la synchronisation]**.
 
    ![](assets/reconfigure-dynamics-authentication-method-2.png)
 

@@ -5,8 +5,10 @@ title: Référencer une liste ou une liste intelligente dans plusieurs espaces d
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
 TQID: https://experienceleague.adobe.com/NAWn0sS-DldDqgQcLAnrOlaWQXdYBAR9nCrU0j4HlZY
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 187
@@ -48,7 +50,7 @@ Les listes et les listes dynamiques peuvent être partagées et référencées d
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-5.png)
 
-1. Choisissez un **** avec lequel partager et cliquez sur **[!UICONTROL Enregistrer]**.
+1. Choisissez un **&#x200B;**&#x200B;avec lequel partager et cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-6.png)
 

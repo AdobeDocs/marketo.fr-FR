@@ -5,7 +5,8 @@ title: Moments intéressants dans Sales Connect
 exl-id: 210f31d1-606a-479d-8a2b-351b2b1a7678
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/KgwnG6Rpi3BJy-Vboy7MuPkjhz-O-BOzmncdgpbrNVU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 286
@@ -23,7 +24,7 @@ Les moments intéressants sont la clé pour communiquer avec votre équipe de ve
 
 >[!PREREQUISITES]
 >
->* Vous devez disposer d’une [ connexion au CRM Salesforce ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}
+>* Vous devez disposer d’une [&#x200B; connexion au CRM Salesforce &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}
 >* Vous devez être le prospect ou le propriétaire du contact dans Salesforce
 >* Vous devez avoir accès à [accorder l’accès à la connexion Marketo Engage](/help/marketo/product-docs/marketo-sales-connect/marketo/granting-access-to-users.md){target="_blank"}
 

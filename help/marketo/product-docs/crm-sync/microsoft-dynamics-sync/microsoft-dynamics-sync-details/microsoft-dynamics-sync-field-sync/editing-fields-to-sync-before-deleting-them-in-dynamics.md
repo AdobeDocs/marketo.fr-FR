@@ -4,7 +4,8 @@ title: Modification des champs à synchroniser avant leur suppression dans Dynam
 exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
 feature: Microsoft Dynamics
 TQID: https://experienceleague.adobe.com/vM7JJUlegPvtRlqgPJSIjDeq9jMMUr2PA6OAC-CopJI
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 214
@@ -44,6 +45,6 @@ Il peut arriver que vous souhaitiez supprimer des champs dans [!DNL Dynamics]. M
 
 >[!NOTE]
 >
->Si la synchronisation n’est pas arrêtée avant la suppression d’un champ dans [!DNL Dynamics], elle peut rencontrer des erreurs. Si c’est le cas, la synchronisation s’arrête. Avant de reprendre, l’administrateur Marketo doit vérifier « [!UICONTROL  Sélectionner les champs à synchroniser ] » (décrit ci-dessus) et cliquer sur **[!UICONTROL Enregistrer]** pour que la synchronisation accepte les modifications du schéma.
+>Si la synchronisation n’est pas arrêtée avant la suppression d’un champ dans [!DNL Dynamics], elle peut rencontrer des erreurs. Si c’est le cas, la synchronisation s’arrête. Avant de reprendre, l’administrateur Marketo doit vérifier « [!UICONTROL &#x200B; Sélectionner les champs à synchroniser &#x200B;] » (décrit ci-dessus) et cliquer sur **[!UICONTROL Enregistrer]** pour que la synchronisation accepte les modifications du schéma.
 
 N’oubliez pas d’activer la synchronisation après l’enregistrement des modifications.

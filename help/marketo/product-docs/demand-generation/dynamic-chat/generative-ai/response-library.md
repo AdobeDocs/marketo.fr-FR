@@ -4,7 +4,8 @@ title: Bibliothèque de réponses
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
 TQID: https://experienceleague.adobe.com/huqmL3JA7BaWaekIcKm2HjeqYCW6pALsp7fNyhTO1XU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 385
@@ -46,7 +47,7 @@ Au même endroit, affichez toutes vos questions, leur statut d’approbation et 
 
 >[!NOTE]
 >
->Par défaut, toutes les questions et réponses générées se voient attribuer le statut « [!UICONTROL à réviser] ». Seules les questions et réponses « [!UICONTROL  approuvées ] sont mises à la disposition des visiteurs du chat.
+>Par défaut, toutes les questions et réponses générées se voient attribuer le statut « [!UICONTROL à réviser] ». Seules les questions et réponses « [!UICONTROL &#x200B; approuvées &#x200B;] sont mises à la disposition des visiteurs du chat.
 
 1. Dans la **[!UICONTROL bibliothèque de réponses]**, cliquez sur la question souhaitée.
 

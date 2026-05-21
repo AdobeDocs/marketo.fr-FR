@@ -5,7 +5,8 @@ title: Mappage par défaut des champs Salesforce
 exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/i7ducTSqHY1rBTOQ8qNHPRCuETASKkuVWNsQGOW3OPE
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 377
@@ -24,9 +25,9 @@ Lorsque vous synchronisez initialement votre compte Marketo Engage avec Salesfor
 | [!UICONTROL Chiffre d’affaires annuel] | [!UICONTROL Chiffre d’affaires annuel] |
 | [!UICONTROL Ville] | [!UICONTROL Ville] |
 | [!UICONTROL Société] | [!UICONTROL Nom de la société] |
-| [!UICONTROL Date convertie] | [!UICONTROL Date de conversion ] |
+| [!UICONTROL Date convertie] | [!UICONTROL Date de conversion &#x200B;] |
 | [!UICONTROL Pays] | [!UICONTROL Pays] |
-| [!UICONTROL Date de création] | [!UICONTROL Date de création ] |
+| [!UICONTROL Date de création] | [!UICONTROL Date de création &#x200B;] |
 | [!UICONTROL Description] | [!UICONTROL Remarques sur la personne] |
 | [!UICONTROL E-mail] | [!UICONTROL Adresse électronique] |
 | [!UICONTROL Fax] | [!UICONTROL Numéro de fax] |
@@ -36,17 +37,17 @@ Lorsque vous synchronisez initialement votre compte Marketo Engage avec Salesfor
 | [!UICONTROL Converti] | [!UICONTROL SFDC Est Converti] |
 | [!UICONTROL Supprimé] | [!UICONTROL SFDC Est Supprimé] |
 | [!UICONTROL Nom] | [!UICONTROL Nom] |
-| Source du lead][!UICONTROL  | [!UICONTROL Source] |
-| [!UICONTROL  Score du lead ] | [!UICONTROL Score] |
+| Source du lead | [!UICONTROL Source] |
+| [!UICONTROL &#x200B; Score du lead &#x200B;] | [!UICONTROL Score] |
 | [!UICONTROL Téléphone portable] | [!UICONTROL Numéro de téléphone mobile] |
-| [!UICONTROL  Employés ] | [!UICONTROL Nombre d’employés] |
+| [!UICONTROL &#x200B; Employés &#x200B;] | [!UICONTROL Nombre d’employés] |
 | [!UICONTROL Téléphone] | [!UICONTROL Numéro de téléphone] |
-| [!UICONTROL  Code Postal ] | [!UICONTROL Code postal] |
+| [!UICONTROL &#x200B; Code Postal &#x200B;] | [!UICONTROL Code postal] |
 | [!UICONTROL Évaluation] | [!UICONTROL Évaluation] |
-| [!UICONTROL  Salutation ] | [!UICONTROL  Salutation ] |
+| [!UICONTROL &#x200B; Salutation &#x200B;] | [!UICONTROL &#x200B; Salutation &#x200B;] |
 | [!UICONTROL État/Province] | [!UICONTROL État] |
 | [!UICONTROL Statut] | [!UICONTROL Statut] |
-| [!UICONTROL  Rue ] | [!UICONTROL Adresse] |
+| [!UICONTROL &#x200B; Rue &#x200B;] | [!UICONTROL Adresse] |
 | [!UICONTROL Titre] | [!UICONTROL Fonction] |
 | [!UICONTROL Site web] | [!UICONTROL Site web] |
 
@@ -54,17 +55,17 @@ Lorsque vous synchronisez initialement votre compte Marketo Engage avec Salesfor
 
 | Champ SFDC | Champ Marketo |
 |---|---|
-| [!UICONTROL Date de naissance] | [!UICONTROL  Date de naissance ] |
-| [!UICONTROL Date de création] | [!UICONTROL Date de création ] |
-| [!UICONTROL  Description du contact ] | [!UICONTROL Remarques sur la personne] |
+| [!UICONTROL Date de naissance] | [!UICONTROL &#x200B; Date de naissance &#x200B;] |
+| [!UICONTROL Date de création] | [!UICONTROL Date de création &#x200B;] |
+| [!UICONTROL &#x200B; Description du contact &#x200B;] | [!UICONTROL Remarques sur la personne] |
 | [!UICONTROL E-mail] | [!UICONTROL Adresse électronique] |
 | [!UICONTROL Fax professionnel] | [!UICONTROL Numéro de fax] |
 | [!UICONTROL Prénom] | [!UICONTROL Prénom] |
 | [!UICONTROL Désinscription Aux E-Mails] | [!UICONTROL Désabonné] |
 | [!UICONTROL Supprimé] | [!UICONTROL SFDC Est Supprimé] |
 | [!UICONTROL Nom] | [!UICONTROL Nom] |
-| Source du lead][!UICONTROL  | [!UICONTROL Source] |
-| [!UICONTROL  Score du lead ] | [!UICONTROL Score] |
+| Source du lead | [!UICONTROL Source] |
+| [!UICONTROL &#x200B; Score du lead &#x200B;] | [!UICONTROL Score] |
 | [!UICONTROL MailingCity] | [!UICONTROL Ville] |
 | [!UICONTROL MailingCountry] | [!UICONTROL Pays] |
 | [!UICONTROL MailingPostalCode] | [!UICONTROL Code postal] |
@@ -72,7 +73,7 @@ Lorsque vous synchronisez initialement votre compte Marketo Engage avec Salesfor
 | [!UICONTROL MailingStreet] | [!UICONTROL Adresse] |
 | [!UICONTROL Téléphone portable] | [!UICONTROL Numéro de téléphone mobile] |
 | [!UICONTROL Téléphone professionnel] | [!UICONTROL Numéro de téléphone] |
-| [!UICONTROL  Salutation ] | [!UICONTROL  Salutation ] |
+| [!UICONTROL &#x200B; Salutation &#x200B;] | [!UICONTROL &#x200B; Salutation &#x200B;] |
 | [!UICONTROL Titre] | [!UICONTROL Fonction] |
 
 ## Champs de compte {#account-fields}
@@ -85,15 +86,15 @@ Lorsque vous synchronisez initialement votre compte Marketo Engage avec Salesfor
 | [!UICONTROL Code Postal De Facturation] | [!UICONTROL Code postal de facturation] |
 | [!UICONTROL Province/État de facturation] | [!UICONTROL État de facturation] |
 | [!UICONTROL Rue de facturation] | [!UICONTROL Adresse de facturation] |
-| [!UICONTROL  Description du compte ] | [!UICONTROL Notes de la société] |
+| [!UICONTROL &#x200B; Description du compte &#x200B;] | [!UICONTROL Notes de la société] |
 | [!UICONTROL Industrie] | [!UICONTROL Industrie] |
 | [!UICONTROL Supprimé] | [!UICONTROL SFDC Est Supprimé] |
 | [!UICONTROL Nom du compte] | [!UICONTROL Nom de la société] |
-| [!UICONTROL  Employés ] | [!UICONTROL Nombre d’employés] |
+| [!UICONTROL &#x200B; Employés &#x200B;] | [!UICONTROL Nombre d’employés] |
 | [!UICONTROL Téléphone du compte] | [!UICONTROL Téléphone principal] |
-| [!UICONTROL  Code SIC ] | [!UICONTROL  Code SIC ] |
-| [!UICONTROL Site du compte] | [!UICONTROL Site ] |
-| [!UICONTROL Type de compte] | [!UICONTROL Type ] |
+| [!UICONTROL &#x200B; Code SIC &#x200B;] | [!UICONTROL &#x200B; Code SIC &#x200B;] |
+| [!UICONTROL Site du compte] | [!UICONTROL Site &#x200B;] |
+| [!UICONTROL Type de compte] | [!UICONTROL Type &#x200B;] |
 | [!UICONTROL Site web] | [!UICONTROL Site web] |
 
 ## Champs système liés au [!DNL Salesforce] dans Marketo (lecture seule) {#salesforce-related-system-fields-in-marketo-read-only}
