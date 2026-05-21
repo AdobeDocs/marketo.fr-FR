@@ -35,7 +35,7 @@ Les espaces de travail sont utiles pour subdiviser votre entreprise. Les raisons
 
 >[!TIP]
 >
->Pour en savoir plus sur les bonnes pratiques relatives à Workspace, contactez [les services professionnels de Marketo](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
+>Pour en savoir plus sur les bonnes pratiques relatives à Workspace, contactez [les services professionnels de Marketo](https://business.adobe.com/fr/products/marketo/services-support.html){target="_blank"}.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 

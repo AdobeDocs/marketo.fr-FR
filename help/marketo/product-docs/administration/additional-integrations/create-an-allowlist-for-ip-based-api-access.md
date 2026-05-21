@@ -29,7 +29,7 @@ Parfois, vous souhaitez accorder l’accès à l’API uniquement à une adresse
 
 >[!CAUTION]
 >
->L&#39;activation de cette fonctionnalité vous empêche d&#39;accéder au serveur MCP [&#128279;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server){target="_blank"} pour le moment. Ce problème devrait être résolu dans une prochaine version.
+>L&#39;activation de cette fonctionnalité vous empêche d&#39;accéder au serveur MCP [&#128279;](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/mcp-server){target="_blank"} pour le moment. Ce problème devrait être résolu dans une prochaine version.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 

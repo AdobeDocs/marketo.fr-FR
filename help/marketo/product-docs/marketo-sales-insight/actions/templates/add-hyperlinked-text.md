@@ -31,7 +31,7 @@ Suivez les étapes ci-dessous pour savoir comment ajouter des liens hypertexte �
 
    ![](assets/add-hyperlinked-text-3.png)
 
-1. Saisissez l’URL à laquelle vous souhaitez qu’il soit lié (c’est-à-dire `https://experienceleague.adobe.com/docs/marketo/using/home.html`). Choisissez si vous souhaitez que l’URL s’ouvre dans la même fenêtre ou dans une nouvelle, puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Saisissez l’URL à laquelle vous souhaitez qu’il soit lié (c’est-à-dire `https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=fr`). Choisissez si vous souhaitez que l’URL s’ouvre dans la même fenêtre ou dans une nouvelle, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/add-hyperlinked-text-4.png)
 
