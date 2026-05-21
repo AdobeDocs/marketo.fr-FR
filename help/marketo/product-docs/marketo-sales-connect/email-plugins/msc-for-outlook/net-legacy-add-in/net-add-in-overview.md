@@ -4,10 +4,15 @@ description: Découvrez le complément .NET Sales Connect pour Outlook. Découvr
 title: Vue d’ensemble du module complémentaire .NET
 exl-id: fa40377e-e70b-46d3-a75f-5fa791f9275b
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/HpLSLHftRE-0shyxdjtZZDbDchSqu53gbIHjTihnsHc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 5%
+source-wordcount: 239
+ht-degree: 6%
 
 ---
 

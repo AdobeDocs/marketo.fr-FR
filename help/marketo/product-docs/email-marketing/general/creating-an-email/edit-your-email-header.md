@@ -4,9 +4,16 @@ description: Découvrez comment modifier l’en-tête de votre e-mail (à partir
 title: Modifier l’en-tête de votre e-mail
 exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/bhEcWw0qUWfZSg4imEOnVeGjZ0uukWgRC9QqeQuuhko
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: 213
 ht-degree: 3%
 
 ---

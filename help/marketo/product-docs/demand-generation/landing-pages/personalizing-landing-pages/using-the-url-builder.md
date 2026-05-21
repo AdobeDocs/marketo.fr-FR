@@ -4,10 +4,15 @@ description: Découvrez comment utiliser le Créateur d’URL pour les URL perso
 title: Utiliser le Générateur d’URL
 exl-id: f8c1e459-f50f-4f74-bf8a-1f1b64fcf46c
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/C7P2TIGZMWFZs81tdVuYuM9T3VYZQdMBx8eFO7e5ZHg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 7%
+source-wordcount: 134
+ht-degree: 5%
 
 ---
 
@@ -31,4 +36,4 @@ Le créateur d’URL vous aide à créer des URL qui peuvent remplir des champs 
    >
    >Si vous ne voyez aucun champ disponible dans le créateur, assurez-vous que votre formulaire comporte des champs masqués et qu’ils sont [définis pour accepter les paramètres d’URL](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md#url-parameter).
 
-Bon travail ! Vous pouvez maintenant copier et coller l’URL et l’utiliser sur le web.
+Vous pouvez maintenant copier et coller l’URL et l’utiliser sur le web.

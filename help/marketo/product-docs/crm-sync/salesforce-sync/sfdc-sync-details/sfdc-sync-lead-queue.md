@@ -4,10 +4,13 @@ description: Découvrez comment affecter des personnes aux files d’attente de 
 title: Synchronisation de SFDC - File d’attente des leads
 exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+TQID: https://experienceleague.adobe.com/aUrT7qSMy65t3K07O176nt-Bzjm9urgnXKAkZgs1-cs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 13%
+source-wordcount: 150
+ht-degree: 17%
 
 ---
 
@@ -19,8 +22,8 @@ Marketo vous permet d’ajouter des personnes aux [[!DNL Salesforce] files d’a
 
 Vous pouvez affecter une personne à une file d’attente de leads [!DNL Salesforce] à l’aide de l’une des actions de flux suivantes :
 
-* [&#x200B; Synchroniser la personne avec SFDC &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}
-* [Modifier le propriétaire](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}
+* [Synchroniser une personne dans SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}
+* [Modifier l’entité propriétaire](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}
 
 >[!NOTE]
 >

@@ -4,10 +4,20 @@ description: Découvrez comment les intégrations réseau et connectent les donn
 title: Présentation des intégrations de réseau publicitaire
 exl-id: c13b5dc2-8fc1-40de-acfb-eede0e1fb099
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/cqrXgz6GK9SP798tPfcISrONRmT1HXSeP1-OE7BQt8I
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '256'
-ht-degree: 3%
+source-wordcount: 253
+ht-degree: 12%
 
 ---
 
@@ -17,7 +27,7 @@ ht-degree: 3%
 
 ## Fonctionnement des intégrations de réseau publicitaire {#how-ad-network-integrations-work}
 
-Les intégrations de réseau publicitaire connectent les données d’audience uniques de Marketo à vos systèmes de médias achetés afin que vous puissiez exécuter des campagnes publicitaires numériques plus ciblées et personnalisées. Ces intégrations fonctionnent actuellement avec [!DNL Facebook], [!DNL LinkedIn] et Google.
+Les intégrations de réseaux publicitaires connectent les données d’audience unique de Marketo à vos systèmes médias payés, vous pouvez donc exécuter des campagnes publicitaires numériques plus ciblées et plus personnalisées. Ces intégrations fonctionnent actuellement avec [!DNL Facebook], [!DNL LinkedIn] et Google.
 
 Les fonctionnalités incluent :
 
@@ -44,7 +54,7 @@ Les fonctionnalités incluent :
 
 Vous pouvez utiliser les intégrations pour :
 
-* [Ajouter Google [!DNL AdWords] as a [!DNL LaunchPoint] Service](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
+* [Ajouter  [!DNL AdWords] as a [!DNL LaunchPoint] Service](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
 * [Ajout de leads à une audience personnalisée dans  [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
 * [Créez une audience personnalisée dans  [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 * [Configurer  [!DNL Facebook]  Conversions Hors Ligne](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
@@ -52,6 +62,6 @@ Vous pouvez utiliser les intégrations pour :
 
 |   | Données d’audience | Ingestion de leads | Conversion hors ligne |
 |---|---|---|---|
-| ![—](assets/facebook-logo-2-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25-1.png) |
-| ![—](assets/linkedin-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) |
-| ![—](assets/google-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) | ![—](assets/checkmark-flat-25.png) |
+| ![--](assets/facebook-logo-2-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25-1.png) |
+| ![--](assets/linkedin-logo-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25.png) | ![--](assets/x-mark-3-256-25.png) |
+| ![--](assets/google-logo-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/x-mark-3-256-25.png) | ![--](assets/checkmark-flat-25.png) |

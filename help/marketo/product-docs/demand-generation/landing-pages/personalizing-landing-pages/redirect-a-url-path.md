@@ -4,16 +4,19 @@ description: Découvrez comment rediriger un chemin d’URL pour les pages de de
 title: Rediriger un chemin d’URL
 exl-id: 5857971a-507b-4946-b131-a5a74eef0d9a
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/tLOxmCH9CqI7FkYXOxTe9FPs5h77fQRt-H9B-J-i2p0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 9%
+source-wordcount: 153
+ht-degree: 7%
 
 ---
 
 # Rediriger un chemin d’URL {#redirect-a-url-path}
 
-Marketo facilite la redirection d’un chemin URL vers la page de votre choix. Voici comment faire.
+Marketo facilite la redirection d’un chemin URL vers la page de votre choix.
 
 >[!NOTE]
 >
@@ -45,7 +48,7 @@ Marketo facilite la redirection d’un chemin URL vers la page de votre choix. V
 
    Vous pouvez également [utiliser les pages de destination Marketo](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md) comme destination .
 
-Félicitations ! Vous avez correctement redirigé votre chemin URL.
+Le chemin de votre URL a été redirigé.
 
 >[!MORELIKETHIS]
 >

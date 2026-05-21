@@ -4,9 +4,15 @@ description: Découvrez comment personnaliser les moments Marketo. Personnalisez
 title: Personnalisation des Moments Marketo
 exl-id: f92c9215-0ee3-4918-8194-e6d1684a71c6
 feature: Mobile Marketing
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+TQID: https://experienceleague.adobe.com/ycYc1PFwTMFWb-Jxcoxm46jr7fpIV398w-0S2Ytiwk0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: 158
 ht-degree: 5%
 
 ---

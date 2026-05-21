@@ -3,9 +3,14 @@ unique-page-id: 2953207
 description: Découvrez comment créer un dossier de campagne dans les activités marketing. Organisez votre espace de travail avec des dossiers de campagne pour l’automatisation et les ressources.
 title: Créer un dossier de campagne
 exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+TQID: https://experienceleague.adobe.com/8hUgJiQZ-Lf4osq-sSHBd-0NZEG2SplxIycUluBeOsk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: 110
 ht-degree: 20%
 
 ---

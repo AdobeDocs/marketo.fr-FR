@@ -7,9 +7,9 @@ role: User
 level: Beginner, Intermediate
 hide: true
 exl-id: 63d2e356-1a42-4cd2-b11f-3499f963c2dd
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '902'
 ht-degree: 84%
 
 ---
@@ -167,7 +167,7 @@ Pour personnaliser votre **[!UICONTROL style d’écriture]** :
 
 1. Le cas échéant, sélectionnez l’une de vos règles ou exclusions pour la mettre à jour ou la supprimer.
 
-1. Cliquez sur le bouton « Modifier » pour modifier votre exemple ou sur l’icône « Supprimer » pour le supprimer.
+1. Cliquez sur l’icône **[!UICONTROL Modifier]** pour modifier votre entrée ou sur l’icône **[!UICONTROL Supprimer]** pour la supprimer.
 
    CAPTURE D’ÉCRAN
 

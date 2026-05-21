@@ -4,9 +4,12 @@ description: Découvrez comment utiliser la logique de règle de liste dynamique
 title: Utilisation de la logique avancée de règle de liste intelligente
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/fApf1UB9N8aT8Eqi8oibEnWYiNjET-QcWYTvCfgJHgs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: 310
 ht-degree: 3%
 
 ---

@@ -4,9 +4,12 @@ description: Découvrez d’autres administrateurs et la gestion de l’équipe 
 title: Administrateurs et administratrices supplémentaires
 exl-id: 57c0024b-6b36-4b1c-bcee-b1dbb9fdb57d
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/H23fbj4EFvddKp8QZHj2y9RCN56yBIDhMp0oLFGI5d8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: 53
 ht-degree: 7%
 
 ---

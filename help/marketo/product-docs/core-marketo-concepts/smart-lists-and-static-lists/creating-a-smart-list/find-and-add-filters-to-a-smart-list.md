@@ -4,9 +4,12 @@ description: Découvrez comment rechercher et ajouter des filtres à une liste d
 title: Rechercher et ajouter des filtres à une liste intelligente
 exl-id: de9afdc5-452e-47a4-99cf-ed7374bf114f
 feature: Smart Lists
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/eQSlCfCck7SpNY-11SOd-KtnwWFD8eOl-jrTWO8CswM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: 137
 ht-degree: 14%
 
 ---

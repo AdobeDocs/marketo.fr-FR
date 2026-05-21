@@ -4,9 +4,14 @@ description: Découvrez les colonnes des e-mails et la disposition des pages des
 title: Colonnes et mise en page des e-mails
 exl-id: 689220e1-5ace-4225-98ff-21afd97f071b
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/Bnlf8w9L3M-wZJQZUJoWNLgSQvLOmMmw4oKuV1ToJnk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '532'
+source-wordcount: 533
 ht-degree: 2%
 
 ---

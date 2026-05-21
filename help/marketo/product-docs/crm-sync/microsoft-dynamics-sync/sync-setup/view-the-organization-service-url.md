@@ -4,9 +4,14 @@ description: Découvrez comment trouver l’URL du service d’organisation dans
 title: Afficher l’URL de service d’organisation
 exl-id: 37c6afa3-ae82-4134-8a00-b4dc08064f5d
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+TQID: https://experienceleague.adobe.com/KcJDUR6bHnMeWi7R4-vSMvJYuTf3eoj4Ht0gJL1jGQQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: 98
 ht-degree: 10%
 
 ---

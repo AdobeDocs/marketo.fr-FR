@@ -4,9 +4,14 @@ description: Découvrez comment configurer le compte Insight pour les équipes c
 title: Configurer Account Insight
 exl-id: 50e24974-339b-4a42-b5ca-2e80ab47d313
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+TQID: https://experienceleague.adobe.com/g9A-WspGDM00YUlXMVsMzFxdjgooaL-kvsKck5hH5EA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: 122
 ht-degree: 9%
 
 ---

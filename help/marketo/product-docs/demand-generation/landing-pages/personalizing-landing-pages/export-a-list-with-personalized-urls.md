@@ -4,10 +4,13 @@ description: Découvrez comment exporter une liste avec des URL personnalisées 
 title: Exporter une liste avec des URL personnalisées
 exl-id: a267af34-9812-4994-b506-bba32e89e66c
 feature: Landing Pages
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/4GUDuUUCJroLl2v1QGD8-7k9ZwmzrZtfzB2DAQBVZTs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '187'
-ht-degree: 6%
+source-wordcount: 170
+ht-degree: 7%
 
 ---
 
@@ -18,7 +21,7 @@ ht-degree: 6%
 >* [Activer les URL personnalisées pour votre compte](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 >* [Activer des URL personnalisées pour une page de destination](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
 
-1. Sélectionnez votre liste ou votre liste dynamique, cliquez sur l’onglet **[!UICONTROL Leads]** pour obtenir les résultats, puis cliquez sur l’icône Excel. INLINE Vérifiez que vous avez **[!UICONTROL Code unique]** et **[!UICONTROL Nom unique Marketo]** [colonnes visibles](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
+1. Sélectionnez votre liste ou votre liste dynamique, cliquez sur l’onglet **[!UICONTROL Leads]** pour obtenir les résultats, puis cliquez sur l’icône Excel. Assurez-vous que **[!UICONTROL Code unique]** et **[!UICONTROL Nom unique Marketo]** [colonnes visibles](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
@@ -32,7 +35,7 @@ ht-degree: 6%
 
    >[!TIP]
    >
-   >Si plusieurs URL s’affichent pour la même page de destination, cela est probablement dû au fait que vous avez modifié l’URL des pages à un moment donné dans le passé et créé une redirection.
+   >Si vous voyez plusieurs URL pour la même page de destination, c’est probablement parce que vous avez modifié l’URL de la page à un moment donné dans le passé et créé une redirection.
 
 1. Choisissez un **[!UICONTROL Style]**, puis cliquez sur **[!UICONTROL Exporter]**.
 
@@ -41,8 +44,6 @@ ht-degree: 6%
 1. Une fois l’exportation terminée, cliquez sur le lien **[!UICONTROL Télécharger maintenant]** pour enregistrer le fichier.
 
    ![](assets/image2014-9-18-13-3a37-3a27.png)
-
-   Et c&#39;est fini ! Vous disposez désormais d’une liste de prospects et d’URL personnalisées.
 
    ![](assets/image2014-9-18-13-3a37-3a36.png)
 

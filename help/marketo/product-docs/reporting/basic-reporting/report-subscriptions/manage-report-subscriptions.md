@@ -4,9 +4,16 @@ description: Découvrez comment gérer tous les abonnements aux rapports au mêm
 title: Gérer les abonnements aux rapports
 exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
 feature: Reporting
-source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
+TQID: https://experienceleague.adobe.com/PChZcOt9WAOeYcjzhKiBa0QDy2BM-S9UB6n3NuaO7uM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: 231
 ht-degree: 3%
 
 ---

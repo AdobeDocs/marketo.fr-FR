@@ -4,9 +4,12 @@ description: Découvrez comment configurer le bouton Ignorer et approuver votre 
 title: Configurer le bouton Ignorer et approuver le message
 exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/YtWX8jXyDaZYPrWg-K-NEwKmX7EGAeJbrrIjrEyaJRA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: 377
 ht-degree: 0%
 
 ---

@@ -4,9 +4,14 @@ description: Découvrez comment personnaliser le message du lien de désabonneme
 title: Personnaliser le message du lien de désabonnement
 exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/kv6F3guF1MHkS25cr-yr3QF-DtAsoRqNaCVrCUpMiEY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: 219
 ht-degree: 4%
 
 ---

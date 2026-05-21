@@ -5,10 +5,13 @@ title: Ajouter un bouton Social à une page de destination à structure libre
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 hide: true
 feature: Landing Pages
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/siTy0QNBBmitEfs7pg8xxW5Kdul2GF2NYRVTzTzQZPU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 7%
+source-wordcount: 240
+ht-degree: 8%
 
 ---
 
@@ -32,7 +35,7 @@ Un bouton de réseau social encourage les utilisateurs à partager votre contenu
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 
-   Une fois votre page de destination active, reportez-vous à l’activité générée par votre _bouton social (avec Analytics) sur le tableau de bord des réseaux sociaux_.
+   Une fois votre page de destination active, vous pouvez afficher l’activité générée par votre bouton de réseau social (avec Analytics) dans le tableau de bord des réseaux sociaux.
 
    Si vous ajoutez plutôt un [!UICONTROL Bouton J’aime/Recommander (Lite)], consultez le nombre de partages dans le [rapport de performances sur les pages de destination](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
 
@@ -50,10 +53,6 @@ Un bouton de réseau social encourage les utilisateurs à partager votre contenu
    >
    >Pour gagner du temps, vous pouvez utiliser l’option **[!UICONTROL Cloner à partir de]** pour copier tous les paramètres d’un bouton social existant.
 
-   [publiez la landing page sur Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) _placez le bouton social sur votre site web_
+1. Publiez la landing page [sur Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) et placez le bouton social sur votre site web.
 
-Félicitations ! Vous avez ajouté un bouton social à votre page de destination. Veillez à approuver la page de destination.
-
->[!MORELIKETHIS]
->
->vous avez terminé, mais vous pouvez modifier les paramètres de votre bouton social si nécessaire. Commencez par _personnaliser le style du bouton_ ou _modifier les messages de partage_ qui s’affichent.
+Vous avez ajouté un bouton social à votre page de destination. Approuvez la page de destination lorsque vous êtes prêt(e).

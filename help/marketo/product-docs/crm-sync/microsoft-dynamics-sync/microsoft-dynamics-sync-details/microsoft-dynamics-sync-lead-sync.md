@@ -4,9 +4,12 @@ description: Découvrez comment fonctionne la synchronisation des prospects entr
 title: Synchronisation Microsoft Dynamics - Synchronisation des leads
 exl-id: ea04a039-32f7-41f9-85fb-18df8e236390
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/BB-28aHosrt72difKAr7vgYqdI8a9ts0aOSnbWJzbw8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: 309
 ht-degree: 0%
 
 ---

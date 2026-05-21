@@ -3,14 +3,32 @@ description: Configurez la section Design Studio pour votre nouvelle instance Ma
 title: Bonnes pratiques relatives aux nouvelles instances - Liste de contrôle de Design Studio
 feature: Getting Started
 exl-id: 070ee235-dad0-4627-bac0-14bf0174bb03
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+TQID: https://experienceleague.adobe.com/RBppQJwjVVJ-5eQDWh-990TJDXF4c7EPEja7uHRlI6I
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+  - id: ea6641cb-8461-4151-a8a9-9faaa44a928a
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '369'
-ht-degree: 6%
+source-wordcount: 625
+ht-degree: 5%
 
 ---
 
-# Bonnes pratiques relatives aux nouvelles instances : liste de contrôle de Design Studio {#new-instance-best-practices-design-studio-checklist}
+# Bonnes pratiques relatives à une nouvelle instance : liste de contrôle du studio de conception {#new-instance-best-practices-design-studio-checklist}
 
 C’est dans la section Design Studio que doivent se trouver les « ressources globales » réutilisables. Créez les ressources globales que votre organisation prévoit d’utiliser dans les programmes, utilisez une convention de nommage cohérente et organisez-les dans les sous-dossiers pour faciliter les recherches.
 
@@ -58,10 +76,10 @@ N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting
   </tr>
   <tr>
     <td>Confidentialité et conformité</td>
-    <td><li>Veillez à ce que vos formulaires <a href="https://business.adobe.com/fr/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Règlement général sur la protection des données (RGPD)</a> soient conformes.</li></td>
+    <td><li>Veillez à ce que vos formulaires <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Règlement général sur la protection des données (RGPD)</a> soient conformes.</li></td>
   </tr>
   <tr>
-    <td>Normalisation Des Données</td>
+    <td>Standardisation des données</td>
     <td><li>Envisagez d’appliquer des listes de sélection aux <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form#product-docs" target="_blank"> champs de formulaire </a> plutôt qu’aux champs de texte ouvert pour éviter le désordre des données.</li></td>
   </tr>
 </tbody>
@@ -143,7 +161,7 @@ N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting
 <tbody>
   <tr>
     <td>Structure de dossiers </td>
-    <td><li>Créez des sous-dossiers pour chaque type de ressource et <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank">organisez les ressources globales</a> (par exemple, les flux de conversation, les modèles d’e-mail, les e-mails, les formulaires, les images et les fichiers, les pages de destination, les modèles de page de destination, les fragments de code, etc.) de manière appropriée.</li></td>
+    <td><li>Créez des sous-dossiers pour chaque type de ressource et <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders" target="_blank">organisez les ressources globales</a> (par exemple, les flux de conversation, les modèles d’e-mail, les e-mails, les formulaires, les images et les fichiers, les landing pages, les modèles de landing page, les fragments de code, etc.) correctement.</li></td>
   </tr>
 </tbody>
 </table>

@@ -4,9 +4,16 @@ description: Découvrez comment consigner le courrier entrant provenant des pros
 title: Journaliser le courrier entrant provenant de vos leads dans Marketo
 exl-id: 4fab5007-f6fb-432c-ae13-02da747a82ef
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/WVa6R88xfw8evzzfUpZuwG51xWNYMhUbM9csYTRN4TQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: 150
 ht-degree: 10%
 
 ---

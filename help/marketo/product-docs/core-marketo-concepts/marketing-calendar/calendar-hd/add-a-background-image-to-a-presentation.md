@@ -4,9 +4,12 @@ description: Découvrez comment ajouter une image d’arrière-plan à une prés
 title: Ajouter une image d’arrière-plan à une présentation
 exl-id: 3ca33701-0f94-448a-8ecc-45d0b2bfb38e
 feature: Marketing Calendar
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+TQID: https://experienceleague.adobe.com/fKxbaDF1Nl28XGIPqxz1M-RJfOUuGKXPJajfzwO4jOU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: 107
 ht-degree: 13%
 
 ---

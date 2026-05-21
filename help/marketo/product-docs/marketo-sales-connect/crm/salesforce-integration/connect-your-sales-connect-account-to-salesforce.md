@@ -4,9 +4,12 @@ description: Découvrez comment connecter votre compte Sales Connect à Salesfor
 title: Connecter votre compte Sales Connect à Salesforce
 exl-id: de1ab4f8-8ca5-4fd1-9a9f-61471645d90b
 feature: Marketo Sales Connect
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/6xFDgorkB9v29Onhd4AiXA-XFKoKRV0Tk-3hGGrIu38
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: 141
 ht-degree: 12%
 
 ---

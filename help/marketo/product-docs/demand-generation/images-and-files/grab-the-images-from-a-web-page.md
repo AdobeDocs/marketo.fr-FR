@@ -4,9 +4,14 @@ description: Découvrez comment récupérer des images d’une page web dans Mar
 title: Récupérer les images d’une page web
 exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
 feature: Image Editor
-source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
+TQID: https://experienceleague.adobe.com/7QJj1DvaBOQ-ZC5JrpFZ3lchV1t2t-2GpRX4uEmC-s0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: 177
 ht-degree: 7%
 
 ---

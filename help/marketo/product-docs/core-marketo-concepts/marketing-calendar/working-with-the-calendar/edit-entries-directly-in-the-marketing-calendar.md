@@ -4,9 +4,12 @@ description: Découvrez comment modifier des entrées directement dans le calend
 title: Modifier des entrées directement dans le calendrier marketing
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
 feature: Marketing Calendar
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+TQID: https://experienceleague.adobe.com/wwz88ANi0aek4eTmtmbhEmH2ztAeNHLUI0I4orAOSvA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: 184
 ht-degree: 7%
 
 ---

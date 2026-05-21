@@ -4,9 +4,14 @@ description: Découvrez comment ajouter des modules à votre email dans l’édi
 title: Ajouter des modules à votre e-mail
 exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/4-eqCG-G4WIl7Ei9txgIhjR6x9xItN3CwDxZ70zj19Y
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: 265
 ht-degree: 7%
 
 ---

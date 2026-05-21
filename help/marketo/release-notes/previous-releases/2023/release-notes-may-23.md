@@ -2,10 +2,21 @@
 description: Notes De Mise À Jour - Mai 2023 - Documents Marketo - Documentation Du Produit
 title: Notes de mise à jour - Mai 2023
 exl-id: beefd8ad-b0d2-4a6f-9f2e-74f03fc3abe7
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+TQID: https://experienceleague.adobe.com/TNFskyWoqMkppTm3glx6nYBwGCEaPZtlPnHBBmqKKCY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+subfeature_v2:
+  - id: d1956f52-ecfd-4e01-8941-47af238acb0d
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '345'
-ht-degree: 27%
+source-wordcount: 370
+ht-degree: 26%
 
 ---
 

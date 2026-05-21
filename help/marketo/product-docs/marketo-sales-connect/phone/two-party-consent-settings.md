@@ -4,9 +4,12 @@ description: Découvrez les paramètres de consentement bipartite pour l’enreg
 title: Paramètres de consentement des deux parties
 exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
 feature: Marketo Sales Connect
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/P-X0nE0gNNWSwQj-tErRy9mMKsOBhqB3J0N3268MncI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: 171
 ht-degree: 7%
 
 ---

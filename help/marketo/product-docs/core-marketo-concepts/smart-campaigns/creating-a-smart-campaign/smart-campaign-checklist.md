@@ -4,9 +4,14 @@ description: Obtenez de l’aide sur la liste de contrôle de Campagne intellige
 title: Liste de contrôle de la campagne intelligente
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 feature: Smart Campaigns
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/R94BEUOHsfCoIwAvl7QKDRvBw5mU3szqH6n27qd3yk0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: 257
 ht-degree: 2%
 
 ---

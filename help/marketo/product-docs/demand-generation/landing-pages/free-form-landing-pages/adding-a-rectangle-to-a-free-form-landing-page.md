@@ -4,16 +4,19 @@ description: Découvrez comment ajouter un rectangle à une page de destination 
 title: Ajouter un rectangle à une page de destination à structure libre
 exl-id: 9c0e614f-9a47-41be-b943-9d493f7e5000
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/jKfwONyZaf3HXfYg2i1bl0ncsuXp5ALCh6HuCw-Vf5M
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 12%
+source-wordcount: 135
+ht-degree: 13%
 
 ---
 
 # Ajouter un rectangle à une page de destination à structure libre {#adding-a-rectangle-to-a-free-form-landing-page}
 
-Les rectangles des pages de destination sont parfaits pour mettre en surbrillance une zone du texte.
+Les rectangles des pages de destination peuvent être utilisés pour mettre en surbrillance ou séparer visuellement des sections de contenu.
 
 1. Sélectionnez une page de destination de forme libre et cliquez sur **[!UICONTROL Modifier le brouillon]**.
 
@@ -35,4 +38,4 @@ Les rectangles des pages de destination sont parfaits pour mettre en surbrillanc
 
    ![](assets/image2015-5-21-14-3a50-3a24.png)
 
-Félicitations ! Vous avez désormais la possibilité de créer des rectangles sur vos pages de destination de forme libre.
+Vous pouvez désormais ajouter des rectangles à vos pages de destination de forme libre.

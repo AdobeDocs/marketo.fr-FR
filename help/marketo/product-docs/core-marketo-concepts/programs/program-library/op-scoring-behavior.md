@@ -3,10 +3,17 @@ description: Modèle de programme opérationnel Comportement de notation. Utilis
 title: OP-Score-Comportement
 feature: Programs
 exl-id: c564a301-0054-431a-8f0f-0299cd91b59c
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/Vwoj6RnDQpYN1lYstwgBT-dULpMgws3ZQqv5xoGJHuU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 29%
+source-wordcount: 365
+ht-degree: 30%
 
 ---
 

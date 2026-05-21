@@ -4,9 +4,14 @@ description: Découvrez comment créer des champs dynamiques personnalisés dans
 title: Créer des champs dynamiques personnalisés
 exl-id: 860511d2-4a8a-47a4-8362-ba4e715e44e9
 feature: Marketo Sales Connect
-source-git-commit: e085e6b7554f8532a1c73f8c386325aa7f4e1ab6
+TQID: https://experienceleague.adobe.com/uKq11AriHch77Qu0zRmjnJYAS4IZJP3UYOnyrnq0zi8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: 256
 ht-degree: 3%
 
 ---

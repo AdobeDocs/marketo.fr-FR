@@ -4,9 +4,12 @@ description: Découvrez comment configurer l’accès aux notifications push iOS
 title: Configurer l’accès push sur iOS pour les applications mobiles
 exl-id: d8c54232-3df2-4e25-ab25-3e72aaf49252
 feature: Mobile Marketing
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/XbOc8sgi0wseVh3u5HecT555AZOj1e7PLHvJ4C7-fD0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: 152
 ht-degree: 9%
 
 ---

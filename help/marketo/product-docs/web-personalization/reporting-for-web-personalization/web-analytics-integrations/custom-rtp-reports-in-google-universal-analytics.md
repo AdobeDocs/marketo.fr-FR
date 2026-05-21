@@ -4,9 +4,19 @@ description: Découvrez les rapports rtp personnalisés dans Google Universal An
 title: Rapports RTP personnalisés dans Google Universal Analytics
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/U9cVw13-FV-0UmUDm6uSUdbvobSwLdqsklql5TaE28M
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: 404
 ht-degree: 8%
 
 ---
@@ -62,7 +72,7 @@ Cet article explique comment configurer des rapports personnalisés RTP pour Goo
 
    ![](assets/image2015-3-22-16-3a17-3a41.png)
 
-1. Dans la section **Analyses Dimension** définissez les dimensions pertinentes pour chaque onglet comme ci-dessous.
+1. Dans la section **Analyses** définissez les dimensions pertinentes pour chaque onglet comme ci-dessous.
 
 <table>
  <thead>
@@ -79,7 +89,7 @@ Cet article explique comment configurer des rapports personnalisés RTP pour Goo
  </thead>
  <tbody>
   <tr>
-   <td>Secteur industriel</td>
+   <td>Secteur</td>
    <td><img src="assets/1.png" data-linked-resource-id="7514675" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
   </tr>
   <tr>
@@ -135,7 +145,7 @@ Cet article explique comment configurer des rapports personnalisés RTP pour Goo
 
    ![](assets/image2015-3-22-16-3a26-3a21.png)
 
-1. Dans la section **Analyses Dimension** définissez les dimensions pertinentes pour chaque onglet comme ci-dessous :
+1. Dans la section **Analyses** définissez les dimensions pertinentes pour chaque onglet comme ci-dessous :
 
 <table>
  <thead>

@@ -4,10 +4,13 @@ description: Obtenez de l’aide lorsque vous voyez une erreur inattendue dans l
 title: Erreur inattendue dans Gmail
 exl-id: fdf87562-b127-4f7e-b11e-8452b428ed16
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/dJWrlEZcu0Y7WcKjxnA15QJEkv3p9IYSvhz5Wbhg-Ak
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 8%
+source-wordcount: 107
+ht-degree: 14%
 
 ---
 

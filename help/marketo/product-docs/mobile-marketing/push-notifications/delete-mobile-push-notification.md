@@ -4,9 +4,12 @@ description: Découvrez comment supprimer une notification push mobile et la sup
 title: Supprimer la notification Push pour mobile
 exl-id: 1f9d523e-b7aa-4880-8249-48cce92751aa
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+TQID: https://experienceleague.adobe.com/xxppdk2knxCEkS--l7LyrgoDPl-i5RUvFMZPDmB8boc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: 78
 ht-degree: 17%
 
 ---

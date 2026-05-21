@@ -3,9 +3,14 @@ description: Découvrez comment promouvoir un webinaire interactif dans Marketo.
 title: Promotion d’un webinaire interactif
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/QBHZR8wjeXBanHL-K3L8yldblimtKfcY4akfwVu78EI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '800'
+source-wordcount: 800
 ht-degree: 1%
 
 ---

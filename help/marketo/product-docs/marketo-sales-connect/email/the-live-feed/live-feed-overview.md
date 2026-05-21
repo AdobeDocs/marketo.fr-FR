@@ -4,9 +4,12 @@ description: Découvrez les Flux en direct dans Sales Connect. Affichez l’enga
 title: Vue d’ensemble du flux en direct
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/-CrqazvM9aRb1Kctez04rwwy0BDnvE4AhrRrWxBVbkU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: 409
 ht-degree: 1%
 
 ---

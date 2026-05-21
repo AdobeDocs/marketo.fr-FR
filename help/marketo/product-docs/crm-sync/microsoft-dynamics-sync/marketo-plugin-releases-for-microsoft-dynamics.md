@@ -4,9 +4,14 @@ description: Découvrez les versions du plug-in Marketo pour Microsoft Dynamics.
 title: Versions du plug-in Marketo pour  [!DNL Microsoft Dynamics]
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/jz77p3iIGzpZFGrGPLoAFpz0b6EGllNwLc6g4Wj6G4g
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: 519
 ht-degree: 14%
 
 ---

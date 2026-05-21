@@ -4,9 +4,14 @@ description: Découvrez comment modifier l’étape du chiffre d’affaires dans
 title: Modifier l'étape dans le cycle de vente
 exl-id: 267f1a7a-b849-48e4-9bc8-56dd07168d1d
 feature: Smart Campaigns
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/UwLOzl9zHJ7GJkfai-9IihDyvwUJAIKlz-v3KGR5omo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: 91
 ht-degree: 6%
 
 ---

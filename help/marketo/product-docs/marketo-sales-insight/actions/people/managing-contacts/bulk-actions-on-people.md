@@ -3,9 +3,14 @@ description: Découvrez comment exécuter des actions en bloc sur des personnes 
 title: Actions en masse sur les personnes
 exl-id: fcd89688-6905-4714-9254-42873eca8428
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/2-KLQFrmCoj92iXhmKIAke-h4L2XPXgo2SeXFS9TQGE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: 145
 ht-degree: 11%
 
 ---

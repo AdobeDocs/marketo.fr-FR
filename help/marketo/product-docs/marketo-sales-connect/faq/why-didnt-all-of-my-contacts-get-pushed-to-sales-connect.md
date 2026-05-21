@@ -4,9 +4,14 @@ description: Obtenez de l’aide lorsque tous les contacts n’ont pas été tra
 title: Pourquoi tous mes contacts n’ont-ils pas été envoyés à Sales Connect ?
 exl-id: 53ea29c1-fe48-4808-933a-3ab1744a7d7e
 feature: Marketo Sales Connect
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/OC-llK81xjzmWF2awBb3s7CtxJs-hIdh6ntueKqHea4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: 92
 ht-degree: 11%
 
 ---

@@ -4,9 +4,12 @@ description: Découvrez comment créer des règles de workflow dans Salesforce p
 title: Création de règles de workflow dans Salesforce
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/NmHKAzpBUKL4-vpcpxNpXv9TPamdy5iFCxdYTfCC1S0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: 482
 ht-degree: 3%
 
 ---
@@ -33,11 +36,11 @@ Vous trouverez ci-dessous les noms recommandés des règles de workflow et leur 
  <tbody>
   <tr>
    <td>Mettre à jour le champ de description du moment intéressant</td>
-   <td><p>Copier à partir de : Desc Dernier engagement Marketo<br>Copier vers : Desc Dernier moment intéressant</p></td>
+   <td><p>Copier à partir de : Desc Dernier engagement <br>Copier vers : Desc Dernier moment intéressant</p></td>
   </tr>
   <tr>
    <td>Mettre à jour le champ Type de moment intéressant</td>
-   <td><p>Copier à partir de : dernier type d’engagement Marketo<br>Copier vers : dernier type de moment intéressant</p></td>
+   <td><p>Copier à partir de : dernier type d’engagement <br>Copier vers : dernier type de moment intéressant</p></td>
   </tr>
   <tr>
    <td>Mettre à jour le champ Source du moment intéressant</td>
@@ -45,7 +48,7 @@ Vous trouverez ci-dessous les noms recommandés des règles de workflow et leur 
   </tr>
   <tr>
    <td>Mettre à jour le champ Date du moment intéressant</td>
-   <td><p>Copier à partir de : Date du dernier engagement dans Marketo<br>Copier vers : Date du dernier moment intéressant</p></td>
+   <td><p>Copier à partir de : Date du dernier engagement dans <br>Copier vers : Date du dernier moment intéressant</p></td>
   </tr>
  </tbody>
 </table>

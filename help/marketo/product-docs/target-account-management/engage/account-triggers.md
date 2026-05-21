@@ -4,9 +4,12 @@ description: Découvrez comment écouter et agir sur les activités comportement
 title: Déclencheurs de compte
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 feature: Target Account Management
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+TQID: https://experienceleague.adobe.com/iGJv8QygBcX0NAU-0rjiuPOW3mAyS3xMS98JQqv-Qw0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: 119
 ht-degree: 3%
 
 ---

@@ -3,22 +3,35 @@ description: Notes de mise à jour actuelles - Documents Marketo - Documentatio
 title: Notes de mise à jour actuelles
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: b1c177e03fab297e5f94b1848103ac3239e4d079
+TQID: https://experienceleague.adobe.com/QJFy7PeGXlvS3jcJGcZJROlc8c1UvphO-TOOwPUQeX8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 48aeac444cca4abfc4393eb53dc091b8e73a5b63
 workflow-type: tm+mt
-source-wordcount: '462'
-ht-degree: 23%
+source-wordcount: 421
+ht-degree: 28%
 
 ---
 
-# Notes De Mise À Jour : Mars 2026 {#release-notes-mar-26}
+# Notes De Mise À Jour : Mai 2026 {#release-notes-may-26}
 
-Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version de mars 2026. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
+Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 26 mai. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
 
 Les notes de mise à jour spécifiques à Adobe Dynamic Chat [peuvent être consultées ici](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 ## Fonctionnalités du cycle de publication de la version standard {#standard-release-cycle-features}
 
-Les fonctionnalités suivantes font partie du cycle de publication standard et commenceront à être publiées le **27 mars 2026** avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication sont susceptibles d’être modifiées. Vérifiez le statut en regard de chaque fonctionnalité.
+Les fonctionnalités suivantes font partie du cycle de publication standard et commenceront à être publiées le **22 mai 2026**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication sont susceptibles d’être modifiées. Vérifiez le statut en regard de chaque fonctionnalité.
 
 <table style="table-layout:auto">
  <tbody>
@@ -28,9 +41,9 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <th style="width:25%">Documentation</th>
   </tr>
   <tr>
-   <td><strong>Email Designer - Gérer les marques (version bêta)</strong> : générez le contenu des e-mails en fonction des directives de rédaction de votre organisation/marque.</td>
-   <td>Libéré</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brands/manage-brands.md" target="_blank">Créer et gérer des marques</a></td>
+   <td>Designer d’e-mail - Contenu conditionnel pour les fragments d’e-mail</strong> : <i>Parité avec l’ancien éditeur d’e-mail</i>. <strong>Le contenu conditionnel est désormais pris en charge pour les fragments.</td>
+   <td><i>Bientôt disponible</i></td>
+   <td><i>Bientôt disponible</i></td>
   </tr>
   <tr>
    <td> </td>
@@ -38,42 +51,10 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Email Designer - Actions rapides</strong> : <i>parité avec l’ancien éditeur d’email</i>. Les actions rapides sont désormais disponibles pour toutes les ressources de Designer par e-mail (e-mails, modèles d’e-mail, fragments). Les actions rapides prises en charge sont les suivantes : Dupliquer, Supprimer, Déplacer, Créer/Modifier le brouillon.
+   <td><strong>Gestion des listes de sélection</strong> : vous pouvez désormais spécifier les valeurs qui peuvent être utilisées dans les champs de Marketo Engage.
    </td>
-   <td>Libéré</i></td>
-   <td>s/o</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-   <tr>
-   <td><strong>Email Designer - Correctif de rendu Outlook</strong> : cette mise à jour corrige les problèmes de rendu, en particulier dans MS Outlook. Le mode HTML avancé vous permet d’effectuer des modifications HTML/CSS mineures ou d’ajouter des balises de script à votre modèle d’e-mail.
-   </td>
-   <td>Libéré</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/advanced-html-mode.md" target="_blank">Modification de modèles d’e-mail à l’aide de l’éditeur HTML avancé</a></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Vérificateur de score de marque</strong> : évaluez la qualité générale du contenu pour identifier les problèmes potentiels de lisibilité, de cohésion du contenu et d’efficacité, indépendamment des directives de votre marque.</td>
-   <td>Libéré</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brands/brand-score.md" target="_blank">Score de la marque</a></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Notifications push</strong> : les URI de redirection configurés dans les messages de notification push prennent désormais en charge les jetons Marketo Engage (applicable uniquement aux <i>URL de l’application Launch</i>).
-   </td>
-   <td>Libéré</td>
-   <td><a href="/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md#redirect-uris">URI de redirection</a></td>
+   <td><i>Bientôt disponible</i></td>
+   <td><i>Bientôt disponible</i></td>
   </tr>
   </tbody>
 </table>
@@ -81,10 +62,18 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
 
 ## Annonces {#announcements}
 
-* **Obsolescence des fonctionnalités d’optimisation du moteur de recherche** : le mardi 31 mars 2026, Marketo Engage abandonnera la fonctionnalité d’optimisation du moteur de recherche (SEO). Si vous n&#39;utilisez pas activement l&#39;optimisation du moteur de recherche, vous n&#39;avez rien à faire. Si vous avez récemment utilisé l’optimisation du moteur de recherche, vous avez la possibilité d’exporter vos données. [En savoir plus](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=fr){target="_blank"}.
+* **Champs d’obsolescence des fonctionnalités sociales** : en 2025, Marketo Engage a abandonné les fonctionnalités sociales suivantes :
 
-* **Limite de leads de fusion de l’API REST** : à compter du 31 mars 2026, les appels qui incluent plus de 25 identifiants dans le paramètre leadIds d’un appel de l’API Merge Leads entraîneront un code d’erreur 1080 et l’appel sera ignoré. Les tâches nécessitant la fusion de plus de 25 enregistrements en un seul doivent être divisées en plusieurs tâches pour assurer le succès de ces appels.
+   * Sondages
+   * Bouton social
+   * Offre de parrainage
+   * Partage de vidéos
+   * Loteries
+
+Plus tôt cette année, les champs connexes qui avaient été laissés en arrière-plan ont été supprimés de Marketo. Peu après, les requêtes d’API référençant certains champs de prospect liés aux réseaux sociaux ont renvoyé une erreur « champ introuvable », provoquant des interruptions. Le service a été restauré après la remise à disposition des champs concernés. Afin d’éviter toute perturbation supplémentaire, Marketo a donc découplé définitivement les champs des réseaux sociaux de l’obsolescence des fonctionnalités des réseaux sociaux (qui seront donc disponibles dans votre compte Marketo). Nous recommandons aux utilisateurs de passer en revue les requêtes d’API et les intégrations qui font référence à des champs liés à Marketo Social et de déterminer si ces champs sont toujours requis pour les processus métier en cours.
 
 * **Obsolescence du paramètre &#39;access_token&#39; de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours d’obsolescence et ne sera plus disponible après le 31 juillet 2026. Toutes les intégrations nouvelles et existantes doivent authentifier les appels de l’API REST à l’aide de l’en-tête « Autorisation », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
 * **Obsolescence de l’API SOAP** : la prise en charge de l’API Marketo SOAP prendra fin le 31 juillet 2026. Les services qui utilisent les fonctionnalités de l’API SOAP doivent être migrés vers l’[API REST](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+
+* **Limites de taille de liste statique pour les activités Get Lead et Get Lead Changes** : à compter du 30 septembre 2026, les appels aux points d’entrée Get Lead Activities et Get Lead Changes qui incluent le paramètre `listId` renverront un code d’erreur 1003 si la liste statique cible contient 10 000 leads ou plus. Consultez le [&#x200B; Guide de migration &#x200B;](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} pour plus d’informations.

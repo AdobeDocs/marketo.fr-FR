@@ -3,9 +3,14 @@ description: Découvrez comment configurer votre connexion Marketo dans Sales Co
 title: Configurer votre connexion Marketo
 exl-id: 5b499c73-1319-4a58-ac49-61ae5558c05f
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/7fRQ1yvSR3t4KrxEv8Au-sSkM6dRrsLy-TG9Kyt42UI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: 183
 ht-degree: 5%
 
 ---

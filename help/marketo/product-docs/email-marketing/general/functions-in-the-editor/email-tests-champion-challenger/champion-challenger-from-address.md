@@ -4,9 +4,12 @@ description: Découvrez comment exécuter les tests d’adresse d’expédition 
 title: Champion/Challenger - Adresse de l'expéditeur
 exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/pw4hCrt1Q4ioBKyeobnEgv3lCjpwkxx1jD5MwPtAo9s
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: 287
 ht-degree: 3%
 
 ---

@@ -4,10 +4,15 @@ description: Découvrez le modèle de page de destination guidée Modèle 5A. T�
 title: Modèle 5A
 exl-id: 85f9732c-0968-44bc-b59f-d39207f12dd7
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/TTGX2rYJF4BQxGLPIR9HK8-n-NJlXqq9L826goMSH4Y
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 6%
+source-wordcount: 80
+ht-degree: 5%
 
 ---
 

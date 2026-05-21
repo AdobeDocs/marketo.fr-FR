@@ -4,10 +4,15 @@ description: Découvrez comment désactiver la synchronisation globale MS Dynami
 title: Désactiver la synchronisation globale MS Dynamics
 exl-id: a8c64e4a-4932-4686-8563-63452d3753e2
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/9j-hU0VmWajCSBhvkt8wmV-jqD-4uSuwIZydbfFojpM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 9%
+source-wordcount: 70
+ht-degree: 17%
 
 ---
 

@@ -4,9 +4,14 @@ description: Découvrez comment définir le rythme du flux pour les programmes d
 title: Définir le rythme du flux
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+TQID: https://experienceleague.adobe.com/FJkSjZFKVZb-nBY-xfkU6Vb9JsQYbIMrbKW7rPpOmmg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: 375
 ht-degree: 3%
 
 ---
@@ -41,11 +46,11 @@ Vous pouvez envoyer du contenu d’engagement à tout intervalle que vous souhai
 
    ![](assets/image2017-12-5-14-3a10-3a17.png)
 
-1. Choisissez maintenant si vous souhaitez que la cadence se produise toutes les semaines ou plus espacées. Choisissons toutes les 2 semaines.
+1. Choisissez maintenant si vous souhaitez que la cadence se produise toutes les semaines ou plus espacées. Choisir toutes les 2 semaines.
 
    ![](assets/image2017-12-5-14-3a10-3a56.png)
 
-1. Choisir les jours de la semaine. Dans ce cas-ci, faisons mardi, mercredi et jeudi.
+1. Choisir les jours de la semaine. Dans ce cas, sélectionnez Mardi, Mercredi et Jeudi.
 
    ![](assets/image2017-12-5-14-3a12-3a29.png)
 
@@ -61,13 +66,13 @@ Vous pouvez envoyer du contenu d’engagement à tout intervalle que vous souhai
    >
    >Le contenu sortira à la date que vous avez sélectionnée pour le premier casting, donc assurez-vous qu&#39;il correspond au jour de la semaine que vous choisissez ; sinon, il sortira deux fois au cours de la première semaine.
 
-1. Survolez la cadence. Vous verrez les jours où les prochains lancers sortiront.
+1. Survolez la cadence. Les jours de coulées futures apparaîtront.
 
    ![](assets/image2017-12-5-14-3a17-3a29.png)
 
    >[!NOTE]
    >
-   >Dans cet exemple, un e-mail sera envoyé le jeudi. Nous sauterons ensuite une semaine, puis nous l&#39;enverrons de nouveau mardi, mercredi et jeudi de la semaine suivante. Et puis nous bouclons à nouveau.
+   >Dans cet exemple, un e-mail sera envoyé le jeudi. La semaine suivante est ignorée et l’e-mail est envoyé à nouveau le mardi, le mercredi et le jeudi de la semaine suivante. Le cycle se répète ensuite.
 
 ## Mensuel {#monthly}
 
@@ -79,7 +84,7 @@ Vous pouvez envoyer du contenu d’engagement à tout intervalle que vous souhai
 
    ![](assets/image2014-9-15-16-3a30-3a11.png)
 
-1. Choisissez si vous souhaitez qu&#39;il soit espacé d&#39;au moins un mois... Choisissons tous les quatre mois.
+1. Sélectionnez cette option si vous souhaitez qu’elle soit espacée d’au moins un mois. Choisir tous les quatre mois.
 
    ![](assets/image2014-9-15-16-3a30-3a7.png)
 
@@ -95,7 +100,7 @@ Vous pouvez envoyer du contenu d’engagement à tout intervalle que vous souhai
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 
-1. Survolez la cadence. Vous verrez les jours où les prochains lancers sortiront.
+1. Survolez la cadence. Les jours de coulées futures apparaîtront.
 
    ![](assets/image2014-9-15-16-3a29-3a38.png)
 
@@ -103,7 +108,7 @@ Vous pouvez envoyer du contenu d’engagement à tout intervalle que vous souhai
    >
    >Si vous décidez de modifier ultérieurement la cadence de votre flux d’engagement, assurez-vous que le premier cast est défini sur une date ultérieure.
 
-Maintenant, vous savez comment configurer une cadence de flux !
+Vous savez maintenant comment configurer une cadence de diffusion.
 
 >[!MORELIKETHIS]
 >

@@ -3,9 +3,21 @@ description: Découvrez Advanced BI Analytics, une interface de création de rap
 title: Vue d’ensemble de l’analyse BI avancée
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/l-H2ZQsoyNEddqb-3cVWjz0GYS6kNaVEPUp8-NPX46Q
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+subfeature_v2:
+  - id: b9f06cb0-cdf7-4b83-a9d1-a701d132779b
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1064'
+source-wordcount: 1098
 ht-degree: 1%
 
 ---
@@ -66,7 +78,7 @@ Lors de l’exportation d’un rapport complet, les options d’exportation sont
 
 >[!TAB À partir de la page Rapports]
 
-1. Sur la page Rapports , cliquez sur l’icône « plus » (...) du rapport souhaité, puis sélectionnez **Exporter**.
+1. Sur la page Rapports , cliquez sur l’icône « plus » (...) du rapport souhaité et sélectionnez **Exporter**.
 
    ![](assets/export-a-report-1a.png)
 

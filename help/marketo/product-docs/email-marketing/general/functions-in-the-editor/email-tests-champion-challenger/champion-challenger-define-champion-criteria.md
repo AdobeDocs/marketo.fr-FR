@@ -4,9 +4,12 @@ description: Découvrez comment définir des critères Champion pour les tests d
 title: Champion/Challenger - Définir les critères du champion
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/uCGJ3Nj-5vpy1tGytN5YXEDqB3DQKNk8FlxkVbMoei8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: 189
 ht-degree: 5%
 
 ---

@@ -4,9 +4,12 @@ description: Découvrez comment prévisualiser une page de destination avec du c
 title: Prévisualiser une page de destination avec du contenu dynamique
 exl-id: 638db767-bb20-4eef-8edd-8a7be4178d28
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/NXUXGYSgviIdw-W1yVRAfTpW82mWvZA9SZExRQVSvko
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: 96
 ht-degree: 14%
 
 ---
@@ -28,4 +31,4 @@ Prévisualisez votre page de destination après avoir ajouté du contenu dynamiq
 
    ![](assets/image2014-9-25-15-3a34-3a40.png)
 
-Génial ! Vous pouvez désormais vous assurer que vos pages de destination fonctionnent comme vous le souhaitez sur plusieurs segments.
+Vous pouvez désormais vous assurer que vos pages de destination fonctionnent comme vous le souhaitez sur plusieurs segments.

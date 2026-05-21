@@ -4,9 +4,17 @@ description: Créez des campagnes web dans la zone qui remplacent les éléments
 title: Créer une campagne web dans la zone
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/zSJh1nSYnoILoZMXlFcgG7dJmgjlr3tx1H-QCPYsZ-k
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: 715
 ht-degree: 4%
 
 ---
@@ -25,7 +33,7 @@ Une campagne web est une réaction personnalisée associée à un segment spéci
 
    ![](assets/create-new-web-campaign-hand.png)
 
-1. Sélectionnez le type de campagne **[!UICONTROL Dans la zone]**. Personnalisez et ajoutez un **[!UICONTROL ID de zone].** Définissez la campagne sur **[!UICONTROL Sticky]** et ajoutez votre contenu créatif dans l’éditeur. Ajoutez l’URL de la page à prévisualiser et cliquez sur **[!UICONTROL Aperçu]** pour voir comment la campagne réagira sur votre site.
+1. Sélectionnez le type de campagne **[!UICONTROL Dans la zone]**. Personnaliser et ajouter un **[!UICONTROL ID de zone].** Définissez la campagne sur **[!UICONTROL Sticky]** et ajoutez votre contenu créatif dans l’éditeur. Ajoutez l’URL de la page à prévisualiser et cliquez sur **[!UICONTROL Aperçu]** pour voir comment la campagne réagira sur votre site.
 
    ![](assets/new-3-1.png)
 

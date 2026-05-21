@@ -4,9 +4,14 @@ description: Découvrez les erreurs hard et soft, ainsi que la manière dont Mar
 title: Rebonds définitifs et temporaires dans les e-mails
 exl-id: 53298562-76b6-473a-bf9f-2bec682f4d35
 feature: Deliverability
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/qr4rAdOWWg5dazZVztnoTUv6WJQE8Xpm2WKttjQaOOg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: 310
 ht-degree: 14%
 
 ---
@@ -17,7 +22,7 @@ Un rebond définitif peut rendre l’adresse e-mail d’une personne non valide 
 
 ## Classification des rebonds {#bounce-classification}
 
-Dans Marketo, 5 chaînes de personne sont liées à la diffusion d’e-mails en difficulté.
+Marketo comporte 5 champs de personne liés à la diffusion d’e-mails avec des problèmes.
 
 1. **E-mail suspendu** - Définissez cette valeur sur True lorsqu&#39;un certain type de hard bounce se produit.
 1. **Cause de suspension de l’e-mail** - Il peut y avoir plusieurs raisons. Ce champ tente d’expliquer la cause.
@@ -29,11 +34,11 @@ Dans Marketo, 5 chaînes de personne sont liées à la diffusion d’e-mails en 
 >
 >Une fois qu’une personne a atteint le statut **e-mail suspendu**, il n’est pas possible de décocher la case e-mail suspendu . Cependant, la personne deviendra toujours postable 24 heures après la suspension initiale.
 >
->Lorsqu’une personne est marquée comme **e-mail non valide**, elle ne peut être réinitialisée que manuellement (ce que nous vous recommandons de ne faire que si vous savez avec certitude que son e-mail est valide) en décochant la case « E-mail non valide » dans l’onglet Informations sur la personne de son enregistrement.
+>Lorsqu’une personne est marquée comme **e-mail non valide**, elle ne peut être réinitialisée que manuellement (ce qui est recommandé uniquement si vous avez confirmé que l’adresse e-mail est valide) en décochant la case « E-mail non valide » dans l’onglet Informations sur la personne de son enregistrement.
 
 >[!PREREQUISITES]
 >
->Pour créer un rapport sur les performances des e-mails[&#x200B; qui générera des données de bounce](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) procédez comme suit.
+>Pour créer un rapport sur les performances des e-mails[&#128279;](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) qui générera des données de bounce procédez comme suit.
 
 Après avoir créé votre rapport sur les performances des e-mails, l’écran doit ressembler à ceci :
 

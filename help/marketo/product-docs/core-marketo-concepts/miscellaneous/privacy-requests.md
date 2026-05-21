@@ -2,9 +2,14 @@
 description: Découvrez comment gérer les demandes d’accès et de suppression relatives à la confidentialité dans Marketo. Envoyez les requêtes via l’interface utilisateur ou l’API Privacy Service et traitez les données des clients.
 title: Demandes d’accès à des informations personnelles
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+TQID: https://experienceleague.adobe.com/o4xyJMLpbHADyAhsfVbxnQA-WdXfhSx-LCmN9-4IvYI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: 371
 ht-degree: 21%
 
 ---

@@ -4,9 +4,12 @@ description: Découvrez comment marquer un moment comme terminé dans l’applic
 title: Marquage d’éléments comme terminés
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+TQID: https://experienceleague.adobe.com/w-4Te673jxk5QQOzvheCTp-KGPDYSTSKF-IT448yf4E
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: 171
 ht-degree: 4%
 
 ---

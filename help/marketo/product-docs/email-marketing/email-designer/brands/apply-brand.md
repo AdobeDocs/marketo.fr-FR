@@ -1,17 +1,17 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: TITLE
+title: Appliquer des thèmes au contenu de votre e-mail
 description: Découvrez comment appliquer des thèmes de marque aux e-mails pour une conception cohérente. Utiliser des thèmes et des modules réutilisables dans le Designer d’e-mail
 feature: Email Designer
 role: User
 level: Beginner, Intermediate
 hide: true
 exl-id: 349ee021-7341-40e0-8d8c-d041f1a8f343
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '739'
-ht-degree: 74%
+source-wordcount: '746'
+ht-degree: 73%
 
 ---
 
@@ -128,9 +128,9 @@ Pour appliquer des thèmes de style par défaut ou personnalisés à un e-mail, 
 
      >[!CAUTION]
      >
-     >Si vous choisissez le mode _Style manuel_, vous ne pourrez appliquer aucun thème, sauf si vous réinitialisez l’e-mail.
+     >* Si vous choisissez le mode _Style manuel_, vous ne pourrez appliquer aucun thème, sauf si vous réinitialisez l’e-mail.
      >
-     >Pour utiliser un [fragment](/help/marketo/product-docs/email-marketing/email-designer/fragments.md) en mode _Utiliser des thèmes_, ce fragment doit avoir été créé lui-même à l’aide du mode _Utiliser des thèmes_.
+     >* Pour utiliser un [fragment](/help/marketo/product-docs/email-marketing/email-designer/fragments.md) en mode _Utiliser des thèmes_, ce fragment doit avoir été créé lui-même à l’aide du mode _Utiliser des thèmes_.
 
 1. Une fois dans le Concepteur d’e-mail, cliquez sur le bouton **[!UICONTROL Thèmes]** sur le rail de droite. Le thème par défaut ou le thème du modèle s’affiche. Vous pouvez basculer entre les deux variantes de couleur de ce thème.
 

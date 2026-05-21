@@ -4,9 +4,14 @@ description: Obtenez des réponses aux questions relatives au contenu et aux pi�
 title: Questions fréquentes relatives au contenu et aux pièces jointes
 exl-id: 4dc1261d-bcbe-4b3b-a384-83e022733229
 feature: Marketo Sales Connect
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/Wj6Lh-3GYl3HY0I3Rvmf572XxLEM-bl-2X68XPaYXu8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: 273
 ht-degree: 3%
 
 ---

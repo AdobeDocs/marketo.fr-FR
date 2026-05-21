@@ -3,9 +3,12 @@ description: Découvrez comment reconfigurer la méthode d’authentification Dy
 title: Reconfigure [!DNL Dynamics] Authentication Method
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/wRcBTP-m1VtKDg6L4zrH6zzPIvrFuMEPQd5QoSrrm3I
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: 283
 ht-degree: 2%
 
 ---

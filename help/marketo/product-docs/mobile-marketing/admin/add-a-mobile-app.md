@@ -4,9 +4,16 @@ description: Découvrez comment ajouter une application mobile à Marketo pour e
 title: Ajouter une application mobile
 exl-id: 79edf8cb-4d8b-440a-aa8a-6ead1a93b95a
 feature: Mobile Marketing
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/z7Q-HWW5iv0zEEEAsdl0TGkgKrDRdCJur7E0SFEnuqk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: 216
 ht-degree: 4%
 
 ---

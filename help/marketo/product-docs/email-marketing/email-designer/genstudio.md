@@ -6,10 +6,21 @@ product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: bb15b18e-9a17-4dee-87f4-12f216dd3545
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/opg2aUcpf3QCiu5TazxPMfihsp6DPrRtekX3RicGg-M
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 9%
+source-wordcount: 449
+ht-degree: 17%
 
 ---
 
@@ -26,7 +37,7 @@ Adobe GenStudio for Performance Marketing est une application IA générative qu
 
 >[!INFO]
 >
->En savoir plus sur [GenStudio for Performance Marketing](https://experienceleague.adobe.com/fr/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"}.
+>En savoir plus sur [&#128279;](https://experienceleague.adobe.com/fr/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"}.
 
 ## Tirer parti des fonctionnalités de GenStudio dans Marketo Engage {#leverage-genstudio-capabilities}
 
@@ -60,9 +71,9 @@ Pour tirer parti des variations d’e-mail GenStudio que vous avez créées en l
 
    ![bouton Importer HTML](assets/genstudio-integration-3.png)
 
-1. Cliquez sur le bouton **Adobe GenStudio for Performance Marketing**.
+1. Cliquez sur le bouton **&#x200B;**.
 
-   Bouton ![Adobe GenStudio for Performance Marketing](assets/genstudio-integration-4.png)
+   Bouton ![](assets/genstudio-integration-4.png)
 
 1. Parcourez les expériences GenStudio pour commencer à créer votre contenu. Vous pouvez filtrer les expériences selon des critères tels que les produits, les rôles, les marques ou même les couleurs.
 

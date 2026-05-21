@@ -3,9 +3,12 @@ description: Découvrez comment connecter un nouvel administrateur à Marketo et
 title: Connecter un nouvel administrateur ou une nouvelle administratrice à Marketo
 exl-id: ef405bca-a29a-40fc-9efa-eccff5f45956
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/vQ-yzlQX0qzdTBy2uEV2HTkamgRYlWe7f35PQK2FJCc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: 508
 ht-degree: 1%
 
 ---
@@ -54,7 +57,7 @@ L’administrateur A (administrateur responsable à l’origine de la connexion)
 
 1. Dans l’application web, cliquez sur l’icône d’engrenage et sélectionnez **[!UICONTROL Paramètres]**.
 
-1. Cliquez sur **Marketo**.
+1. Cliquez sur **&#x200B;**.
 
 1. Cliquez sur **[!UICONTROL Accès utilisateur]**.
 
@@ -68,7 +71,7 @@ Ces étapes doivent être suivies par l’administrateur B (nouvel administrateu
 
 1. Dans l’application web, cliquez sur l’icône d’engrenage et sélectionnez **[!UICONTROL Paramètres]**.
 
-1. Cliquez sur **Marketo**.
+1. Cliquez sur **&#x200B;**.
 
 1. Cliquez sur **[!UICONTROL Déconnecter]**.
 
@@ -78,7 +81,7 @@ Ces étapes doivent être suivies par l’administrateur A (administrateur conne
 
 1. Dans l’application web, cliquez sur l’icône d’engrenage et sélectionnez **[!UICONTROL Paramètres]**.
 
-1. Cliquez sur **Marketo**.
+1. Cliquez sur **&#x200B;**.
 
 1. Cliquez sur **[!UICONTROL Déconnecter]**.
 

@@ -4,9 +4,14 @@ description: Découvrez comment désactiver un déclencheur de campagne intellig
 title: Désactiver une campagne intelligente à déclencheur | Onglet Planning
 exl-id: 59138811-c963-4c4d-9513-b3e12e8e9e38
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/Oa03tLjqbz44peCu99FxsPLyg-IStzXM01fqJxRDcng
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: 95
 ht-degree: 14%
 
 ---

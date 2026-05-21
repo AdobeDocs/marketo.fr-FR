@@ -4,9 +4,15 @@ description: Découvrez les dates provisoires et confirmées dans la vue Calendr
 title: Présentation des dates provisoires/confirmées
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/en2j7wysLNeo-CmcGfukDPE8Q4TQKOmsBTKU8QO2d00
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: 211
 ht-degree: 5%
 
 ---

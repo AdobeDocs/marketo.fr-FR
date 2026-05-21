@@ -4,9 +4,16 @@ description: Découvrez comment créer un rapport de performances des personnes 
 title: Créer un rapport de performances des personnes avec des colonnes Mobile Platform
 exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 feature: Reporting
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/2yvlKxXdTwjIuta7s8V3RtYrspnq6LbtXBcqLkxUg-o
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: 308
 ht-degree: 7%
 
 ---

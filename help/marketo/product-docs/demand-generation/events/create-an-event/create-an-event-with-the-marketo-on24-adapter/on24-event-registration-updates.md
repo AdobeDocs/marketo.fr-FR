@@ -4,9 +4,12 @@ description: Découvrez les mises à jour de l’enregistrement des événements
 title: Mises à jour de l’inscription aux événements ON24
 exl-id: 1d194ef2-b6ca-4e2d-b476-beb5bccd3c5f
 feature: Events
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/2G9BHBIeyQS6ID6nT8rjDbRfx1re3z4tUslY4QEki7Y
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: 299
 ht-degree: 2%
 
 ---

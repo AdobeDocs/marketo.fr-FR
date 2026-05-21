@@ -4,9 +4,17 @@ description: Connectez votre canal  [!DNL BrightTALK]  Marketo via LaunchPoint �
 title: Connexion [!DNL BrightTALK] à Marketo
 exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 feature: Administration, Integrations
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+TQID: https://experienceleague.adobe.com/aTG1YcMaRTQSijLFHYKAjEQGo6ZrQTQ9-QVe7-ZZy6w
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: 320
 ht-degree: 2%
 
 ---
@@ -21,7 +29,7 @@ Découvrez comment connecter votre canal [!DNL BrightTALK] à votre instance Mar
 
 ## Étapes dans [!DNL BrightTALK] {#steps-in-brighttalk}
 
-1. Connectez-vous à [business.brighttalk.com/demandcentral](https://business.brighttalk.com/demandcentral/login){target="_blank"} puis cliquez sur **[!UICONTROL Se connecter maintenant]**.
+1. Connectez-vous à [&#128279;](https://business.brighttalk.com/demandcentral/login){target="_blank"} puis cliquez sur **[!UICONTROL Se connecter maintenant]**.
 
 1. Sous [!UICONTROL &#x200B; Connecteur Marketo avancé &#x200B;], cliquez sur **[!UICONTROL Se connecter]**.
 
@@ -57,7 +65,7 @@ Découvrez comment connecter votre canal [!DNL BrightTALK] à votre instance Mar
    >
    >N’oubliez pas de ne pas sélectionner [!DNL BrightTALK] dans la liste déroulante. Ce champ est en cours de suppression et sa sélection peut créer des problèmes importants avec votre intégration [!DNL Marketo/BrightTALK].
 
-1. Saisissez la [!UICONTROL Description] de votre choix. Click the **[!UICONTROL API Only User]** drop-down and select the [!DNL BrightTALK API User] you created during Step 5. Cliquez sur **[!UICONTROL Créer]**.
+1. Saisissez la [!UICONTROL Description] de votre choix. Cliquez sur le menu déroulant **[!UICONTROL Utilisateur API uniquement]** et sélectionnez le [!DNL BrightTALK API User] que vous avez créé à l’étape 5. Cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/connect-brighttalk-to-marketo-5.png)
 
@@ -65,7 +73,7 @@ Découvrez comment connecter votre canal [!DNL BrightTALK] à votre instance Mar
 
    ![](assets/connect-brighttalk-to-marketo-6.png)
 
-1. Copy (and save) the **[!UICONTROL Client ID]** and **[!UICONTROL Client Secret]**. Cliquez sur **[!UICONTROL Fermer]**.
+1. Copiez (et enregistrez) les **[!UICONTROL ID client]** et **[!UICONTROL Secret client]**. Cliquez sur **[!UICONTROL Fermer]**.
 
    ![](assets/connect-brighttalk-to-marketo-7.png)
 

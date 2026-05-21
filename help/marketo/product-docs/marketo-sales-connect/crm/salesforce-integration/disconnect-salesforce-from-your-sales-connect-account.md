@@ -4,10 +4,13 @@ description: Découvrez comment déconnecter Salesforce de votre compte Sales Co
 title: Déconnecter Salesforce de votre compte Sales Connect
 exl-id: 7b40ba8f-b852-4de1-bc1d-1206259c2880
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/lpF4DjG2mzxkt5QZfx5VKSSxvGbjRyjt9Tw1G6D-E0A
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 16%
+source-wordcount: 102
+ht-degree: 15%
 
 ---
 

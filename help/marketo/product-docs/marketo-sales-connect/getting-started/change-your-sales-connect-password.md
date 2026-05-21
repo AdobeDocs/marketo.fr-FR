@@ -3,9 +3,12 @@ description: Découvrez comment modifier votre mot de passe Sales Connect. Mette
 title: Modifier votre mot de passe Sales Connect
 exl-id: b8c14c7c-c79a-452f-afba-6c8578be2ecd
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/CPibiRdNQiKEBcSidAxqbB-c-9-8ihPuGPjnp-U6V08
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: 184
 ht-degree: 8%
 
 ---

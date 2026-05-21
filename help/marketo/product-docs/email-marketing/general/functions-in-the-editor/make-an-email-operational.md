@@ -4,9 +4,14 @@ description: Découvrez comment rendre un e-mail opérationnel afin qu’il puis
 title: Rendre un e-mail opérationnel
 exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/uJ7mBcoFBTBU29oQxyW8-dan6dbVV4fyo-9vBdn-q5o
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: 174
 ht-degree: 4%
 
 ---

@@ -4,9 +4,12 @@ description: Découvrez comment prévisualiser un e-mail dans les moments Market
 title: Prévisualisation d’un e-mail
 exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
 feature: Mobile Marketing
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+TQID: https://experienceleague.adobe.com/ysItaSy-PuYs-J-gxKZRL6zSZrxgK6YXzCn29sSZN0k
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: 160
 ht-degree: 5%
 
 ---

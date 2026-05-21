@@ -3,9 +3,12 @@ description: Découvrez comment générer des questions pour Dynamic Chat à l�
 title: Génération de questions
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/aNb02vSBYXLUd-bGqvbbTB6IXSL6IY-8KCozGeZjZsI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: 313
 ht-degree: 4%
 
 ---

@@ -5,9 +5,14 @@ title: Ajouter une vidéo à une page de destination à structure libre
 exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
 hide: true
 feature: Landing Pages
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/JAniDUx7doRNOSnpsdkLIgNnyGO3tAwZGgtpQCKaqPc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: 229
 ht-degree: 7%
 
 ---
@@ -44,8 +49,4 @@ Placez des vidéos avec des options de partage sur les réseaux sociaux sur vos 
 >
 >Pour gagner du temps, vous pouvez utiliser l’option **[!UICONTROL Cloner à partir de]** pour copier tous les paramètres d’un partage vidéo existant.
 
-Félicitations ! Vous avez ajouté un partage vidéo à votre page de destination de forme libre. Approuvez la page de destination et votre partage vidéo est en ligne. Vous pouvez également [publier la page de destination sur Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou _partager la vidéo sur votre site web_.
-
->[!MORELIKETHIS]
->
->vous avez terminé, mais vous pouvez modifier les paramètres de votre partage vidéo si nécessaire. Commencez par _personnaliser le flux de partage_ (quand et où s’ouvre l’invite de partage).
+Vous avez ajouté un partage vidéo à votre page de destination de forme libre. Approuvez la page de destination et votre partage vidéo est en ligne. Vous pouvez également [publier la page de destination sur Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) ou partager la vidéo sur votre site web.

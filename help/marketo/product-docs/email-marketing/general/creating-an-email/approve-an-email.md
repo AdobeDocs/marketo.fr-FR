@@ -4,9 +4,12 @@ description: Découvrez comment approuver un e-mail afin de l’utiliser dans de
 title: Approuver un e-mail
 exl-id: dec8ce3e-e11c-4edc-8c81-82a95fc8ed13
 feature: Email Editor
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/qPxju5ob4fktkyD-ISqCMhp9vEM43KdIDABTFubMTUM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: 121
 ht-degree: 4%
 
 ---

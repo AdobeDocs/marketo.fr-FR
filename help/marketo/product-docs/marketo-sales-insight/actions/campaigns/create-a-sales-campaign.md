@@ -3,9 +3,12 @@ description: Découvrez comment créer une campagne commerciale avec des étapes
 title: Créer une campagne de vente
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
 feature: Sales Insight Actions
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/UWJhgXOd1e0TPYN0kK49HPWVb4pWrMKzZcTkaVI1Gj8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: 333
 ht-degree: 2%
 
 ---

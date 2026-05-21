@@ -4,9 +4,12 @@ description: Découvrez comment personnaliser les activités que Marketo transme
 title: Personnaliser la synchronisation des activités
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/-TT0DVds0ztGMA5tCHko6foGA3A3kotXi5qKmspp-Fs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: 325
 ht-degree: 2%
 
 ---

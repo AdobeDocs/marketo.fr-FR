@@ -3,9 +3,12 @@ description: Découvrez comment installer la solution Marketo dans Dynamics 365 
 title: Étape 1 sur 4 - Installer la solution Marketo avec la connexion de contrôle de mot de passe du propriétaire de la ressource
 exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/n6k54dW0WmIUFt7ErxsR1K6Ld-aEjhGSFLgVAZzTqL0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: 311
 ht-degree: 3%
 
 ---

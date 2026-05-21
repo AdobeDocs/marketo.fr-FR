@@ -4,9 +4,14 @@ description: Découvrez comment appliquer un masquage de saisie à un champ de f
 title: Appliquer un masquage de saisie à un champ de formulaire
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 feature: Forms
-source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
+TQID: https://experienceleague.adobe.com/vIffFB89P0behKQ2ydy3v0sL8dk2a3zkkWf0zKcUleY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: 189
 ht-degree: 12%
 
 ---

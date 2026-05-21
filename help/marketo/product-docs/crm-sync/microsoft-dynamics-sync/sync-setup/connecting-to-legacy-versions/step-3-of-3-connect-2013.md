@@ -4,9 +4,12 @@ description: Découvrez comment connecter Marketo et Dynamics 2013 On-premise à
 title: Étape 3 sur 3 - Connecter Marketo et Dynamics (2013 On-Premise)
 exl-id: e28f1cc3-ee15-4981-a537-6c4a1682c4c1
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/pERYRYCLDigsARoh7aAWOTXRFmpIWKz8j-tgDb-ShTQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: 401
 ht-degree: 3%
 
 ---

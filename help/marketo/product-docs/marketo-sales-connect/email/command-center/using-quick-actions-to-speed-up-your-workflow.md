@@ -4,9 +4,12 @@ description: Découvrez comment utiliser des actions rapides dans Sales Connect 
 title: Utilisation des actions rapides pour accélérer votre workflow
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 feature: Marketo Sales Connect
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/wPFSzvwWQOQXO5fa69BeMxrOEm0--T6gKoyhmky2JJk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: 341
 ht-degree: 8%
 
 ---

@@ -4,10 +4,13 @@ description: Découvrez quels navigateurs et clients de messagerie sont pris en 
 title: Quels navigateurs et clients de messagerie sont pris en charge par Sales Connect ?
 exl-id: 00f3537e-358d-4540-b569-085674c360a4
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/ts8jXpXtBIJmlsXkeBMxPEWtF4lkrmyDec6SVKx92U0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 32%
+source-wordcount: 120
+ht-degree: 30%
 
 ---
 
@@ -34,7 +37,7 @@ Marketo Sales Connect prend actuellement en charge les navigateurs suivants :
    <td>Plus récent</td>
   </tr>
   <tr>
-   <td><a href="https://www.microsoft.com/en-us/edge">Microsoft Edge</a></td>
+   <td><a href="https://www.microsoft.com/en-us/edge">Microsoft Edge</a></td>
    <td>Plus récent</td>
   </tr>
  </tbody>

@@ -4,9 +4,12 @@ description: Découvrez comment approuver votre message in-app pour le lancer. S
 title: Approuver votre message in-app
 exl-id: 3ebd857e-8caa-45f3-a53c-fa2df2a81d36
 feature: Mobile Marketing
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/MODdLWOZwhG8ojcd1sZQdP9v-c9Jo8lKVngIvzJ4ZXs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: 347
 ht-degree: 2%
 
 ---

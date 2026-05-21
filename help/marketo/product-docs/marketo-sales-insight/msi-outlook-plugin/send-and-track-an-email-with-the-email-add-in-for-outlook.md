@@ -4,9 +4,14 @@ description: Découvrez comment envoyer et suivre un e-mail à l’aide du compl
 title: Envoyer et suivre un e-mail avec le complément d'e-mail pour  [!DNL Outlook]
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
 feature: Marketo Sales Insights
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/WvLQCUhBt1q0E8TzyMCIMYe7gv5z0kNhcKCjE-yTCyo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: 302
 ht-degree: 0%
 
 ---

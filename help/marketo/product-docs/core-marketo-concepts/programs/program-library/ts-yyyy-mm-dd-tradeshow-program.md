@@ -3,9 +3,22 @@ description: Modèle de programme de salon professionnel. Utilisez-le pour les �
 title: TS-AAAA-MM-JJ-Programme de salon professionnel
 feature: Programs
 exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8
-source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
+TQID: https://experienceleague.adobe.com/RRYrVLXxJpc3XM-KyoQgLMP-LNwstkjavPomdOXVo5s
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: ea6641cb-8461-4151-a8a9-9faaa44a928a
+topic_v2:
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: 440
 ht-degree: 18%
 
 ---
@@ -146,7 +159,7 @@ Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un program
    <td><code><--My Event Date--></code></td>
   </tr>
    <tr>
-   <td>Texte enrichi</td>
+   <td>Texte complet</td>
    <td><code>{{my.Event-Booth#}}</code></td>
    <td><code><--My Booth Number--></code></td>
   </tr>

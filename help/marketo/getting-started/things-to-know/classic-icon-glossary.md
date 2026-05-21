@@ -3,9 +3,19 @@ description: Glossaire Des Icônes Classiques - Documents Marketo - Documentatio
 title: Glossaire des icônes classiques
 feature: Getting Started
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/ILFVjCHYiyZvNKoI29b4Ahz9ypY0v1mWvLHhM5QbdkY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: 566
 ht-degree: 35%
 
 ---
@@ -59,7 +69,7 @@ Vous trouverez ci-dessous les anciennes icônes de l’interface de Marketo Clas
   <tr>
    <td><img src="assets/image2015-1-9-9-3a35-3a59.png">
     </td>
-   <td>Opération réussie ! (Fréquemment affiché comme Succès du programme, Exécution réussie ou Actif)</td>
+   <td>Succès! (Fréquemment affiché comme Succès du programme, Exécution réussie ou Actif)</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-10-3a34-3a57.png">
@@ -150,7 +160,7 @@ Vous trouverez ci-dessous les anciennes icônes de l’interface de Marketo Clas
   <tr>
    <td><img src="assets/image2015-1-8-16-3a38-3a39.png">
     </td>
-   <td>E-mail</td>
+   <td>Adresse e-mail</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-8-16-3a40-3a3.png">
@@ -220,7 +230,7 @@ Vous trouverez ci-dessous les anciennes icônes de l’interface de Marketo Clas
   <tr>
    <td><img src="assets/image2015-1-9-8-3a40-3a3.png">
     </td>
-   <td>Administration</td>
+   <td>Admin</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-8-3a46-3a19.png">
@@ -261,7 +271,7 @@ Vous trouverez ci-dessous les anciennes icônes de l’interface de Marketo Clas
   <tr>
    <td><img src="assets/image2014-12-23-11-3a38-3a16.png">
     </td>
-   <td>Ajouter au programme d'engagement</td>
+   <td>Ajouter au programme d’engagement</td>
   </tr>
   <tr>
    <td><img src="assets/image2014-12-23-11-3a40-3a19.png">
@@ -331,7 +341,7 @@ Vous trouverez ci-dessous les anciennes icônes de l’interface de Marketo Clas
   <tr>
    <td><img src="assets/image2015-1-9-14-3a39-3a56.png">
     </td>
-   <td>Form</td>
+   <td>Formulaire</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-14-3a40-3a19.png">
@@ -366,7 +376,7 @@ Vous trouverez ci-dessous les anciennes icônes de l’interface de Marketo Clas
   <tr>
    <td><img src="assets/image2015-1-9-14-3a45-3a45.png">
     </td>
-   <td>Prévisualiser</td>
+   <td>Aperçu</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-14-3a46-3a39.png">
@@ -396,7 +406,7 @@ Vous trouverez ci-dessous les anciennes icônes de l’interface de Marketo Clas
   <tr>
    <td><img src="assets/image2015-1-9-14-3a55-3a51.png">
     </td>
-   <td>Prévisualiser</td>
+   <td>Aperçu</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-14-3a56-3a46.png">
@@ -426,7 +436,7 @@ Vous trouverez ci-dessous les anciennes icônes de l’interface de Marketo Clas
   <tr>
    <td><img src="assets/image2015-1-9-15-3a17-3a24.png">
     </td>
-   <td>Prévisualiser</td>
+   <td>Aperçu</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-15-3a17-3a53.png">
@@ -481,7 +491,7 @@ Vous trouverez ci-dessous les anciennes icônes de l’interface de Marketo Clas
   <tr>
    <td><img src="assets/image2015-1-14-13-3a3-3a56.png">
     </td>
-   <td>Prévisualiser</td>
+   <td>Aperçu</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-14-13-3a4-3a4.png">
@@ -517,7 +527,7 @@ Vous trouverez ci-dessous les anciennes icônes de l’interface de Marketo Clas
   <tr>
    <td><img src="assets/image2015-1-12-10-3a56-3a42.png">
     </td>
-   <td>Prévisualiser</td>
+   <td>Aperçu</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-12-10-3a57-3a25.png">
@@ -678,7 +688,7 @@ Vous trouverez ci-dessous les anciennes icônes de l’interface de Marketo Clas
   <tr>
    <td><img src="assets/image2015-1-9-12-3a57-3a19.png">
     </td>
-   <td>Supprimer le rapport</td>
+   <td>Supprimer rapport</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-12-3a58-3a53.png">

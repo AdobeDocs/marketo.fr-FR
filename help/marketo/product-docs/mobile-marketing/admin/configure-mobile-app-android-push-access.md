@@ -4,9 +4,12 @@ description: Découvrez comment configurer l’accès aux notifications push And
 title: Configurer l’accès push sur Android pour les applications mobiles
 exl-id: 1204f36a-d960-4af6-a5d0-ee6b6720026a
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+TQID: https://experienceleague.adobe.com/b810nQX3dwtz2EqjOrPcFsbaJNb5Ti0MLaYHVQ5hqN0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: 111
 ht-degree: 12%
 
 ---
@@ -37,7 +40,7 @@ ht-degree: 12%
 
    ![](assets/image2015-4-22-18-3a54-3a54.png)
 
-   Doux. Veillez à configurer l’application avec [!UICONTROL iOS].
+   Doux. Veillez à configurer l’application avec .
 
 >[!MORELIKETHIS]
 >

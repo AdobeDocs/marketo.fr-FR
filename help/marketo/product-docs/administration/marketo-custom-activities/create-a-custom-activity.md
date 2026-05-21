@@ -4,9 +4,16 @@ description: Procédure à suivre pour créer une activité personnalisée, y co
 title: Créer une activité personnalisée
 exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
 feature: Custom Activities
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+TQID: https://experienceleague.adobe.com/SMvwkJEZWaMbQHUSKrpeJvrnw-JGl6eY8mmj9ZzMqGk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: 123
 ht-degree: 6%
 
 ---
@@ -23,7 +30,7 @@ Pour créer une activité personnalisée, procédez comme suit.
 
    ![](assets/create-a-custom-activity-1.png)
 
-1. Cliquez sur **[!UICONTROL Activités personnalisées Marketo]**.
+1. Cliquez sur **[!UICONTROL Activités personnalisées]**.
 
    ![](assets/create-a-custom-activity-2.png)
 

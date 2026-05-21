@@ -4,9 +4,12 @@ description: Découvrez comment ajouter des individus ou des groupes à une camp
 title: Ajouter à la campagne marketing
 exl-id: d520d681-8415-4d48-896f-f213a8fabd11
 feature: Marketo Sales Connect
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/jQ4j-SNPZo1rEQhFXNX-7Y8Uu2moL8v9O0g-dbtiyGM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: 333
 ht-degree: 2%
 
 ---

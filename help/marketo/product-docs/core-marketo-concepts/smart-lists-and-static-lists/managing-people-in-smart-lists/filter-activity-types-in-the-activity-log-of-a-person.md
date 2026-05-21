@@ -4,10 +4,13 @@ description: Découvrez comment filtrer les types d’activité dans le journal 
 title: Filtrer les types d’activité dans le journal d’activité d’une personne
 exl-id: c778aa9c-d985-43ab-9018-58f3e3fe8165
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/d4hRqMdNQzN9LR7zm-ii9h8g4LcvUFlSG97jIUklf5Y
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 16%
+source-wordcount: 138
+ht-degree: 15%
 
 ---
 

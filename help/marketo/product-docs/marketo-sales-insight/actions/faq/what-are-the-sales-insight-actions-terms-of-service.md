@@ -3,10 +3,13 @@ description: Recherchez les conditions générales de service des actions Sales 
 title: Quelles sont les conditions d’utilisation d’Actions des informations sur les ventes ?
 exl-id: 5a5409a0-2a26-4d5b-b1c9-89841255059d
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/N0sMPABwPsnY-oOog8Rpq7GeIQtwoRxkzeNCTNz0WLk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 18%
+source-wordcount: 53
+ht-degree: 16%
 
 ---
 

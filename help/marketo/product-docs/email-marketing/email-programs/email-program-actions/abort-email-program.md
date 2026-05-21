@@ -4,9 +4,14 @@ description: Découvrez comment abandonner un programme de messagerie avant ou p
 title: Abandonner le programme d’e-mail
 exl-id: 6fd7bd9d-5b1f-4278-ba65-1b38dbbcc2cd
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/joPzsJPtfI-CVTM6H6ItD87iKeGFrFrAHBWCAtvipQc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: 106
 ht-degree: 6%
 
 ---

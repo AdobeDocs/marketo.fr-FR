@@ -4,9 +4,14 @@ description: Découvrez comment activer et désactiver le contenu de diffusion p
 title: Activer et désactiver le contenu en flux
 exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/-5qT7OIR29IJib-BobRgtR5ySF4heXLGR-buzjj6pCU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: 124
 ht-degree: 11%
 
 ---
@@ -36,8 +41,6 @@ Par défaut, le contenu diffusé en continu est DÉSACTIVÉ. Activez le contenu 
    >[!TIP]
    >
    >Vous pouvez également activer tout le contenu d’un flux en cliquant sur l’icône d’engrenage au niveau supérieur, puis en cliquant sur **[!UICONTROL Activer tout le contenu]**.
-
-   Beau travail ! Vous savez maintenant comment activer du contenu dans vos flux.
 
 ## Désactiver le contenu du flux {#deactivate-stream-content}
 

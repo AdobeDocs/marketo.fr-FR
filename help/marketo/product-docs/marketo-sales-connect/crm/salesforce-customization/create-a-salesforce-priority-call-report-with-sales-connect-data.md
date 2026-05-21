@@ -4,9 +4,12 @@ description: Découvrez comment créer un rapport d’appel prioritaire Salesfor
 title: Créer un rapport d’appel prioritaire Salesforce avec des données Sales Connect
 exl-id: eede4c34-d570-4dbc-beaf-6960cf80af89
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/qaJJwwTnXS5Jtqal0SPYVOJhjPPZlXngl4NzWcijbJ4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: 173
 ht-degree: 11%
 
 ---
@@ -15,7 +18,7 @@ ht-degree: 11%
 
 Découvrez comment créer une liste de rapports/appels [!DNL Salesforce] à l’aide des données d’engagement par e-mail [!DNL Sales Connect] pour vous concentrer sur les personnes ou les opportunités ayant bénéficié d’un élan.
 
-1. Accédez à l&#39;onglet Rapport [!UICONTROL SFDC].
+1. Accédez à l&#39;onglet Rapport .
 1. Créez un rapport avec « [!UICONTROL Tâches et événements] ».
 1. Définissez vos filtres et choisissez une période.
 1. Faites glisser [!DNL Sales Connect] données dans vos colonnes en saisissant « Ventes Marketo » dans la recherche de champs. Une fois que vous avez ajouté [!DNL Sales Connect] données, ajoutez une colonne pour Numéro de téléphone afin de pouvoir agir sur ce rapport et l’utiliser comme liste d’appels.

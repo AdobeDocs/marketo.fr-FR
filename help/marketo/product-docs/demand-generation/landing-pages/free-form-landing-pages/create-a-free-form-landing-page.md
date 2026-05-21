@@ -4,10 +4,16 @@ description: Découvrez comment créer une page de destination de forme libre da
 title: Créer une page de destination à structure libre
 exl-id: fc58cb1f-8567-47ce-b724-24e6e6bc9cce
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/6aOqa1RVmKfqJ-hC2X7du6xUD2PdRJdD2WHLQQT0GaE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 9%
+source-wordcount: 210
+ht-degree: 10%
 
 ---
 

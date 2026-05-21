@@ -3,9 +3,12 @@ description: Découvrez comment afficher les questions de chatbot sans réponse 
 title: Questions sans réponse
 feature: Dynamic Chat
 exl-id: 2f0f61a5-8c82-437c-af78-4c2ccc74d135
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/qBCCscCI1eJ7P70HRrD38FxuCMVdMJmkKHtQW5I7obM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: 125
 ht-degree: 6%
 
 ---

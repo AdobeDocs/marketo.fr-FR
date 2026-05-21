@@ -4,9 +4,12 @@ description: Découvrez comment mettre à jour la solution Marketo pour Microsof
 title: Mettez à jour la solution Marketo pour  [!DNL Microsoft Dynamics]
 exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/Ki3gY009SRNEcyvy-J8EWxDxScI0q8mnkcSxycwuUSc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: 180
 ht-degree: 2%
 
 ---

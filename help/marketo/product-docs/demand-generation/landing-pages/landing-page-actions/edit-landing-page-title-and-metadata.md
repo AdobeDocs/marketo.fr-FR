@@ -4,16 +4,21 @@ description: Découvrez comment modifier le titre et les métadonnées de la pag
 title: Modifier le titre et les métadonnées de la page de destination
 exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/xox4waa9DvtyMtj1oEWF0ySjX8kUX3dW6TvAeJU6lOk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: 147
 ht-degree: 9%
 
 ---
 
 # Modifier le titre et les métadonnées de la page de destination {#edit-landing-page-title-and-metadata}
 
-Marketo vous permet de modifier votre page de destination [balises meta à des fins d’optimisation du moteur de recherche](https://www.w3schools.com/tags/tag_meta.asp) ainsi que de personnaliser la partie `<head>` d’HTML.
+Marketo vous permet de modifier les [balises meta de votre page de destination à des fins d’optimisation du moteur de recherche](https://www.w3schools.com/tags/tag_meta.asp) ainsi que de personnaliser la partie `<head>` d’HTML.
 
 1. Sélectionnez une page de destination et cliquez sur **[!UICONTROL Modifier le brouillon]**.
 

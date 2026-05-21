@@ -4,16 +4,19 @@ description: Découvrez comment activer la découverte de contenu afin que le co
 title: Activer la découverte de contenu
 exl-id: cb103a90-e4f8-4145-a477-e522d945df03
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+TQID: https://experienceleague.adobe.com/9MTP4S-1LzNBwVBp1SvsfxtGCmj-eat8j-6niXHYK3w
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: 176
 ht-degree: 3%
 
 ---
 
 # Activer la découverte de contenu {#enable-content-discovery}
 
-La fonction de découverte de contenu détecte et balises automatiquement le contenu existant (y compris les études de cas, les articles de blog, les vidéos, les communiqués de presse, etc.) de votre site web et effectue le suivi du nombre de vues sur ces ressources.  Le contenu prédictif utilise le contenu découvert à l’aide d’analyses prédictives afin de déterminer quel est votre contenu le plus performant et recommande le meilleur contenu à la bonne personne.
+La fonctionnalité de découverte de contenu détecte et balises automatiquement votre contenu existant (y compris les études de cas, les articles de blog, les vidéos, les communiqués de presse, etc.) à partir de votre site web et effectue le suivi du nombre de vues de ces ressources.  Le contenu prédictif utilise le contenu découvert à l’aide d’analyses prédictives afin de déterminer quel est votre contenu le plus performant et recommande le meilleur contenu à la bonne personne.
 
 1. Accédez à **[!UICONTROL Paramètres de contenu]**.
 

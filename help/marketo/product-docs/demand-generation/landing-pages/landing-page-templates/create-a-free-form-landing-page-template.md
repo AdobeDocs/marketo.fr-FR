@@ -4,9 +4,18 @@ description: Découvrez comment créer un modèle de page de destination de form
 title: Créer un modèle de page de destination à structure libre
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/zAuwXys4flRTw2x2zthiov4yxcx-gKmZEWIMFoIaIq4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: 208
 ht-degree: 6%
 
 ---
@@ -27,7 +36,7 @@ Les pages de destination à structure libre nécessitent moins de connaissances 
 
    ![](assets/three.png)
 
-1. Votre modèle doit s’ouvrir dans un nouvel onglet. Il est désormais modifiable pour toute personne familière avec CSS/HTML.
+1. Votre modèle doit s’ouvrir dans un nouvel onglet. Il est désormais modifiable par toute personne familière avec CSS/HTML.
 
    ![](assets/four.png)
 
@@ -38,8 +47,6 @@ Les pages de destination à structure libre nécessitent moins de connaissances 
 1. Lorsque vous avez terminé d’apporter des modifications, cliquez sur **[!UICONTROL Actions de modèle]**, puis sélectionnez **[!UICONTROL Approuver et fermer]**.
 
    ![](assets/five.png)
-
-   Vous disposez désormais d’un nouveau modèle de page de destination à structure libre.
 
    >[!NOTE]
    >

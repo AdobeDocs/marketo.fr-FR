@@ -4,9 +4,12 @@ description: Découvrez comment effectuer le suivi de vos pièces jointes à un 
 title: Comment effectuer le suivi des pièces jointes de vos e-mails
 exl-id: 88c97309-13d4-46ef-a375-4afe4401fd94
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/-g1avRZcATkOU-nT6GhdcqTPi4mA4N58D2-1d6qKYbo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: 170
 ht-degree: 7%
 
 ---

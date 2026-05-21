@@ -4,9 +4,12 @@ description: Découvrez comment rendre les images d’e-mail prédictives avec C
 title: Activer le contenu prédictif dans les e-mails
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/8SS9vHyFpf7kDWcDSf90qhX2g9dqMyTwTzYZhHf9bwY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: 417
 ht-degree: 2%
 
 ---

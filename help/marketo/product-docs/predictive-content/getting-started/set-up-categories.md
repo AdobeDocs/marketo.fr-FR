@@ -4,9 +4,12 @@ description: Configurez des catégories dans Contenu prédictif pour regrouper v
 title: Définir des catégories
 exl-id: 4756e821-d90d-4148-b9c4-4912a48d26b4
 feature: Predictive Content
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/cb3IokK14sZ9aRjm6FcQFPrSk3X9y3l-M0v4130EcQo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: 172
 ht-degree: 3%
 
 ---

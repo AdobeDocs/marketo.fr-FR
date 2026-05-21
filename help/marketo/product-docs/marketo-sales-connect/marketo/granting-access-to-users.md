@@ -3,9 +3,12 @@ description: Découvrez comment accorder l’accès Sales Connect aux utilisateu
 title: Octroi d’un accès à des utilisateurs et des utilisatrices
 exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
 feature: Marketo Sales Connect
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/gV1fv8YXDoAZujgAfYTW54J69clrjN-p2CAKWOxsPNA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: 205
 ht-degree: 3%
 
 ---

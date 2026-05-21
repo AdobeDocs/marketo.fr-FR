@@ -4,10 +4,15 @@ description: Découvrez comment créer une sous-équipe dans Sales Connect et y 
 title: Créer une sous-équipe
 exl-id: 47baa5ac-4598-4277-b656-e99cd6a3e17f
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/MfKf0NY3v6JPNFty1PVJCV2kIs6Ag56XoSW-6JUVM3A
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 7%
+source-wordcount: 121
+ht-degree: 9%
 
 ---
 

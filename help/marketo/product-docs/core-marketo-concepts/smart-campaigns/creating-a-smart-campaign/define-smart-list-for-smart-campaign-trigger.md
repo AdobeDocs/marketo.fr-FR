@@ -4,9 +4,14 @@ description: Découvrez comment définir la liste dynamique pour un déclencheur
 title: Définir une liste intelligente pour une campagne intelligente | À déclencheur
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/QUFO9gKc3-1Pla-Shhy0Ns9pfcQKA3J8YFiYOSMIdgY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: 263
 ht-degree: 5%
 
 ---
@@ -55,7 +60,7 @@ Créez une campagne intelligente exécutée sur une personne à la fois en fonct
    >
    >Avec plusieurs déclencheurs, une personne passe par le flux si _ANY_ l’un des déclencheurs est activé.
 
-Pour exécuter la campagne sur un ensemble de personnes en même temps, découvrez comment [&#x200B; Définir une liste dynamique pour une campagne dynamique | Lot](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
+Pour exécuter la campagne sur un ensemble de personnes en même temps, découvrez comment [Définir une liste dynamique pour une campagne intelligente | Lot](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

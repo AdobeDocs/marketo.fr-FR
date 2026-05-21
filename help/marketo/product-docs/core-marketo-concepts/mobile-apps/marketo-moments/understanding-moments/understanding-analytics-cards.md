@@ -4,9 +4,12 @@ description: En savoir plus sur les cartes Analytics dans les moments Marketo. A
 title: Présentation des vignettes d’analyse
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+TQID: https://experienceleague.adobe.com/GtluIt4erDOpwskZBf9UYX2o3u6cQfdQ5q10vMzbvFI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: 311
 ht-degree: 2%
 
 ---

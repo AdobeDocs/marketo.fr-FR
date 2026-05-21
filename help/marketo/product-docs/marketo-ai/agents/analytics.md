@@ -1,11 +1,11 @@
 ---
 description: Discutez avec l’IA dédiée au Marketo des données de performances de Marketo Engage. Posez vos questions en langage simple et obtenez des réponses ancrées dans votre environnement Marketo.
 title: Analytics
-beta: true
+badge: Beta
 hide: true
-source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
+source-git-commit: 69749951d0397a837bee77d16baddc3342f68ec2
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '530'
 ht-degree: 1%
 
 ---
@@ -19,6 +19,10 @@ Analytics vous permet d’avoir une conversation sur vos données de performance
 >* Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [&#x200B; Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
 >
 >* Vous devez avoir accès aux programmes et aux rapports sur lesquels vous vous renseignez.
+
+>[!AVAILABILITY]
+>
+>Cette fonctionnalité est en version bêta fermée et fait actuellement l’objet d’un déploiement échelonné au cours des prochains mois. Vous saurez quand il a été activé pour votre abonnement lorsque la mosaïque _Créer avec l’IA_ s’affichera sur votre écran Mon Marketo.
 
 ## Utilisation {#how-to-use}
 

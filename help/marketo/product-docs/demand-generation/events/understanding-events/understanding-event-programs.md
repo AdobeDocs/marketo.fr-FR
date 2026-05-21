@@ -4,9 +4,16 @@ description: Découvrez les programmes d’événement dans Marketo. Découvrez 
 title: Présentation des programmes d’événement
 exl-id: 7d62accd-ab2f-46f7-998e-9145c4c11cbc
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/-cuP1Bk1cjHUMnUM1ztxOgmmMgCLTCNW9JY9j17qVbE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+subfeature_v2:
+  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: 109
 ht-degree: 9%
 
 ---

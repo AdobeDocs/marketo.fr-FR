@@ -4,9 +4,12 @@ description: Découvrez comment filtrer les comptes nommés pour réduire rapide
 title: Filtrage dans les comptes nommés
 exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
 feature: Target Account Management
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+TQID: https://experienceleague.adobe.com/S0l1fS12Faz-kO3--iP743L4CHGlz0WPdjreuTTMzfw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: 145
 ht-degree: 2%
 
 ---

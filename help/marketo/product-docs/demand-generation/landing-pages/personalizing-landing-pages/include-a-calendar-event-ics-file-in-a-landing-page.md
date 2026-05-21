@@ -4,9 +4,12 @@ description: Découvrez comment inclure un fichier ICS d’événement de calend
 title: Inclure un fichier ICS d’événement de calendrier dans une page de destination
 exl-id: 3975f5ba-f514-4708-b51e-bc20d1eed6b4
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/tOmjiK0qx5Tp8hnENTMdG1rQpZPfD53Tnin-mL5PMGo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: 127
 ht-degree: 17%
 
 ---
@@ -39,7 +42,7 @@ Un jeton **[!UICONTROL Fichier de calendrier]** vous permet d’ajouter un lien 
 
    ![](assets/image2015-1-6-16-3a42-3a51.png)
 
-Doux ! Tout devrait bien fonctionner maintenant. Veillez à effectuer le test.
+Veillez à tester le lien du calendrier avant d&#39;approuver la landing page.
 
 >[!MORELIKETHIS]
 >

@@ -3,9 +3,12 @@ description: Découvrez les options d’envoi des étapes des e-mails de la camp
 title: Présentation des options d’envoi de campagne de vente pour les étapes d’e-mails
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/dd4l3DH5i6E-zpjJk-cpQTMgZy-3a90JcrkeAFGl4PM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '758'
+source-wordcount: 758
 ht-degree: 5%
 
 ---

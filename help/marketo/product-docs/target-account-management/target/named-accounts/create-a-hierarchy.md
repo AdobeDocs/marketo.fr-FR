@@ -4,9 +4,12 @@ description: Découvrez comment créer manuellement une hiérarchie de comptes n
 title: Créer une hiérarchie
 exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+TQID: https://experienceleague.adobe.com/kjE-3RzO0RBub-PJeySgJzc3mW6QAJ9PmGqMtL6hdjc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: 171
 ht-degree: 3%
 
 ---

@@ -6,9 +6,9 @@ description: Découvrez comment afficher et modifier le code source HTML brut da
 level: Intermediate
 feature: Email Designer
 exl-id: b030e56a-de70-4b0d-9788-04a01235cffb
-source-git-commit: 2b638c3945d6b28379655596d2c5c878d842e60e
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '369'
 ht-degree: 0%
 
 ---

@@ -4,9 +4,12 @@ description: Découvrez comment fonctionnent les prospects, les contacts et les 
 title: Synchronisation de SFDC - Fusion d’un lead/contact/d’une personne
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/alPa6YMG0tgo08ruZAZlWhujV54iVcUMAAejXJbEQFw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: 204
 ht-degree: 3%
 
 ---

@@ -4,9 +4,12 @@ description: Découvrez les titres de contenu prédictif approuvés, les sources
 title: Présentation du contenu prédictif
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+TQID: https://experienceleague.adobe.com/gBdlrGHiT--9DZtU6kSvtDCqWC0XkC5Pqx6kPHSsqJI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: 323
 ht-degree: 2%
 
 ---
@@ -34,7 +37,7 @@ Vous pouvez filtrer le contenu selon les catégories que vous avez créées. Cli
 
 ![](assets/image2017-10-3-9-3a24-3a38.png)
 
-**[!UICONTROL Source activé]**
+Source activé&#x200B;**&#x200B;**
 
 Filtrez par chaque type de contenu activé : [!UICONTROL e-mail], [!UICONTROL médias riches], [!UICONTROL barre de recommandations].
 

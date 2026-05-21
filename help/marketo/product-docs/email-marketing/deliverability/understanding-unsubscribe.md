@@ -1,19 +1,24 @@
 ---
 unique-page-id: 7514918
-description: En savoir plus sur les types de désabonnement dans Marketo Placer sur la liste bloquée (désabonnement, marketing suspendu, supprimé). Utilisez le champ approprié pour chaque scénario de vos campagnes.
+description: En savoir plus sur les types de désabonnement dans Marketo (désabonnement, marketing suspendu, supprimé). Utilisez le champ approprié pour chaque scénario de vos campagnes.
 title: Présentation du désabonnement
 exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
 feature: Deliverability
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/zmsCI3a7GECVNiuFjtjqgDQsjelBoccugPeuzAF4c4k
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: 238
 ht-degree: 4%
 
 ---
 
 # Présentation du désabonnement {#understanding-unsubscribe}
 
-Il existe en fait plusieurs types différents de désabonnements intégrés dans Marketo. Ils sont tous représentés par des champs sur l’objet personne, tout comme Prénom.
+Il existe différents types de désabonnements intégrés dans Marketo. Ils sont tous représentés par des champs sur l’objet personne, tout comme Prénom.
 
 Tous ces champs sont intégrés à votre abonnement Marketo. Ils sont tous de type booléen (case à cocher). Ils peuvent être utilisés dans les étapes de flux Forms ou [Modifier la valeur des données](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
@@ -31,10 +36,10 @@ Ce statut empêche une personne d’envoyer des emails pendant 24 heures après 
 
 >[!NOTE]
 >
->L’option E-mail suspendu restera cochée même après la fin de la période de 24 heures. Vous pouvez donc vous référer à des personnes qui ont été historiquement marquées comme telles. Pour savoir si la personne est susceptible de recevoir un courrier, calculez simplement 24 heures après le moment de la suspension de l’e-mail.
+>L’option E-mail suspendu restera cochée même après la fin de la période de 24 heures. Vous pouvez donc vous référer à des personnes qui ont été historiquement marquées comme telles. Pour vérifier si la personne est susceptible de recevoir des e-mails, calculez 24 heures après le moment de la suspension de l’e-mail.
 
 ## Figurant sur la liste bloquée {#blocklisted}
 
-[Utilisez cette option pour les personnes comme les concurrents](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). Toute personne que vous souhaitez recevoir **pas** d’e-mails, qu’il s’agisse d’opérations, de marketing, etc. Ils n&#39;ont rien !
+[Utilisez cette option pour les personnes comme les concurrents](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). Toute personne que vous souhaitez recevoir **pas** d’e-mails, qu’il s’agisse d’opérations, de marketing, etc. Ils ne reçoivent aucun e-mail.
 
 ![](assets/image2015-5-18-12-3a6-3a40.png)

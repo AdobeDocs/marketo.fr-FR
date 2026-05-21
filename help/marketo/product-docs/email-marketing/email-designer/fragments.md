@@ -6,9 +6,24 @@ description: Découvrez comment créer et utiliser des fragments en tant que com
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
+TQID: https://experienceleague.adobe.com/sGWGa3VQda--5A2JtkUjFmqIUD2CG3RhrhoJtcRvAMs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '1974'
+source-wordcount: 1975
 ht-degree: 2%
 
 ---
@@ -216,7 +231,7 @@ Les modifications apportées à un fragment dépendent de son statut actuel :
 
 1. Si vous souhaitez mettre à jour le contenu, cliquez sur **[!UICONTROL Créer un brouillon]** en haut à droite.
 
-   Cliquez sur **[!UICONTROL OK]** dans la boîte de dialogue pour ouvrir le brouillon dans le concepteur visuel. Vous pouvez changer le `image source` KG - LIEN ICI si nécessaire.
+   Cliquez sur **[!UICONTROL OK]** dans la boîte de dialogue pour ouvrir le brouillon dans le concepteur visuel. Vous pouvez modifier la `image source`.
 
    ![Boîte de dialogue Créer un brouillon](assets/fragments-create-draft-version.png){width="300"}
 
@@ -258,7 +273,7 @@ Pour mettre à jour le contenu :
 
 Vous pouvez dupliquer un fragment à l’aide de l’une des méthodes suivantes :
 
-* Dans la page de liste _[!UICONTROL Fragments]_, cliquez sur l’icône _Plus_ (**...**) à côté du nom du fragment et sélectionnez **[!UICONTROL Dupliquer]**.
+* Sur la page de liste _[!UICONTROL Fragments]_, cliquez sur l’icône _Plus_ (**...**) en regard du nom du fragment et choisissez **[!UICONTROL Dupliquer]**.
 * En haut à droite de la page des détails du fragment, cliquez sur **[!UICONTROL ... En plus]** et choisissez **[!UICONTROL Dupliquer]**.
 
 ![Dupliquer le fragment](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}

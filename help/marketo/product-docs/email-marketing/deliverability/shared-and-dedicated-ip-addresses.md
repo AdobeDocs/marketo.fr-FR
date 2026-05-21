@@ -4,9 +4,16 @@ description: Découvrez les adresses IP partagées et dédiées, ainsi que leurs
 title: Adresses IP partagées et dédiées
 exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
 feature: Deliverability
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/iYWkYblhZa6DTMf8-ZAMQ5xnFemKl5q5jwaGNWshPOM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '450'
+source-wordcount: 445
 ht-degree: 3%
 
 ---
@@ -47,18 +54,18 @@ _Inconvénients_
 
 _Avantages_
 
-**Bons colocataires** - Si les personnes avec lesquelles vous partagez votre adresse IP suivent les bonnes pratiques d’envoi, vous en tireriez un avantage.
+**Bons colocataires** - Si les expéditeurs qui partagent votre adresse IP suivent les bonnes pratiques d’envoi, vous en bénéficierez.
 **Fréquence de publipostage** - Il n’existe pas de fréquence de publipostage minimale nécessaire pour être éligible à une adresse IP partagée, contrairement aux adresses IP dédiées.
 **Coût** - Il n’y a jamais de frais supplémentaires à envoyer à partir d’une adresse IP partagée.
 
 _Inconvénients_
 
-**Mauvais colocataires** - Si les personnes avec lesquelles vous partagez votre adresse IP adoptent de mauvaises pratiques d’envoi, vos campagnes par e-mail pourraient être affectées.
+**Mauvais colocataires** - Si les expéditeurs qui partagent votre adresse IP adoptent de mauvaises pratiques d’envoi, vos campagnes par e-mail pourraient être affectées.
 **Contrôle** - Vous avez beaucoup moins de contrôle sur la réputation de votre expéditeur.
 **Résolution des problèmes** - Il peut souvent être plus difficile de résoudre un problème lors de l’envoi de messages à partir d’adresses IP partagées.
 
 >[!NOTE]
 >
->Lors de la prise de décision, il y a un autre facteur important à prendre en compte : le volume d’envoi. Si vous prévoyez d’envoyer moins de 100 000 e-mails par mois, ou moins de deux mailings par mois, vous ne bénéficierez probablement pas d’une adresse IP dédiée. Des numéros d’envoi comme celui-ci sont considérés comme faibles et il serait difficile de garder votre adresse IP dédiée suffisamment « chaude » pour être considérée comme sûre par les principaux FAI. En gros, si vous ne publiez pas assez souvent, les FAI verront un publipostage comme une « augmentation » soudaine de l&#39;activité, et pourraient finir par le bloquer comme spam présumé.
+>Lors de la prise de décision, un autre facteur important doit être pris en compte : le volume d’envoi. Si vous prévoyez d’envoyer moins de 100 000 e-mails par mois, ou moins de deux mailings par mois, vous ne bénéficierez probablement pas d’une adresse IP dédiée. Des numéros d’envoi comme celui-ci sont considérés comme faibles et il serait difficile de garder votre adresse IP dédiée suffisamment « chaude » pour être considérée comme sûre par les principaux FAI. Si vous ne publiez pas assez souvent, les FAI verront un publipostage comme une « augmentation » soudaine de l&#39;activité, et pourraient finir par le bloquer comme spam présumé.
 
-Si vous avez des questions ou si vous souhaitez configurer une adresse IP dédiée, contactez votre représentant commercial Marketo.
+Si vous avez des questions ou si vous souhaitez configurer une adresse IP dédiée, contactez votre représentant de compte Marketo.

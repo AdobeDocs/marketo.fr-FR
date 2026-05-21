@@ -4,9 +4,14 @@ description: Découvrez comment modifier des éléments dans un email dans l’�
 title: Modifier des éléments dans un e-mail
 exl-id: 915b4a45-f92e-40ff-9a4c-65c52f19f1ec
 feature: Email Editor
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/Y-VOyP0NKmLA5AqCjkGcYoJmQhJ-iovOyuOD-QdUJl8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '516'
+source-wordcount: 516
 ht-degree: 1%
 
 ---

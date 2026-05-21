@@ -3,9 +3,12 @@ description: Découvrez les fonctionnalités de GenAI dans les webinaires intera
 title: Fonctionnalités de GenAI
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/I-PRBKSQ-sFs7MFX1uQy1-WQHV-t86tZv0cWFQzLXZE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '694'
+source-wordcount: 694
 ht-degree: 0%
 
 ---

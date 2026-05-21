@@ -4,9 +4,14 @@ description: Découvrez comment modifier le style et la couleur du bouton Envoye
 title: Modifier le style et la couleur du bouton Envoyer
 exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
 feature: Forms
-source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
+TQID: https://experienceleague.adobe.com/uCgQuqRelLuGuBLXjvOMymJdlqO-jH--caWtte-bY14
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: 150
 ht-degree: 13%
 
 ---

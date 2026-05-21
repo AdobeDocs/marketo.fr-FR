@@ -4,9 +4,12 @@ description: Découvrez le fonctionnement des tâches dans les campagnes Sales C
 title: Utilisation de tâches dans des campagnes
 exl-id: 444e7e3a-d774-40cf-82d1-40e395a79baa
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/Irny7uMXziNEfsD1pww-v1MB68eDAWKFoQgCYXYsLhA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: 209
 ht-degree: 3%
 
 ---

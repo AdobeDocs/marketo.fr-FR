@@ -4,10 +4,16 @@ description: Découvrez comment personnaliser l’affichage mobile pour votre pa
 title: Personnaliser la vue mobile de votre page de destination à structure libre
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/RJiOHLIXxHZdZBJk2XtIqk6TtJ7UVjcExmkxyVFp3yQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '376'
-ht-degree: 5%
+source-wordcount: 378
+ht-degree: 4%
 
 ---
 
@@ -17,7 +23,7 @@ ht-degree: 5%
 >
 >[Ajouter une vue mobile pour votre page de destination de forme libre](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
 
-L’affichage mobile de votre page de destination de forme libre est principalement automatique, mais vous pouvez la personnaliser. Voici comment faire.
+L’affichage mobile de votre page de destination de forme libre est principalement automatique, mais vous pouvez la personnaliser.
 
 1. Sélectionnez votre page de destination de forme libre.
 
@@ -45,7 +51,7 @@ Par défaut, tout ce qui se trouve dans la vue Bureau s’affiche dans la vue mo
 
 ![](assets/image2015-5-21-15-3a12-3a2.png)
 
-## Points importants à connaître : {#important-things-to-know}
+## Points importants à connaître {#important-things-to-know}
 
 * Les images s’étendent sur toute la largeur de votre appareil mobile. Si vous souhaitez des images plus petites, extrayez l’élément de texte enrichi et ajoutez votre image à partir de là.
 * N’utilisez que des formulaires Forms 2.0. Ils sont réactifs et s’ajustent automatiquement.
@@ -57,13 +63,13 @@ Par défaut, tout ce qui se trouve dans la vue Bureau s’affiche dans la vue mo
 
 >[!TIP]
 >
->Less est more sur mobile. Utilisez moins de mots pour satisfaire votre clientèle.
+>Less est more sur mobile.
 
 1. Pour masquer un élément, cochez la case correspondante sous la colonne mobile .
 
    ![](assets/image2015-5-21-15-3a28-3a17.png)
 
-1. Parfait ! Cet élément ne sera plus visible dans votre vue mobile.
+1. Cet élément ne sera plus visible dans votre vue mobile.
 
    ![](assets/image2015-5-21-15-3a30-3a17.png)
 
@@ -71,7 +77,7 @@ Par défaut, tout ce qui se trouve dans la vue Bureau s’affiche dans la vue mo
 
 >[!TIP]
 >
->Créez du contenu spécial (plus court) uniquement pour la vue mobile.
+>Raccourcissez le contenu pour la vue mobile.
 
 1. Pour ajouter un élément, faites-le glisser sur la page de destination de forme libre.
 
@@ -91,7 +97,7 @@ Par défaut, tout ce qui se trouve dans la vue Bureau s’affiche dans la vue mo
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
-1. Tu veux voir quelque chose de cool ? Sélectionnez **[!UICONTROL Côte À Côte]**.
+1. Sélectionnez **[!UICONTROL Côte à côte]** pour comparer les versions de bureau et mobile en même temps.
 
    ![](assets/image2015-1-22-20-3a2-3a15.png)
 
@@ -99,7 +105,7 @@ Par défaut, tout ce qui se trouve dans la vue Bureau s’affiche dans la vue mo
 
    ![](assets/image2015-1-22-20-3a3-3a22.png)
 
-1. Si vous l’aimez, cliquez sur **[!UICONTROL Approuver et fermer]**.
+1. Cliquez sur **[!UICONTROL Approuver et fermer]**.
 
    ![](assets/image2015-1-22-20-3a5-3a36.png)
 
@@ -107,7 +113,6 @@ Par défaut, tout ce qui se trouve dans la vue Bureau s’affiche dans la vue mo
    >
    >L’aperçu n’est pas interactif. Chaque smartphone affiche les choses un peu différemment. Nous vous recommandons de prévisualiser votre page de destination sur quelques appareils afin de voir exactement comment elle se comporte.
 
-Amusez-vous bien.
 
 >[!MORELIKETHIS]
 >

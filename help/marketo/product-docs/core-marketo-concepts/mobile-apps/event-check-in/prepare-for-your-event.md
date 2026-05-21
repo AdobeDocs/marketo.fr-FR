@@ -4,9 +4,15 @@ description: Découvrez comment préparer votre événement grâce à l’enregi
 title: Préparer votre événement
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+TQID: https://experienceleague.adobe.com/bqaLAyN4ltIiO-S6DcBmmhiC09N1ZRPDOgSPYMnMjjM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: 438
 ht-degree: 2%
 
 ---

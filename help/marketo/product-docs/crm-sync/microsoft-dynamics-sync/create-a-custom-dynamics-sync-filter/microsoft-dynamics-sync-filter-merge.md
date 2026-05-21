@@ -4,9 +4,12 @@ description: Comprendre comment fonctionne le filtre de synchronisation Dynamics
 title: Filtre de synchronisation Microsoft Dynamics - Fusion
 exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/wxPBvOQk4SW8gocZOGfagAMAG4OH9ghTqhh0lVRGI-U
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: 184
 ht-degree: 0%
 
 ---

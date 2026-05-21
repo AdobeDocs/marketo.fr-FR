@@ -4,9 +4,14 @@ description: Découvrez comment créer un utilisateur Salesforce pour Marketo av
 title: 'Étape 2 sur 3 : création d’un utilisateur Salesforce pour Marketo (professionnel)'
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/BrxRg4uQfMHXiQYXbIyBL4OkP9-HCJLSXVPEKMHD7C4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: 436
 ht-degree: 0%
 
 ---

@@ -4,9 +4,12 @@ description: Découvrez comment ajouter du texte et des jetons à une page de de
 title: Ajouter du texte et des jetons à une page de destination
 exl-id: df6f17dc-50a0-4ee0-9a6e-96b0ebde46c7
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/-WO74fBXUqqawkC75M5bH2pFdWk3jcVhZghU2o5vEmk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: 202
 ht-degree: 8%
 
 ---
@@ -35,7 +38,7 @@ ht-degree: 8%
 
    ![](assets/image2015-7-8-17-3a0-3a49.png)
 
-Maintenant que vous savez comment ajouter du texte à une page de destination, nous allons travailler sur l’ajout d’un jeton.
+Maintenant que vous savez comment ajouter du texte à une page de destination, la section suivante traite de l’ajout d’un jeton.
 
 ## Ajouter un jeton à votre page de destination {#add-a-token-to-your-landing-page}
 
@@ -43,7 +46,7 @@ Les jetons sont des éléments textuels dynamiques qui peuvent personnaliser vot
 
 >[!TIP]
 >
->Des éléments tels que Prénom proviennent du dossier de personne. Les autres jetons proviennent de l’onglet Mes jetons dans le programme.
+>Les valeurs telles que Prénom proviennent de l’enregistrement de la personne. Les autres jetons proviennent de l’onglet Mes jetons dans le programme.
 
 1. Sélectionnez votre page de destination et cliquez sur **[!UICONTROL Modifier le brouillon]**.
 
@@ -73,4 +76,4 @@ Les jetons sont des éléments textuels dynamiques qui peuvent personnaliser vot
 
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 
-   Mission terminée ! Vous disposez désormais d’un jeton sur votre page de destination.
+   Vous disposez désormais d’un jeton sur votre page de destination.

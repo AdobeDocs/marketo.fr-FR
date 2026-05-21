@@ -4,9 +4,12 @@ description: Découvrez comment trouver toutes les personnes à une étape de ch
 title: Rechercher toutes les personnes présentes dans une étape de cycle de revenus
 exl-id: aa5b30bf-96f1-4c1f-8170-86ba808e9705
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/-cODXA865GaIRdn34vnODbn7HCmp7Tf8J9OOOOOaswQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: 161
 ht-degree: 8%
 
 ---

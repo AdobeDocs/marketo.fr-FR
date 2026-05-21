@@ -4,9 +4,12 @@ description: Découvrez comment configurer l’e-mail de rapport des ventes hebd
 title: Configuration du rapport TAM
 exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
 feature: Target Account Management
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+TQID: https://experienceleague.adobe.com/wXMjcc5C-4pYGtgqomP56DSwTgFHvDSoyjCshMWpBG4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: 189
 ht-degree: 4%
 
 ---

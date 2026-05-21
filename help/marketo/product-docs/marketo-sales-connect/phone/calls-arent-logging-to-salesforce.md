@@ -4,9 +4,16 @@ description: Obtenez de l’aide lorsque les appels Sales Connect ne se connecte
 title: Les appels ne sont pas consignés dans Salesforce.
 exl-id: 99528c1a-7398-442b-81d1-9b5908e35e2f
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/jjTIRKtODlgrMPAoM45wJD2vqFJwfPB56grKn8lRpHY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: 133
 ht-degree: 3%
 
 ---

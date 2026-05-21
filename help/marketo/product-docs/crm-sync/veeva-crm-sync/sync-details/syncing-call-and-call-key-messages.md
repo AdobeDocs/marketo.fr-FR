@@ -3,9 +3,16 @@ description: Découvrez comment les objets Appel et Message Clé d'appel se sync
 title: Synchronisation des appels et des messages clés d’appel
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+TQID: https://experienceleague.adobe.com/IuF0jecYZcSgM6jZaVLeJO0CoSwBgYoxirK-9ZAiaWU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: 495
 ht-degree: 12%
 
 ---
@@ -150,7 +157,7 @@ Les champs suivants des messages Appel et Clé d&#39;appel sont synchronisés et
     </tr>
     <tr>
       <td>Message clé d'appel</td>
-      <td>Réaction </a>
+      <td>Réaction</a>
       </td>
       <td>Liste de sélection des réactions au message. Modifiez la liste de sélection pour modifier les valeurs de réaction.</td>
       <td>Reaction_vod__c</td>

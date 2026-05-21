@@ -4,10 +4,15 @@ description: Découvrez comment créer un programme d’engagement dans Marketo 
 title: Créer un programme d’engagement
 exl-id: 90f76d04-79cf-4fa1-999b-54d4ae34223f
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/GpU-1BhLyA-LWGaSJZl6cHOzZsFyzylKkoxAuQefE78
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 76%
+source-wordcount: 84
+ht-degree: 72%
 
 ---
 
@@ -26,8 +31,6 @@ Vous pouvez utiliser des programmes d’engagement dans Marketo pour faciliter l
 1. Saisissez un **[!UICONTROL Nom]**, sélectionnez **[!UICONTROL Engagement]** pour **[!UICONTROL Type de programme]** et cliquez sur **[!UICONTROL Créer]**.
 
    ![](assets/image2014-9-15-15-3a35-3a32.png)
-
-1. Maintenant que vous avez un programme d’engagement, poursuivez et personnalisez-le.
 
    ![](assets/image2014-9-15-15-3a35-3a38.png)
 

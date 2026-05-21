@@ -4,9 +4,12 @@ description: Découvrez comment ajouter des personnes à une campagne Sales Conn
 title: Ajouter des personnes à votre campagne
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
 feature: Marketo Sales Connect
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/B8bUpUpnVRSEtdGX5sMP4o0-wmFj8gJOiBJPXYfuLEs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: 201
 ht-degree: 4%
 
 ---

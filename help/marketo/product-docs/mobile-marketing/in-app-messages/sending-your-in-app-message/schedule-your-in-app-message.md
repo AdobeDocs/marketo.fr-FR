@@ -4,10 +4,13 @@ description: Découvrez comment planifier votre message in-app. Définissez une 
 title: Planifier votre message in-app
 exl-id: 2ff785b4-a0c9-4c04-869b-86fba7b997d7
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+TQID: https://experienceleague.adobe.com/VfL4nNWKztKHXuOvPzdJ6EpLVpJdHytKDYNxzdYLVWM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 8%
+source-wordcount: 106
+ht-degree: 9%
 
 ---
 

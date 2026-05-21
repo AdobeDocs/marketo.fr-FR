@@ -4,9 +4,12 @@ description: Découvrez le centre de commande dans Sales Connect. Gérez en un s
 title: Vue d’ensemble du centre de contrôle
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/hzr8OOsBDYhff0UJ-DqyaG6GGnfMePWeagHF78RbF7E
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: 595
 ht-degree: 1%
 
 ---
@@ -53,7 +56,7 @@ La section e-mail vous donne une vue d&#39;ensemble de tous vos e-mails et simpl
   <tr>
    <td title="Couleur d’arrière-plan : gris"><br></td>
    <td title="Couleur d’arrière-plan : gris">[!UICONTROL Draft]</td>
-   <td title="Couleur d’arrière-plan : gris"><p>E-mails enregistrés en tant que brouillon.<br><strong>Remarque :</strong> seuls des e-mails uniques peuvent être enregistrés en tant que brouillons. Les e-mails en masse (sélectionner et envoyer des e-mails et regrouper des e-mails) ne seront pas enregistrés en tant que brouillons.</p></td>
+   <td title="Couleur d’arrière-plan : gris"><p>E-mails enregistrés en tant que brouillons.<br><strong>Remarque :</strong> seuls les e-mails peuvent être enregistrés en tant que brouillons. Les e-mails en masse (sélectionner et envoyer des e-mails et regrouper des e-mails) ne seront pas enregistrés en tant que brouillons.</p></td>
   </tr>
   <tr>
    <td title="Couleur d’arrière-plan : gris"><br></td>
@@ -73,7 +76,7 @@ La section e-mail vous donne une vue d&#39;ensemble de tous vos e-mails et simpl
   <tr>
    <td title="Couleur d’arrière-plan : bleu"><br></td>
    <td title="Couleur d’arrière-plan : bleu">[!UICONTROL Spam]</td>
-   <td title="Couleur d’arrière-plan : bleu"><p>E-mails ayant été manuellement marqués comme spam par le destinataire.<br><strong>Remarque :</strong> Cela n’est détecté que si vous êtes un utilisateur ToutApp hérité et que vous avez accès aux serveurs MSC en tant que canal de diffusion.</p></td>
+   <td title="Couleur d’arrière-plan : bleu"><p>E-mails qui ont été manuellement marqués comme spam par le destinataire.<br><strong>Remarque :</strong> Cela n'est détecté que si vous êtes un utilisateur ToutApp hérité et que vous avez accès aux serveurs MSC en tant que canal de diffusion.</p></td>
   </tr>
  </tbody>
 </table>

@@ -4,9 +4,14 @@ description: Découvrez comment afficher ou masquer de manière dynamique un cha
 title: Activer/désactiver dynamiquement la visibilité d’un champ de formulaire
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
 feature: Forms
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+TQID: https://experienceleague.adobe.com/U3Lcsc5iBDigd3OdgrN0D7S3NBWllz9BwfztqeDBV98
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: 262
 ht-degree: 9%
 
 ---

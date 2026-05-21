@@ -3,9 +3,15 @@ description: Découvrez l’intégration de Highspot aux actions Sales Insight. 
 title: Intégration de Highspot
 exl-id: d864fa56-5cab-409f-9256-9819204f8853
 feature: Sales Insight Actions
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/SMFTyAUudxHzxiE2q4IzlqYtbwzUSn77ncsM7WMIAfg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: 348
 ht-degree: 1%
 
 ---

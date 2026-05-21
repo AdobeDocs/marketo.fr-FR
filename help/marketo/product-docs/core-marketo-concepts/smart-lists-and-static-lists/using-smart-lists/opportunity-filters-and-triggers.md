@@ -4,9 +4,12 @@ description: Découvrez les filtres et les triggers d’opportunité dans Market
 title: Filtres et déclencheurs d’opportunité
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/e5Nz6uthpqduyCkhoo1or70-Ych-DaAeZ-iOSEPxyA8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: 483
 ht-degree: 6%
 
 ---

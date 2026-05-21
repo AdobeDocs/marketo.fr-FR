@@ -4,9 +4,14 @@ description: Découvrez comment modifier le texte du bouton Envoyer du formulair
 title: Modifier le texte du bouton Envoyer du formulaire
 exl-id: 6461bbf0-9e77-4187-a7d1-a7ad3abe08d9
 feature: Forms
-source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
+TQID: https://experienceleague.adobe.com/n0lm6mCMNlnCxuAbQGyre2Uqa5jwt4neJBBDH9nepOs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: 94
 ht-degree: 19%
 
 ---

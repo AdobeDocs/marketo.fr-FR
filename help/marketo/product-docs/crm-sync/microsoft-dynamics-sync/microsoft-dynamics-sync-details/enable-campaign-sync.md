@@ -3,9 +3,12 @@ description: Découvrez comment activer la synchronisation des campagnes entre M
 title: Activer la synchronisation de la campagne
 exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/F7okawwlQD9FlU3vvp8bfy52I98aRXlbUlte0qd-V7Y
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: 111
 ht-degree: 8%
 
 ---

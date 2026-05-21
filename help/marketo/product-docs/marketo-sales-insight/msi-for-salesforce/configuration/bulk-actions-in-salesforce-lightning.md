@@ -4,9 +4,16 @@ description: Découvrez les actions en masse dans Salesforce Lightning pour Mark
 title: Actions en masse dans Salesforce Lightning
 exl-id: 8e07e870-158f-4072-8122-9f4b440f5f7c
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/zWShPG6rG-q7HGd5LFJMmeryIJPDR-n49hRmbp852-s
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: 129
 ht-degree: 8%
 
 ---

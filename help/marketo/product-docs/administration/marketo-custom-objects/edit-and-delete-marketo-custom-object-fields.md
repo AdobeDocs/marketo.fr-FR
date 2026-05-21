@@ -4,9 +4,16 @@ description: Comment modifier ou supprimer des champs sur un objet personnalisé
 title: Modifier et supprimer des champs d’objet personnalisé Marketo
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
 feature: Custom Objects
-source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
+TQID: https://experienceleague.adobe.com/OqNwCGa7EmcpU8PziRWd7rHBevtH7OhUbdiT41FhbDQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: 132
 ht-degree: 12%
 
 ---

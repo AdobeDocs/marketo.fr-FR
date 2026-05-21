@@ -3,7 +3,7 @@ description: Explorez la suite d’agents Marketo AI conçue pour automatiser le
 title: Présentation de Marketo AI
 badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: ff71b9e2a743056f8efd64d3debdf498ee3e43df
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 2%
@@ -24,7 +24,7 @@ Marketo AI fournit des agents conçus pour automatiser les fonctions marketing l
 
 >[!IMPORTANT]
 >
->Une fois cette fonctionnalité activée pour votre abonnement, vous devez effectuer certaines [étapes de configuration](/help/marketo/product-docs/marketo-ai/settings-setup.md) pour vous assurer que les utilisateurs souhaités y ont accès.
+>Une fois cette fonctionnalité activée pour votre abonnement, vous devez effectuer certaines [étapes de configuration](/help/marketo/product-docs/marketo-ai/settings-setup.md){target="_blank"} pour vous assurer que les utilisateurs souhaités y ont accès.
 
 ## Comment y accéder {#access}
 

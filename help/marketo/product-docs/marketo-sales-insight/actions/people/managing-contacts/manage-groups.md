@@ -3,9 +3,12 @@ description: Découvrez comment gérer des groupes de contacts dans les actions 
 title: Gérer les groupes
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+TQID: https://experienceleague.adobe.com/yN7o-BB4oNeM-x78M5-CH3WDctyqoO-mlZriZGGRn8A
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: 349
 ht-degree: 2%
 
 ---

@@ -4,16 +4,17 @@ description: Découvrez comment ajouter un formulaire à une page de destination
 title: Ajouter un formulaire à une page de destination guidée
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/rWlijjPdA6LW-7FBx-wSwolGY0thdJQGn6xg6mYkukk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: 174
 ht-degree: 13%
 
 ---
 
 # Ajouter un formulaire à une page de destination guidée {#add-a-form-to-a-guided-landing-page}
-
-Formulaire, page de destination. Page de destination, formulaire de correspondance.
 
 >[!PREREQUISITES]
 >
@@ -49,12 +50,10 @@ Formulaire, page de destination. Page de destination, formulaire de correspondan
    >
    >La page de suivi est la page que les personnes verront après avoir envoyé le formulaire.
 
-1. Dans cet exemple, nous utiliserons [!UICONTROL &#x200B; Formulaire défini &#x200B;]. Cliquez sur **[!UICONTROL Insérer]**.
+1. Dans cet exemple, sélectionnez [!UICONTROL &#x200B; Formulaire défini &#x200B;]. Cliquez sur **[!UICONTROL Insérer]**.
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 
-   Bien joué !
-
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-Fermez simplement l’éditeur de page de destination et [approuvez le brouillon de page de destination](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Fermez l’éditeur de page de destination et [approuvez le brouillon de page de destination](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).

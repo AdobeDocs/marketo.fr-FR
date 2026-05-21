@@ -4,9 +4,14 @@ description: Découvrez comment ajouter des personnes à un compte nommé à l�
 title: Ajouter des personnes à un compte nommé
 exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
 feature: Target Account Management
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+TQID: https://experienceleague.adobe.com/ULcIzU4HwBSuZaPemgtYhWZTjv5tzMqmKtzcY70qx74
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: 200
 ht-degree: 6%
 
 ---

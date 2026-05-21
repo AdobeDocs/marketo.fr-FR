@@ -4,9 +4,16 @@ description: Découvrez comment ajouter un prospect ou un contact à une campagn
 title: Ajouter un lead/contact à une campagne Marketo à partir de Microsoft Dynamics
 exl-id: f74b2ade-dd2c-4e04-a6cf-4bc80db12d42
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/-Koxk8vu7pdKpmATjaqEUuzdmCuG1WjBSy-exSHO8n8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: 143
 ht-degree: 9%
 
 ---

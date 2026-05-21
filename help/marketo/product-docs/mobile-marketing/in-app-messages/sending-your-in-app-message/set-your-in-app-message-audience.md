@@ -4,10 +4,15 @@ description: Découvrez comment définir l’audience de votre message in-app. M
 title: Définir l’audience de votre message in-app
 exl-id: 696ae5b6-7063-41bc-bcef-27879182ff1e
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+TQID: https://experienceleague.adobe.com/hMVJupuaDx0Tw9yy8geOrIZPUosdvtx7HJwzqbQiIdA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '306'
-ht-degree: 3%
+source-wordcount: 319
+ht-degree: 4%
 
 ---
 
