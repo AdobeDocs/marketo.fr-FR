@@ -4,9 +4,9 @@ description: Découvrez le chemin de la réussite du modèle de chiffre d’affa
 title: Présentation de la voie du succès du modèle de revenu
 exl-id: aeb85e5e-0377-40b5-a7c9-ee9c1322ee66
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+source-git-commit: d2f1f0d664576a1ac8f5640dc20ebf50bec58501
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '239'
 ht-degree: 5%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 5%
 
 Dans le modèle, le chemin vert, appelé **chemin de réussite**, est le chemin optimal pour la transition linéaire d’un prospect vers une entreprise fermée ou acquise.
 
-![--](assets/image2015-6-12-17-3a12-3a18.png)
+![organigramme](assets/image2015-6-12-17-3a12-3a18.png)
 
 Exemples d’étapes sur un chemin de réussite :
 
@@ -25,7 +25,7 @@ Exemples d’étapes sur un chemin de réussite :
 |---|---|
 | **Vérifier les nouveaux noms** | Vérifier si les nouveaux noms sont qualifiés |
 | **Prospect** | Prospects qualifiés qui ne sont pas encore prêts pour la vente |
-| **Lead** | Prospects qualifiés par marketing (« prêts pour la vente ») |
+| **Lead** | Prospects qualifiés du marketing (« prêts pour les ventes ») |
 | **Opportunité** | Les ventes ont accepté les leads, en travaillant activement |
 | **Client** | Offres conclues |
 
@@ -35,7 +35,7 @@ Exemples d’étapes sur un chemin de réussite :
 
 ## Détours {#detours}
 
-Reconnaissant que toutes les pistes ne suivent pas un « chemin de succès » linéaire, vous devez également définir vos « étapes de détour » pour capturer les pistes qui ne sont pas qualifiées, ou qui nécessitent quelques cycles de soutien avant de se préparer. Par exemple :
+Reconnaissant que toutes les pistes ne suivent pas un « chemin de succès » linéaire, vous devez également définir vos « étapes de détour » pour capturer les pistes qui ne sont pas qualifiées ou qui nécessitent quelques cycles de formation avant de se préparer. Par exemple :
 
 | **NOM DE L’ÉTAPE DE DÉTOUR** | **DÉFINITION** |
 |---|---|
