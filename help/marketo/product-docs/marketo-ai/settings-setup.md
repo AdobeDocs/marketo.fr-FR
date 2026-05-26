@@ -3,10 +3,10 @@ description: Découvrez comment activer les autorisations de l’IA dédiée à 
 title: Paramètres et configuration
 badge: Beta
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: ff71b9e2a743056f8efd64d3debdf498ee3e43df
+source-git-commit: 854fee409fb55c8f611ee85225bea6ab77036dff
 workflow-type: tm+mt
-source-wordcount: '568'
-ht-degree: 4%
+source-wordcount: '580'
+ht-degree: 3%
 
 ---
 
@@ -16,7 +16,7 @@ Découvrez comment activer des autorisations et utiliser la zone Paramètres pou
 
 >[!AVAILABILITY]
 >
->Cette fonctionnalité est en disponibilité limitée. Pour demander l’accès à votre abonnement, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
+>Cette fonctionnalité est en disponibilité limitée. Pour demander l’accès, remplissez [ce formulaire](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode){target="_blank"}. Assurez-vous que l’identifiant Munchkin de votre abonnement est prêt.
 
 >[!PREREQUISITES]
 >
