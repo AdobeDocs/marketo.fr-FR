@@ -5,8 +5,10 @@ title: Configurer un formulaire de création de profils utilisateur progressive
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
 TQID: https://experienceleague.adobe.com/W143MciVBqQPZXiQKmlLTLDyqik3Uo5ouSwAmJV4EkI
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 337
@@ -20,7 +22,7 @@ Les formes courtes sont bonnes ! Lorsqu’une personne revient sur un formulaire
 
 >[!NOTE]
 >
->Pour que cette fonctionnalité fonctionne correctement, assurez-vous que le préremplissage du formulaire est activé pour les champs visibles et [ désactivé](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) pour les champs masqués.
+>Pour que cette fonctionnalité fonctionne correctement, assurez-vous que le préremplissage du formulaire est activé pour les champs visibles et [&#x200B; désactivé](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) pour les champs masqués.
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 
