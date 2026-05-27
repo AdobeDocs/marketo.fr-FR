@@ -5,7 +5,8 @@ title: Champion/Challenger - Définir les critères du champion
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
 TQID: https://experienceleague.adobe.com/uCGJ3Nj-5vpy1tGytN5YXEDqB3DQKNk8FlxkVbMoei8
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 189
@@ -51,7 +52,7 @@ Une fois que vous avez configuré votre type de test, vous devez définir les cr
 
    ![](assets/image2014-9-15-13-3a3-3a54.png)
 
-   Marketo autorise uniquement les déclencheurs pour les personnes à qui cet e-mail a été envoyé à partir de ce programme de messagerie. Il n’est pas nécessaire d’ajouter un filtre « E-mail [!UICONTROL  envoyé ] ».
+   Marketo autorise uniquement les déclencheurs pour les personnes à qui cet e-mail a été envoyé à partir de ce programme de messagerie. Il n’est pas nécessaire d’ajouter un filtre « E-mail [!UICONTROL &#x200B; envoyé &#x200B;] ».
 
 1. Cliquez sur **[!UICONTROL Fermer]**.
 
