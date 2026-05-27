@@ -5,8 +5,7 @@ title: L’e-mail de test ne s’est pas affiché comme sur la prévisualisation
 exl-id: a97bf35c-6cc2-49d1-b8ab-7a434c4482b6
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/QTXdqEMbhGygxPbWSny4xPvtJIHc9CUVLndkbKpI4fE
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 158
