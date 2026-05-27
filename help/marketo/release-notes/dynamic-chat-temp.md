@@ -5,8 +5,7 @@ feature: Release Information, Dynamic Chat
 hide: true
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
 TQID: https://experienceleague.adobe.com/96IN5RB3KNwgTetW-pfioXkeOY3e7Uu7OiOSVncJ3ug
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 933
@@ -38,7 +37,7 @@ Nous avons réorganisé la logique de transmission de la conversation en direct 
 
 * **Comportement spécifique à la règle de transmission**
 
-_&#x200B;**Transmission du compte**&#x200B;_
+_**Transmission du compte**_
 
 Si le domaine d’e-mail d’un visiteur ou d’une visiteuse est mappé à un compte connu, l’agent mappé ou l’agente mappée conserve toujours la priorité.
 
@@ -55,7 +54,7 @@ Au lieu de cela, il :
 
 La règle de routage au niveau de la carte (par exemple, Équipe, Personnalisé) n’est prise en compte que si le routage de compte n’est pas éligible (aucun domaine ou agent correspondant).
 
-_&#x200B;**Routage personnalisé/d’équipe**&#x200B;_
+_**Routage personnalisé/d’équipe**_
 
 Ces règles peuvent renvoyer plusieurs agentes et agents éligibles.
 
@@ -69,7 +68,7 @@ Si aucun agent ni aucune agente ne s’engage :
 -ou-
 * affiche le message de secours par défaut.
 
-_&#x200B;**Transmission du round-robin**&#x200B;_
+_**Transmission du round-robin**_
 
 Lorsqu’il est utilisé comme règle de transmission principale, le système :
 
@@ -79,7 +78,7 @@ Lorsqu’il est utilisé comme règle de transmission principale, le système :
 
 Si le round-robin est utilisé comme solution de secours, il n’est activé que si aucun agent ni aucune agente ne ressort à partir de la règle principale.
 
-_&#x200B;**Flux d’expérience du visiteur**&#x200B;_
+_**Flux d’expérience du visiteur**_
 
 Le système vérifie si la transmission du compte est applicable.
 
@@ -103,7 +102,7 @@ La solution de secours du round-robin n’est prise en compte que lorsqu’aucun
 
 ##### Cas d’utilisation {#use-cases}
 
-_&#x200B;**Transmission du compte**&#x200B;_
+_**Transmission du compte**_
 
 <table><thead>
   <tr>
@@ -129,7 +128,7 @@ _&#x200B;**Transmission du compte**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Transmission personnalisée**&#x200B;_
+_**Transmission personnalisée**_
 
 <table><thead>
   <tr>
@@ -155,7 +154,7 @@ _&#x200B;**Transmission personnalisée**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Transmission d’équipe**&#x200B;_
+_**Transmission d’équipe**_
 
 <table><thead>
   <tr>
@@ -181,7 +180,7 @@ _&#x200B;**Transmission d’équipe**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Transmission du round-robin**&#x200B;_
+_**Transmission du round-robin**_
 
 <table><thead>
   <tr>

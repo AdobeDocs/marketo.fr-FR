@@ -1,16 +1,16 @@
 ---
 description: Notes De Mise À Jour - Février 2026 - Documents Marketo - Documentation Du Produit
-title: Notes de mise à jour - Février 2026
+title: Notes De Mise À Jour - Février 2026
 feature: Release Information
 exl-id: 679d2fca-99ba-4321-ad0d-a297b7f193fc
 source-git-commit: 70939d387dcfe6064e179e4e7e91b16c6baa7b8b
 workflow-type: tm+mt
-source-wordcount: '372'
-ht-degree: 41%
+source-wordcount: '436'
+ht-degree: 22%
 
 ---
 
-# Notes de mise à jour : février 2026 {#release-notes-feb-26}
+# Notes De Mise À Jour : Février 2026 {#release-notes-feb-26}
 
 Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 26 février. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
 
@@ -18,7 +18,7 @@ Les notes de mise à jour spécifiques à Adobe Dynamic Chat [peuvent être co
 
 ## Fonctionnalités du cycle de publication de la version standard {#standard-release-cycle-features}
 
-Les fonctionnalités suivantes font partie du cycle de publication de la version standard et commenceront à être publiées le **samedi 20 février 2026**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication sont susceptibles d’être modifiées. Vérifiez le statut en regard de chaque fonctionnalité.
+Les fonctionnalités suivantes font partie du cycle de publication standard et commenceront à être publiées le **20 février 2026**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication sont susceptibles d’être modifiées. Vérifiez le statut en regard de chaque fonctionnalité.
 
 <table style="table-layout:auto">
  <tbody>
@@ -55,7 +55,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   <tr>
    <td><strong>Email Designer - génération d’images de l’assistant AI</strong> : désormais, en plus de Firefly, vous pouvez utiliser des modèles Nano Banana pour générer des images avec l’assistant AI pour le contenu des e-mails.</td>
    <td>Libéré</td>
-   <td><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant#create-content-for-a-specific-section">Créer du contenu pour une section spécifique de votre e-mail</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant#create-content-for-a-specific-section">Créer du contenu pour une section spécifique de votre e-mail</a></td>
   </tr>
   </tbody>
 </table>
@@ -63,10 +63,10 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
 
 ## Annonces {#announcements}
 
-* **Obsolescence des fonctionnalités d’optimisation du moteur de recherche** : le mardi 31 mars 2026, Marketo Engage abandonnera la fonctionnalité d’optimisation du moteur de recherche (SEO). Si vous n&#39;utilisez pas activement l&#39;optimisation du moteur de recherche, vous n&#39;avez rien à faire. Si vous avez récemment utilisé l’optimisation du moteur de recherche, vous avez la possibilité d’exporter vos données. [En savoir plus](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=fr){target="_blank"}.
+* **Obsolescence des fonctionnalités d’optimisation du moteur de recherche** : le mardi 31 mars 2026, Marketo Engage abandonnera la fonctionnalité d’optimisation du moteur de recherche (SEO). Si vous n&#39;utilisez pas activement l&#39;optimisation du moteur de recherche, vous n&#39;avez rien à faire. Si vous avez récemment utilisé l’optimisation du moteur de recherche, vous avez la possibilité d’exporter vos données. [En savoir plus](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}.
 
 * **Limite de leads de fusion de l’API REST** : à compter du 31 mars 2026, les appels qui incluent plus de 25 identifiants dans le paramètre leadIds d’un appel de l’API Merge Leads entraîneront un code d’erreur 1080 et l’appel sera ignoré. Les tâches nécessitant la fusion de plus de 25 enregistrements en un seul doivent être divisées en plusieurs tâches pour assurer le succès de ces appels.
 
-* **Obsolescence du paramètre « access_token » de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours de suppression et ne sera plus disponible après le samedi 31 juillet 2026. Toutes les intégrations nouvelles et existantes doivent authentifier les appels de l’API REST à l’aide de l’en-tête « Autorisation », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Obsolescence du paramètre &#39;access_token&#39; de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours d’obsolescence et ne sera plus disponible après le 31 juillet 2026. Toutes les intégrations nouvelles et existantes doivent authentifier les appels de l’API REST à l’aide de l’en-tête « Autorisation », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Obsolescence de l’API SOAP** : la prise en charge de l’API SOAP Marketo prendra fin le samedi 31 juillet 2026. Les services qui utilisent les fonctionnalités de l’API SOAP doivent être migrés vers l’[API REST](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Obsolescence de l’API SOAP** : la prise en charge de l’API Marketo SOAP prendra fin le 31 juillet 2026. Les services qui utilisent les fonctionnalités de l’API SOAP doivent être migrés vers l’[API REST](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.

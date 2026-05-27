@@ -4,15 +4,10 @@ title: Notes de mise à jour - Mai 2025
 feature: Release Information
 exl-id: 99cd1d54-0a80-40fa-9d0c-1cb437be90f0
 TQID: https://experienceleague.adobe.com/U1fwUVPzc3mpwzuxzwh-bXy7Y-0aHlzNHnoRuPsjW8g
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-subfeature_v2:
-  - id: c942e9f6-ed06-481a-abdd-1195363d1452
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 516
@@ -72,7 +67,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
 
 ## Annonces {#announcements}
 
-* **Mise à jour de l’intégration de la conversion hors ligne Facebook** : le 29 mai 2025, l’intégration [Facebook Offline Conversion](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"} pour Marketo Engage sera migrée vers la nouvelle API Meta [Conversions](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"}, en raison de l’obsolescence de l’API [Offline Conversions](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"} sous Meta, conformément au contrôle de version de l’API Graph. Pour plus d’informations, consultez le guide de Meta sur l’[envoi d’événements hors ligne via l’API de conversion](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"} (CAPI pour hors ligne).
+* **Mise à jour de l’intégration de la conversion hors ligne Facebook** : le 29 mai 2025, l’intégration [Facebook Offline Conversion](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"} pour Marketo Engage sera migrée vers la nouvelle API Meta [Conversions](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"}, en raison de l’obsolescence de l’API [Offline Conversions](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"} sous Meta, conformément au contrôle de version de l’API Graph. Pour plus d’informations, consultez le guide de Meta sur l’[envoi d’événements hors ligne via l’API de conversion](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"} (CAPI pour hors ligne).
 
 * **Nouvelle fonctionnalité Analytics - Beta publique** : [Analytique BI avancée](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"} (anciennement connue sous le nom de Revenue Explorer et de Advanced Report Builder) a commencé à être déployée auprès de tous les utilisateurs actuels de Revenue Cycle Explorer à la mi-avril. Ce nouvel outil offre une interface flexible de création de rapports et de visualisation sur les données Marketo Engage, fournissant des détails granulaires sur la progression, les performances, etc. Il offre une interactivité et une visualisation plus riches, des performances plus rapides et une expérience utilisateur plus fluide et intuitive.
 
