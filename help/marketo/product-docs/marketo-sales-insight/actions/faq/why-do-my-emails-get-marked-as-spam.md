@@ -3,9 +3,12 @@ description: Obtenez de l’aide lorsque vos e-mails de vente sont marqués comm
 title: Pourquoi mes e-mails sont-ils marqués comme spam ?
 exl-id: f42cd9ba-5c05-491b-a471-a8dcc49fe27d
 TQID: https://experienceleague.adobe.com/8DHDyZWQZ5vyTv1iM5arj52XJf9cnS2ZmSKQCzvXLCU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 206
