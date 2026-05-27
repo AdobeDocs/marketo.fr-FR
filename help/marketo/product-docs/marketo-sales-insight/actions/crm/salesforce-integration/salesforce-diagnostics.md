@@ -4,10 +4,15 @@ title: Diagnostics Salesforce
 exl-id: c449f938-9615-47cb-b232-613ec29068a3
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/FMRaCIwUGnTuyrIEi---7I4Tir-uwrZnzYWZxrOkwWg
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-subfeature_v2: id: edcca97f-2314-445f-9a79-3ac30a2a9c27
-topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: d095671a-1355-40aa-8b5f-06c33c68080b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 1394
@@ -25,7 +30,7 @@ Une partie de notre intégration [!DNL Salesforce] comprend une page de diagnost
 
    ![](assets/salesforce-diagnostics-1.png)
 
-1. Sous [!UICONTROL  Intégrations ], cliquez sur **[!UICONTROL Diagnostics]**.
+1. Sous [!UICONTROL &#x200B; Intégrations &#x200B;], cliquez sur **[!UICONTROL Diagnostics]**.
 
    ![](assets/salesforce-diagnostics-2.png)
 
@@ -71,7 +76,7 @@ Une partie de notre intégration [!DNL Salesforce] comprend une page de diagnost
 **Error:** EXPIRED_ACCESS
 **Category:** Authentification
 **Message:** invalid_grant : jeton d’accès/d’actualisation expiré
-**Que se passe-t-il** le jeton d’accès ou d’actualisation a expiré ? Les jetons expirent en fonction des paramètres de session [ dans  [!DNL Salesforce]](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via).
+**Que se passe-t-il** le jeton d’accès ou d’actualisation a expiré ? Les jetons expirent en fonction des paramètres de session [&#x200B; dans  [!DNL Salesforce]](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via).
 **Étapes de dépannage :** vous devrez vous authentifier à nouveau. Déconnectez la connexion [!DNL Salesforce] et reconnectez-vous.
 
 **Error:** FAILED_WRITE
