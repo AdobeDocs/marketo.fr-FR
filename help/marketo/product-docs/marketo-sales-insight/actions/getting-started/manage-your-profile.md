@@ -26,7 +26,7 @@ Voici où vous pouvez mettre à jour votre nom et/ou votre mot de passe.
 
 >[!NOTE]
 >
->Votre adresse e-mail est définie pour affichage uniquement. Si vous avez besoin de modifier ce paramètre, contactez l’assistance technique de [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Votre adresse e-mail est définie pour affichage uniquement. Si vous avez besoin de modifier ce paramètre, contactez l’assistance technique de [](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 Vous pouvez également modifier votre mot de passe dans cette section. Les étapes sont décrites dans ce document.
 
