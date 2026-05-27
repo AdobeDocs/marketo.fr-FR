@@ -5,8 +5,7 @@ title: Étape 3 sur 3 - Connexion  [!DNL Microsoft Dynamics]  Marketo (2011 On-P
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 feature: Microsoft Dynamics
 TQID: https://experienceleague.adobe.com/lXIts5epOGhGJLKvIKTOAdOABz15rNAfuSmvHuSC0SI
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 379
@@ -37,7 +36,7 @@ La solution est installée et l’utilisateur de synchronisation est configuré.
 
    ![](assets/image2014-12-11-11-3a53-3a59.png)
 
-1. Cliquez sur **&#x200B;**.
+1. Cliquez sur ****.
 
    ![](assets/image2014-12-11-11-3a54-3a10.png)
 
@@ -72,13 +71,13 @@ Sélectionnez les champs à synchroniser.
 
    >[!NOTE]
    >
-   >Marketo stocke une référence aux champs à synchroniser. Si vous supprimez un champ dans [!DNL Dynamics], nous vous recommandons de le faire avec la [synchronisation désactivée](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Ensuite, actualisez le schéma dans Marketo en modifiant et en enregistrant le [&#x200B; Sélectionner les champs à synchroniser &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
+   >Marketo stocke une référence aux champs à synchroniser. Si vous supprimez un champ dans [!DNL Dynamics], nous vous recommandons de le faire avec la [synchronisation désactivée](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Ensuite, actualisez le schéma dans Marketo en modifiant et en enregistrant le [ Sélectionner les champs à synchroniser ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
 
 ## Synchroniser les champs pour un filtre personnalisé {#sync-fields-for-a-custom-filter}
 
 Si vous avez créé un filtre personnalisé, accédez à et sélectionnez les nouveaux champs à synchroniser avec Marketo.
 
-1. Accédez à Admin et sélectionnez **&#x200B;**.
+1. Accédez à Admin et sélectionnez ****.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 

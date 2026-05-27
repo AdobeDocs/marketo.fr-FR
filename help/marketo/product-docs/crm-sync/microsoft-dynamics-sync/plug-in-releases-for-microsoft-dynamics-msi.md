@@ -5,10 +5,8 @@ title: Versions des plug-ins pour [!DNL Microsoft Dynamics] MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
 TQID: https://experienceleague.adobe.com/egQszdONMhYChmpRBz40TUuYH0k-UYHLuPxAakLzjsM
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 495
@@ -20,7 +18,7 @@ ht-degree: 12%
 
 Lors de la première synchronisation avec [!DNL Microsoft Dynamics], vous téléchargez et installez la dernière version des plug-ins pour Marketo Sales Insight (MSI). Marketo met régulièrement à jour ces plug-ins afin que vous puissiez revenir au même endroit pour télécharger la nouvelle version.
 
-Si vous utilisez la solution de synchronisation CRM native de Marketo pour [!DNL Dynamics], [téléchargez le dernier plug-in](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} correspondant à votre version [!DNL Dynamics]. Pour ceux qui disposent d’une synchronisation personnalisée et ont acheté Marketo Sales Insight, le package [&#x200B; est disponible ici](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+Si vous utilisez la solution de synchronisation CRM native de Marketo pour [!DNL Dynamics], [téléchargez le dernier plug-in](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} correspondant à votre version [!DNL Dynamics]. Pour ceux qui disposent d’une synchronisation personnalisée et ont acheté Marketo Sales Insight, le package [ est disponible ici](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
 >[!NOTE]
 >

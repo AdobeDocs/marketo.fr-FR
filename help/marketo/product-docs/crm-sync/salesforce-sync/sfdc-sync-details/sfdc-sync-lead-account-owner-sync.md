@@ -5,8 +5,7 @@ title: Synchronisation de SFDC - Synchronisation des prospects et des propriéta
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/hw4ZXOFSDBvVm45z84aQkxgKU17O-8h1NhukpGCNsos
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 218
