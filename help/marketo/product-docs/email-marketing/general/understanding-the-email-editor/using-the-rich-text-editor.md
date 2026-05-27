@@ -5,17 +5,10 @@ title: Utilisation de l’éditeur de texte enrichi
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
 TQID: https://experienceleague.adobe.com/TIBs0w7HaCEdQfctJj7L48APmhsSp22DfNdqGDN0RmM
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-subfeature_v2:
-  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
-topic_v2:
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 759
@@ -58,7 +51,7 @@ Le paramètre d’élément de bloc racine définit les balises qui encapsulent 
   <tr>
    <th>&lt;p&gt;</th>
    <th>&lt;div&gt;</th>
-   <th>Aucune</th>
+   <th>Aucun</th>
   </tr>
   <tr>
    <td><p>&lt;div class=« mktEditable »&gt;<br>&lt;p&gt;Le texte se trouve ici&lt;/p&gt;<br>&lt;/div&gt;</p></td>
@@ -84,10 +77,10 @@ Voici les fonctionnalités que vous trouverez dans un éditeur de texte enrichi.
 |---|---|---|
 | ![--](assets/image2015-7-9-10-3a23-3a24.png) | [!UICONTROL Famille de polices] | Choisissez votre style, nous en avons plein ! |
 | ![--](assets/image2015-7-9-10-3a22-3a11.png) | [!UICONTROL Taille de police] | Combien en voulez-vous ? 25 choix, de 8px à 90px. |
-| ![--](assets/image2015-7-9-10-3a59-3a4.png) | [!UICONTROL &#x200B; Styles &#x200B;] | Choisissez les styles Paragraphe ou Six styles Titre (pour les pages de destination). |
+| ![--](assets/image2015-7-9-10-3a59-3a4.png) | [!UICONTROL  Styles ] | Choisissez les styles Paragraphe ou Six styles Titre (pour les pages de destination). |
 | ![--](assets/image2015-7-9-10-3a20-3a1.png) | [!UICONTROL Interligne] | Choisissez la distance entre les lignes. |
 | ![--](assets/image2015-7-9-10-3a25-3a52.png) | [!UICONTROL Couleur du texte] | Noir, rouge, ou ce que vous voulez. |
-| ![--](assets/image2015-7-9-10-3a24-3a38.png) | [!UICONTROL &#x200B; Couleur d’arrière-plan &#x200B;] | Mettez en surbrillance pour mettre l’accent. |
+| ![--](assets/image2015-7-9-10-3a24-3a38.png) | [!UICONTROL  Couleur d’arrière-plan ] | Mettez en surbrillance pour mettre l’accent. |
 | ![--](assets/image2015-7-9-10-3a28-3a4.png) | [!UICONTROL Gras] | **Plus sombre et plus épais**. |
 | ![--](assets/image2015-7-9-10-3a29-3a1.png) | [!UICONTROL Italique] | *Angle, pour mettre en évidence ou citer* s. |
 | ![--](assets/image2015-7-9-10-3a30-3a56.png) | [!UICONTROL Souligné] | Insère une ligne sous votre texte. |
@@ -97,7 +90,7 @@ Voici les fonctionnalités que vous trouverez dans un éditeur de texte enrichi.
 | ![--](assets/image2015-7-9-10-3a38-3a58.png) | [!UICONTROL Insérer/Modifier le lien] | Insérez un lien vers un site web ou un autre contenu ; modifiez-le facilement. |
 | ![--](assets/image2015-7-9-10-3a39-3a42.png) | [!UICONTROL Insérer/Modifier l’image] | Une image vaut mille mots. Déposez-en un. Cliquez sur l&#39;icône de caméra pour parcourir votre Design Studio. Vous pouvez déposer des images côte à côte. |
 | ![--](assets/image2015-7-9-10-3a40-3a36.png) | [!UICONTROL Insérer un jeton] | Un outil puissant, idéal pour la personnalisation des e-mails et le suivi des données. Veillez à saisir une valeur par défaut. |
-| ![--](assets/image2015-7-9-10-3a41-3a21.png) | [!UICONTROL &#x200B; Annuler &#x200B;] | Oups ! Revenons un peu en arrière et réessayons. |
+| ![--](assets/image2015-7-9-10-3a41-3a21.png) | [!UICONTROL  Annuler ] | Oups ! Revenons un peu en arrière et réessayons. |
 | ![--](assets/image2015-7-9-10-3a42-3a13.png) | [!UICONTROL Rétablir] | Si tout va bien, revenez à l’original. |
 | ![--](assets/image2015-7-9-10-3a43-3a29.png) | [!UICONTROL Tableau] | Construisez le vôtre, comme celui-ci. Un menu déroulant vous permet de le configurer. |
 | ![--](assets/image2015-7-9-10-3a45-3a1.png) | [!UICONTROL Insérer une ancre] | Jetez l&#39;ancre ! |
@@ -105,7 +98,7 @@ Voici les fonctionnalités que vous trouverez dans un éditeur de texte enrichi.
 | ![--](assets/image2015-10-6-12-3a12-3a17.png) | [!UICONTROL Modifier HTML] | Affiche l’éditeur Source d’HTML afin que vous puissiez ajuster votre code. |
 | ![--](assets/image2015-7-9-10-3a47-3a36.png) | [!UICONTROL Indice] | Lettres courantes (comme dans O`<sub>2</sub>`). |
 | ![--](assets/image2015-7-9-10-3a48-3a35.png) | [!UICONTROL Exposant] | Tu as le pouvoir ! (2`<sup>6</sup>`). |
-| ![--](assets/image2015-7-9-10-3a49-3a31.png) | [!UICONTROL Barré &#x200B;] | `<s>Put a line through text, like this</s>`. |
+| ![--](assets/image2015-7-9-10-3a49-3a31.png) | [!UICONTROL Barré ] | `<s>Put a line through text, like this</s>`. |
 | ![--](assets/image2015-7-9-10-3a50-3a11.png) | [!UICONTROL Caractère spécial] | Tu veux parler d&#39;euros ? Les maths ? Tu as 243 choix. |
 | ![--](assets/image2015-7-9-10-3a52-3a26.png) | [!UICONTROL Rechercher et remplacer] | Recherchez et modifiez des éléments beaucoup plus rapidement que de rechercher vous-même chaque instance. |
 | ![--](assets/image2015-7-9-10-3a53-3a37.png) | [!UICONTROL Effacer la mise en forme] | Rétablissez les normes. |
