@@ -160,7 +160,7 @@ Vous trouverez ci-dessous les anciennes icônes de l’interface de Marketo Clas
   <tr>
    <td><img src="assets/image2015-1-8-16-3a38-3a39.png">
     </td>
-   <td>Adresse e-mail</td>
+   <td>E-mail</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-8-16-3a40-3a3.png">
