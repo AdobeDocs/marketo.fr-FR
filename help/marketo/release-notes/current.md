@@ -16,9 +16,9 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 365a2c3767c8c3e3455361ac5c2a0e070796cbfa
+source-git-commit: 24293b38dc097aa69b8716b367ac9c3a63279bfc
 workflow-type: tm+mt
-source-wordcount: 700
+source-wordcount: 704
 ht-degree: 19%
 
 ---
@@ -115,7 +115,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat - Statut de conversation manquée </strong> : désormais, lorsqu'un agent n'accepte pas une conversation, un nouveau statut de conversation manquée apparaît dans les détails de l'activité de la personne ayant discuté.
+   <td><strong>Dynamic Chat - Statut de conversation manquée </strong> : lorsqu'un agent n'accepte pas une conversation, un nouveau statut « conversation manquée » apparaît dans les détails de l'activité dans le dossier de la personne qui a discuté.
    </td>
    <td>Libéré</td>
    <td>s/o</td>
@@ -126,7 +126,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat - Nouveau comportement de synchronisation des attributs </strong> : auparavant, l’ajout de nouveaux attributs bloquait les modifications dans l’environnement pendant 24 heures au maximum, tandis que la synchronisation se terminait, empêchant la modification et la publication des boîtes de dialogue. Désormais, bien que l’ajout d’un nouvel attribut nécessite toujours une synchronisation complète des données (ce qui peut prendre jusqu’à 24 heures), l’environnement n’est plus bloqué pendant ce processus.
+   <td><strong>Dynamic Chat - Nouveau comportement de synchronisation des attributs </strong> : auparavant, l’ajout de nouveaux attributs bloquait les modifications dans l’environnement pendant 24 heures au maximum, tandis que la synchronisation se terminait, empêchant la modification et la publication des boîtes de dialogue. Désormais, bien que l’ajout d’un nouvel attribut nécessite toujours une synchronisation complète des données (ce qui peut toujours prendre jusqu’à 24 heures), l’environnement n’est plus bloqué pendant le processus.
    </td>
    <td>Libéré</td>
    <td>s/o</td>
