@@ -5,8 +5,7 @@ title: Approuver votre message in-app
 exl-id: 3ebd857e-8caa-45f3-a53c-fa2df2a81d36
 feature: Mobile Marketing
 TQID: https://experienceleague.adobe.com/MODdLWOZwhG8ojcd1sZQdP9v-c9Jo8lKVngIvzJ4ZXs
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 347
@@ -34,7 +33,7 @@ Vous devez approuver l’envoi avant que le message in-app ne soit envoyé.
 
    ![](assets/pasted-image-at-2016-05-31-02-09-pm.png)
 
-1. Le message est maintenant « [!UICONTROL &#x200B; Actif &#x200B;].
+1. Le message est maintenant « [!UICONTROL  Actif ].
 
    ![](assets/image2016-5-12-13-3a49-3a5.png)
 
