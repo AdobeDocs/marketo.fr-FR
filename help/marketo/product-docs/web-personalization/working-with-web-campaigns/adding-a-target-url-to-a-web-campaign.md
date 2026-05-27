@@ -5,12 +5,9 @@ title: Ajout d’une URL cible à une campagne web
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 feature: Web Personalization
 TQID: https://experienceleague.adobe.com/IrYPeEwQnyczC1KUGtKvKfmQ-gKTOqCIEVtZr9usCgk
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-topic_v2:
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 282
@@ -64,7 +61,7 @@ Cliquez sur l’icône plus (![-](assets/image2015-2-18-8-3a40-3a59.png)) pour o
 >[!NOTE]
 >
 >* Les campagnes web de boîte de dialogue et de widget peuvent utiliser les options N’importe quelle page et Caractère générique (&#42;).
->* Dans les cas d’utilisation avancés, les campagnes web Dans la zone peuvent utiliser des caractères génériques à la fin du chemin de l’URL. Exemple : [&#128279;](https://www.marketo.com/software/web-personalization/)
+>* Dans les cas d’utilisation avancés, les campagnes web Dans la zone peuvent utiliser des caractères génériques à la fin du chemin de l’URL. Exemple : [](https://www.marketo.com/software/web-personalization/)
 >* L’URL respecte la casse.
 
 ## Ajout d’une URL Target pour les campagnes web de zone {#adding-a-target-url-for-in-zone-web-campaigns}
@@ -81,7 +78,7 @@ Cliquez sur l’icône plus (![-](assets/image2015-2-18-8-3a40-3a59.png)) pour o
 
    >[!NOTE]
    >
-   >L’URL cible avec des zones d’entrée doit définir une ou plusieurs URL spécifiques. Dans les cas d’utilisation avancés, les campagnes web Dans la zone peuvent utiliser des caractères génériques à la fin du chemin de l’URL. Exemple : [&#128279;](https://www.marketo.com/software/web-personalization/)
+   >L’URL cible avec des zones d’entrée doit définir une ou plusieurs URL spécifiques. Dans les cas d’utilisation avancés, les campagnes web Dans la zone peuvent utiliser des caractères génériques à la fin du chemin de l’URL. Exemple : [](https://www.marketo.com/software/web-personalization/)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
