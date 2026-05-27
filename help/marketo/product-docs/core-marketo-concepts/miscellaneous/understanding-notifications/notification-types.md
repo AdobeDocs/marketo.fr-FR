@@ -4,10 +4,8 @@ description: Découvrez les types de notification dans Marketo, notamment l’é
 title: Types de notifications
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
 TQID: https://experienceleague.adobe.com/CsekFCXNG0acEgpSCcSvWcreKsPHBLE4Ht8lSb-PSq8
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 256
@@ -65,4 +63,4 @@ Vous serez averti lorsque vous atteindrez votre quota quotidien. Le quota est r�
 
 >[!NOTE]
 >
->Certains des codes d’erreur que vous pouvez recevoir sont décrits dans la [Documentation destinée aux développeurs](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/error-codes).
+>Certains des codes d’erreur que vous pouvez recevoir sont décrits dans la [Documentation destinée aux développeurs](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).

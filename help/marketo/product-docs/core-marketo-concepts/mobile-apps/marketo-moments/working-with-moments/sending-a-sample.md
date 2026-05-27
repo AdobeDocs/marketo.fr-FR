@@ -5,8 +5,7 @@ title: Envoi d’un exemple
 exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
 feature: Mobile Marketing
 TQID: https://experienceleague.adobe.com/kL9XREdcHmZtdefbUFNHEOJcp73wS0LQdtf70uCGzvg
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 168
