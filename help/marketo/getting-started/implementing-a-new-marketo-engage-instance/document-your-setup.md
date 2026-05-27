@@ -37,8 +37,8 @@ Maintenant que vous avez appris les principales zones de produit à configurer p
 <tbody>
   <tr>
     <td>Importer une liste</td>
-    <td><li>Collectez une liste des sources de données à partir desquelles les enregistrements seront extraits <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">à importer dans Marketo Engage</a>.</li>
-    <li>Si vous effectuez un import à partir de plusieurs sources de données, pensez à utiliser des listes de Principal ou à <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">créer un champ personnalisé</a> dans l’enregistrement de personne pour indiquer la source de données.</li></td>
+    <td><li>Collectez une liste des sources de données à partir desquelles les enregistrements seront extraits <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">à importer dans Marketo Engage</a>.</li>
+    <li>Si vous effectuez un import à partir de plusieurs sources de données, pensez à utiliser des listes de Principal ou à <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">créer un champ personnalisé</a> dans l’enregistrement de personne pour indiquer la source de données.</li></td>
   </tr>
   <tr>
     <td>Intégration de la base de données</td>
@@ -59,7 +59,7 @@ Maintenant que vous avez appris les principales zones de produit à configurer p
 <tbody>
   <tr>
     <td>Utilisateurs et utilisatrices</td>
-    <td><li>Documentez les <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">utilisateurs actuels</a> dans votre instance pour des raisons de sécurité. Les détails suivants doivent être inclus au minimum (et sont tous visibles en accédant à Admin &gt; Utilisateurs et rôles) :</li>
+    <td><li>Documentez les <a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">utilisateurs actuels</a> dans votre instance pour des raisons de sécurité. Les détails suivants doivent être inclus au minimum (et sont tous visibles en accédant à Admin &gt; Utilisateurs et rôles) :</li>
     <ul>
     <li>Nom</li>
     <li>E-mail</li>
@@ -74,11 +74,11 @@ Maintenant que vous avez appris les principales zones de produit à configurer p
   </tr>
   <tr>
     <td>Organisation</td>
-    <td><li>Documentez la structure de dossiers convenue, les conventions de nommage standard pour les programmes, les ressources, etc., et la raison pour laquelle les décisions ont été prises. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">Pour en savoir plus sur les bonnes pratiques, cliquez ici.</a></li></td>
+    <td><li>Documentez la structure de dossiers convenue, les conventions de nommage standard pour les programmes, les ressources, etc., et la raison pour laquelle les décisions ont été prises. <a href="https://experienceleague.adobe.com/fr/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">Pour en savoir plus sur les bonnes pratiques, cliquez ici.</a></li></td>
   </tr>
   <tr>
     <td>Journal des modifications</td>
-    <td><li>Créez un journal des modifications dans lequel vous pouvez documenter ce qui change dans votre instance et le motif des modifications. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">Pour en savoir plus sur les bonnes pratiques, cliquez ici.</a></li></td>
+    <td><li>Créez un journal des modifications dans lequel vous pouvez documenter ce qui change dans votre instance et le motif des modifications. <a href="https://experienceleague.adobe.com/fr/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">Pour en savoir plus sur les bonnes pratiques, cliquez ici.</a></li></td>
   </tr>
   <tr>
     <td>Playbooks</td>
