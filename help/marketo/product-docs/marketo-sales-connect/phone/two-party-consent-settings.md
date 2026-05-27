@@ -5,7 +5,8 @@ title: Paramètres de consentement des deux parties
 exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/P-X0nE0gNNWSwQj-tErRy9mMKsOBhqB3J0N3268MncI
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 171
@@ -19,7 +20,7 @@ Afin de garantir la conformité aux lois américaines sur le consentement bipart
 
 >[!PREREQUISITES]
 >
->Avant de suivre les étapes ci-dessous, vous devez d’abord [ activer l’enregistrement des appels ](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
+>Avant de suivre les étapes ci-dessous, vous devez d’abord [&#x200B; activer l’enregistrement des appels &#x200B;](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
 
 1. Cliquez sur l’icône Paramètres et sélectionnez **[!UICONTROL Paramètres]**.
 
