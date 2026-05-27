@@ -5,8 +5,7 @@ title: Ajout d’un nouvel appareil de test
 exl-id: b7adfad7-c699-4840-a77a-8bdf3ff16f60
 feature: Mobile Marketing
 TQID: https://experienceleague.adobe.com/fdjspcqf5-ZQLGd9-1QwuKdAEG0YXSTjVSQvGMPvp8U
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 147
