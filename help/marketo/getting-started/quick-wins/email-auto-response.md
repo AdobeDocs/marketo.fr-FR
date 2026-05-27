@@ -5,8 +5,7 @@ title: E-mail à réponse automatique
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 feature: Getting Started
 TQID: https://experienceleague.adobe.com/4cmhAOxdpbN23Mnbd5v2oGJUkGTstv-LiRxoibF753w
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 391
