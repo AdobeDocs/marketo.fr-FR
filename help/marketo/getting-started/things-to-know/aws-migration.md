@@ -70,9 +70,9 @@ Avant de consulter le tableau ci-dessous, [découvrez comment identifier](/help/
    <td>AB70<br>
    AB43</td>
   </tr>
-  &lt;/body>
+  </body>
   </table>
 
 ## Mises à jour et assistance
 
-Pour connaître les dernières mises à jour, mettez un signet sur cette page. Pour toute question, contactez l’assistance Adobe via le portail d’assistance d’Admin Console ou [Experience League](https://experienceleague.adobe.com/fr/support).
+Pour connaître les dernières mises à jour, mettez un signet sur cette page. Pour toute question, contactez l’assistance Adobe via le portail d’assistance d’Admin Console ou [Experience League](https://experienceleague.adobe.com/en/support).

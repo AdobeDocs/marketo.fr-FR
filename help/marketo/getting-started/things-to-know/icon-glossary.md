@@ -4,10 +4,8 @@ title: Glossaire des icônes
 feature: Getting Started
 exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
 TQID: https://experienceleague.adobe.com/JzvT5UwsTTmvs-QCBwiDr-C9hipDM-VMLGioDLQhJb0
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 245
@@ -51,7 +49,7 @@ Vous trouverez ci-dessous les icônes de l’interface actuelle d’Adobe Marke
   <tr>
    <td><img src="assets/classic-email.png"></td>
    <td><img src="assets/email.png"></td>
-   <td>Adresse e-mail</td>
+   <td>E-mail</td>
   </tr>
   <tr>
    <td><img src="assets/classic-email-program.png"></td>
@@ -401,7 +399,7 @@ Vous trouverez ci-dessous les icônes de l’interface actuelle d’Adobe Marke
   <tr>
    <td><strong>s/o</strong></td>
    <td><img src="assets/inapp-scheduled.png"></td>
-   <td>Planifié</td>
+   <td>Programmé</td>
   </tr>
   <tr>
    <td><img src="assets/classic-in-app-program-stopped.png"></td>
