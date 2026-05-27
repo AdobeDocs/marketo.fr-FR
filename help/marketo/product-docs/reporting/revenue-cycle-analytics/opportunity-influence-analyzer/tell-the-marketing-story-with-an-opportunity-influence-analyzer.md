@@ -27,9 +27,9 @@ Utilisez un [!UICONTROL analyseur d’influence d’opportunité] pour illustrer
 
    * ![—](assets/image2014-10-3-13-3a43-3a21.png) **points orange** représentent des moments intéressants dans l&#39;opportunité (e-mails ouverts, visites de stands de salons, téléchargements de livres blancs, etc.). Des points plus grands indiquent plus d’interactions.
 
-   * ![ : ](assets/image2014-10-3-13-3a44-3a9.png) **icônes du classeur** indiquent les réussites du programme.
+   * ![&#x200B; : &#x200B;](assets/image2014-10-3-13-3a44-3a9.png) **icônes du classeur** indiquent les réussites du programme.
 
-   * ![ : ](assets/image2014-10-3-13-3a44-3a40.png) **icônes de calendrier** indiquent les événements réussis.
+   * ![&#x200B; : &#x200B;](assets/image2014-10-3-13-3a44-3a40.png) **icônes de calendrier** indiquent les événements réussis.
 
    * **Période de l’opportunité**. L’espace vert représente l’opportunité elle-même, de sa création à sa fermeture (gagnée ou perdue).
 
@@ -39,7 +39,7 @@ Utilisez un [!UICONTROL analyseur d’influence d’opportunité] pour illustrer
 
    * Le **nombre entre parenthèses** est le nombre d&#39;interactions avec ce contact.
 
-   * ![ : ](assets/image2014-10-3-13-3a45-3a9.png)l&#39;étoile **jaune** indique le contact principal.
+   * ![&#x200B; : &#x200B;](assets/image2014-10-3-13-3a45-3a9.png)l&#39;étoile **jaune** indique le contact principal.
 
 1. Passez la souris sur un nom pour afficher la fonction de cette personne et la source de son engagement dans l’opportunité.
 
