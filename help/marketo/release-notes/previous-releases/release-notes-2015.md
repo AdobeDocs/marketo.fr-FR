@@ -2,34 +2,9 @@
 title: 2015
 description: 2015 - Documents Marketo - Documentation Du Produit
 feature: Release Information
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: c954475c-8548-4e33-a0b8-6b550d956115
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
-  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
-  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: c18d9e03-ac7d-4811-9c92-3e92ddc70ade
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: c954475c-8548-4e33-a0b8-6b550d956115id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e2290edd-b061-4880-9d79-dee306cf5aa9id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: df8eb12b-4f82-491f-acbb-d74012ca5654id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c18d9e03-ac7d-4811-9c92-3e92ddc70adeid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eb30f47f-d87a-400f-8f78-63ce7979ff56id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
 workflow-type: tm+mt
 source-wordcount: 2864
@@ -60,7 +35,7 @@ Trois nouveaux appels pour l’API REST de lead et d’activité :
 * Obtenir les leads par ID de programme
 * Obtenir les leads supprimés
 
-Il existe également une nouvelle option pour le prospect de synchronisation, permettant d’écrire le changement de prospect de manière asynchrone pour un appel API plus rapide. Des détails complets seront disponibles après la publication sur [&#128279;](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/home)
+Il existe également une nouvelle option pour le prospect de synchronisation, permettant d’écrire le changement de prospect de manière asynchrone pour un appel API plus rapide. Des détails complets seront disponibles après la publication sur [](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/home)
 
 **Prise en charge des objets personnalisés dans le script d’e-mail**
 
@@ -70,7 +45,7 @@ Accédez maintenant aux objets personnalisés associés à l’objet Compte dans
 
 **Remarketing personnalisé pour Google et[!DNL Facebook]**
 
-Le remarketing présente des publicités destinées aux personnes qui ont visité votre site web. Vous pouvez désormais personnaliser vos campagnes de remarketing sur [&#128279;](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) et [[!DNL Facebook]](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) à l’aide des données de Real-Time Personalization. Remarquez les audiences de différents secteurs d’activité, les listes de comptes nommés, les tailles d’entreprise ou toute donnée provenant de prospects connus.
+Le remarketing présente des publicités destinées aux personnes qui ont visité votre site web. Vous pouvez désormais personnaliser vos campagnes de remarketing sur [](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) et [[!DNL Facebook]](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) à l’aide des données de Real-Time Personalization. Remarquez les audiences de différents secteurs d’activité, les listes de comptes nommés, les tailles d’entreprise ou toute donnée provenant de prospects connus.
 
 [Module de liste de comptes nommés](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
 
@@ -91,7 +66,7 @@ Les options de balise RTP sous Paramètres du compte ont été mises à jour pou
 1. Balise asynchrone sans réseau CDN
 1. Balise synchrone sans réseau CDN
 
-Pour de meilleures performances, il est recommandé de placer la balise en haut de l’en-tête de votre page web après `<head>`. Toutes les balises permettent d’utiliser l’[API RTP](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Pour plus d’informations sur le déploiement de la balise RTP, voir [ici](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Pour de meilleures performances, il est recommandé de placer la balise en haut de l’en-tête de votre page web après `<head>`. Toutes les balises permettent d’utiliser l’[API RTP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Pour plus d’informations sur le déploiement de la balise RTP, voir [ici](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)
 
@@ -119,7 +94,7 @@ et remplacera les protocoles de sécurité actuellement utilisés (SHA-1 et SSL)
 
 Cela se produira peu de temps après cette version. Le protocole SHA-1 sera temporairement pris en charge sur le domaine [mktoapi.com](https://mktoapi.com) jusqu&#39;en décembre 2015 pour permettre aux propriétaires de systèmes et d&#39;applications hérités de mettre à jour leurs systèmes avec la compatibilité SHA-2.
 
-[!DNL Munchkin]&#x200B;**sécurisé**
+[!DNL Munchkin]**sécurisé**
 
 Nous supprimons notre prise en charge de SSL3. Nous avons maintenu SSL3 jusqu’à présent pour maintenir la prise en charge des anciens navigateurs web, mais en 2015, nous ne voyons plus de trafic web important provenant de ces navigateurs. Cela n’affecte que les [!DNL Munchkin] lorsqu’elles sont utilisées sur des pages sécurisées et se déploie lentement après la version de février.
 
@@ -161,7 +136,7 @@ Liez votre [[!DNL Google AdWords] compte à Marketo](/help/marketo/product-docs/
 
 ## Nouvel actif API REST {#new-asset-rest-apis}
 
-[Nouvel actif API REST](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/assets/assets)
+[Nouvel actif API REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
 La création et la modification d’e-mails, de modèles, de mes jetons, de fichiers et de fragments de code sont désormais prises en charge [via l’API](https://developer.adobe.com/marketo-apis/api/asset/) !
 
@@ -191,7 +166,7 @@ Les fonctionnalités suivantes sont incluses dans la version d’avril 2015. Con
 >
 >Cette fonctionnalité sera publiée le mardi 28 avril.
 
-La nouvelle page d’accueil [[!UICONTROL Analytics] &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) permet un accès rapide pour l’exécution de rapports ad hoc sur tous les types de rapports disponibles.
+La nouvelle page d’accueil [[!UICONTROL Analytics] ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) permet un accès rapide pour l’exécution de rapports ad hoc sur tous les types de rapports disponibles.
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 
@@ -391,7 +366,7 @@ Les statistiques sur les e-mails envoyés par le biais de campagnes intelligente
 
 ## RTP - Content Analytics et recommandations {#rtp-content-analytics-and-recommendations}
 
-[&#128279;](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) et Recommendations
+[](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) et Recommendations
 
 RTP Content Analytics vous montre les performances de vos ressources de contenu web à partir de visites web régulières et aussi des visites générées à partir du moteur de recommandation de contenu de RTP.
 
