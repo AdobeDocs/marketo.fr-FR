@@ -4,8 +4,7 @@ title: Vue d’ensemble de la recherche avancée
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/J-LNmjNNqY98t8gHi9-nRTds113phlyIb66MWyvJagk
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 445
@@ -31,7 +30,7 @@ En utilisant la recherche avancée pour cibler les prospects qui ont consulté l
 
    ![](assets/advanced-search-overview-3.png)
 
-1. Cliquez sur [!UICONTROL &#x200B; Recherche avancée &#x200B;].
+1. Cliquez sur [!UICONTROL  Recherche avancée ].
 
    ![](assets/advanced-search-overview-4.png)
 
@@ -86,13 +85,13 @@ Vous avez le choix entre trois statuts d’e-mail. Les options de type/activité
 
 ![](assets/advanced-search-overview-9.png)
 
-_&#x200B;**Statut : Envoyé**&#x200B;_
+_**Statut : Envoyé**_
 
 ![](assets/advanced-search-overview-10.png)
 
 Filtre par activité d’e-mail envoyé. Vous pouvez choisir les options [!UICONTROL vues]/[!UICONTROL aucune vue], [!UICONTROL clics]/[!UICONTROL aucun clic] et/ou [!UICONTROL réponses]/[!UICONTROL aucune réponse].
 
-_&#x200B;**Statut : En Attente**&#x200B;_
+_**Statut : En Attente**_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -117,7 +116,7 @@ Filtre par tous les e-mails en attente.
  </tr>
 </table>
 
-_&#x200B;**Statut : non diffusé**&#x200B;_
+_**Statut : non diffusé**_
 
 ![](assets/advanced-search-overview-12.png)
 

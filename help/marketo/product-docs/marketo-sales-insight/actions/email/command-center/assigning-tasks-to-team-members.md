@@ -4,8 +4,7 @@ title: Affectation de tâches à des personnes membres de l’équipe
 exl-id: 8f35afb8-d1c2-4f09-8653-3309f08c991d
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/izMi9cHZRxRfGEHwUdNzkM5Y5CGnigs6EbgNWh-rI4c
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 132
