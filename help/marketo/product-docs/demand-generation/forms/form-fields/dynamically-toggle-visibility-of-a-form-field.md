@@ -74,6 +74,6 @@ Désormais, lorsque les personnes remplissent ce formulaire et sélectionnent É
 
 >[!IMPORTANT]
 >
->Le comportement des champs de formulaire fonctionne de manière transparente lorsque les valeurs de champ sont définies/mises à jour par le biais d’un script personnalisé à l’aide de [&#x200B; fonctions API &#x200B;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} dans Forms 2.0.
+>Le comportement des champs de formulaire fonctionne de manière transparente lorsque les valeurs de champ sont définies/mises à jour par le biais d’un script personnalisé à l’aide de [&#x200B; fonctions API &#x200B;](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} dans Forms 2.0.
 >
 >Les champs conditionnels peuvent ne pas fonctionner comme prévu si les valeurs de champ sont modifiées par des scripts externes autres que l’API JavaScript Forms 2.0.
