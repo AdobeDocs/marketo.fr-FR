@@ -4,7 +4,8 @@ title: Présentation de l’onglet Équipe
 exl-id: 36189eb2-a802-4601-afca-dca3006e4608
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/Py7-IQydZce09tW7d6OmgUZZYil6rbVezomjn47mI5w
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 155
@@ -12,9 +13,9 @@ ht-degree: 2%
 
 ---
 
-# Présentation de l’onglet [!UICONTROL  Équipe ] {#understanding-the-team-tab}
+# Présentation de l’onglet [!UICONTROL &#x200B; Équipe &#x200B;] {#understanding-the-team-tab}
 
-Dans l’onglet [!UICONTROL  Équipe ], nous mettons en évidence trois mesures importantes.
+Dans l’onglet [!UICONTROL &#x200B; Équipe &#x200B;], nous mettons en évidence trois mesures importantes.
 
 ## E-mails envoyés avec modèle {#emails-sent-with-template}
 
