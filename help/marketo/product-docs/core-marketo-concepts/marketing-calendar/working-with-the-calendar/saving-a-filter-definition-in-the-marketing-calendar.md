@@ -5,8 +5,7 @@ title: Enregistrement d’une définition de filtre dans le calendrier marketing
 exl-id: 66346207-6e8d-472d-971c-31417bd5210b
 feature: Marketing Calendar
 TQID: https://experienceleague.adobe.com/W3KwfZv1of5jaqdiocNPIQlbc-7ccaelEw-L-VU17lI
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 89
