@@ -5,9 +5,14 @@ title: Ajout  [!DNL Munchkin]  code de suivi à votre site web
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
 TQID: https://experienceleague.adobe.com/3L0oDc3Xx3IaOy8t8Ut2W9c4YkRTdS5Ryd4r-Yuuhts
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 685
@@ -33,7 +38,7 @@ Le code de suivi JavaScript personnalisé de Marketo, appelé [!DNL Munchkin], p
 
    ![](assets/add-munchkin-tracking-code-to-your-website-1.png)
 
-1. Cliquez sur ****.
+1. Cliquez sur **&#x200B;**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-2.png)
 
@@ -73,7 +78,7 @@ Si vous utilisez des espaces de travail dans votre compte Marketo, il est probab
 
    ![](assets/add-munchkin-tracking-code-to-your-website-6.png)
 
-1. Cliquez sur ****.
+1. Cliquez sur **&#x200B;**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-7.png)
 
@@ -135,7 +140,7 @@ Pour vérifier que votre code [!DNL Munchkin] fonctionne après l’avoir ajout�
 
    ![](assets/add-munchkin-tracking-code-to-your-website-14.png)
 
-1. Remplacez Source d’activité] par **[!UICONTROL Visiteurs anonymes (y compris les FAI)]** puis cliquez sur **[!UICONTROL Appliquer]**.[!UICONTROL 
+1. Remplacez Source d’activité par **[!UICONTROL Visiteurs anonymes (y compris les FAI)]** puis cliquez sur **[!UICONTROL Appliquer]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-15.png)
 
