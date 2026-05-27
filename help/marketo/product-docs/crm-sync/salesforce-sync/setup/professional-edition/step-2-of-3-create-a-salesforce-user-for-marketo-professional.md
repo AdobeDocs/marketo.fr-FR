@@ -5,8 +5,10 @@ title: 'Étape 2 sur 3 : création d’un utilisateur Salesforce pour Marketo (p
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/BrxRg4uQfMHXiQYXbIyBL4OkP9-HCJLSXVPEKMHD7C4
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 436
@@ -55,14 +57,14 @@ Dans cet article, vous allez personnaliser les autorisations de champ avec une m
    * [!UICONTROL Programme d’acquisition]
    * [!UICONTROL ID du programme d’acquisition]
    * [!UICONTROL Désinscription Aux E-Mails]
-   * [!UICONTROL  Ville déduite ]
+   * [!UICONTROL &#x200B; Ville déduite &#x200B;]
    * [!UICONTROL Société déduite]
    * [!UICONTROL Pays déduit]
    * [!UICONTROL Région métropolitaine déduite]
    * [!UICONTROL Indicatif téléphonique déduit]
    * [!UICONTROL Code postal déduit]
    * [!UICONTROL Région d’État déduite]
-   * [!UICONTROL  Score du lead ]
+   * [!UICONTROL &#x200B; Score du lead &#x200B;]
    * [!UICONTROL Référent original]
    * [!UICONTROL Moteur de recherche original]
    * [!UICONTROL Expression de recherche originale]
