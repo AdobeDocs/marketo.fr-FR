@@ -48,7 +48,7 @@ Voici les icônes de la nouvelle interface de Adobe Marketo Engage. Si vous deve
   <tr>
    <td><img src="assets/classic-email.png"></td>
    <td><img src="assets/email.png"></td>
-   <td>Adresse e-mail</td>
+   <td>E-mail</td>
   </tr>
   <tr>
    <td><img src="assets/classic-email-program.png"></td>
