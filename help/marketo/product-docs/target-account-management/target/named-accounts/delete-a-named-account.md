@@ -5,8 +5,7 @@ title: Supprimer un compte nommé
 exl-id: 47a1ce87-43ac-4f8f-94ab-7dec2730ab21
 feature: Target Account Management
 TQID: https://experienceleague.adobe.com/37EJbOPiCmRipZXheiEaLccKSzIdTjt5G0G8azhsxZM
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 119
