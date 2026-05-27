@@ -6,8 +6,10 @@ exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
 feature: Integrations
 TQID: https://experienceleague.adobe.com/eRrJ4Lgmy5HYhtbSFCjUZmk549-1D7kgaqK-uE6-jO0
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 313
@@ -29,7 +31,7 @@ Marketo _applications sociales_ permet à vos prospects de partager vos landing 
 
 Vous pouvez spécifier les types d’informations de page à utiliser dans les publications riches en [!DNL Facebook] générées par des partages de votre page de destination.
 
-1. Sélectionnez **[!UICONTROL Message Facebook]** dans l’éditeur pour votre bouton vidéo ou social __[!DNL YouTube_]_.
+1. Sélectionnez **[!UICONTROL Message Facebook]** dans l’éditeur pour votre bouton vidéo ou social _&#x200B;_[!DNL YouTube_]_.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 

@@ -5,9 +5,14 @@ title: Configurer les conversions hors ligne Facebook
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
 TQID: https://experienceleague.adobe.com/p5G-mS4yYAv-TvloYNSl52-IpEhQl8UuQwBN4M5KA2U
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 321
@@ -98,7 +103,7 @@ En renvoyant les données de conversion hors ligne à [!DNL Facebook] pour les p
 
    >[!CAUTION]
    >
-   >Vérifiez votre compte [!DNL Facebook] et assurez-vous que toutes les [ publicités sont associées](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&cmsid&creative=link&creative_detail=advertiser-help-center&create_type&destination_cms_id&orig_http_referrer) au jeu d’événements Conversions hors ligne Marketo . Si ce n&#39;est pas le cas, l&#39;attribution risque de ne pas fonctionner.
+   >Vérifiez votre compte [!DNL Facebook] et assurez-vous que toutes les [&#x200B; publicités sont associées](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&cmsid&creative=link&creative_detail=advertiser-help-center&create_type&destination_cms_id&orig_http_referrer) au jeu d’événements Conversions hors ligne Marketo . Si ce n&#39;est pas le cas, l&#39;attribution risque de ne pas fonctionner.
 
    >[!NOTE]
    >

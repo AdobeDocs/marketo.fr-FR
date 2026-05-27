@@ -5,8 +5,10 @@ title: Définir un formulaire de page de remerciement
 exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
 feature: Forms
 TQID: https://experienceleague.adobe.com/XSvtQnIKuj2A-YV-boONuf7516YTUjqsq5myRhtqIVE
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 374
@@ -56,7 +58,7 @@ Le paramètre URL externe vous permet de définir n’importe quelle URL comme p
 
 >[!TIP]
 >
->L’URL peut être celle d’un fichier hébergé quelque part. Si vous procédez de la sorte, le bouton « [!UICONTROL  Envoyer ] » se comportera comme un bouton « [!UICONTROL  Télécharger ] ».
+>L’URL peut être celle d’un fichier hébergé quelque part. Si vous procédez de la sorte, le bouton « [!UICONTROL &#x200B; Envoyer &#x200B;] » se comportera comme un bouton « [!UICONTROL &#x200B; Télécharger &#x200B;] ».
 
 ## Page de destination {#landing-page}
 
