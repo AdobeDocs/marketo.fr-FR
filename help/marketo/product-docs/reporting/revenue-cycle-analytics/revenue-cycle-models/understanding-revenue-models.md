@@ -59,7 +59,7 @@ Cela ressemble à une boîte et est la plus simple des étapes. Analytics suivra
 
 ## Étape SLA {#sla-stage}
 
-Il s’agit d’un abréviation pour l’étape **&#x200B;**. L&#39;intention ici est que, à certaines étapes, vous voudrez imposer une limite de temps.
+Il s’agit d’un abréviation pour l’étape ****. L&#39;intention ici est que, à certaines étapes, vous voudrez imposer une limite de temps.
 
 >[!NOTE]
 >

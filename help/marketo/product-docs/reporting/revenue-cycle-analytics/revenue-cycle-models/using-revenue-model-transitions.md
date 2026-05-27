@@ -45,7 +45,7 @@ Lorsque vous créez votre modèle, sélectionnez et organisez vos étapes d’in
 
    ![](assets/five-2.png)
 
-1. Pour revenir à votre modèle, cliquez sur **&#x200B;**.
+1. Pour revenir à votre modèle, cliquez sur ****.
 
    ![](assets/six.png)
 
