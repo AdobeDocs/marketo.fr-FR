@@ -5,10 +5,17 @@ title: Liste de contrôle de la configuration utilisateur
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
 TQID: https://experienceleague.adobe.com/LAFZ0QGdWLREK-wGSy-YMgmEMXP7dQSsaGI9MV5hTic
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-subfeature_v2: id: b83de148-8847-43b0-9656-84c65c2bf6e1id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+subfeature_v2:
+  - id: b83de148-8847-43b0-9656-84c65c2bf6e1
+  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 1138
@@ -74,7 +81,7 @@ Vos nouveaux abonnements Marketo Engage ont été intégrés à [Adobe Identity 
 
 ## Configuration de Dynamic Chat sur Adobe Identity Management {#dynamic-chat-on-adobe-identity-management}
 
-Pour utiliser [](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html), le canal d&#39;automatisation de conversation natif dans Marketo Engage, procédez à la configuration des autorisations utilisateur en suivant les étapes ci-dessous dans [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
+Pour utiliser [&#128279;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html), le canal d&#39;automatisation de conversation natif dans Marketo Engage, procédez à la configuration des autorisations utilisateur en suivant les étapes ci-dessous dans [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
 <table>
 <thead>
@@ -129,4 +136,4 @@ Pour utiliser [](https://experienceleague.adobe.com/docs/marketo/using/product-d
 
 <p>
 
-Maintenant que votre compte Marketo Engage est prêt, veuillez consulter notre section [ Bonnes pratiques pour une nouvelle instance Marketo Engage ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md){target="_blank"} pour tirer le meilleur parti de votre investissement et vous configurer pour une réussite à long terme.
+Maintenant que votre compte Marketo Engage est prêt, veuillez consulter notre section [&#x200B; Bonnes pratiques pour une nouvelle instance Marketo Engage &#x200B;](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md){target="_blank"} pour tirer le meilleur parti de votre investissement et vous configurer pour une réussite à long terme.

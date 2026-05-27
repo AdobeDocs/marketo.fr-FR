@@ -70,7 +70,7 @@ Avant de consulter le tableau ci-dessous, [découvrez comment identifier](/help/
    <td>AB70<br>
    AB43</td>
   </tr>
-  </body>
+  &lt;/body>
   </table>
 
 ## Mises à jour et assistance
