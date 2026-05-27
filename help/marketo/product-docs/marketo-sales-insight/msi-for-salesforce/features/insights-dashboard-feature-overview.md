@@ -5,16 +5,10 @@ title: Vue d’ensemble des fonctionnalités du tableau de bord des informations
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/pMPRzDtLNKUNPoOSV9F9OxsiYFdHrU2wYpGQMZAJ7hQ
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-subfeature_v2:
-  - id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1
-  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+subfeature_v2: id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1id: ffdd6159-0e10-4a57-8021-94e93bab8183
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 1538
@@ -80,7 +74,7 @@ Onglet Événement :
 * Cette grille dynamique comprend les moments significatifs, les e-mails et l’activité web au cours des 90 derniers jours
 * L’utilisateur peut mettre en surbrillance une semaine spécifique afin d’afficher les activités de cette semaine
 * Affichage par défaut : la semaine en cours est sélectionnée
-* La fonctionnalité « [!UICONTROL &#x200B; Afficher l’activité du compte &#x200B;] » n’est pas disponible sur les prospects, car elle ne fait partie d’aucun compte dans [!DNL Salesforce] jusqu’à sa conversion en contact
+* La fonctionnalité « [!UICONTROL  Afficher l’activité du compte ] » n’est pas disponible sur les prospects, car elle ne fait partie d’aucun compte dans [!DNL Salesforce] jusqu’à sa conversion en contact
 
 **Analyse et résumé de l’engagement**
 
@@ -186,4 +180,4 @@ Onglet Événement :
 
 >[!NOTE]
 >
->Si votre compte ou votre opportunité compte plus de 800 contacts, le tableau de bord n’affiche aucune donnée. Cependant, vous pouvez accéder à des contacts individuels pour voir leurs informations et leur engagement. Si votre compte comporte plus de 800 contacts, l’option « [!UICONTROL &#x200B; Afficher l’activité au niveau du compte &#x200B;] » est désactivée.
+>Si votre compte ou votre opportunité compte plus de 800 contacts, le tableau de bord n’affiche aucune donnée. Cependant, vous pouvez accéder à des contacts individuels pour voir leurs informations et leur engagement. Si votre compte comporte plus de 800 contacts, l’option « [!UICONTROL  Afficher l’activité au niveau du compte ] » est désactivée.
