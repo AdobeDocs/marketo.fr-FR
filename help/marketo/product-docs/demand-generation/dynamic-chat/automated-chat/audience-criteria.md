@@ -4,16 +4,10 @@ title: Critère d’audience
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
 TQID: https://experienceleague.adobe.com/1h0-iXYpK53V4jUIZVM-T3TJkxhbaWvmZrb4er1vW18
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-subfeature_v2:
-  - id: c942e9f6-ed06-481a-abdd-1195363d1452
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 624
@@ -39,7 +33,7 @@ Les événements vous permettent de cibler les visiteurs et visiteuses en foncti
 
    ![](assets/audience-criteria-3.png)
 
-1. Définissez l’heure « [!UICONTROL &#x200B; supérieure à &#x200B;] » sur 20 secondes.
+1. Définissez l’heure « [!UICONTROL  supérieure à ] » sur 20 secondes.
 
    ![](assets/audience-criteria-4.png)
 
@@ -95,7 +89,7 @@ Le code suivant cible les personnes qui ne figurent pas encore dans votre base d
 
    >[!NOTE]
    >
-   >Lorsqu&#39;une personne visite votre site web, [&#128279;](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} crée un cookie et le place dans le système. L’adresse IP est recherchée dans une base de données spéciale pour déduire l’emplacement et d’autres informations.
+   >Lorsqu&#39;une personne visite votre site web, [](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} crée un cookie et le place dans le système. L’adresse IP est recherchée dans une base de données spéciale pour déduire l’emplacement et d’autres informations.
 
 1. _[!UICONTROL Est]_ est défini par défaut. Dans le champ Sélectionner des valeurs , saisissez NY (vous pouvez également cliquer sur la liste déroulante et effectuer une sélection dans la liste).
 
