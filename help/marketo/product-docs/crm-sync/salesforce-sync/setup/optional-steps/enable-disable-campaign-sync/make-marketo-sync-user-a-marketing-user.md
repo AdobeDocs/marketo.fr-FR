@@ -5,7 +5,8 @@ title: Modifier l’utilisateur ou l’utilisatrice de synchronisation Marketo e
 exl-id: 2bbaf4d3-0bcf-4917-afe1-da9ae9b06a28
 feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/42ACB3EIyob3z4J9OAXmejZCHIxQ6nmoTayn67kw4-8
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 117
@@ -15,7 +16,7 @@ ht-degree: 16%
 
 # Modifier l’utilisateur ou l’utilisatrice de synchronisation Marketo en utilisateur ou utilisatrice marketing {#make-marketo-sync-user-a-marketing-user}
 
-L’utilisateur de la synchronisation Marketo [](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} doit être un utilisateur marketing pour que la synchronisation de la campagne Salesforce fonctionne correctement. Voici comment faire de l’utilisateur un utilisateur marketing dans Salesforce.
+L’utilisateur de la synchronisation Marketo [&#128279;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} doit être un utilisateur marketing pour que la synchronisation de la campagne Salesforce fonctionne correctement. Voici comment faire de l’utilisateur un utilisateur marketing dans Salesforce.
 
 >[!NOTE]
 >
