@@ -5,8 +5,10 @@ title: Vue d’ensemble du module complémentaire .NET
 exl-id: fa40377e-e70b-46d3-a75f-5fa791f9275b
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/HpLSLHftRE-0shyxdjtZZDbDchSqu53gbIHjTihnsHc
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 239
@@ -38,6 +40,6 @@ Ajoutez un modèle Tout préconfiguré au message [!DNL Outlook] en appuyant sur
 
 Nous synchronisons avec tous vos modèles personnels et tous les modèles partagés au sein de l&#39;équipe. Nous extrayons également automatiquement le dernier modèle utilisé et le modèle le plus fréquemment utilisé pour un accès facile.
 
-## Le Bouton [!UICONTROL  Tout ] {#the-tout-it-button}
+## Le Bouton [!UICONTROL &#x200B; Tout &#x200B;] {#the-tout-it-button}
 
 Une fois que votre e-mail personnalisé est rempli et prêt à être utilisé, veillez à toujours cliquer sur le bouton **[!UICONTROL Tout voir]** pour obtenir un tracking. Une boîte s’affichera avec la mention « Attendez, nous ajoutons la magie du suivi ».
