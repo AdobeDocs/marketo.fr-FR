@@ -5,12 +5,9 @@ title: Affecter des partitions de personne aux espaces de travail
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
 feature: Workspaces
 TQID: https://experienceleague.adobe.com/RwOodsRKaP2Iz-DBy6uJ0fpXJkLskqldCqn1PtntVfU
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 142
@@ -32,7 +29,7 @@ Suivez les étapes ci-dessous pour modifier les affectations de partition de per
 
 >[!CAUTION]
 >
->Les espaces de travail et les partitions de personne peuvent être complexes. Contactez l’assistance technique de [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} pour obtenir de l’aide sur leur configuration.
+>Les espaces de travail et les partitions de personne peuvent être complexes. Contactez l’assistance technique de [](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} pour obtenir de l’aide sur leur configuration.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
