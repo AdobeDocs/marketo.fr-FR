@@ -5,10 +5,17 @@ level: Beginner, Intermediate
 feature: Email Designer
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
 TQID: https://experienceleague.adobe.com/kCDv70SM0B5fZjQ9-FTlVYZGkVbAbpJ1qmRm-YXOJf8
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: da3860b0-d637-47df-bef0-273751180266
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: da3860b0-d637-47df-bef0-273751180266
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 1011
@@ -20,7 +27,7 @@ ht-degree: 7%
 
 Rassemblez les workflows marketing et créatifs à l’aide d’Adobe Experience Manager Assets. Il est nativement intégré à Marketo Engage, de sorte que vous puissiez facilement accéder à _Assets as a Cloud Service_ pour découvrir et utiliser des ressources numériques afin de renseigner vos messages.
 
-Adobe Experience Manager _Assets as a Cloud Service_ offre une solution cloud facile à utiliser pour une gestion efficace des ressources numériques et des opérations Dynamic Media. Pour en savoir plus, consultez la documentation d’[](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/overview).
+Adobe Experience Manager _Assets as a Cloud Service_ offre une solution cloud facile à utiliser pour une gestion efficace des ressources numériques et des opérations Dynamic Media. Pour en savoir plus, consultez la documentation d’[&#128279;](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/overview).
 
 >[!PREREQUISITES]
 >
@@ -56,7 +63,7 @@ Avant de pouvoir utiliser cette fonctionnalité, vous devez d’abord lier AEM C
    >
    >* Seuls les référentiels qui ont été associés dans la même organisation IMS que votre abonnement Marketo Engage sont répertoriés.
    >
-   >* Marketo Engage ne prend en charge que les référentiels du niveau Diffusion . Si vous utilisez le niveau Auteur et souhaitez le convertir, contactez l’assistance technique de [](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/overview/help-resources).
+   >* Marketo Engage ne prend en charge que les référentiels du niveau Diffusion . Si vous utilisez le niveau Auteur et souhaitez le convertir, contactez l’assistance technique de [&#128279;](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/overview/help-resources).
 
 1. Vous devez ajouter un [certificat d’identification de service](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials) pour configurer le référentiel. Cliquez sur le bouton **+ Ajouter un certificat**.
 
