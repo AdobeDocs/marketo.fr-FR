@@ -5,10 +5,8 @@ title: Mettre à niveau la solution Informations sur les ventes Marketo pour Mic
 exl-id: ddc26dc6-7552-4fac-8102-657ecd8c9445
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/z8kco6heN6FNMHz9QOecDdG-4thgtsrfrc9D-UCwbsY
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 139
@@ -28,7 +26,7 @@ Lorsqu’une nouvelle solution [!DNL Microsoft Dynamics] est publiée pour [!DNL
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-1.png)
 
-1. Cliquez sur **&#x200B;**.
+1. Cliquez sur ****.
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-2.png)
 
