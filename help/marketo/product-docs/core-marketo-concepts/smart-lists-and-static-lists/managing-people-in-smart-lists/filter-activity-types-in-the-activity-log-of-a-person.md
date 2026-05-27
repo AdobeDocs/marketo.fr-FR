@@ -5,8 +5,7 @@ title: Filtrer les types d’activité dans le journal d’activité d’une per
 exl-id: c778aa9c-d985-43ab-9018-58f3e3fe8165
 feature: Smart Lists
 TQID: https://experienceleague.adobe.com/d4hRqMdNQzN9LR7zm-ii9h8g4LcvUFlSG97jIUklf5Y
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 138

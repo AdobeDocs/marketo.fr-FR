@@ -5,8 +5,7 @@ title: Créer et modifier des vues pour les listes et les listes intelligentes
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
 TQID: https://experienceleague.adobe.com/2MeSAe-8Or9R-MpHcCuUhTVARl-xkweRcyqowWAlQEM
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 227
