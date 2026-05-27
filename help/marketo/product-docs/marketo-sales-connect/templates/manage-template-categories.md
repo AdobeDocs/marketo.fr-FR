@@ -2,7 +2,8 @@
 description: Découvrez comment créer, modifier, fusionner des doublons et supprimer des catégories de modèles Marketo Sales Connect pour que vos modèles d’e-mail restent organisés et faciles à trouver.
 title: Gérer les catégories de modèles
 feature: Marketo Sales Connect
-source-git-commit: e085e6b7554f8532a1c73f8c386325aa7f4e1ab6
+exl-id: 60836705-1e9a-422b-86c5-e8be1d58380a
+source-git-commit: 2b48226095a13f2e8323db4b13217f733cc7ea7f
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 9%
