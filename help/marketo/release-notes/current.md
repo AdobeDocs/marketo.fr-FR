@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 7853491f53bd2f7d5ec6e63189c1e8b77b4b5349
+source-git-commit: 365a2c3767c8c3e3455361ac5c2a0e070796cbfa
 workflow-type: tm+mt
-source-wordcount: 543
-ht-degree: 23%
+source-wordcount: 700
+ht-degree: 19%
 
 ---
 
@@ -86,6 +86,50 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    </td>
    <td><i>Bientôt disponible</i></td>
    <td><i>Bientôt disponible</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - Est en train de saisir </strong> : le visiteur et l’agent voient maintenant un message « est en train de saisir... » notification pendant que l'autre partie tape, empêchant l'une d'interrompre l'autre.
+   </td>
+   <td>Libéré</td>
+   <td>s/o</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - Champs de liste de sélection/liste déroulante Marketo </strong> : les champs de liste de sélection/liste déroulante de personne de Marketo (y compris les valeurs synchronisées par Salesforce) sont désormais disponibles en tant que valeurs déroulantes dans l’éditeur de profil de conversation.
+   </td>
+   <td>Libéré</td>
+   <td>s/o</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - Statut de conversation manquée </strong> : désormais, lorsqu'un agent n'accepte pas une conversation, un nouveau statut de conversation manquée apparaît dans les détails de l'activité de la personne ayant discuté.
+   </td>
+   <td>Libéré</td>
+   <td>s/o</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - Nouveau comportement de synchronisation des attributs </strong> : auparavant, l’ajout de nouveaux attributs bloquait les modifications dans l’environnement pendant 24 heures au maximum, tandis que la synchronisation se terminait, empêchant la modification et la publication des boîtes de dialogue. Désormais, bien que l’ajout d’un nouvel attribut nécessite toujours une synchronisation complète des données (ce qui peut prendre jusqu’à 24 heures), l’environnement n’est plus bloqué pendant ce processus.
+   </td>
+   <td>Libéré</td>
+   <td>s/o</td>
   </tr>
   </tbody>
 </table>
