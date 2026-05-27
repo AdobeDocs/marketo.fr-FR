@@ -5,10 +5,8 @@ title: Définir le rythme du flux
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/FJkSjZFKVZb-nBY-xfkU6Vb9JsQYbIMrbKW7rPpOmmg
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
 source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 375
@@ -56,7 +54,7 @@ Vous pouvez envoyer du contenu d’engagement à tout intervalle que vous souhai
 
    >[!TIP]
    >
-   >Vous pouvez définir votre cadence pour qu’elle s’exécute tous les jours en sélectionnant **[!UICONTROL Répétitions] : [!UICONTROL Hebdomadaire]** / **[!UICONTROL Tous les &#x200B;] : 1 [!UICONTROL Semaine]** / **[!UICONTROL Activé]** : tous les jours.
+   >Vous pouvez définir votre cadence pour qu’elle s’exécute tous les jours en sélectionnant **[!UICONTROL Répétitions] : [!UICONTROL Hebdomadaire]** / **[!UICONTROL Tous les ] : 1 [!UICONTROL Semaine]** / **[!UICONTROL Activé]** : tous les jours.
 
    Choisis maintenant l&#39;Heure. Cochez la case si vous souhaitez utiliser [Fuseau horaire du destinataire](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) (c’est-à-dire diffuser selon les fuseaux horaires locaux), puis cliquez sur **[!UICONTROL Enregistrer]**.
 
