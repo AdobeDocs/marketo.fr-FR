@@ -4,8 +4,11 @@ title: Questions fréquentes sur la synchronisation d’un compte de personne
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
 feature: Veeva CRM
 TQID: https://experienceleague.adobe.com/7RgVxWE7cvIimLpEMPcBr-DEL2QHVQuDkHR-Tl-ZrcE
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: c5f60233-d5ea-4453-a799-0ad258b4d399
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 488
@@ -71,7 +74,7 @@ Non, tous les champs standard ne sont pas utiles. Tous les champs personnalisés
 >
 >Marketo synchronise uniquement les champs auxquels l’utilisateur de synchronisation Marketo a accès.
 
-Marketo respectera-t-il les règles de validation [!DNL Veeva] ?****
+Marketo respectera-t-il les règles de validation [!DNL Veeva] ?**&#x200B;**
 
 Oui, en cas de conflit, nous consignerons le résultat dans le journal d’activité du prospect.
 

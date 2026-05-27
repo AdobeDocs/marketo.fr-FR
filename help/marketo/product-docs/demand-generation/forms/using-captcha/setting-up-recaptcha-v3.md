@@ -4,8 +4,11 @@ title: Configuration de reCAPTCHA v3
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
 feature: Forms
 TQID: https://experienceleague.adobe.com/DMCWJvJQu1Gzdll6GEn9bhOM-eqlC1bP0Avoq7o-wlU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 372
@@ -37,7 +40,7 @@ Pour l’étape 6 de la section Configuration initiale de [!UICONTROL reCAPTCHA 
 
 Les étapes suivantes sont effectuées en dehors de Marketo.
 
-1. Accédez à [](https://www.google.com/recaptcha/about/){target="_blank"} puis cliquez sur Admin Console v3.
+1. Accédez à [&#128279;](https://www.google.com/recaptcha/about/){target="_blank"} puis cliquez sur Admin Console v3.
 
 1. Connectez-vous/inscrivez-vous avec un compte Google.
 
