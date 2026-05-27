@@ -5,8 +5,10 @@ title: Émettre une licence de module complémentaire d’e-mail Marketo
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/63HpIDuhJ-enhnYjVXsrDoLE6bIbf6h-AMpppovujW8
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 344
@@ -43,7 +45,7 @@ Toute personne qui souhaite utiliser le complément de [!DNL Outlook] d’e-mail
 
    >[!NOTE]
    >
-   >* Pour installer le plug-in à distance, ne cochez pas la case _Envoyer un e-mail d’enregistrement avec un lien de téléchargement_ et envoyez votre clé d’entreprise [ à votre équipe informatique](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md).
+   >* Pour installer le plug-in à distance, ne cochez pas la case _Envoyer un e-mail d’enregistrement avec un lien de téléchargement_ et envoyez votre clé d’entreprise [&#x200B; à votre équipe informatique](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md).
    >
    >* Si vos représentants commerciaux disposent d&#39;un accès administrateur à leurs ordinateurs, cochez la case _Envoyer un e-mail d&#39;enregistrement avec un lien de téléchargement_ et vous avez terminé. Les destinataires ont **30 jours** pour cliquer sur le lien contenu dans l’e-mail avant son expiration.
 

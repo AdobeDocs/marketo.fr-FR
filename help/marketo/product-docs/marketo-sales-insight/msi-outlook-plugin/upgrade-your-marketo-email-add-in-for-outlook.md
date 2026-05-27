@@ -5,9 +5,12 @@ title: Mettre à niveau votre complément de messagerie Marketo pour  [!DNL Outl
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/NK-fGmulqGGDopDM95ZBT-e21sa-z2FrDCTi2wu3kmQ
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 437
@@ -125,7 +128,7 @@ Téléchargez le programme d’installation approprié à votre version de Micro
 
 ## Mise à niveau {#upgrade}
 
-1. Identifiez votre [[!DNL Microsoft Outlook]  version ](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&rs=en-us&ad=us).
+1. Identifiez votre [[!DNL Microsoft Outlook]  version &#x200B;](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&rs=en-us&ad=us).
 
 1. Sélectionnez votre version dans la liste ci-dessus.
 
