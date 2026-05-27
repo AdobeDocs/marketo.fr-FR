@@ -58,7 +58,7 @@ Le paramètre d’élément de bloc racine définit les balises qui encapsulent 
   <tr>
    <th>&lt;p&gt;</th>
    <th>&lt;div&gt;</th>
-   <th>Aucune</th>
+   <th>Aucun</th>
   </tr>
   <tr>
    <td><p>&lt;div class=« mktEditable »&gt;<br>&lt;p&gt;Le texte se trouve ici&lt;/p&gt;<br>&lt;/div&gt;</p></td>
