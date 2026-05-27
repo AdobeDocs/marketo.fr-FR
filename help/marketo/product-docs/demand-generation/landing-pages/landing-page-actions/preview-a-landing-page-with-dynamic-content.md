@@ -5,7 +5,8 @@ title: Prévisualiser une page de destination avec du contenu dynamique
 exl-id: 638db767-bb20-4eef-8edd-8a7be4178d28
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/NXUXGYSgviIdw-W1yVRAfTpW82mWvZA9SZExRQVSvko
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
 source-wordcount: 96
