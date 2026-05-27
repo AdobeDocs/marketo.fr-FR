@@ -5,8 +5,10 @@ title: Démarrage rapide des programmes d’e-mail
 exl-id: f7c8b082-4d83-4e3b-8aa4-7b252e3dacd3
 feature: Email Programs
 TQID: https://experienceleague.adobe.com/DHsakR9O7XMJMAG2q7kfJFUUc2eFnkdslbowaA85IC4
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 430
@@ -36,7 +38,7 @@ Lorsque vous choisissez une date/heure pour un programme d’e-mail, il détermi
    >
    >Le démarrage anticipé ne peut pas être utilisé avec les tests A/B.
 
-1. Dans la mosaïque [!UICONTROL  Planifier ], planifiez votre e-mail, puis sélectionnez la zone **[!UICONTROL Démarrage rapide]**.
+1. Dans la mosaïque [!UICONTROL &#x200B; Planifier &#x200B;], planifiez votre e-mail, puis sélectionnez la zone **[!UICONTROL Démarrage rapide]**.
 
    ![](assets/three-1.png)
 
