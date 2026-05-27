@@ -5,8 +5,7 @@ title: Présentation de tout le contenu
 exl-id: 475943f0-bba4-4bd7-8808-de75475f934d
 feature: Predictive Content
 TQID: https://experienceleague.adobe.com/fzonhoTQmJlhdlbSFQ87CjwntcScl9f3-VjtwQL6At8
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 291
