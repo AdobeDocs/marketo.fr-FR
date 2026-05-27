@@ -99,7 +99,7 @@ Tirez parti des données de personne pour les [!DNL Web Personalization] en sél
   <tr>
    <td><p>leadRole</p></td>
    <td><p>LeadRole</p></td>
-   <td><p>Rôle</p></td>
+   <td><p>Autorisations</p></td>
   </tr>
   <tr>
    <td><p>désabonné</p></td>
