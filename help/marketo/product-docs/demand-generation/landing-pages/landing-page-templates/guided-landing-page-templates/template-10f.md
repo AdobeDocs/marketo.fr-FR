@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # Modèle 10F {#template-10f}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 10F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10f.html)
+Cliquez avec le bouton droit pour [télécharger le modèle 10F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10f.html?lang=fr)
 
 ![](assets/image2015-7-27-11-3a14-3a42.png)
 
@@ -33,4 +33,4 @@ Ce modèle comprend le contenu suivant :
 
 **Cliquez avec le bouton droit de la souris ci-dessous pour télécharger ce modèle :**
 
-[Modèle 10F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10f.html)
+[Modèle 10F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10f.html?lang=fr)
