@@ -5,9 +5,12 @@ title: Utiliser vos adresses IP dédiées pour envoyer des e-mails
 exl-id: cc83cf43-8b6d-4869-9c4f-7f3d2cd82dfa
 feature: Deliverability
 TQID: https://experienceleague.adobe.com/eZdDKPbVZJ5CCk9J73Wn934Bachb-y-rzyKBCznhlPw
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399
-topic_v2: id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+topic_v2:
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 452
@@ -42,8 +45,8 @@ Pour optimiser la délivrabilité à long terme, les consultants en délivrabili
 
 >[!TIP]
 >
->Gardez votre base de données propre pour garantir une délivrabilité élevée. [Adobe exige ](https://www.adobe.com/fr/legal/terms/aup.html) les clients envoient uniquement des communications marketing aux personnes qui se sont inscrites ou ont demandé à recevoir des e-mails. N’envoyez pas d’e-mail non sollicité.
+>Gardez votre base de données propre pour garantir une délivrabilité élevée. [Adobe exige &#x200B;](https://www.adobe.com/fr/legal/terms/aup.html) les clients envoient uniquement des communications marketing aux personnes qui se sont inscrites ou ont demandé à recevoir des e-mails. N’envoyez pas d’e-mail non sollicité.
 
 >[!CAUTION]
 >
->Si vous constatez un grand nombre de bounces ou d&#39;autres problèmes, contactez l&#39;assistance Marketo [](https://nation.marketo.com/t5/Support/ct-p/Support). Pour obtenir une assistance plus ciblée sur la manière de gérer une base de données propre et d’augmenter l’engagement avec votre programme, vous pouvez faire appel à des consultants en délivrabilité des e-mails de Marketo pour un package de services personnalisés.
+>Si vous constatez un grand nombre de bounces ou d&#39;autres problèmes, contactez l&#39;assistance Marketo [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support). Pour obtenir une assistance plus ciblée sur la manière de gérer une base de données propre et d’augmenter l’engagement avec votre programme, vous pouvez faire appel à des consultants en délivrabilité des e-mails de Marketo pour un package de services personnalisés.
