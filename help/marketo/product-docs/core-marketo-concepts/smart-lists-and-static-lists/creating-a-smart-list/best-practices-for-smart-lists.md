@@ -5,16 +5,10 @@ title: Bonnes pratiques relatives aux listes intelligentes
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 feature: Smart Lists
 TQID: https://experienceleague.adobe.com/Z1k--jj24QHIEThtPbj29i9FBhcEp0Hf9hBeZEgSP3w
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-subfeature_v2:
-  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
-  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
-topic_v2:
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 592
@@ -32,7 +26,7 @@ Pour faciliter leur utilisation et optimiser les performances, les bonnes pratiq
 >
 >**Chaque utilisateur de Marketo Engage est différent.** Plus la base de données est volumineuse, plus le traitement est important. Plus vous avez stocké d’activités, plus leur recherche prend du temps.
 >
->Si vous ressentez une lenteur, essayez les conseils ci-dessous. Si le problème persiste, contactez l’assistance technique de [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+>Si vous ressentez une lenteur, essayez les conseils ci-dessous. Si le problème persiste, contactez l’assistance technique de [](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
 1. **Limiter l’historique -** Les filtres d’historique (ou filtres d’activité) font partie des opérations les plus gourmandes en ressources et en temps. Si vous devez les utiliser, essayez de limiter la période au plus court possible, ce qui réduirait le jeu de données pouvant faire l’objet d’une recherche. En outre, les périodes ne remplacent pas les périodes de conservation. Par exemple : si l’activité que vous recherchez a une période de conservation de 90 jours et que vous choisissez « 100 derniers jours », seuls les résultats des 90 derniers jours seront renvoyés. Les périodes de conservation des activités [consultez ce lien](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy/ta-p/251480){target="_blank"}.
 1. **Limiter les listes dynamiques imbriquées -** Lors de la création d’une liste dynamique, limitez la quantité de filtres « Membre de la liste dynamique » utilisés. Cela s’appelle imbriquer des listes dynamiques et chaque liste dynamique référencée augmente le temps de traitement. Au lieu de cela, référencez des listes statiques ou utilisez [segmentation](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md){target="_blank"}.
