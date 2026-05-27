@@ -5,11 +5,8 @@ title: Activer la synchronisation pour une entité personnalisée
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
 TQID: https://experienceleague.adobe.com/kSLFdQA9OTHLoBTQ2qBrRFucLaDJLNSNAxGqjjMHCxs
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: c5f60233-d5ea-4453-a799-0ad258b4d399
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 329
@@ -38,7 +35,7 @@ Si vous avez besoin que les données d’entité personnalisées de [!DNL Dynami
 
    ![](assets/enable-sync-for-a-custom-entity-1.png)
 
-1. Sélectionnez **&#x200B;**&#x200B;puis cliquez sur **[!UICONTROL Désactiver la synchronisation]**.
+1. Sélectionnez **** puis cliquez sur **[!UICONTROL Désactiver la synchronisation]**.
 
    ![](assets/enable-sync-for-a-custom-entity-2.png)
 
