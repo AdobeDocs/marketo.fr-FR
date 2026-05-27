@@ -5,8 +5,7 @@ title: Configurer des paramètres d’événement et synchroniser Marketo avec v
 exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
 feature: Events
 TQID: https://experienceleague.adobe.com/AIHOBhsWZXdVEmNRKp8ci8j5aeqyYFjaGF4vhVFozqw
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 240

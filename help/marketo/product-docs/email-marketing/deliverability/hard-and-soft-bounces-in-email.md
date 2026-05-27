@@ -5,10 +5,8 @@ title: Rebonds définitifs et temporaires dans les e-mails
 exl-id: 53298562-76b6-473a-bf9f-2bec682f4d35
 feature: Deliverability
 TQID: https://experienceleague.adobe.com/qr4rAdOWWg5dazZVztnoTUv6WJQE8Xpm2WKttjQaOOg
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
 source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 310
@@ -38,7 +36,7 @@ Marketo comporte 5 champs de personne liés à la diffusion d’e-mails avec des
 
 >[!PREREQUISITES]
 >
->Pour créer un rapport sur les performances des e-mails[&#128279;](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) qui générera des données de bounce procédez comme suit.
+>Pour créer un rapport sur les performances des e-mails](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) qui générera des données de bounce[ procédez comme suit.
 
 Après avoir créé votre rapport sur les performances des e-mails, l’écran doit ressembler à ceci :
 
