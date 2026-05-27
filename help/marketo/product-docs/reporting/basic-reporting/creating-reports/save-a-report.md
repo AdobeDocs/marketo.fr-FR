@@ -5,9 +5,12 @@ title: Enregistrer un rapport
 exl-id: be6da793-1498-4ba1-8d65-e9c0fd5d1033
 feature: Reporting
 TQID: https://experienceleague.adobe.com/6FQT5RlZlJ05B3eKfmuDEFsmw7LQL1L3hJgKrEGN6Bc
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 102
@@ -23,7 +26,7 @@ Il peut arriver que vous deviez enregistrer un rapport par défaut pour l’affi
 
    ![](assets/image2015-4-30-11-3a50-3a5.png)
 
-1. Sélectionnez un [ type de rapport ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. Sélectionnez un [&#x200B; type de rapport &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
    ![](assets/image2015-4-20-16-3a57-3a42.png)
 
@@ -45,4 +48,4 @@ Il peut arriver que vous deviez enregistrer un rapport par défaut pour l’affi
 
 >[!MORELIKETHIS]
 >
->Découvrez comment [cloner un rapport pour en regrouper ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).
+>Découvrez comment [cloner un rapport pour en regrouper &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).
