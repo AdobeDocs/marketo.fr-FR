@@ -1,12 +1,12 @@
 ---
 description: Notes De Mise À Jour - Janvier 2026 - Documents Marketo - Documentation Du Produit
-title: Notes de mise à jour – Janvier 2026
+title: Notes De Mise À Jour - Janvier 2026
 feature: Release Information
 exl-id: 82773c7e-7c25-4407-8283-b1ae21e470f5
 source-git-commit: eb0e23b9f938e813edb90f615a6f1e9d06526dbc
 workflow-type: tm+mt
-source-wordcount: '497'
-ht-degree: 32%
+source-wordcount: '566'
+ht-degree: 24%
 
 ---
 
@@ -33,7 +33,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <td> </td>
   </tr>
   <tr>
-   <td>Designer d’e-mail - Aperçus visuels des fragments<strong> : tous les fragments publiés s’affichent désormais sous forme de miniatures, ce qui permet d’identifier beaucoup plus rapidement celui dont vous avez besoin.</strong></td>
+   <td>Designer d’e-mail - Aperçus visuels des fragments</strong> : tous les fragments publiés s’affichent désormais sous forme de miniatures, ce qui permet d’identifier beaucoup plus rapidement celui dont vous avez besoin.<strong></td>
    <td>Libéré</td>
    <td>s/o</td>
   </tr>
@@ -43,7 +43,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <td> </td>
   </tr>
   <tr>
-   <td>Designer d’e-mail - Puces<strong> : vous pouvez désormais créer des puces à plusieurs niveaux lors de la création d’un e-mail dans le Designer d’e-mail.</strong></td>
+   <td>Designer d’e-mail - Puces</strong> : vous pouvez désormais créer des puces à plusieurs niveaux lors de la création d’un e-mail dans le Designer d’e-mail.<strong></td>
    <td>Libéré</td>
    <td>s/o</td>
   </tr>
@@ -96,6 +96,6 @@ Consultez [cette page](https://helpx.adobe.com/fr/adobe-connect/release-note/ado
 
 * **Migration de la communauté Marketo terminée** : la nouvelle communauté Adobe Experience League est maintenant en ligne ! [Plusieurs améliorations](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673?profile.language=fr){target="_blank"} ont été apportées pour améliorer davantage votre expérience dans la communauté Marketo. [Regarde ça](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=fr){target="_blank"}.
 
-* **Obsolescence du paramètre « access_token » de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours de suppression et ne sera plus disponible après le samedi 31 juillet 2026. Toutes les intégrations nouvelles et existantes doivent authentifier les appels de l’API REST à l’aide de l’en-tête « Autorisation », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Obsolescence du paramètre &#39;access_token&#39; de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours d’obsolescence et ne sera plus disponible après le 31 juillet 2026. Toutes les intégrations nouvelles et existantes doivent authentifier les appels de l’API REST à l’aide de l’en-tête « Autorisation », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Obsolescence de l’API SOAP** : la prise en charge de l’API SOAP Marketo prendra fin le samedi 31 juillet 2026. Les services qui utilisent les fonctionnalités de l’API SOAP doivent être migrés vers l’[API REST](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Obsolescence de l’API SOAP** : la prise en charge de l’API Marketo SOAP prendra fin le 31 juillet 2026. Les services qui utilisent les fonctionnalités de l’API SOAP doivent être migrés vers l’[API REST](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
