@@ -5,8 +5,7 @@ title: Ajouter un formulaire à une page de destination guidée
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/rWlijjPdA6LW-7FBx-wSwolGY0thdJQGn6xg6mYkukk
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
 source-wordcount: 174
@@ -50,7 +49,7 @@ ht-degree: 13%
    >
    >La page de suivi est la page que les personnes verront après avoir envoyé le formulaire.
 
-1. Dans cet exemple, sélectionnez [!UICONTROL &#x200B; Formulaire défini &#x200B;]. Cliquez sur **[!UICONTROL Insérer]**.
+1. Dans cet exemple, sélectionnez [!UICONTROL  Formulaire défini ]. Cliquez sur **[!UICONTROL Insérer]**.
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 
