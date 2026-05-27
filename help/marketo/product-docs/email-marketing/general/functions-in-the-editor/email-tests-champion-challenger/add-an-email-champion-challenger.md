@@ -5,10 +5,8 @@ title: Ajouter un e-mail Champion/Challenger
 exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
 feature: Email Editor
 TQID: https://experienceleague.adobe.com/SJcI4kx5bUCRuXvNoZRQjZSfdfxP24UIp5s-Hst6tks
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 219
@@ -31,7 +29,7 @@ Voici comment commencer.
 
 >[!CAUTION]
 >
->Les e-mails des champions et des challengers ne fonctionnent qu’avec les campagnes de déclenchement et les flux de programmes d’engagement. Pour le publipostage par lots, utilisez la fonctionnalité de test A/B du programme de messagerie [&#128279;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md).
+>Les e-mails des champions et des challengers ne fonctionnent qu’avec les campagnes de déclenchement et les flux de programmes d’engagement. Pour le publipostage par lots, utilisez la fonctionnalité de test A/B du programme de messagerie ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md).[
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 
@@ -54,5 +52,5 @@ Voici comment commencer.
    >[!MORELIKETHIS]
    >
    >* [Champion/Challenger : Whole Emails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails.md)
-   >* [Champion/Challenger : Objet &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
-   >* [Champion/Challenger : De l&#39;adresse &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)
+   >* [Champion/Challenger : Objet ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
+   >* [Champion/Challenger : De l&#39;adresse ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)
