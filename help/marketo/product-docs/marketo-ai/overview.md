@@ -3,9 +3,9 @@ description: Explorez la suite d’agents Marketo AI conçue pour automatiser le
 title: Présentation de Marketo AI
 badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 854fee409fb55c8f611ee85225bea6ab77036dff
+source-git-commit: 37f7aeb9a3ee5618ae57d5b76e90e0be254caacd
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '302'
 ht-degree: 2%
 
 ---
@@ -56,26 +56,6 @@ D’autres agents conçus pour gérer le travail le plus répétitif et le plus 
 * Générer des programmes Marketo Engage complets directement à partir d’un résumé de campagne.
 * Et plus encore.
 
-<!--
-
-### Investigate Lead (Coming soon) {#investigate-lead}
-
-Discover why someone didn't MQL, qualify for a program, or progress through the lifecycle.
-
-### Plan Program (Coming soon) {#plan-program}
-
-Create a program setup document for others to use from a campaign brief.
-
-### Create Program (Coming soon) {#create-program}
-
-Generate an entire Marketo Engage program using a campaign brief, complete with email, landing page, and Smart Campaign.
-
-### Normalize data (Coming soon) {#normalize-data}
-
-Standardize fields such as company name, job title, country, and more.
-
-### Callable agents (Coming soon) {#callable-agents}
-
-These agents run as webhooks in Marketo Engage Smart Campaigns for real-time data processing.
-
--->
+>[!MORELIKETHIS]
+>
+>Le [serveur Marketo Engage MCP](https://experienceleague.corp.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"} fait office de pont entre votre assistant d’IA et Marketo Engage.
