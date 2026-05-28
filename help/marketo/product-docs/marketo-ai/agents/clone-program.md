@@ -3,9 +3,9 @@ description: Le programme de clonage duplique un programme Marketo existant dans
 title: Cloner le programme
 badge: Beta
 hide: true
-source-git-commit: 69749951d0397a837bee77d16baddc3342f68ec2
+source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
 workflow-type: tm+mt
-source-wordcount: '501'
+source-wordcount: '472'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ L’agent de programme Clone copie un programme opérationnel, y compris ses cam
 
 >[!AVAILABILITY]
 >
->Cette fonctionnalité est en version bêta fermée et fait actuellement l’objet d’un déploiement échelonné au cours des prochains mois. Vous saurez quand il a été activé pour votre abonnement lorsque la mosaïque _Créer avec l’IA_ s’affichera sur votre écran Mon Marketo.
+>Cette fonctionnalité est actuellement en version bêta fermée. Veuillez ne pas diffuser cette documentation.
 
 ## Utilisation {#how-to-use}
 

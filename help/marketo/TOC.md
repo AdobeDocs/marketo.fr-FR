@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 37f7aeb9a3ee5618ae57d5b76e90e0be254caacd
+source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
 workflow-type: tm+mt
-source-wordcount: '8896'
+source-wordcount: '8897'
 ht-degree: 96%
 
 ---
@@ -1113,12 +1113,12 @@ ht-degree: 96%
       + {hide-from-toc}[&#x200B; Paramètres et configuration &#x200B;](product-docs/marketo-ai/settings-setup-old.md)
       + Agents {#agents}
          + {hide-from-toc}[Connaissance des produits](product-docs/marketo-ai/agents/product-knowledge.md)
-         + {hide-from-toc}[Analytics](product-docs/marketo-ai/agents/analytics.md)
-         + {hide-from-toc}[Créer un programme](product-docs/marketo-ai/agents/create-program.md)
+         + {hide-from-toc}[Informations sur la surface](product-docs/marketo-ai/agents/surface-insights.md)
+         + {hide-from-toc}[Créer des programmes](product-docs/marketo-ai/agents/create-program.md)
          + {hide-from-toc}[Cloner le programme](product-docs/marketo-ai/agents/clone-program.md)
-         + {hide-from-toc}[Enquêter sur le lead](product-docs/marketo-ai/agents/investigate-lead.md)
+         + {hide-from-toc}[Enquêter sur les prospects](product-docs/marketo-ai/agents/investigate-leads.md)
          + [Importer les leads](product-docs/marketo-ai/agents/import-leads.md)
-         + [Assurance qualité du programme](product-docs/marketo-ai/agents/program-qa.md)
+         + [Valider les programmes](product-docs/marketo-ai/agents/validate-programs.md)
    + Expérience d’utilisation moderne pour Marketo Engage {#marketo-engage-modern-ux}
       + [Vue d’ensemble](product-docs/marketo-engage-modern-ux/overview.md)
       + [Utilisation de la recherche globale](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
