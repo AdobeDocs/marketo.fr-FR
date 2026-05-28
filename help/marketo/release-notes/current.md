@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 24293b38dc097aa69b8716b367ac9c3a63279bfc
+source-git-commit: d63afbeaaa3c1299e73276e2be5d993f575b5fde
 workflow-type: tm+mt
-source-wordcount: 704
-ht-degree: 19%
+source-wordcount: 698
+ht-degree: 18%
 
 ---
 
@@ -52,11 +52,6 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td> </td>
   </tr>
   <tr>
-   <th style="width:65%">Fonctionnalité</th>
-   <th style="width:10%">Statut</th>
-   <th style="width:25%">Documentation</th>
-  </tr>
-  <tr>
    <td><strong>Serveur MCP Marketo Engage </strong> : le serveur MCP Marketo Engage fait office de pont entre votre assistant AI et Marketo Engage. Il expose plus de 100 opérations sur des formulaires, des programmes, des campagnes intelligentes, des personnes/prospects, des e-mails, des fragments de code, des listes et des dossiers.</td>
    <td>Disponibilité limitée (<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode">demander l'accès ici</a>)</td>
    <td><a href="https://experienceleague.corp.adobe.com/docs/marketo-developer/marketo/mcp-server.html">Serveur MCP Marketo</a></td>
@@ -65,11 +60,6 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td> </td>
    <td> </td>
    <td> </td>
-  </tr>
- <tr>
-   <th style="width:65%">Fonctionnalité</th>
-   <th style="width:10%">Statut</th>
-   <th style="width:25%">Documentation</th>
   </tr>
   <tr>
    <td>Designer d’e-mail - Contenu conditionnel pour les fragments d’e-mail</strong> : <i>Parité avec l’ancien éditeur d’e-mail</i>. <strong>Le contenu conditionnel est désormais pris en charge pour les fragments.</td>
