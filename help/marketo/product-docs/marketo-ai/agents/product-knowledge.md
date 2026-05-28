@@ -3,9 +3,9 @@ description: Utilisez les connaissances du produit pour interroger l’IA dédi�
 title: Connaissances du produit
 badge: Beta
 hide: true
-source-git-commit: 69749951d0397a837bee77d16baddc3342f68ec2
+source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '463'
 ht-degree: 1%
 
 ---
@@ -16,11 +16,11 @@ La connaissance des produits vous donne un accès à la demande à l’expertise
 
 >[!PREREQUISITES]
 >
->Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [&#x200B; Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
+>Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [ Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
 
 >[!AVAILABILITY]
 >
->Cette fonctionnalité est en version bêta fermée et fait actuellement l’objet d’un déploiement échelonné au cours des prochains mois. Vous saurez quand il a été activé pour votre abonnement lorsque la mosaïque _Créer avec l’IA_ s’affichera sur votre écran Mon Marketo.
+>Cette fonctionnalité est actuellement en version bêta fermée. Veuillez ne pas diffuser cette documentation.
 
 ## Utilisation {#how-to-use}
 
