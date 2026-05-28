@@ -5,7 +5,8 @@ title: Utilisation d’actions en bloc dans  [!DNL Salesforce]  Classic
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/R1scHZzjKz282-t69ioZN-3lk-feuCEtoJM3Q4zcB-M
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 376
@@ -37,7 +38,7 @@ Découvrez comment effectuer des actions en bloc, telles que l’ajout de prospe
 
 1. Un e-mail du MSC s’affiche. Il comprend les fonctionnalités suivantes :
 
-   a. Le champ « [!UICONTROL  À ] » affiche « [!UICONTROL  Tous les destinataires ] » ; il correspond à la liste des prospects que vous avez choisie dans la vue Liste de prospects
+   a. Le champ « [!UICONTROL &#x200B; À &#x200B;] » affiche « [!UICONTROL &#x200B; Tous les destinataires &#x200B;] » ; il correspond à la liste des prospects que vous avez choisie dans la vue Liste de prospects
 b. Cette liste est visible dans le panneau de gauche sous le nom « [!UICONTROL Composition en bloc] ». Vous pouvez ajouter ou supprimer des destinataires ici
 c. Vous pouvez choisir un modèle ou créer votre propre e-mail
 d. Vous pouvez prévisualiser les champs dynamiques qui seront renseignés dans votre e-mail
@@ -55,7 +56,7 @@ e. Vous pouvez envoyer l’e-mail immédiatement ou planifier son envoi pour plu
 
    ![](assets/five-3.png)
 
-1. Un pop-up « [!UICONTROL  Ajouter des personnes à votre campagne ] » s’affiche. Cliquez sur **[!UICONTROL Suivant]** et parcourez le flux de campagne type pour déclencher une campagne MSC.
+1. Un pop-up « [!UICONTROL &#x200B; Ajouter des personnes à votre campagne &#x200B;] » s’affiche. Cliquez sur **[!UICONTROL Suivant]** et parcourez le flux de campagne type pour déclencher une campagne MSC.
 
    ![](assets/six.png)
 

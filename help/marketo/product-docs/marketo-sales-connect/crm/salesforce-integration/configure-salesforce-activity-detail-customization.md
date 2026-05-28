@@ -4,7 +4,8 @@ title: Configurer la personnalisation des détails d’activité Salesforce
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/fFax4g3tqI3FlLhe-G2MeG9Rkjh4K86SiA7cAIdmYpo
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 680
@@ -113,7 +114,7 @@ Lors de la configuration des détails de votre activité, réfléchissez aux don
 
    ![](assets/configure-salesforce-activity-detail-customization-3.png)
 
-1. Cliquez sur ****.
+1. Cliquez sur **&#x200B;**.
 
    ![](assets/configure-salesforce-activity-detail-customization-4.png)
 

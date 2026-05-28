@@ -5,7 +5,8 @@ title: Création de règles de workflow dans Salesforce
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/NmHKAzpBUKL4-vpcpxNpXv9TPamdy5iFCxdYTfCC1S0
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 482
@@ -66,7 +67,7 @@ Vous trouverez ci-dessous les noms recommandés des règles de workflow et leur 
 
    ![](assets/three-1.png)
 
-1. Saisissez « Mettre à jour le champ de description du moment intéressant » comme [!UICONTROL  Nom de la règle ]. Sélectionnez le bouton radio **[!UICONTROL créé, puis chaque fois qu’il est modifié]**. Dans le menu déroulant [!UICONTROL Critères de règle], sélectionnez **[!UICONTROL la formule est évaluée sur true]**. Recherchez et sélectionnez la fonction ISCHANGED. Ensuite, mettez en surbrillance la valeur de champ par défaut et cliquez sur **[!UICONTROL Insérer un champ]**.
+1. Saisissez « Mettre à jour le champ de description du moment intéressant » comme [!UICONTROL &#x200B; Nom de la règle &#x200B;]. Sélectionnez le bouton radio **[!UICONTROL créé, puis chaque fois qu’il est modifié]**. Dans le menu déroulant [!UICONTROL Critères de règle], sélectionnez **[!UICONTROL la formule est évaluée sur true]**. Recherchez et sélectionnez la fonction ISCHANGED. Ensuite, mettez en surbrillance la valeur de champ par défaut et cliquez sur **[!UICONTROL Insérer un champ]**.
 
    ![](assets/four-1.png)
 
@@ -78,7 +79,7 @@ Vous trouverez ci-dessous les noms recommandés des règles de workflow et leur 
 
    ![](assets/6.png)
 
-1. Dans la liste déroulante [!UICONTROL  Ajouter une action de workflow ], sélectionnez **[!UICONTROL Nouvelle mise à jour de champ]**.
+1. Dans la liste déroulante [!UICONTROL &#x200B; Ajouter une action de workflow &#x200B;], sélectionnez **[!UICONTROL Nouvelle mise à jour de champ]**.
 
    ![](assets/seven.png)
 
