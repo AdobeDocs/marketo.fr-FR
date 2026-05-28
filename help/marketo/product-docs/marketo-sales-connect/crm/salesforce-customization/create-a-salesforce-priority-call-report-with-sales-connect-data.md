@@ -5,8 +5,7 @@ title: Créer un rapport d’appel prioritaire Salesforce avec des données Sale
 exl-id: eede4c34-d570-4dbc-beaf-6960cf80af89
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/qaJJwwTnXS5Jtqal0SPYVOJhjPPZlXngl4NzWcijbJ4
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 173
@@ -22,4 +21,4 @@ Découvrez comment créer une liste de rapports/appels [!DNL Salesforce] à l’
 1. Créez un rapport avec « [!UICONTROL Tâches et événements] ».
 1. Définissez vos filtres et choisissez une période.
 1. Faites glisser [!DNL Sales Connect] données dans vos colonnes en saisissant « Ventes Marketo » dans la recherche de champs. Une fois que vous avez ajouté [!DNL Sales Connect] données, ajoutez une colonne pour Numéro de téléphone afin de pouvoir agir sur ce rapport et l’utiliser comme liste d’appels.
-1. Exécutez le rapport et triez-le par [!UICONTROL &#x200B; Événements Sales Connect suivis &#x200B;]. Les personnes ayant le plus d’activité sur vos e-mails seront ainsi remontées. Assurez-vous de planifier les prochaines étapes avec ces personnes de haut niveau ou faites-en une priorité ce jour-là. Il y a probablement une dynamique avec un nombre élevé.
+1. Exécutez le rapport et triez-le par [!UICONTROL  Événements Sales Connect suivis ]. Les personnes ayant le plus d’activité sur vos e-mails seront ainsi remontées. Assurez-vous de planifier les prochaines étapes avec ces personnes de haut niveau ou faites-en une priorité ce jour-là. Il y a probablement une dynamique avec un nombre élevé.
