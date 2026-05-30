@@ -3,7 +3,7 @@ description: Explorez la suite d’agents Marketo AI conçue pour automatiser le
 title: Présentation de Marketo AI
 badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: d905e4b850d63e3ccf2517c0d2573314b7b8938b
+source-git-commit: 4f19245d55403bd99002de35e4ee226055b96c4d
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 2%
@@ -20,7 +20,7 @@ Marketo AI fournit des agents conçus pour automatiser les fonctions marketing l
 
 >[!PREREQUISITES]
 >
->Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [&#x200B; Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Contactez votre gestionnaire de compte pour plus de détails.
+>Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [ Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Contactez votre gestionnaire de compte pour plus de détails.
 
 >[!IMPORTANT]
 >
@@ -40,13 +40,13 @@ Dans le champ d’invite, cliquez sur **Commencer** (ou saisissez votre propre r
 
 La console centrale dispose d’un ensemble croissant d’agents disponibles pour vous aider à effectuer diverses tâches. Chaque agent est un assistant d’IA personnalisé avec lequel vous interagissez en langage naturel pour effectuer une tâche spécifique.
 
-### AQ du programme {#program-qa}
+### Valider les programmes {#validate-programs}
 
-L’assurance qualité du programme vérifie automatiquement votre configuration par rapport aux bonnes pratiques de Marketo et recherche les problèmes avant le lancement. En savoir plus sur l’[Agent de validation des programmes](/help/marketo/product-docs/marketo-ai/agents/validate-programs.md){target="_blank"}.
+L’option Valider les programmes vérifie automatiquement votre configuration par rapport aux bonnes pratiques de Marketo et recherche les problèmes avant le lancement. En savoir plus sur l’[Agent de validation des programmes](/help/marketo/product-docs/marketo-ai/agents/validate-programs.md){target="_blank"}.
 
 ### Importer les leads {#import-leads}
 
-Importez et dédupliquez des listes de prospects dans votre base de données Marketo Engage avec l’aide du mappage des champs. En savoir plus sur l’agent [&#x200B; Importer des leads &#x200B;](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}.
+Importez et dédupliquez des listes de prospects dans votre base de données Marketo Engage avec l’aide du mappage des champs. En savoir plus sur l’agent [ Importer des leads ](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}.
 
 ## Bientôt disponible {#coming-soon}
 
@@ -58,4 +58,4 @@ D’autres agents conçus pour gérer le travail le plus répétitif et le plus 
 
 >[!MORELIKETHIS]
 >
->Le [serveur Marketo Engage MCP](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=fr){target="_blank"} fait office de pont entre votre assistant d’IA et Marketo Engage.
+>Le [serveur Marketo Engage MCP](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"} fait office de pont entre votre assistant d’IA et Marketo Engage.
