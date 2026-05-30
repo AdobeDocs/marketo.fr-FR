@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: d63afbeaaa3c1299e73276e2be5d993f575b5fde
+source-git-commit: db3d673399917ad24559a88931972beaf4ea40a5
 workflow-type: tm+mt
-source-wordcount: 698
-ht-degree: 18%
+source-wordcount: 655
+ht-degree: 19%
 
 ---
 
@@ -74,8 +74,8 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   <tr>
    <td><strong>Gestion des listes de sélection</strong> : vous pouvez désormais spécifier les valeurs qui peuvent être utilisées dans les champs de Marketo Engage.
    </td>
-   <td><i>Bientôt disponible</i></td>
-   <td><i>Bientôt disponible</i></td>
+   <td>Libéré</td>
+   <td><a href="/help/marketo/product-docs/administration/field-management/picklist-management.md">Gestion des listes de sélection</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -83,7 +83,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat - Est en train de saisir </strong> : le visiteur et l’agent voient maintenant un message « est en train de saisir... » notification pendant que l'autre partie tape, empêchant l'une d'interrompre l'autre.
+   <td><strong>Dynamic Chat - Est en train de taper </strong> : désormais, le visiteur et l’agent voient tous deux une notification « est en train de taper... » pendant que l’autre partie tape, empêchant l’un d’interrompre l’autre.
    </td>
    <td>Libéré</td>
    <td>s/o</td>

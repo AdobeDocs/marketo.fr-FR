@@ -1,10 +1,9 @@
 ---
 description: Découvrez comment définir un ensemble fixe de valeurs pour un champ afin de simplifier la gestion des données et des workflows.
 title: Gestion des listes de sélection
-hide: true
 feature: Field Management
 exl-id: 2b75edbb-0ce3-495b-a245-dac2db9c0126
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+source-git-commit: db3d673399917ad24559a88931972beaf4ea40a5
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 0%
