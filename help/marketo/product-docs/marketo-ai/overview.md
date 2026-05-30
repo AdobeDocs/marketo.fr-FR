@@ -3,7 +3,7 @@ description: Explorez la suite d’agents Marketo AI conçue pour automatiser le
 title: Présentation de Marketo AI
 badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: d905e4b850d63e3ccf2517c0d2573314b7b8938b
+source-git-commit: 4f19245d55403bd99002de35e4ee226055b96c4d
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 2%
@@ -40,9 +40,9 @@ Dans le champ d’invite, cliquez sur **Commencer** (ou saisissez votre propre r
 
 La console centrale dispose d’un ensemble croissant d’agents disponibles pour vous aider à effectuer diverses tâches. Chaque agent est un assistant d’IA personnalisé avec lequel vous interagissez en langage naturel pour effectuer une tâche spécifique.
 
-### AQ du programme {#program-qa}
+### Valider les programmes {#validate-programs}
 
-L’assurance qualité du programme vérifie automatiquement votre configuration par rapport aux bonnes pratiques de Marketo et recherche les problèmes avant le lancement. En savoir plus sur l’[Agent de validation des programmes](/help/marketo/product-docs/marketo-ai/agents/validate-programs.md){target="_blank"}.
+L’option Valider les programmes vérifie automatiquement votre configuration par rapport aux bonnes pratiques de Marketo et recherche les problèmes avant le lancement. En savoir plus sur l’[Agent de validation des programmes](/help/marketo/product-docs/marketo-ai/agents/validate-programs.md){target="_blank"}.
 
 ### Importer les leads {#import-leads}
 
