@@ -3,7 +3,7 @@ description: Utilisez l’IA dédiée au Marketo pour créer un programme Market
 title: Créer des programmes
 badge: Beta
 hide: true
-source-git-commit: f2be5a29916b48fd0ba4932925aa4826b7f4ee7f
+source-git-commit: e055590a07ef9aa7cf6ebde42f6ea9f7420d7599
 workflow-type: tm+mt
 source-wordcount: '573'
 ht-degree: 1%
@@ -16,7 +16,7 @@ Décrivez une campagne marketing en langage clair et l’IA dédiée à Marketo 
 
 >[!PREREQUISITES]
 >
->* Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [&#x200B; Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
+>* Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [ Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
 >
 >* Vous devez disposer des autorisations nécessaires pour créer des programmes sur votre compte Marketo.
 
@@ -40,7 +40,7 @@ Décrivez une campagne marketing en langage clair et l’IA dédiée à Marketo 
 
 1. Vérifiez que les filtres de campagne intelligents et les étapes de flux correspondent à l’audience et à la logique prévus.
 
-1. Exécutez l’agent [Program QA](/help/marketo/product-docs/marketo-ai/agents/program-qa.md) avant l’activation.
+1. Exécutez l’agent [Valider les programmes](/help/marketo/product-docs/marketo-ai/agents/validate-programs.md) avant l’activation.
 
 ## Cas d’utilisation {#use-cases}
 
