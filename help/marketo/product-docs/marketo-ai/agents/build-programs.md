@@ -3,7 +3,7 @@ description: Utilisez l’IA dédiée au Marketo pour créer un programme Market
 title: Créer des programmes
 badge: Beta
 hide: true
-source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
+source-git-commit: c796ac842d937e9b05bc39bc36f3e5645ad68328
 workflow-type: tm+mt
 source-wordcount: '574'
 ht-degree: 1%
@@ -58,4 +58,4 @@ Décrivez une campagne marketing en langage clair et Marketo AI créera la struc
 * Aucun modèle ou formulaire n’est requis au préalable. L’IA dédiée à Marketo crée la structure et vous pouvez connecter les ressources par la suite (vous êtes toujours chargé de rédiger une copie d’e-mail et de configurer les pages de destination).
 * Marketo AI ne peut pas accéder automatiquement à vos listes d’audience existantes. Vous devez connecter les filtres de liste dynamique à vos segments réels une fois le programme créé.
 * Les programmes complexes à plusieurs étapes avec une logique de branchement avancée peuvent nécessiter un affinement manuel après leur création.
-* Si votre environnement Marketo utilise des conventions de nommage ou des structures de dossiers. Spécifiez-les dans votre mémoire afin que le programme soit créé au bon endroit.
+* Si votre environnement Marketo utilise des conventions de nommage ou des structures de dossiers, spécifiez-les dans votre résumé afin que le programme soit créé au bon endroit.
