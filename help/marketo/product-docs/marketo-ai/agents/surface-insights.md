@@ -3,9 +3,9 @@ description: Discutez avec l’IA dédiée au Marketo des données de performanc
 title: Informations sur la surface
 badge: Beta
 hide: true
-source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
+source-git-commit: 5b459e82e0a3bc9a335483b66ca975d39121d025
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '503'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ Les informations de surface vous permettent d’avoir une conversation sur vos d
 
 >[!PREREQUISITES]
 >
->* Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [&#x200B; Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
+>* Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [ Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
 >
 >* Vous devez avoir accès aux programmes et aux rapports sur lesquels vous vous renseignez.
 
@@ -48,4 +48,4 @@ Les informations de surface vous permettent d’avoir une conversation sur vos d
 * Des périodes très longues ou des questions générales peuvent renvoyer des résumés de haut niveau plutôt que des détails précis. Par exemple : « Comment tous mes programmes se sont-ils comportés au cours des deux dernières années ? »
 * L’IA dédiée aux Marketo peut faire apparaître des données, mais ne peut pas apporter de modifications à vos programmes ou rapports en fonction de ses découvertes.
 * Pour des rapports personnalisés détaillés avec des filtres et des répartitions spécifiques, les outils de rapports intégrés de Marketo ou une intégration de BI peuvent être plus appropriés.
-* L’attribution dans les campagnes multipoint nécessite une configuration de programme appropriée. L’IA dédiée au Marketo crée un rapport sur ce qui est suivi, et n’infère pas d’attribution qui n’a pas été configurée.
+* L’attribution dans les campagnes multipoint nécessite une configuration de programme appropriée. L’IA dédiée au Marketo crée des rapports sur les éléments suivis, et non sur l’attribution non configurée.
