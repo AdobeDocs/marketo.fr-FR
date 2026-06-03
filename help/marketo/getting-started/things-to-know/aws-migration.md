@@ -76,7 +76,7 @@ Avant de consulter le tableau ci-dessous, [découvrez comment identifier](/help/
    <td>17 h (heure du Pacifique)<br>
    18 h (heure du Pacifique)</td>
   </tr>
-  </body>
+  &lt;/body>
   </table>
 
 ## Mises à jour et assistance
