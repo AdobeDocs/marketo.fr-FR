@@ -16,7 +16,7 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: db3d673399917ad24559a88931972beaf4ea40a5
+source-git-commit: f5b235bda9063b8f54321fd62f2c9d5f4442c783
 workflow-type: tm+mt
 source-wordcount: 655
 ht-degree: 19%
@@ -54,7 +54,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   <tr>
    <td><strong>Serveur MCP Marketo Engage </strong> : le serveur MCP Marketo Engage fait office de pont entre votre assistant AI et Marketo Engage. Il expose plus de 100 opérations sur des formulaires, des programmes, des campagnes intelligentes, des personnes/prospects, des e-mails, des fragments de code, des listes et des dossiers.</td>
    <td>Disponibilité limitée (<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode">demander l'accès ici</a>)</td>
-   <td><a href="https://experienceleague.corp.adobe.com/docs/marketo-developer/marketo/mcp-server.html">Serveur MCP Marketo</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=fr">Serveur MCP Marketo</a></td>
   </tr>
   <tr>
    <td> </td>
