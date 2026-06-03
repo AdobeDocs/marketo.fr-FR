@@ -4,7 +4,7 @@ title: Migration d’AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 365a2c3767c8c3e3455361ac5c2a0e070796cbfa
+source-git-commit: 4a123d365c78c6c03858656c6ef954b55df4338f
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 1%
@@ -58,7 +58,7 @@ Avant de consulter le tableau ci-dessous, [découvrez comment identifier](/help/
    <th style="width:30%">Heure</th>
   </tr>
   <tr>
-   <td>5 Juin 2026</td>
+   <td>19 Juin 2026</td>
    <td>AB46</td>
    <td>17 h (heure du Pacifique)</td>
   </tr>
@@ -76,9 +76,9 @@ Avant de consulter le tableau ci-dessous, [découvrez comment identifier](/help/
    <td>17 h (heure du Pacifique)<br>
    18 h (heure du Pacifique)</td>
   </tr>
-  &lt;/body>
+  </body>
   </table>
 
 ## Mises à jour et assistance
 
-Pour connaître les dernières mises à jour, mettez un signet sur cette page. Pour toute question, contactez l’assistance Adobe via le portail d’assistance d’Admin Console ou [Experience League](https://experienceleague.adobe.com/fr/support).
+Pour connaître les dernières mises à jour, mettez un signet sur cette page. Pour toute question, contactez l’assistance Adobe via le portail d’assistance d’Admin Console ou [Experience League](https://experienceleague.adobe.com/en/support).
