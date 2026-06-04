@@ -15,9 +15,9 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: cc2b43cd0e963803d1998bd8438f066d74303e67
 workflow-type: tm+mt
-source-wordcount: 314
+source-wordcount: 338
 ht-degree: 1%
 
 ---
@@ -38,7 +38,7 @@ Une fois la [configuration initiale](/help/marketo/product-docs/demand-generatio
 
    >[!NOTE]
    >
-   >Si la mosaïque ne s’affiche pas, contactez votre administrateur Marketo.
+   >Si la mosaïque Dynamic Chat n’apparaît pas dans l’écran Mon Marketo, accédez à Dynamic Chat à partir du menu Application sur experience.adobe.com et connectez-vous à Marketo via **Configuration** > **Intégrations**. Une fois la connexion établie, la mosaïque s’affiche.
 
 1. Si vous avez déjà accédé à une application à l’aide d’une Adobe ID, vous accédez directement à Dynamic Chat. Dans le cas contraire, [configurez votre Adobe ID](https://helpx.adobe.com/fr/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 

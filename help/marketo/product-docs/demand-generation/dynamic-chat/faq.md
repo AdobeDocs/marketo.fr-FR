@@ -11,9 +11,9 @@ feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: cc2b43cd0e963803d1998bd8438f066d74303e67
 workflow-type: tm+mt
-source-wordcount: 922
+source-wordcount: 963
 ht-degree: 1%
 
 ---
@@ -29,6 +29,10 @@ Contactez votre administrateur Marketo Engage et vérifiez qu’il vous a [ajout
 **Puis-je installer Dynamic Chat n’importe où sur le site web de ma société ou est-ce que cela fonctionne uniquement sur les pages de destination de Marketo ?**
 
 Le fragment de code Dynamic Chat JavaScript peut être installé sur n’importe quel site web, ainsi que sur les pages de destination Marketo.
+
+**J’ai Dynamic Chat mais je ne vois pas de vignette Dynamic Chat dans Mon Marketo. Comment puis-je l&#39;obtenir ?**
+
+Accédez à Dynamic Chat à partir du menu Application sur experience.adobe.com et connectez-vous à Marketo via **Configuration** > **Intégrations**. Une fois la connexion établie, la mosaïque s’affiche.
 
 **Pendant combien de temps les données sont-elles stockées pour la création de rapports ?**
 
@@ -70,7 +74,7 @@ La limite de conversation engagée est réinitialisée le premier de chaque mois
 
 Les boîtes de dialogue sont conçues pour n’être affichées qu’une seule fois pour un visiteur. Ainsi, dès qu’un visiteur atteint la fin d’une branche donnée dans une boîte de dialogue, celle-ci est considérée comme terminée et ne lui sera plus jamais présentée.
 
-**Lorsque je clique sur la mosaïque Dynamic Chat dans Mon Marketo et que je me connecte à Adobe Experience Cloud, pourquoi est-ce que j’obtiens le message suivant ? « _Il semble que votre Adobe ID ne soit pas lié à vos comptes de solution Adobe Experience Cloud_.«**
+**Lorsque je clique sur la mosaïque Dynamic Chat dans My Marketo et que je me connecte à Adobe Experience Cloud, pourquoi est-ce que j’obtiens le message suivant ? « _Il semble que votre Adobe ID ne soit pas lié à vos comptes de solution Adobe Experience Cloud_.«**
 
 Cela indique probablement que vous n’avez pas été ajouté en tant qu’utilisateur Dynamic Chat dans le Adobe Admin Console. Contactez un administrateur système pour votre organisation Adobe ou un administrateur produit pour Dynamic Chat pour demander l’accès à Dynamic Chat.
 
