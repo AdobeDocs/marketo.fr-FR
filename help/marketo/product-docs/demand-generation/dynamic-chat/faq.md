@@ -4,16 +4,12 @@ title: FAQ sur Dynamic Chat
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
 TQID: https://experienceleague.adobe.com/IpAD0KUETdl3o4UTUS-PBWhtCTY1N7k83qeyGkKnan8
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: cc2b43cd0e963803d1998bd8438f066d74303e67
 workflow-type: tm+mt
-source-wordcount: 922
+source-wordcount: 963
 ht-degree: 1%
 
 ---
@@ -30,11 +26,15 @@ Contactez votre administrateur Marketo Engage et vérifiez qu’il vous a [ajout
 
 Le fragment de code Dynamic Chat JavaScript peut être installé sur n’importe quel site web, ainsi que sur les pages de destination Marketo.
 
+**J’ai Dynamic Chat mais je ne vois pas de vignette Dynamic Chat dans Mon Marketo. Comment puis-je l&#39;obtenir ?**
+
+Accédez à Dynamic Chat à partir du menu Application sur experience.adobe.com et connectez-vous à Marketo via **Configuration** > **Intégrations**. Une fois la connexion établie, la mosaïque s’affiche.
+
 **Pendant combien de temps les données sont-elles stockées pour la création de rapports ?**
 
 90 jours. Pour obtenir la liste complète des limites/paramètres, reportez-vous à la page Marketo Engage [Description du produit](https://helpx.adobe.com/fr/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
 
-Dynamic Chat prend-il en charge d’autres langues que l’anglais ?**&#x200B;**
+Dynamic Chat prend-il en charge d’autres langues que l’anglais ?****
 
 Oui. Dynamic Chat prend en charge les langues suivantes : français, espagnol, allemand, japonais, néerlandais, italien, portugais brésilien, coréen, chinois simplifié et chinois traditionnel. En savoir plus dans [Modification de la langue](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#changing-the-language){target="_blank"}.
 
@@ -70,7 +70,7 @@ La limite de conversation engagée est réinitialisée le premier de chaque mois
 
 Les boîtes de dialogue sont conçues pour n’être affichées qu’une seule fois pour un visiteur. Ainsi, dès qu’un visiteur atteint la fin d’une branche donnée dans une boîte de dialogue, celle-ci est considérée comme terminée et ne lui sera plus jamais présentée.
 
-**Lorsque je clique sur la mosaïque Dynamic Chat dans Mon Marketo et que je me connecte à Adobe Experience Cloud, pourquoi est-ce que j’obtiens le message suivant ? « _Il semble que votre Adobe ID ne soit pas lié à vos comptes de solution Adobe Experience Cloud_.«**
+**Lorsque je clique sur la mosaïque Dynamic Chat dans My Marketo et que je me connecte à Adobe Experience Cloud, pourquoi est-ce que j’obtiens le message suivant ? « _Il semble que votre Adobe ID ne soit pas lié à vos comptes de solution Adobe Experience Cloud_.«**
 
 Cela indique probablement que vous n’avez pas été ajouté en tant qu’utilisateur Dynamic Chat dans le Adobe Admin Console. Contactez un administrateur système pour votre organisation Adobe ou un administrateur produit pour Dynamic Chat pour demander l’accès à Dynamic Chat.
 
@@ -82,7 +82,7 @@ Les transcriptions Dynamic Chat sont accessibles pour tout prospect connu qui a 
 
 Il n’existe actuellement aucun moyen systématique de relancer une conversation ou de revenir à un point précédent, mais celui-ci se trouve sur la feuille de route de Dynamic Chat.
 
-Dynamic Chat s’intègre-t-il à Salesforce ?**&#x200B;**
+Dynamic Chat s’intègre-t-il à Salesforce ?****
 
 Dynamic Chat s’intègre à Salesforce via l’intégration de Marketo Engage Salesforce.
 
