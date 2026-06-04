@@ -5,7 +5,8 @@ title: Activer la synchronisation des objets personnalisés dans des langues aut
 exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/kPzDEdjDnDAvuJmCtPj0I2Lfl63Lset00t-LwB8DDhI
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: 67c57a9162946c4b9c424ab3fd445b70e90b530a
 workflow-type: tm+mt
 source-wordcount: 195
@@ -45,7 +46,7 @@ Si votre utilisateur de synchronisation Marketo est défini sur une langue autre
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. Dans votre [profil de compte ](https://account.adobe.com/profile){target="_blank"}, faites défiler l’écran jusqu’à **[!UICONTROL Langues préférées]** et assurez-vous que la langue maternelle est l’anglais.
+1. Dans votre [profil de compte &#x200B;](https://account.adobe.com/profile){target="_blank"}, faites défiler l’écran jusqu’à **[!UICONTROL Langues préférées]** et assurez-vous que la langue maternelle est l’anglais.
 
    ![](assets/enable-non-english-custom-object-sync-step-6.5.png)
 
