@@ -11,10 +11,10 @@ feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 854fee409fb55c8f611ee85225bea6ab77036dff
+source-git-commit: d8620eadc64a918d1932739ca1794d5030cc4941
 workflow-type: tm+mt
-source-wordcount: 160
-ht-degree: 79%
+source-wordcount: 165
+ht-degree: 76%
 
 ---
 
@@ -57,15 +57,15 @@ _Les dates de publication et les fonctionnalités sont susceptibles d’être mo
   <tr>
   <td><a href="/help/marketo/release-notes/current.md">Mai 2026</a></td>
    <td>22 Mai 2026</td>
-   <td>En cours</td>
+   <td>Terminée</td>
   </tr>
   <tr>
-  <td>26 juin</td>
-   <td>26 Juin 2026</td>
+  <td>Juillet '26 (1 de 2)</td>
+   <td>10 Juillet 2026</td>
    <td>Prévu</td>
   </tr>
   <tr>
-  <td>26 juillet</td>
+  <td>Juillet '26 (2 de 2)</td>
    <td>31 juillet 2026</td>
    <td>Prévu</td>
   </tr>
