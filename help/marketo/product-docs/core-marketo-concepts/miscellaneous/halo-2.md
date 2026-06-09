@@ -38,7 +38,7 @@ Un CSV d’audience prêt à être chargé. (Téléchargez un exemple de fichier
 Une idée claire de l’objectif de votre campagne, par exemple, « reconquérir les clients obsolètes », « inviter des utilisateurs en version d’essai à un webinaire ».
 
 Conseil : si vous êtes un débutant dans l’écriture d’invites pour les campagnes marketing, prenez deux minutes pour parcourir le Halo des invites - bonnes pratiques avant de commencer. Ça va aiguiser tout ce qui suit.
-[FOR KEITH : Nous devrons créer ce document supplémentaire, qui sera basé sur une combinaison de :
+&lbrack;FOR KEITH : Nous devrons créer ce document supplémentaire, qui sera basé sur une combinaison de :
 
 1. Générer du contenu AJO / méthodes d’invite (sections applicables :
 
@@ -50,7 +50,7 @@ Rédiger des objectifs efficaces
 
 Ignorer les éléments spécifiques au contenu)
 
-2. Journey Agent (sections applicables : dans les sections de portée et hors de portée, nous devrons ajouter quelque chose comme ceci)
+&#x200B;2. Journey Agent (sections applicables : dans les sections de portée et hors de portée, nous devrons ajouter quelque chose comme ceci)
 
 Forme
 
@@ -104,10 +104,10 @@ Forme
 
 Étape 4 : Ajouter un résumé et des documents de référence
 
-[FOR KEITH : expliquez comment joindre un résumé, des documents de référence de marque ou un autre contexte. Couverture : - Types de fichiers pris en charge. - la manière dont Halo utilise ces informations (extraites dans le contexte de l’invite, appliquées à la génération de contenu, etc.) ; - Limites de taille de fichier, le cas échéant
+&lbrack;FOR KEITH : expliquez comment joindre un résumé, des documents de référence de marque ou un autre contexte. Couverture : - Types de fichiers pris en charge. - la manière dont Halo utilise ces informations (extraites dans le contexte de l’invite, appliquées à la génération de contenu, etc.) ; - Limites de taille de fichier, le cas échéant
 
 Voici une analyse approfondie de ma session au Summit, où je passe en revue ce qui suit : https://business.adobe.com/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
-Limites - Je peux vous mettre en relation avec l&#39;engg - Neha Pullabhotla, qui pourra nous aider sur les détails ici. ]
+Limites - Je peux vous mettre en relation avec l&#39;engg - Neha Pullabhotla, qui pourra nous aider sur les détails ici. &rbrack;
 
 [CAPTURE D’ÉCRAN : interface utilisateur de pièce jointe de résumé/référence]
 
@@ -181,14 +181,14 @@ Forme
 
 Questions courantes
 
-[FOR KEITH : 4-6 FAQ basées sur les premiers commentaires des utilisateurs. Suggestions de démarrage - pour discuter avec notre équipe Engg :
+&lbrack;FOR KEITH : 4-6 FAQ basées sur les premiers commentaires des utilisateurs. Suggestions de démarrage - pour discuter avec notre équipe Engg :
 - « Pourquoi la première réponse prend-elle autant de temps ?
 - « Et si la sortie de Halo n&#39;est pas tout à fait correcte ? »
 - « Puis-je modifier les e-mails directement ou uniquement par chat ? »
 - « Comment enregistrer une campagne sans la lancer ? »
 - « Que se passe-t-il si mon fichier CSV d’audience comporte des erreurs ? »
 - « Puis-je dupliquer ou remixer une campagne ? »
-- « Comment partager un brouillon de campagne avec un coéquipier pour révision ? »]
+- « Comment partager un brouillon de campagne avec un coéquipier pour révision ? »&rbrack;
 
 Forme
 
