@@ -1,9 +1,9 @@
 ---
-description: À déterminer.
+description: Guide détaillé sur la création d’une campagne par e-mail dans CX Enterprise Coworker, de la rédaction d’invites à la révision et l’exportation de votre campagne.
 title: Créer et générer des campagnes par e-mail
-source-git-commit: 69965ea0c32f61bf749fa6fc655854dcca7674b9
+source-git-commit: b58edb707bf68aeed9f1b5eba8328c54a95c5a2f
 workflow-type: tm+mt
-source-wordcount: '1157'
+source-wordcount: '1179'
 ht-degree: 0%
 
 ---
