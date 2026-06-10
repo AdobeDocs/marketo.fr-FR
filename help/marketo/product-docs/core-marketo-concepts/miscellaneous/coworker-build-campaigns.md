@@ -1,9 +1,9 @@
 ---
-description: À déterminer.
+description: Guide détaillé sur la création d’une campagne par e-mail dans CX Enterprise Coworker, de la rédaction d’invites à la révision et l’exportation de votre campagne.
 title: Créer et générer des campagnes par e-mail
-source-git-commit: 69965ea0c32f61bf749fa6fc655854dcca7674b9
+source-git-commit: b58edb707bf68aeed9f1b5eba8328c54a95c5a2f
 workflow-type: tm+mt
-source-wordcount: '1157'
+source-wordcount: '1179'
 ht-degree: 0%
 
 ---
@@ -73,10 +73,10 @@ Exemple :
 
 ## Étape 4 : Ajouter un résumé et des documents de référence
 
-&lbrack;FOR KEITH : expliquez comment joindre un résumé, des documents de référence de marque ou un autre contexte. Couverture : - Types de fichiers pris en charge. - Comment CX Enterprise Coworker utilise ces informations (extraites dans le contexte de l&#39;invite, appliquées à la génération de contenu, etc.) - Limites de taille de fichier, le cas échéant
+[FOR KEITH : expliquez comment joindre un résumé, des documents de référence de marque ou un autre contexte. Couverture : - Types de fichiers pris en charge. - Comment CX Enterprise Coworker utilise ces informations (extraites dans le contexte de l&#39;invite, appliquées à la génération de contenu, etc.) - Limites de taille de fichier, le cas échéant
 
-Voici une analyse approfondie de ma session au Summit, où je passe en revue ce qui suit : https://business.adobe.com/fr/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
-Limites - Je peux vous mettre en relation avec l&#39;engg - Neha Pullabhotla, qui pourra nous aider sur les détails ici. &rbrack;
+Voici une analyse approfondie de ma session au Summit, où je passe en revue ce qui suit : https://business.adobe.com/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
+Limites - Je peux vous mettre en relation avec l&#39;engg - Neha Pullabhotla, qui pourra nous aider sur les détails ici. ]
 
 [CAPTURE D’ÉCRAN : interface utilisateur de pièce jointe de résumé/référence]
 
@@ -133,11 +133,11 @@ Lorsque vous êtes satisfait(e) de la campagne, vous disposez de quelques option
 
 ## Questions courantes
 
-&lbrack;FOR KEITH : 4-6 FAQ basées sur les premiers commentaires des utilisateurs. Suggestions de démarrage - pour discuter avec notre équipe Eng :
+[FOR KEITH : 4-6 FAQ basées sur les premiers commentaires des utilisateurs. Suggestions de démarrage - pour discuter avec notre équipe Eng :
 * « Pourquoi la première réponse prend-elle autant de temps ?
 * « Et si la sortie de CX Enterprise Coworker n&#39;est pas tout à fait correcte ? »
 * « Puis-je modifier les e-mails directement ou uniquement par chat ? »
 * « Comment enregistrer une campagne sans la lancer ? »
 * « Que se passe-t-il si mon fichier CSV d’audience comporte des erreurs ? »
 * « Puis-je dupliquer ou remixer une campagne ? »
-* « Comment partager un brouillon de campagne avec un coéquipier pour révision ? »&rbrack;
+* « Comment partager un brouillon de campagne avec un coéquipier pour révision ? »]
