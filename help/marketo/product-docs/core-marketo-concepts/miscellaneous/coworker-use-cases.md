@@ -1,16 +1,16 @@
 ---
 description: Parcourez les modèles d’invite réels pour CX Enterprise Coworker, organisés par cas d’utilisation dans les campagnes d’acquisition, d’engagement, d’événements, de conversion et de rétention.
 title: Cas d’utilisation
-source-git-commit: 69965ea0c32f61bf749fa6fc655854dcca7674b9
+source-git-commit: 1d7b5e3c4c5ca34c10934a659ac9025d2a27c95d
 workflow-type: tm+mt
-source-wordcount: '526'
+source-wordcount: '525'
 ht-degree: 1%
 
 ---
 
 # Cas d’utilisation {#use-cases}
 
-Vous trouverez ci-dessous les modèles d’invite réels que les spécialistes du marketing du cycle de vie et de la croissance utilisent aujourd’hui dans CX Enterprise Coworker. Chacune est conçue pour être copiée, échangée avec vos propres détails d’audience et de marque, et affinée dans la conversation.
+Vous trouverez ci-dessous des modèles d’invite réels que les spécialistes du marketing du cycle de vie et de la croissance utilisent dans CX Enterprise Coworker. Chacune est conçue pour être copiée, échangée avec vos propres détails d’audience et de marque, et affinée dans la conversation.
 
 ## Utilisation
 
