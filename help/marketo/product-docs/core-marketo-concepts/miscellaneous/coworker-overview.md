@@ -1,9 +1,9 @@
 ---
 description: Découvrez CX Enterprise Coworker, une application marketing native IA qui transforme une invite unique en une campagne prête pour la révision.
 title: Présentation du collaborateur d’entreprise CX
-source-git-commit: 8750337464744e2684bef91d70caa4abcefdcc8c
+source-git-commit: 279805c50fd1b2d9d36e5e093f1c9d661ad00461
 workflow-type: tm+mt
-source-wordcount: '835'
+source-wordcount: '847'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,9 @@ CX Enterprise Coworker est une application marketing native de l’IA qui vous f
 
 ## Comment y accéder
 
->[!AVAILABILITY]
+>[!NOTE]
 >
->CX Enterprise Coworker est disponible en version d’essai gratuite jusqu’au 30 septembre 2026.
+>CX Enterprise Coworker est disponible en version d’essai gratuite jusqu’au 30 septembre 2026. Pendant la période d’évaluation, toutes les ressources et activités sont spécifiques à l’utilisateur.
 
 1. Accédez à coworker-essentials.experience.adobe.com.
 
