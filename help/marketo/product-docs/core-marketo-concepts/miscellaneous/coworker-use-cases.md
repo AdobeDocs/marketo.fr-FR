@@ -1,9 +1,9 @@
 ---
 description: Parcourez les modèles d’invite réels pour CX Enterprise Coworker, organisés par cas d’utilisation dans les campagnes d’acquisition, d’engagement, d’événements, de conversion et de rétention.
 title: Cas d’utilisation
-source-git-commit: 1d7b5e3c4c5ca34c10934a659ac9025d2a27c95d
+source-git-commit: e72cf50e03dcf225a47872dc5ade976d46445c86
 workflow-type: tm+mt
-source-wordcount: '525'
+source-wordcount: '503'
 ht-degree: 1%
 
 ---
@@ -24,33 +24,25 @@ Accueillir de nouveaux clients, membres ou comptes et les configurer pour un eng
 
 Idéal pour : activation de compte d’entreprise, nouvelles inscriptions au SaaS, remises après vente.
 
-```
-"Create a guided onboarding email series for new enterprise accounts. Include a welcome email, a setup walkthrough, and a check-in from a customer success contact. Use the CSV I uploaded and personalize by first name and company name."
-```
+`"Create a guided onboarding email series for new enterprise accounts. Include a welcome email, a setup walkthrough, and a check-in from a customer success contact. Use the CSV I uploaded and personalize by first name and company name."`
 
 ### Intégration d’un nouveau membre, B2C
 
 Idéal pour : programmes d’abonnement, inscriptions aux applications, programmes de fidélité.
 
-```
-"Create a marketing campaign to onboard new members with a welcome email series that introduces key features, provides getting-started guides, and offers personalized recommendations based on their interests."
-```
+`"Create a marketing campaign to onboard new members with a welcome email series that introduces key features, provides getting-started guides, and offers personalized recommendations based on their interests."`
 
 ### Séquence d’introduction à la marque, B2C
 
 Idéal pour : nouveaux acheteurs, nouveaux abonnés à une newsletter, suivi après inscription.
 
-```
-"Create a single-touch follow-up email introducing our brand, what we sell, and how to place a first order. Use a CSV list, and personalize by first name and company name."
-```
+`"Create a single-touch follow-up email introducing our brand, what we sell, and how to place a first order. Use a CSV list, and personalize by first name and company name."`
 
 ### Nouveau parcours d’intégration des fans, B2C (sports et divertissement)
 
 Idéal pour : les nouveaux acheteurs de billets, les nouveaux détenteurs de billets de saison, l&#39;activation des fans après achat.
 
-```
-"Create a 4-email post-purchase journey to onboard first-time fans and drive repeat attendance."
-```
+`"Create a 4-email post-purchase journey to onboard first-time fans and drive repeat attendance."`
 
 ## Engagement et éducation
 
@@ -60,33 +52,25 @@ Maintenez votre audience informée, éduquée et connectée entre les moments cl
 
 Idéal pour : fidélisation des clients, sensibilisation aux produits, leadership éclairé.
 
-```
-"Create a monthly newsletter for our customers. Use the CSV I uploaded. Include product updates, industry insights, and a resource, with simple CTAs."
-```
+`"Create a monthly newsletter for our customers. Use the CSV I uploaded. Include product updates, industry insights, and a resource, with simple CTAs."`
 
 ### Newsletter mensuelle, B2C
 
 Idéal pour : les marques de vente au détail, de style de vie et de commerce électronique.
 
-```
-"Create a monthly newsletter for our customers. Highlight new products, inspiration ideas, and a featured collection with CTAs."
-```
+`"Create a monthly newsletter for our customers. Highlight new products, inspiration ideas, and a featured collection with CTAs."`
 
 ### Série de conseils sur les produits, B2B
 
 Idéal pour : formation sur les produits, adoption des fonctionnalités, réduction du délai de rentabilisation.
 
-```
-"Generate an educational 2-touch email nurture that helps users get more value from this product with simple tips. Use a CSV uploaded list and personalize by first name, product used, and signup date."
-```
+`"Generate an educational 2-touch email nurture that helps users get more value from this product with simple tips. Use a CSV uploaded list and personalize by first name, product used, and signup date."`
 
 ### Lancement saisonnier du catalogue, B2C
 
 Idéal pour : notifications push saisonnières de vente au détail, pertes de collection, moments de rafraîchissement.
 
-```
-"Build a 2-touch email series, 3 days apart, announcing our new seasonal catalog. Highlight what's new and relevant for buyers in my CSV list. Personalize content to each person's first name, product interest category, and region."
-```
+`"Build a 2-touch email series, 3 days apart, announcing our new seasonal catalog. Highlight what's new and relevant for buyers in my CSV list. Personalize content to each person's first name, product interest category, and region."`
 
 ## Les événements et les moments
 
@@ -96,41 +80,31 @@ Organisez l’inscription, l’assiduité et le suivi autour des webinaires, des
 
 Idéal pour : génération de leads, formation sur les produits, leadership de la pensée.
 
-```
-"Create a webinar invite about [TOPIC]. I need one invite email and one reminder email with a clear registration CTA."
-```
+`"Create a webinar invite about [TOPIC]. I need one invite email and one reminder email with a clear registration CTA."`
 
 ### Campagne de suivi du webinaire, B2B
 
 Idéal pour : conservation après événement, conversion MQL, distribution de contenu.
 
-```
-"Create a webinar follow-up campaign for customers who attended a webinar about [TOPIC]. Include a strong CTA."
-```
+`"Create a webinar follow-up campaign for customers who attended a webinar about [TOPIC]. Include a strong CTA."`
 
 ### Annonce de produit, B2B et B2C
 
 Idéal pour : lancements, accès anticipé, révélations de nouvelles fonctionnalités.
 
-```
-"Create a product announcement campaign for our [PRODUCT NAME] launch. Build an early-access invitation and a launch-day email."
-```
+`"Create a product announcement campaign for our [PRODUCT NAME] launch. Build an early-access invitation and a launch-day email."`
 
 ### Événement thématique ou push de ticket, B2C (sports et divertissement)
 
 Idéal pour : vente de billets pour une seule partie, soirées à thème, événements spéciaux.
 
-```
-"Create a 2-touch email campaign to drive ticket sales for a themed home game event."
-```
+`"Create a 2-touch email campaign to drive ticket sales for a themed home game event."`
 
 ### À savoir avant de partir + tuning, B2C (Sports et divertissement)
 
 Idéal pour : préparation des fans le jour du match ou de l’événement.
 
-```
-"Create a 3-touch moment-driven campaign to maximize attendance and fan readiness around game day."
-```
+`"Create a 3-touch moment-driven campaign to maximize attendance and fan readiness around game day."`
 
 ## Conversion et montée en gamme
 
@@ -140,33 +114,25 @@ Déplacez les audiences d’un intérêt à l’autre ou d’un niveau à l’au
 
 Idéal pour : utilisateurs d&#39;essai SaaS, mises à niveau gratuites, activation post-essai.
 
-```
-"Generate a campaign to target users whose trial has ended but are still active in the app, offering them a special incentive to convert to a paid plan."
-```
+`"Generate a campaign to target users whose trial has ended but are still active in the app, offering them a special incentive to convert to a paid plan."`
 
 ### Réorganiser le nudge, B2C
 
 Idéal pour : consommables, catégories de réapprovisionnement, cycles d&#39;achat répétés.
 
-```
-"Give me a 1-step reorder reminder email that nudges purchasers to restock based on typical buying cycles. Use my CSV list with each purchaser's first name, last order date, and product last purchased to tailor the content."
-```
+`"Give me a 1-step reorder reminder email that nudges purchasers to restock based on typical buying cycles. Use my CSV list with each purchaser's first name, last order date, and product last purchased to tailor the content."`
 
 ### Premium expérience de montée en gamme, B2C (sports et divertissement)
 
 Idéal pour : mettre à niveau les détenteurs de billets standard vers les niveaux Premium.
 
-```
-"Create a personalized 3-email campaign to move fans from standard tickets into premium tiers."
-```
+`"Create a personalized 3-email campaign to move fans from standard tickets into premium tiers."`
 
 ### Intégration de l’abonnement de saison, B2C (sports et divertissement)
 
 Idéal pour : activation de billets de saison, abonnements premium, accueil personnalisé par segment.
 
-```
-"Create a 4-email welcome series for new season plan holders with segment-personalized benefits."
-```
+`"Create a 4-email welcome series for new season plan holders with segment-personalized benefits."`
 
 ## Rétention et réengagement
 
@@ -176,28 +142,20 @@ Récupérez les audiences qui ont dérivé et réactivez les segments inactifs.
 
 Idéal pour : clients périmés, acheteurs inactifs, réactivation saisonnière.
 
-```
-"Create a win-back email series for customers who bought last year but haven't come back. Use the CSV I uploaded. Include 2-3 emails that feel seasonal and remind them to shop again."
-```
+`"Create a win-back email series for customers who bought last year but haven't come back. Use the CSV I uploaded. Include 2-3 emails that feel seasonal and remind them to shop again."`
 
 ### Réengagement des fans périmé, B2C (sports et divertissement)
 
 Idéal pour : abonnés inactifs, détenteurs d&#39;abonnements de saison périmés, conversion en un seul match.
 
-```
-"Create a 3-email win-back campaign to convert lapsed fans into single-game ticket buyers."
-```
+`"Create a 3-email win-back campaign to convert lapsed fans into single-game ticket buyers."`
 
 ### Campagne de reconquête générale, B2B et B2C
 
 Idéal pour : toute audience qui s’est arrêtée.
 
-```
-"Create a win-back campaign targeting inactive guests who haven't engaged recently. Highlight what's new and offer special incentives to re-engage."
-```
+`"Create a win-back campaign targeting inactive guests who haven't engaged recently. Highlight what's new and offer special incentives to re-engage."`
 
 ## Prêt pour la création ?
 
 Sélectionnez un cas d’utilisation ci-dessus, consultez _Créer et générer des campagnes_ pour obtenir une description détaillée, puis essayez.
-
-[FOR KEITH : Facultatif, ajoutez une bannière ou un bouton CTA : « Démarrez une nouvelle conversation dans CX Enterprise Coworker » avec un lien vers l’application.]

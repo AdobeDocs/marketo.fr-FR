@@ -1,9 +1,9 @@
 ---
 description: Découvrez CX Enterprise Coworker, une application marketing native IA qui transforme une invite unique en une campagne prête pour la révision.
 title: Présentation du collaborateur d’entreprise CX
-source-git-commit: 1d7b5e3c4c5ca34c10934a659ac9025d2a27c95d
+source-git-commit: e7f73f63bed1158a734d0905ec3e93c247936741
 workflow-type: tm+mt
-source-wordcount: '856'
+source-wordcount: '836'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ CX Enterprise Coworker est une application marketing native à l’IA qui vous f
 
 1. (Facultatif) Chargez un modèle d’e-mail HTML sous **Modèles d’e-mail** pour que le collaborateur d’entreprise CX applique votre conception lors de la génération du contenu.
 
-[CAPTURE D’ÉCRAN : Connexion/écran de bienvenue pour la version d’essai de CX Enterprise Coworker]
+   ![Écran de bienvenue pour la version d’essai de CX Enterprise Coworker](assets/overview-1.png)
 
 Vous êtes prêt à générer votre première campagne.
 
@@ -40,7 +40,7 @@ Vous êtes prêt à générer votre première campagne.
 
 L’interface CX Enterprise Coworker est organisée autour d’un volet de navigation de gauche.
 
-[CAPTURE D’ÉCRAN : écran d’accueil annoté affichant le volet de navigation de gauche (Nouveau chat, Accueil, Chats, Campagnes, Vos affaires, Personnaliser) et la zone d’invite centrale]
+![Écran d’accueil](assets/overview-2.gif)
 
 | Section | Objectif |
 |---|---|
