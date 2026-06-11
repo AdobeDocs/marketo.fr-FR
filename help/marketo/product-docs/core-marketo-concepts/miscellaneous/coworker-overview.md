@@ -1,16 +1,16 @@
 ---
 description: Découvrez CX Enterprise Coworker, une application marketing native IA qui transforme une invite unique en une campagne prête pour la révision.
 title: Présentation du collaborateur d’entreprise CX
-source-git-commit: e7f73f63bed1158a734d0905ec3e93c247936741
+source-git-commit: 8750337464744e2684bef91d70caa4abcefdcc8c
 workflow-type: tm+mt
-source-wordcount: '836'
+source-wordcount: '835'
 ht-degree: 0%
 
 ---
 
 # Présentation du collaborateur d’entreprise CX {#overview}
 
-CX Enterprise Coworker est une application marketing native à l’IA qui vous fait passer d’une invite unique à une campagne prête pour la révision en quelques minutes.
+CX Enterprise Coworker est une application marketing native de l’IA qui vous fait passer d’une simple invite à une campagne complète prête pour la révision.
 
 ## Comment y accéder
 
