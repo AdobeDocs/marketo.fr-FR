@@ -1,9 +1,9 @@
 ---
 description: Guide détaillé sur la création d’une campagne par e-mail dans CX Enterprise Coworker, de la rédaction d’invites à la révision et l’exportation de votre campagne.
 title: Créer et générer des campagnes par e-mail
-source-git-commit: e72cf50e03dcf225a47872dc5ade976d46445c86
+source-git-commit: 8750337464744e2684bef91d70caa4abcefdcc8c
 workflow-type: tm+mt
-source-wordcount: '1181'
+source-wordcount: '1165'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Découvrez comment créer et examiner des campagnes par e-mail complètes en que
 
 Vérifiez que vous disposez des éléments suivants :
 
-* Un compte CX Enterprise Coworker actif ([inscrivez-vous ici](https://coworker-essentials.experience.adobe.com/) si ce n&#39;est pas déjà fait).
+* Un compte CX Enterprise Coworker actif ([inscrivez-vous ici](https://coworker-essentials.experience.adobe.com/){target="_blank"} si ce n&#39;est pas déjà fait).
 
 * La configuration de votre marque sous **Vos affaires** > **Marques**.
 
@@ -26,25 +26,27 @@ Vérifiez que vous disposez des éléments suivants :
 
 * Une idée claire de l’objectif de votre campagne (par exemple, « reconquérir les clients obsolètes » ou « inviter des utilisateurs en évaluation à un webinaire »).
 
->[!TIP]
->
->Si vous êtes un débutant dans l’écriture d’invites pour les campagnes marketing, prenez deux minutes pour passer en revue _Inviter un collègue d’entreprise CX : bonnes pratiques_ avant de commencer.
-
 ## Étape 1 : démarrer une nouvelle conversation
 
 Depuis la page d’accueil d’, vous pouvez commencer de trois façons :
 
-* Saisissez une invite dans la barre d&#39;invite centrale.
-* Sélectionnez un modèle de campagne prêt à l’emploi dans la section des modèles située sous la barre d’invite.
-* Utilisez l&#39;option « m&#39;aider à m&#39;inviter » dans la liste déroulante de la barre d&#39;invite pour que CX Enterprise Coworker vous guide tout au long de la rédaction de votre invite.
+**Option 1** : Saisissez une invite dans la barre d’invite centrale.
+
+_Quand l’utiliser : quand vous savez exactement ce que vous voulez._
+
+Option 2 : choisissez un modèle prêt à l’emploi dans la section **Modèles de campagne** située sous la barre d’invite.
+
+_Quand l’utiliser : quand vous ne savez pas par où commencer._
+
+Option trois : utilisez l&#39;option « Aide-moi à m&#39;inviter » dans le menu déroulant de la barre d&#39;invite pour que CX Enterprise Coworker vous guide tout au long de la rédaction de votre invite.
+
+_Quand l’utiliser : si vous avez une idée de ce que vous souhaitez, mais que vous souhaitez un peu d’aide._
 
 [CAPTURE D’ÉCRAN : page d’accueil avec barre d’invite, ligne de modèle et option « m’aider à demander » mises en surbrillance]
 
 ![](assets/generate-email-campaigns-.png)
 
-[FOR KEITH : brève description de chaque option et quand l’utiliser. Recommandez des modèles pour les primo-accédants, des invites à structure libre pour les marketeurs qui savent ce qu&#39;ils veulent et « aidez-moi à m&#39;inviter » pour toute personne entre les deux.]
-
-## Étape 2 : Rédiger votre invite
+## Étape 2 : créer votre invite
 
 Une forte invite de collaborateur d’entreprise CX inclut :
 
@@ -55,11 +57,13 @@ Une forte invite de collaborateur d’entreprise CX inclut :
 
 Exemple :
 
-```
-"Create a win-back email series for customers who bought last year but haven't returned. Use the CSV I uploaded. Include 2–3 emails that feel seasonal and remind them to shop again."
-```
+<pre style="white-space: pre-wrap;">
+« Créez une série d’e-mails de reconquête pour les clients qui ont acheté l’année dernière, mais qui ne sont pas revenus. Utilisez le fichier CSV que vous avez chargé. Incluez 2 à 3 e-mails qui semblent saisonniers et rappelez-leur de faire à nouveau leurs achats. »
+</pre>
 
-[FOR KEITH : peut ajouter 2 à 3 exemples rapides supplémentaires couvrant B2B et B2C pour donner de la variété. Extrayez des cas d’utilisation de notre document de collection à des fins de cohérence.]
+>[!TIP]
+>
+>Pour consulter d’autres exemples, voir l’article _Cas d’utilisation_.
 
 [CAPTURE D’ÉCRAN : barre d’invite avec exemple d’invite saisie]
 
@@ -116,7 +120,7 @@ L&#39;interface conversationnelle rend le raffinement simple. Pour apporter des 
 
 [FOR KEITH : Découvrir comment apporter des modifications par chat et par édition directe. Expliquez comment les artefacts sont mis à jour. Mentionnez qu’il n’existe aucune possibilité d’ajouter d’autres nœuds au workflow via l’éditeur, et qu’il n’existe actuellement aucun contrôle de version. Pour de meilleurs résultats, nous les encourageons également à demander toute modification de leur workflow global dès le début de la création de leur plan]
 
-[CAPTURE D’ÉCRAN : amélioration de la conversation en action — afficher un avant et un après d’un e-mail après une demande de conversation]
+[CAPTURE D’ÉCRAN : raffinement conversationnel en action : afficher un avant et un après-après d’un e-mail après une demande de conversation]
 
 ![](assets/generate-email-campaigns-.png)
 
