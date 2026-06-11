@@ -81,7 +81,7 @@ Exemple :
 
 &lbrack;FOR KEITH : expliquez comment joindre un résumé, des documents de référence de marque ou un autre contexte. Couverture : - Types de fichiers pris en charge. - Comment CX Enterprise Coworker utilise ces informations (extraites dans le contexte de l&#39;invite, appliquées à la génération de contenu, etc.) - Limites de taille de fichier, le cas échéant
 
-Voici une analyse approfondie de ma session au Summit, où je passe en revue ce qui suit : https://business.adobe.com/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
+Voici une analyse approfondie de ma session au Summit, où je passe en revue ce qui suit : https://business.adobe.com/fr/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
 Limites - Je peux vous mettre en relation avec l&#39;engg - Neha Pullabhotla, qui pourra nous aider sur les détails ici. &rbrack;
 
 [CAPTURE D’ÉCRAN : interface utilisateur de pièce jointe de résumé/référence]
