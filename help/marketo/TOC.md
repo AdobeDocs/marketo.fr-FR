@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: 279805c50fd1b2d9d36e5e093f1c9d661ad00461
+source-git-commit: 92d0d8b1820b0588e26e097e67ef6b6f32837397
 workflow-type: tm+mt
-source-wordcount: '8907'
+source-wordcount: '8909'
 ht-degree: 96%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 96%
       + {hide-from-toc}[Assistant IA pour la connaissance des produits](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
       + {hide-from-toc}[Communauté Marketing Nation](getting-started/things-to-know/community.md)
       + {hide-from-toc}[Migration &#x200B;](getting-started/things-to-know/aws-migration.md)
+      + {hide-from-toc}[&#x200B; Nouvelle interface utilisateur &#x200B;](getting-started/things-to-know/new-ui.md)
    + Solutions rapides {#quick-wins}
       + [Préparer sa configuration et ajouter une personne](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [Envoyer un e-mail](getting-started/quick-wins/send-an-email.md)
