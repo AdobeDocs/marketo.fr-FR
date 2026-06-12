@@ -1,20 +1,20 @@
 ---
-description: Parcourez les modèles d’invite réels pour CX Enterprise Coworker, organisés par cas d’utilisation dans les campagnes d’acquisition, d’engagement, d’événements, de conversion et de rétention.
+description: Parcourez les modèles d’invite réels pour les campagnes des collaborateurs d’entreprise d’Adobe CX, organisés par cas d’utilisation dans les campagnes d’acquisition, d’engagement, d’événements, de conversion et de rétention.
 title: Cas d’utilisation
-source-git-commit: e72cf50e03dcf225a47872dc5ade976d46445c86
+source-git-commit: 8229c19a046bb9b8f82053475e8f00b5c27370c2
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '506'
 ht-degree: 1%
 
 ---
 
 # Cas d’utilisation {#use-cases}
 
-Vous trouverez ci-dessous des modèles d’invite réels que les spécialistes du marketing du cycle de vie et de la croissance utilisent dans CX Enterprise Coworker. Chacune est conçue pour être copiée, échangée avec vos propres détails d’audience et de marque, et affinée dans la conversation.
+Vous trouverez ci-dessous des modèles d’invites réels que les spécialistes du marketing du cycle de vie et de la croissance utilisent dans les campagnes des collaborateurs Grands comptes Adobe CX. Chacune est conçue pour être copiée, échangée avec vos propres détails d’audience et de marque, et affinée dans la conversation.
 
 ## Utilisation
 
-Choisissez un cas d’utilisation qui correspond à votre objectif, copiez l’exemple d’invite et collez-le dans CX Enterprise Coworker, remplacez les espaces réservés par vos détails, puis affinez la sortie via le chat. Pour une présentation détaillée, accédez à Créer et générer des campagnes .
+Choisissez un cas d’utilisation qui correspond à votre objectif, copiez l’exemple d’invite et collez-le dans les campagnes de vos collègues, remplacez les espaces réservés par vos détails et affinez la sortie via la discussion. Pour une présentation détaillée, accédez à Créer et générer des campagnes .
 
 ## Acquisition et intégration
 
@@ -24,7 +24,7 @@ Accueillir de nouveaux clients, membres ou comptes et les configurer pour un eng
 
 Idéal pour : activation de compte d’entreprise, nouvelles inscriptions au SaaS, remises après vente.
 
-`"Create a guided onboarding email series for new enterprise accounts. Include a welcome email, a setup walkthrough, and a check-in from a customer success contact. Use the CSV I uploaded and personalize by first name and company name."`
+`"Create a guided onboarding email series for new enterprise accounts. Include a welcome email, a setup walkthrough, and a check-in from a customer success contact. Use the CSV I will upload and personalize by first name and company name."`
 
 ### Intégration d’un nouveau membre, B2C
 
@@ -52,7 +52,7 @@ Maintenez votre audience informée, éduquée et connectée entre les moments cl
 
 Idéal pour : fidélisation des clients, sensibilisation aux produits, leadership éclairé.
 
-`"Create a monthly newsletter for our customers. Use the CSV I uploaded. Include product updates, industry insights, and a resource, with simple CTAs."`
+`"Create a monthly newsletter for our customers. Use the CSV I will upload. Include product updates, industry insights, and a resource, with simple CTAs."`
 
 ### Newsletter mensuelle, B2C
 
@@ -142,7 +142,7 @@ Récupérez les audiences qui ont dérivé et réactivez les segments inactifs.
 
 Idéal pour : clients périmés, acheteurs inactifs, réactivation saisonnière.
 
-`"Create a win-back email series for customers who bought last year but haven't come back. Use the CSV I uploaded. Include 2-3 emails that feel seasonal and remind them to shop again."`
+`"Create a win-back email series for customers who bought last year but haven't come back. Use the CSV I will upload. Include 2-3 emails that feel seasonal and remind them to shop again."`
 
 ### Réengagement des fans périmé, B2C (sports et divertissement)
 
@@ -158,4 +158,4 @@ Idéal pour : toute audience qui s’est arrêtée.
 
 ## Prêt pour la création ?
 
-Sélectionnez un cas d’utilisation ci-dessus, consultez _Créer et générer des campagnes_ pour obtenir une description détaillée, puis essayez.
+Sélectionnez un cas d’utilisation ci-dessus, consultez _Création d’une campagne par e-mail_ pour obtenir une présentation détaillée et essayez-la.
