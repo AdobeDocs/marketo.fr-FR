@@ -1,7 +1,8 @@
 ---
 description: Découvrez les campagnes des collaborateurs d’entreprise d’Adobe CX, une application marketing native IA qui transforme une invite unique en campagne prête pour la révision.
 title: Présentation d’Adobe CX Enterprise Coworker
-source-git-commit: 8229c19a046bb9b8f82053475e8f00b5c27370c2
+hide: true
+source-git-commit: 14ea82fe7161fdc9ca6c45937a606774f0144177
 workflow-type: tm+mt
 source-wordcount: '850'
 ht-degree: 0%

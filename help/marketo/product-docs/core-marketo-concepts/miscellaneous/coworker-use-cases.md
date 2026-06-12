@@ -1,7 +1,8 @@
 ---
 description: Parcourez les modèles d’invite réels pour les campagnes des collaborateurs d’entreprise d’Adobe CX, organisés par cas d’utilisation dans les campagnes d’acquisition, d’engagement, d’événements, de conversion et de rétention.
 title: Cas d’utilisation
-source-git-commit: 8229c19a046bb9b8f82053475e8f00b5c27370c2
+hide: true
+source-git-commit: 14ea82fe7161fdc9ca6c45937a606774f0144177
 workflow-type: tm+mt
 source-wordcount: '506'
 ht-degree: 1%
