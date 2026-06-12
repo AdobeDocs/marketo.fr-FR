@@ -1,28 +1,28 @@
 ---
-description: Guide détaillé sur la création d’une campagne par e-mail dans CX Enterprise Coworker, de la rédaction d’invites à la révision et l’exportation de votre campagne.
+description: Guide détaillé sur la génération d’une campagne par e-mail dans les campagnes de collaborateurs d’entreprise Adobe CX, de la rédaction d’invites à la révision et l’exportation de votre campagne.
 title: Créer une campagne par e-mail
-source-git-commit: 279805c50fd1b2d9d36e5e093f1c9d661ad00461
+source-git-commit: 8229c19a046bb9b8f82053475e8f00b5c27370c2
 workflow-type: tm+mt
-source-wordcount: '952'
+source-wordcount: '955'
 ht-degree: 0%
 
 ---
 
 # Créer une campagne par e-mail {#create-an-email-campaign}
 
-Découvrez comment créer et examiner des campagnes par e-mail complètes en quelques minutes.
+Découvrez comment générer et examiner des campagnes par e-mail complètes en quelques minutes.
 
 >[!IMPORTANT]
 >
->Actuellement, vous pouvez uniquement créer des campagnes, vous ne pouvez pas les envoyer (lancer). La fonctionnalité de Launch sera bientôt disponible.
+>Actuellement, vous pouvez uniquement générer des campagnes. Vous ne pouvez pas encore les envoyer (lancement). La fonctionnalité de Launch sera bientôt disponible.
 
 ## Avant de commencer
 
 Vérifiez que vous disposez des éléments suivants :
 
-* Un compte CX Enterprise Coworker actif ([inscrivez-vous ici](https://coworker-essentials.experience.adobe.com/){target="_blank"} si ce n&#39;est pas déjà fait).
+* Un compte Adobe CX Enterprise Coworker Campagnes actif ([inscrivez-vous ici](https://coworker-essentials.experience.adobe.com/){target="_blank"} si ce n’est pas déjà fait).
 
-* La configuration de votre marque sous **Vos affaires** > **Marques**.
+* Votre marque ajoutée sous **Vos affaires** > **Marques**.
 
 * (Facultatif mais recommandé) Un modèle d’e-mail HTML téléchargé sous **Vos affaires** > **Modèles d’e-mail**.
 
@@ -42,7 +42,7 @@ _Quand l’utiliser : quand vous savez exactement ce que vous voulez._
 
 _Quand l’utiliser : quand vous n’êtes pas sûr de ce que vous voulez._
 
-**Option trois** : utilisez l&#39;option « Aide-moi à m&#39;informer » du menu déroulant de la barre d&#39;invite pour que CX Enterprise Coworker vous guide tout au long de la rédaction de votre invite.
+**Option trois** : utilisez l’option « Aide à l’invite » du menu déroulant de la barre d’invite pour que les campagnes de collègues vous guident tout au long de la rédaction de l’invite.
 
 _Quand l&#39;utiliser : Quand vous avez une idée de ce que vous voulez, mais que vous voulez un peu d&#39;aide (ou, utilisez « Surprise Me » pour être surpris)._
 
@@ -50,7 +50,7 @@ _Quand l&#39;utiliser : Quand vous avez une idée de ce que vous voulez, mais qu
 
 ## Étape 2 : créer votre invite
 
-Une forte invite de collaborateur d’entreprise CX inclut :
+Une invite de campagnes Collègues puissante inclut les éléments suivants :
 
 * L’objectif de la campagne (ce que vous essayez d’atteindre).
 * L’audience (son destinataire ou l’origine des données de l’audience).
@@ -67,11 +67,11 @@ Exemple :
 
 >[!NOTE]
 >
->Si vous disposez déjà d’un résumé de campagne, chargez-le avec votre invite comme contexte supplémentaire pour le plan qui est créé pour vous.
+>Si vous disposez déjà d’un résumé de campagne, chargez-le avec votre invite comme contexte supplémentaire pour le plan qu’il générera pour vous.
 
 ![Saisie dans votre propre invite](assets/create-an-email-campaign-2.png)
 
-Lorsque votre invite est prête, cliquez sur **Générer la campagne**. Le collaborateur d’entreprise CX :
+Lorsque votre invite est prête, cliquez sur **Générer la campagne**. Les campagnes des collaborateurs :
 
 * Générez un plan de campagne structuré.
 * Demandez votre audience cible, qui sera également utilisée pour la personnalisation du contenu.
@@ -81,7 +81,7 @@ Lorsque votre invite est prête, cliquez sur **Générer la campagne**. Le colla
 
 ## Étape 3 : charger votre audience
 
-Les audiences sont chargées au moyen de fichiers CSV. Toutes les audiences sont spécifiques à leurs campagnes respectives.
+Les audiences sont chargées au moyen de fichiers CSV. Toutes les audiences sont spécifiques à leurs campagnes respectives (elles ne sont pas stockées ailleurs dans votre environnement pour le moment).
 
 1. Après avoir envoyé votre invite, passez en revue les tâches que Coworker exécutera et cliquez sur **Créer**.
 
@@ -91,15 +91,13 @@ Les audiences sont chargées au moyen de fichiers CSV. Toutes les audiences sont
 
    >[!NOTE]
    >
-   >* L’adresse e-mail est un champ obligatoire. Il est recommandé d’utiliser le prénom et d’autres champs pouvant être utilisés pour la personnalisation.
-   >
-   >* Champs de personnalisation que CX Enterprise Coworker peut utiliser : prénom, date de la dernière commande, catégorie de produit.
+   >* L’adresse e-mail est un champ obligatoire, le prénom, la date du dernier achat et tout autre champ pouvant être utilisé à des fins de personnalisation est recommandé.
 
 1. Importez votre fichier CSV.
 
-   >[!TIP]
+   >[!IMPORTANT]
    >
-   >Excluez les contacts que vous ne souhaitez pas envoyer par e-mail (utilisateurs désabonnés, adresses internes, comptes de test) avant le chargement. Bien que nous activerons progressivement la fonctionnalité pour « exclure » des utilisateurs spécifiques ou « ajouter des attributs » au cours de l’essai, elle n’est pas immédiatement disponible à partir de la date de lancement.
+   >Excluez les contacts que vous ne souhaitez pas envoyer par e-mail (utilisateurs désabonnés, adresses internes, comptes de test) avant le chargement. Bien que nous activerons progressivement la fonctionnalité pour exclure des utilisateurs spécifiques ou ajouter des attributs au cours de l’évaluation, elle n’est pas disponible immédiatement à partir de la date de lancement.
 
 ## Étape 4 : examiner et affiner Campaign Assets
 
@@ -113,12 +111,11 @@ Il existe deux façons de mettre à jour votre contenu.
 
 -ou-
 
-* Utilisez l&#39;interface conversationnelle pour apporter des modifications en parlant directement à CX Enterprise Coworker. Voici quelques exemples :
+* Utilisez l’interface de conversation pour apporter des modifications en parlant directement aux campagnes de vos collègues. Voici quelques exemples :
 
    * « Rendre l’objet plus urgent. »
    * « Raccourcissez la copie du corps. »
    * « Rendre le call to action plus fort. »
-   * « Remplacez l’attente de 3 jours par 5 jours. »
 
 Vous pouvez également utiliser les boutons d’IA pour affiner votre Objet ou votre Pré-titre.
 
@@ -142,11 +139,11 @@ La fonctionnalité Launch (envoi de votre campagne par e-mail) sera bientôt dis
 
 **Pourquoi la première réponse prend-elle autant de temps ?**
 
-Il génère pour vous une campagne complète incluant la stratégie, l’audience dont vous avez besoin, le workflow, etc. (écouter l’enregistrement de 1 point:15ish)
+Il génère pour vous une campagne complète comprenant la stratégie, l’audience dont vous avez besoin, le workflow, etc. La durée moyenne de la première réponse avec votre contenu généré est généralement d’environ une minute.
 
-**Que faire si la sortie de CX Enterprise Coworker n&#39;est pas tout à fait correcte ?**
+**Que faire si la sortie des campagnes de mes collègues n’est pas tout à fait correcte ?**
 
-Utilisez le bouton de commentaires en haut à droite et faites-le nous savoir afin que nous puissions améliorer la plateforme.
+Cliquez sur l’icône de retour d’informations dans l’en-tête et informez-nous afin que nous puissions améliorer la plateforme.
 
 **Puis-je modifier les e-mails directement ou uniquement par chat ?**
 
