@@ -3,7 +3,7 @@ description: Nouvelle interface utilisateur de Marketo Engage - Documentation de
 title: Nouvelle interface utilisateur de Marketo Engage
 feature: Getting Started
 hide: true
-source-git-commit: 92d0d8b1820b0588e26e097e67ef6b6f32837397
+source-git-commit: e7df214d1796c631a4fcdd874de84cfe7f92e8b6
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 1%

@@ -1,12 +1,11 @@
 ---
 description: Découvrez comment auditer vos programmes à la recherche des bonnes pratiques sur tous les composants, tels que les e-mails, les pages de destination, les campagnes, etc.
 title: Valider les programmes
-badge: Beta
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: d6051c04a5d2680d280b572c0ba53751f4086b03
+source-git-commit: e7df214d1796c631a4fcdd874de84cfe7f92e8b6
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 2%
+source-wordcount: '172'
+ht-degree: 1%
 
 ---
 
@@ -20,7 +19,7 @@ Vérifiez vos programmes à la recherche des bonnes pratiques sur tous les compo
 
 >[!PREREQUISITES]
 >
->Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [&#x200B; Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Contactez votre gestionnaire de compte pour plus de détails.
+>Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [ Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Contactez votre gestionnaire de compte pour plus de détails.
 
 ## Utilisation {#how-to-use}
 
