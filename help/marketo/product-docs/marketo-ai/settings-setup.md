@@ -1,11 +1,10 @@
 ---
 description: Découvrez comment activer les autorisations de l’IA dédiée à Marketo, configurer les règles d’organisation et gérer les paramètres tels que les intégrations et les notifications.
 title: Paramètres et configuration
-badge: Beta
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: 854fee409fb55c8f611ee85225bea6ab77036dff
+source-git-commit: e7df214d1796c631a4fcdd874de84cfe7f92e8b6
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '579'
 ht-degree: 3%
 
 ---
