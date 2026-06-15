@@ -3,16 +3,16 @@ description: Nouvelle interface utilisateur de Marketo Engage - Documentation de
 title: Nouvelle interface utilisateur de Marketo Engage
 feature: Getting Started
 hide: true
-source-git-commit: e7df214d1796c631a4fcdd874de84cfe7f92e8b6
+source-git-commit: ee378219a9b294ae0c64620d0c0b306f73665f0d
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '235'
 ht-degree: 1%
 
 ---
 
 # Nouvelle interface utilisateur de Marketo Engage {#new-ui}
 
-Merci de participer à la nouvelle version bêta de l’interface utilisateur de Marketo Engage. Cette mise à jour modernise le style de Marketo Engage et améliore la réactivité, le tout sans modifier les fonctionnalités. Pour accéder à la nouvelle interface utilisateur, utilisez un sélecteur de thème qui s’affiche dans le coin supérieur droit de la plupart des pages de Marketo Engage.
+Merci de participer à la nouvelle version bêta de l’interface utilisateur de Marketo Engage. Cette mise à jour modernise le style de Marketo Engage et améliore la réactivité, sans modifier les fonctionnalités. Pour accéder à la nouvelle interface utilisateur, utilisez un sélecteur de thème qui s’affiche dans le coin supérieur droit de la plupart des pages de Marketo Engage.
 
 ## Avant de commencer {#before-starting}
 
@@ -28,25 +28,25 @@ Les administrateurs peuvent accorder l’autorisation _Accéder à une nouvelle 
 
 1. Dans la zone **Admin**, sélectionnez **Utilisateurs et rôles**.
 
-CAPTURE D’ÉCRAN
+   ![](assets/new-ui-1.png)
 
 1. Cliquez sur l’onglet **Rôles**. Sélectionnez le rôle souhaité et cliquez sur **Modifier le rôle**.
 
-CAPTURE D’ÉCRAN
+   ![](assets/new-ui-2.png)
 
 >[!NOTE]
 >
 >Vous pouvez également créer un nouveau rôle.
 
-1. Cliquez sur la case **Accéder au nouveau thème** puis sur **Enregistrer**.
+1. Cochez la case **Accéder au nouveau thème**, puis cliquez sur **Enregistrer**.
 
-CAPTURE D’ÉCRAN
+   ![](assets/new-ui-3.png)
 
 ## Nouvelle IU et IU classique {#new-and-classic}
 
-Pour passer à la nouvelle interface utilisateur, cliquez sur la liste déroulante du thème dans le coin supérieur droit et sélectionnez **Nouveau (Beta)**.
+Pour passer à la nouvelle interface utilisateur, cliquez sur la liste déroulante de l’interface utilisateur dans le coin supérieur droit et sélectionnez **Nouveau (Beta)**.
 
-CAPTURE D’ÉCRAN
+![](assets/new-ui-4.png)
 
 Si vous devez revenir en arrière pour une raison quelconque, cliquez de nouveau sur la liste déroulante des thèmes et sélectionnez **Classique**.
 
@@ -54,4 +54,4 @@ Si vous devez revenir en arrière pour une raison quelconque, cliquez de nouveau
 
 Vos commentaires sont les bienvenus. Si vous rencontrez des problèmes pour accéder à la fonctionnalité ou l’utiliser lors de l’exploration de la nouvelle interface utilisateur, ou si vous avez des suggestions ou des préoccupations, cliquez sur le bouton Commentaires sur le Beta de l’interface utilisateur en haut à droite.
 
-CAPTURE D’ÉCRAN
+![](assets/new-ui-5.png)
