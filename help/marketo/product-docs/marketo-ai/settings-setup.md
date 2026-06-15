@@ -2,9 +2,9 @@
 description: Découvrez comment activer les autorisations de l’IA dédiée à Marketo, configurer les règles d’organisation et gérer les paramètres tels que les intégrations et les notifications.
 title: Paramètres et configuration
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: e7df214d1796c631a4fcdd874de84cfe7f92e8b6
+source-git-commit: 7e869a7a66badbb274355a676d9950068bb8b68e
 workflow-type: tm+mt
-source-wordcount: '579'
+source-wordcount: '562'
 ht-degree: 3%
 
 ---
@@ -23,11 +23,11 @@ Découvrez comment activer des autorisations et utiliser la zone Paramètres pou
 
 ## Autorisations et rôles {#permission-and-role}
 
-Il existe une autorisation _Accéder à la version avec IA_ et un rôle _Créer avec utilisateur AI_, qui permettent aux administrateurs et administratrices d’exercer un plus grand contrôle sur les utilisateurs et utilisatrices pouvant accéder à la fonctionnalité **Créer avec IA**. L’autorisation est affectée au niveau du rôle. Le rôle _Créer avec un utilisateur AI_ est fourni avec l’autorisation _Accéder à la création avec AI_ activée par défaut.
+Il existe une autorisation _Accéder à l’IA Marketo_ et un rôle _Utilisateur de l’IA Marketo_, ce qui permet aux administrateurs et administratrices de mieux contrôler quels utilisateurs et utilisatrices peuvent accéder à la fonctionnalité **IA Marketo**. L’autorisation est affectée au niveau du rôle. Le rôle _Utilisateur Marketo AI_ est fourni avec l’autorisation _Accéder à Marketo AI_ activée par défaut.
 
 >[!IMPORTANT]
 >
->L’autorisation _Accéder à la version avec IA_ n’est pas activée par défaut pour tous les rôles. Voir le tableau ci-dessous pour plus de détails.
+>L’autorisation _Accéder à l’IA Marketo_ n’est pas activée par défaut pour tous les rôles. Voir le tableau ci-dessous pour plus de détails.
 
 | Rôle | Statut par défaut |
 | --- | --- |
@@ -35,12 +35,12 @@ Il existe une autorisation _Accéder à la version avec IA_ et un rôle _Créer 
 | Administrateur de produits Adobe | Activé |
 | Utilisateur marketing | Désactivé |
 | Utilisateur standard | Non disponible |
-| Créer avec un utilisateur d’IA | Activé |
+| Utilisateur Marketo AI | Activé |
 | Rôles personnalisés | Désactivé |
 
-### Accéder à la version avec l’autorisation IA {#access-build-with-ai-permission}
+### Autorisation Accéder à Marketo AI {#access-marketo-ai-permission}
 
-Suivez les étapes ci-dessous pour activer _Access Build with AI_ pour les rôles qualifiés qui ne l’ont pas déjà activé.
+Suivez les étapes ci-dessous pour activer _Accéder à l’IA Marketo_ pour les rôles qualifiés qui ne l’ont pas déjà activé.
 
 1. Dans Mon Marketo, cliquez sur **Admin**, puis **Utilisateurs et rôles**.
 
@@ -50,59 +50,59 @@ Suivez les étapes ci-dessous pour activer _Access Build with AI_ pour les rôle
 
    ![](assets/settings-setup-2.png)
 
-1. Faites défiler vers le bas et cochez la case _Accéder à la version avec IA_, puis cliquez sur **Enregistrer**.
+1. Faites défiler vers le bas et cochez la case _Accéder à Marketo AI_, puis cliquez sur **Enregistrer**.
 
    ![](assets/settings-setup-3.png)
 
    >[!NOTE]
    >
-   >Vous pouvez suivre les mêmes étapes pour supprimer l’autorisation en **décochant** la case _Accéder à la version avec l’IA_.
+   >Vous pouvez suivre les mêmes étapes pour supprimer l’autorisation en **décochant** la case _Accéder à l’IA Marketo_.
 
-### Créer avec le rôle d’utilisateur d’IA {#build-with-ai-user-role}
+### Rôle d’utilisateur de l’IA dédiée à Marketo {#marketo-ai-user-role}
 
-Pour affecter un utilisateur spécifique au rôle _Créer avec un utilisateur AI_, procédez comme suit.
+Pour affecter un utilisateur spécifique au rôle _Utilisateur de l’IA_, procédez comme suit.
 
 >[!NOTE]
 >
->Ce rôle **uniquement** contient l’autorisation _Accéder à la version avec IA_.
+>Ce rôle **uniquement** contient l’autorisation _Accéder à l’IA Marketo_.
 
 1. Dans Mon Marketo, cliquez sur **Admin**, puis **Utilisateurs et rôles**.
 
-   ![](assets/settings-setup-1.png)
+   ![](assets/settings-setup-4.png)
 
 1. Sélectionnez l’utilisateur souhaité, puis cliquez sur **Modifier l’utilisateur**.
 
-   ![](assets/settings-setup-5b.png)
+   ![](assets/settings-setup-5.png)
 
-1. Dans _Rôles et espaces de travail_, cochez la case _Créer avec un utilisateur IA_. Si vous disposez de plusieurs espaces de travail, vous pouvez spécifier ceux auxquels accéder dans le menu déroulant du signe **+**. Cliquez sur **Enregistrer** lorsque vous avez terminé.
+1. Dans _Rôles et espaces de travail_, cochez la case _Utilisateur Marketo AI_. Si vous disposez de plusieurs espaces de travail, vous pouvez spécifier ceux auxquels accéder dans le menu déroulant du signe **+**. Cliquez sur **Enregistrer** lorsque vous avez terminé.
 
-   ![](assets/settings-setup-6b.png)
+   ![](assets/settings-setup-6.png)
 
 ### Rôle personnalisé {#custom-role}
 
-Vous avez également la possibilité de [créer un nouveau rôle](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} et de personnaliser ses autorisations, en ajoutant _Accéder à la version avec IA_, ainsi que tout ce que vous souhaitez, et [en attribuant ce rôle](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} à des utilisateurs spécifiques.
+Vous avez également la possibilité de [créer un nouveau rôle](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} et de personnaliser ses autorisations, en ajoutant _Accéder à l’IA Marketo_, ainsi que tout ce que vous souhaitez, et [en attribuant ce rôle](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} à des utilisateurs et utilisatrices spécifiques.
 
 ## Paramètres {#settings}
 
-1. Dans Mon Marketo, cliquez sur la mosaïque **Créer avec l’IA**.
+1. Dans Mon Marketo, cliquez sur la mosaïque **Marketo AI**.
 
-   ![](assets/settings-setup-4.png)
+   ![](assets/settings-setup-7.png)
 
 1. Cliquez sur l’icône d’engrenage.
 
-   ![](assets/settings-setup-5.png)
+   ![](assets/settings-setup-8.png)
 
 ### Connexion {#connection}
 
 Cet onglet ne contient pas de champs modifiables. Il affiche des informations sur votre compte, telles que votre Munchkin ID et votre organisation IMS.
 
-![](assets/settings-setup-6.png)
+![](assets/settings-setup-9.png)
 
 ### Règles d&#39;organisation {#organizational-rules}
 
 Définissez les directives et contraintes organisationnelles que l’IA dédiée à Marketo suit lors de la création ou de la modification de ressources Marketo Engage.
 
-![](assets/settings-setup-7.png){width="800" zoomable="yes"}
+![](assets/settings-setup-10.png){width="800" zoomable="yes"}
 
 >[!NOTE]
 >

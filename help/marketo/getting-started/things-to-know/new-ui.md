@@ -3,7 +3,7 @@ description: Nouvelle interface utilisateur de Marketo Engage - Documentation de
 title: Nouvelle interface utilisateur de Marketo Engage
 feature: Getting Started
 hide: true
-source-git-commit: 59d851d919aa28f41d49e26381d1703017076b7b
+source-git-commit: 7e869a7a66badbb274355a676d9950068bb8b68e
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 1%
@@ -52,6 +52,6 @@ Si vous devez revenir en arrière pour une raison quelconque, cliquez de nouveau
 
 ## Envoi de commentaires {#feedback}
 
-Vos commentaires sont les bienvenus. Si vous rencontrez des problèmes pour accéder à la fonctionnalité ou l’utiliser lors de l’exploration de la nouvelle interface utilisateur, ou si vous avez des suggestions ou des préoccupations, cliquez sur le bouton Commentaires sur le Beta de l’interface utilisateur en haut à droite.
+Vos commentaires sont les bienvenus. Si vous rencontrez des problèmes pour accéder à la fonctionnalité ou l’utiliser lors de l’exploration de la nouvelle interface utilisateur, ou si vous avez des suggestions ou des préoccupations, cliquez sur le bouton **Commentaires sur le Beta de l’interface utilisateur** en haut à droite.
 
 ![](assets/new-ui-5.png)
