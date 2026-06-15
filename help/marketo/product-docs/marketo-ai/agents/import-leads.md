@@ -2,9 +2,9 @@
 description: Découvrez comment utiliser l’agent Importer des prospects pour charger un fichier CSV, appliquer des règles métier, mapper des champs et importer des prospects directement dans votre base de données Marketo Engage.
 title: Importer les leads
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: e7df214d1796c631a4fcdd874de84cfe7f92e8b6
+source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '259'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ Importez et dédupliquez des listes de prospects dans votre base de données Mar
 
 ## Utilisation {#how-to-use}
 
-1. Dans Mon Marketo, cliquez sur la mosaïque **Créer avec l’IA**.
+1. Dans Mon Marketo, cliquez sur la mosaïque **Marketo AI**.
 
    ![](assets/import-leads-1.png)
 

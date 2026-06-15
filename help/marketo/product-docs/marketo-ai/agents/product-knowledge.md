@@ -3,9 +3,9 @@ description: Utilisez les connaissances du produit pour interroger l’IA dédi�
 title: Connaissances du produit
 badge: Beta
 hide: true
-source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
+source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '462'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ La connaissance des produits vous donne un accès à la demande à l’expertise
 
 ## Utilisation {#how-to-use}
 
-1. Dans Mon Marketo, cliquez sur la mosaïque **Créer avec l’IA**.
+1. Dans Mon Marketo, cliquez sur la mosaïque **Marketo AI**.
 
 1. Dans la fenêtre d&#39;invite, tapez votre question en langage naturel ; aucune syntaxe spéciale n&#39;est requise.
 
