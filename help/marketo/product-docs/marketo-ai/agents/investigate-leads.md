@@ -4,9 +4,9 @@ title: Enquête sur les prospects
 badge: Beta
 hide: true
 hidefromtoc: true
-source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
+source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '550'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ Découvrez pourquoi une personne/un prospect spécifique n’a pas atteint un ja
 
 >[!PREREQUISITES]
 >
->* Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [&#x200B; Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
+>* Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [ Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
 >
 >* Vous devez disposer d’un accès en affichage à l’enregistrement de la personne/du prospect et au programme ou au jalon faisant l’objet de votre enquête.
 
@@ -27,7 +27,7 @@ Découvrez pourquoi une personne/un prospect spécifique n’a pas atteint un ja
 
 ## Utilisation {#how-to-use}
 
-1. Dans Mon Marketo, cliquez sur la mosaïque **Créer avec l’IA**.
+1. Dans Mon Marketo, cliquez sur la mosaïque **Marketo AI**.
 
 1. Dans la fenêtre d’invite, décrivez l’objet de votre enquête. Indiquez le prospect (par adresse électronique ou nom) et ce qui devait se produire.
 

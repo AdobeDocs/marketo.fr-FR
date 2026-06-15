@@ -3,9 +3,9 @@ description: Discutez avec l’IA dédiée au Marketo des données de performanc
 title: Informations sur la surface
 badge: Beta
 hide: true
-source-git-commit: 5b459e82e0a3bc9a335483b66ca975d39121d025
+source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '502'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ Les informations de surface vous permettent d’avoir une conversation sur vos d
 
 >[!PREREQUISITES]
 >
->* Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [&#x200B; Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
+>* Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [ Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
 >
 >* Vous devez avoir accès aux programmes et aux rapports sur lesquels vous vous renseignez.
 
@@ -26,7 +26,7 @@ Les informations de surface vous permettent d’avoir une conversation sur vos d
 
 ## Utilisation {#how-to-use}
 
-1. Dans Mon Marketo, cliquez sur la mosaïque **Créer avec l’IA**.
+1. Dans Mon Marketo, cliquez sur la mosaïque **Marketo AI**.
 
 1. Dans la fenêtre d’invite, posez une question sur les performances. Précisez le calendrier ou le programme si vous en avez un en tête.
 

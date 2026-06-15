@@ -2,9 +2,9 @@
 description: Découvrez comment auditer vos programmes à la recherche des bonnes pratiques sur tous les composants, tels que les e-mails, les pages de destination, les campagnes, etc.
 title: Valider les programmes
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: e7df214d1796c631a4fcdd874de84cfe7f92e8b6
+source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '171'
 ht-degree: 1%
 
 ---
@@ -19,26 +19,26 @@ Vérifiez vos programmes à la recherche des bonnes pratiques sur tous les compo
 
 >[!PREREQUISITES]
 >
->Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [&#x200B; Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Contactez votre gestionnaire de compte pour plus de détails.
+>Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [ Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Contactez votre gestionnaire de compte pour plus de détails.
 
 ## Utilisation {#how-to-use}
 
-1. Dans Mon Marketo, cliquez sur la mosaïque **Créer avec l’IA**.
+1. Dans Mon Marketo, cliquez sur la mosaïque **Marketo AI**.
 
-   ![](assets/program-qa-1.png)
+   ![](assets/validate-programs-1.png)
 
 1. Sélectionnez l’agent **Valider les programmes**.
 
 1. Sélectionnez le programme à valider dans le volet de droite.
 
-   ![](assets/program-qa-3.png){width="800" zoomable="yes"}
+   ![](assets/validate-programs-3.png){width="800" zoomable="yes"}
 
    Un résumé du programme sélectionné s’affiche dans le volet central.
 
-   ![](assets/program-qa-4.png){width="450" zoomable="yes"}
+   ![](assets/validate-programs-4.png){width="450" zoomable="yes"}
 
 1. Dans la fenêtre d’invite, saisissez « valider le programme » et cliquez sur **Envoyer**.
 
    L’assistant d’IA fournit un contrôle qualité du programme sélectionné, vous montrant ce qui a réussi et ce qui a échoué.
 
-   ![](assets/program-qa-6.png)
+   ![](assets/validate-programs-6.png)
