@@ -1,13 +1,10 @@
 ---
 description: L’agent principal Enquêter répond aux questions les plus fréquentes des spécialistes marketing. Elle est plus rapide et plus fiable que l’exploration manuelle des journaux d’activité, de l’historique des campagnes intelligentes et des enregistrements de notation.
 title: Enquête sur les prospects
-badge: Beta
-hide: true
-hidefromtoc: true
-source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
+source-git-commit: 3895c3c0ffeeafee45193c8ac3ce346a4e59ebb1
 workflow-type: tm+mt
-source-wordcount: '550'
-ht-degree: 1%
+source-wordcount: '549'
+ht-degree: 0%
 
 ---
 

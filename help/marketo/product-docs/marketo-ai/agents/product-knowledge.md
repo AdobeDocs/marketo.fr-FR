@@ -1,11 +1,9 @@
 ---
 description: Utilisez les connaissances du produit pour interroger l’IA dédiée à Marketo sur les fonctionnalités, les bonnes pratiques et la procédure de Marketo Engage. Les réponses sont fondées sur la documentation officielle d’Adobe.
 title: Connaissances du produit
-badge: Beta
-hide: true
-source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
+source-git-commit: 3895c3c0ffeeafee45193c8ac3ce346a4e59ebb1
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '461'
 ht-degree: 1%
 
 ---
