@@ -2,30 +2,10 @@
 title: 2022
 description: 2022 - Documents Marketo - Documentation Du Produit
 feature: Release Information
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: ad89fb33-8541-4339-afe7-bb13d1633714
-  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 992f0ad35d396b1f6ecd30f34ba1d228116fb264
 workflow-type: tm+mt
 source-wordcount: 4282
 ht-degree: 6%
@@ -46,7 +26,7 @@ Les fonctionnalités suivantes sont incluses dans la version de janvier 2022. V�
 
 Les fonctionnalités suivantes seront publiées le **21 janvier 2022**, avec un déploiement échelonné de chaque fonctionnalité au cours des semaines suivantes (sauf indication contraire).
 
-## Expérience nouvelle génération {#modern-ux}
+## Expérience nouvelle génération
 
 * **Mise à jour de Screens dans l’expérience de nouvelle génération** : nous proposons d’autres écrans actualisés dans l’expérience de nouvelle génération qui offrent une conception et des améliorations de convivialité mises à jour et accessibles via le bouton bascule :
 
@@ -109,7 +89,7 @@ Les clients Marketo Engage qui utilisent également Adobe Experience Platform (A
 
 * **Connexion à la boîte de dialogue d’invitation d’utilisateur** : en mars, la fonctionnalité facultative existante « Connexion à la boîte de dialogue d’invitation d’utilisateur » sera abandonnée. La fonctionnalité « [!UICONTROL Se connecter dans la boîte de dialogue d’invitation d’utilisateur] » est remplacée par la fonctionnalité d’ID universel, requise pour la prochaine intégration du système Adobe Identity Management et activée en août 2021 sur tous les abonnements. Suite à l’obsolescence, Marketo Engage n’obligera qu’un seul utilisateur à être associé par adresse e-mail dans un abonnement.
 
-**Domaines Marketo Engage - Configuration [!DNL Sales Insight]** : pour les domaines Marketo Engage pour lesquels le certificat SSL n&#39;est pas configuré et pour https://, les appels échouent avec une erreur de négociation SSL. Par conséquent, ces domaines vont disparaître. Par conséquent, les utilisateurs [!DNL Sales Insight] disposant d’une configuration plus ancienne pointant vers l’un de ces domaines peuvent rencontrer des erreurs de légende système sur leur page Lead, Contact, Compte, Panneaux d’opportunité ou Page globale Marketo. Nous vous recommandons de mettre à jour votre configuration [&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) dans [!DNL Salesforce] si vous rencontrez cette erreur. Il vous suffit de mettre à jour les informations d’identification Marketo Engage mises en surbrillance dans la section « Configuration [!DNL Marketo Sales Insight] » du document.
+**Domaines Marketo Engage - Configuration [!DNL Sales Insight]** : pour les domaines Marketo Engage pour lesquels le certificat SSL n&#39;est pas configuré et pour https://, les appels échouent avec une erreur de négociation SSL. Par conséquent, ces domaines vont disparaître. Par conséquent, les utilisateurs [!DNL Sales Insight] disposant d’une configuration plus ancienne pointant vers l’un de ces domaines peuvent rencontrer des erreurs de légende système sur leur page Lead, Contact, Compte, Panneaux d’opportunité ou Page globale Marketo. Nous vous recommandons de mettre à jour votre configuration [](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) dans [!DNL Salesforce] si vous rencontrez cette erreur. Il vous suffit de mettre à jour les informations d’identification Marketo Engage mises en surbrillance dans la section « Configuration [!DNL Marketo Sales Insight] » du document.
 
 **_Webinaire de mise à jour du produit_**
 
@@ -129,11 +109,11 @@ Les fonctionnalités suivantes seront publiées le **11 mars 2022**, avec un dé
 
 ## Orchestration cross-canal {#cross-channel-orchestration}
 
-* **[!DNL Dynamic Chat]** : maximisez chaque opportunité sur votre site web en ciblant les prospects et les comptes avec des conversations proactives, attrayantes et 1:1 personnalisées. [&#128279;](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} permet aux utilisateurs de Marketo Engage de commencer à utiliser le chat comme élément clé des expériences cross-canal intégrées pour les cas d’utilisation de marketing et de ventes B2B. Les fonctionnalités incluent : la possibilité de réserver des réunions directement dans le chat, le routage des prospects, les modèles de démarrage, la création de conversations par glisser-déposer, et bien plus encore. Dynamic Chat est inclus dans tous les packages Marketo Engage et sera déployé auprès de tous les utilisateurs Marketo Engage cette année.
+* **[!DNL Dynamic Chat]** : maximisez chaque opportunité sur votre site web en ciblant les prospects et les comptes avec des conversations proactives, attrayantes et 1:1 personnalisées. [](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} permet aux utilisateurs de Marketo Engage de commencer à utiliser le chat comme élément clé des expériences cross-canal intégrées pour les cas d’utilisation de marketing et de ventes B2B. Les fonctionnalités incluent : la possibilité de réserver des réunions directement dans le chat, le routage des prospects, les modèles de démarrage, la création de conversations par glisser-déposer, et bien plus encore. Dynamic Chat est inclus dans tous les packages Marketo Engage et sera déployé auprès de tous les utilisateurs Marketo Engage cette année.
 
 * **Amélioration du filtrage des activités de robots d’e-mail** : en complément de la fonctionnalité [Filtrage des activités de robots d’e-mail](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} publiée précédemment, vous pouvez désormais vous inscrire aux activités de journalisation identifiées comme des robots. Vous pouvez ensuite filtrer et déclencher des actions en fonction des activités identifiées comme étant exécutées par des robots.
 
-## Expérience nouvelle génération {#modern-ux}
+## Expérience nouvelle génération
 
 * **Mise à jour de Screens dans l’expérience de nouvelle génération** : nous proposons d’autres écrans actualisés dans l’expérience de nouvelle génération qui offrent une conception et des améliorations de convivialité mises à jour et accessibles via le bouton bascule :
 
@@ -215,7 +195,7 @@ Les fonctionnalités suivantes seront publiées le **6 mai 2022**, avec un dépl
 
 **[En-tête STS pour les liens de suivi d’e-mail](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target="_blank"}** : appliquez les bonnes pratiques de sécurité en appliquant des en-têtes Secure Transport Security pour vous assurer que le trafic vers les liens suivis est toujours sécurisé.
 
-## Expérience nouvelle génération {#modern-ux}
+## Expérience nouvelle génération
 
 **Basculer vers l’expérience de nouvelle génération par défaut** : le bouton (bascule) est défini par défaut sur la nouvelle expérience sur tous les écrans où il est disponible, ce qui facilite la découverte des conceptions mises à jour et les améliorations de la convivialité.
 
@@ -336,7 +316,7 @@ Le déploiement échelonné des fonctionnalités suivantes a commencé le **26 a
 
 ## Expérience nouvelle génération
 
-* **Image de marque Adobe** : mise à jour de l’apparence de la page des détails des éditeurs et de la personne avec la nouvelle image de marque Adobe Experience Cloud.
+* **Image de marque** : mise à jour de la page aspect pour les éditeurs et les détails de la personne avec la nouvelle image de marque Adobe Experience Cloud.
 
 * **Afficher la hiérarchie des dossiers du dossier de destination dans la boîte de dialogue Déplacer** : l’affichage de la hiérarchie des dossiers pour chaque dossier facilite le déplacement des ressources et réduit la probabilité de les placer dans un mauvais dossier.
 
@@ -413,7 +393,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tbody>
 </table>
 
-* **Intégration d’Adobe Privacy Service** : harmonisez-le avec Privacy Service afin d’automatiser la conformité aux réglementations de confidentialité des données sur l’ensemble des produits Experience Cloud. Actuellement, ce service n’est disponible que pour les clients Marketo Engage qui ont intégré le système Adobe Identity Management.
+* **Intégration d’Adobe Privacy Service** : harmonisez-le avec Privacy Service pour automatiser la conformité aux réglementations de confidentialité des données sur les produits Experience Cloud. Actuellement, ce service n’est disponible que pour les clients Marketo Engage qui ont intégré le système Adobe Identity Management.
 
 <table>
   <tr>
@@ -427,7 +407,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tbody>
 </table>
 
-### Expérience nouvelle génération {#modern-ux}
+### Expérience nouvelle génération
 
 </br>
 
@@ -565,3 +545,4 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
 * **Forms 1.0** : l’obsolescence de Forms 1.0 sera terminée avec la version d’octobre. Les ressources de Forms 1.0 ne pourront plus envoyer de données à Marketo Engage et renverront des erreurs si elles sont tentées.
 
 * **No-Script Forms** : Forms ne fonctionnera plus lorsque JavaScript sera désactivé dans le navigateur. L’envoi du formulaire nécessite l’activation de JavaScript.
+
