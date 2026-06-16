@@ -25,7 +25,7 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+source-git-commit: 992f0ad35d396b1f6ecd30f34ba1d228116fb264
 workflow-type: tm+mt
 source-wordcount: 4282
 ht-degree: 6%
@@ -46,7 +46,7 @@ Les fonctionnalités suivantes sont incluses dans la version de janvier 2022. V�
 
 Les fonctionnalités suivantes seront publiées le **21 janvier 2022**, avec un déploiement échelonné de chaque fonctionnalité au cours des semaines suivantes (sauf indication contraire).
 
-## Expérience nouvelle génération {#modern-ux}
+## Expérience nouvelle génération
 
 * **Mise à jour de Screens dans l’expérience de nouvelle génération** : nous proposons d’autres écrans actualisés dans l’expérience de nouvelle génération qui offrent une conception et des améliorations de convivialité mises à jour et accessibles via le bouton bascule :
 
@@ -133,7 +133,7 @@ Les fonctionnalités suivantes seront publiées le **11 mars 2022**, avec un dé
 
 * **Amélioration du filtrage des activités de robots d’e-mail** : en complément de la fonctionnalité [Filtrage des activités de robots d’e-mail](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} publiée précédemment, vous pouvez désormais vous inscrire aux activités de journalisation identifiées comme des robots. Vous pouvez ensuite filtrer et déclencher des actions en fonction des activités identifiées comme étant exécutées par des robots.
 
-## Expérience nouvelle génération {#modern-ux}
+## Expérience nouvelle génération
 
 * **Mise à jour de Screens dans l’expérience de nouvelle génération** : nous proposons d’autres écrans actualisés dans l’expérience de nouvelle génération qui offrent une conception et des améliorations de convivialité mises à jour et accessibles via le bouton bascule :
 
@@ -215,7 +215,7 @@ Les fonctionnalités suivantes seront publiées le **6 mai 2022**, avec un dépl
 
 **[En-tête STS pour les liens de suivi d’e-mail](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target="_blank"}** : appliquez les bonnes pratiques de sécurité en appliquant des en-têtes Secure Transport Security pour vous assurer que le trafic vers les liens suivis est toujours sécurisé.
 
-## Expérience nouvelle génération {#modern-ux}
+## Expérience nouvelle génération
 
 **Basculer vers l’expérience de nouvelle génération par défaut** : le bouton (bascule) est défini par défaut sur la nouvelle expérience sur tous les écrans où il est disponible, ce qui facilite la découverte des conceptions mises à jour et les améliorations de la convivialité.
 
@@ -336,7 +336,7 @@ Le déploiement échelonné des fonctionnalités suivantes a commencé le **26 a
 
 ## Expérience nouvelle génération
 
-* **Image de marque Adobe** : mise à jour de l’apparence de la page des détails des éditeurs et de la personne avec la nouvelle image de marque Adobe Experience Cloud.
+* **Image de marque** : mise à jour de la page aspect pour les éditeurs et les détails de la personne avec la nouvelle image de marque Adobe Experience Cloud.
 
 * **Afficher la hiérarchie des dossiers du dossier de destination dans la boîte de dialogue Déplacer** : l’affichage de la hiérarchie des dossiers pour chaque dossier facilite le déplacement des ressources et réduit la probabilité de les placer dans un mauvais dossier.
 
@@ -413,7 +413,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tbody>
 </table>
 
-* **Intégration d’Adobe Privacy Service** : harmonisez-le avec Privacy Service afin d’automatiser la conformité aux réglementations de confidentialité des données sur l’ensemble des produits Experience Cloud. Actuellement, ce service n’est disponible que pour les clients Marketo Engage qui ont intégré le système Adobe Identity Management.
+* **Intégration d’Adobe Privacy Service** : harmonisez-le avec Privacy Service pour automatiser la conformité aux réglementations de confidentialité des données sur les produits Experience Cloud. Actuellement, ce service n’est disponible que pour les clients Marketo Engage qui ont intégré le système Adobe Identity Management.
 
 <table>
   <tr>
@@ -427,7 +427,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tbody>
 </table>
 
-### Expérience nouvelle génération {#modern-ux}
+### Expérience nouvelle génération
 
 </br>
 
@@ -565,3 +565,4 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
 * **Forms 1.0** : l’obsolescence de Forms 1.0 sera terminée avec la version d’octobre. Les ressources de Forms 1.0 ne pourront plus envoyer de données à Marketo Engage et renverront des erreurs si elles sont tentées.
 
 * **No-Script Forms** : Forms ne fonctionnera plus lorsque JavaScript sera désactivé dans le navigateur. L’envoi du formulaire nécessite l’activation de JavaScript.
+
