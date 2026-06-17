@@ -3,7 +3,7 @@ description: Discutez avec l’IA dédiée au Marketo des données de performanc
 title: Informations sur la surface
 badge: Beta
 hide: true
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
 workflow-type: tm+mt
 source-wordcount: '502'
 ht-degree: 1%
@@ -16,7 +16,7 @@ Les informations de surface vous permettent d’avoir une conversation sur vos d
 
 >[!PREREQUISITES]
 >
->* Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [&#x200B; Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
+>* Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [ Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
 >
 >* Vous devez avoir accès aux programmes et aux rapports sur lesquels vous vous renseignez.
 
@@ -49,3 +49,4 @@ Les informations de surface vous permettent d’avoir une conversation sur vos d
 * L’IA dédiée aux Marketo peut faire apparaître des données, mais ne peut pas apporter de modifications à vos programmes ou rapports en fonction de ses découvertes.
 * Pour des rapports personnalisés détaillés avec des filtres et des répartitions spécifiques, les outils de rapports intégrés de Marketo ou une intégration de BI peuvent être plus appropriés.
 * L’attribution dans les campagnes multipoint nécessite une configuration de programme appropriée. L’IA dédiée au Marketo crée des rapports sur les éléments suivis, et non sur l’attribution non configurée.
+

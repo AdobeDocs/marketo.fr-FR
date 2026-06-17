@@ -2,7 +2,7 @@
 description: L’agent principal Enquêter répond aux questions les plus fréquentes des spécialistes marketing. Elle est plus rapide et plus fiable que l’exploration manuelle des journaux d’activité, de l’historique des campagnes intelligentes et des enregistrements de notation.
 title: Enquête sur les prospects
 badge: Beta
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
 workflow-type: tm+mt
 source-wordcount: '554'
 ht-degree: 1%
@@ -15,7 +15,7 @@ Découvrez pourquoi une personne/un prospect spécifique n’a pas atteint un ja
 
 >[!AVAILABILITY]
 >
->Cette fonctionnalité est actuellement en version Beta ouverte. Pour demander l’accès, contactez votre gestionnaire de compte. Vous devez également accepter les termes [&#x200B; Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
+>Cette fonctionnalité est actuellement en version Beta ouverte. Pour demander l’accès, contactez votre gestionnaire de compte. Vous devez également accepter les termes [ Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
 >
 >* Vous devez disposer d’un accès en affichage à l’enregistrement de la personne/du prospect et au programme ou au jalon concerné.
 
@@ -54,3 +54,4 @@ Découvrez pourquoi une personne/un prospect spécifique n’a pas atteint un ja
 * L’enquête de lead est en lecture seule. Il vous indique ce qui s’est passé, mais n’apporte aucune modification à l’enregistrement du prospect ou à l’appartenance au programme.
 * Pour les problèmes qui s’avèrent être des problèmes de qualité des données (valeurs de champ manquantes, source de lead incorrecte), la correction doit être effectuée manuellement dans l’enregistrement du lead.
 * Si l’enquête révèle un problème de logique de campagne intelligente affectant de nombreux prospects, utilisez l’assurance qualité du programme pour examiner la configuration complète du programme.
+

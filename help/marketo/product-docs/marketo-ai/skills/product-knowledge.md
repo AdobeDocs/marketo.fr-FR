@@ -2,7 +2,7 @@
 description: Utilisez les connaissances du produit pour interroger l’IA dédiée à Marketo sur les fonctionnalités, les bonnes pratiques et la procédure de Marketo Engage. Les réponses sont fondées sur la documentation officielle d’Adobe.
 title: Connaissances du produit
 badge: Beta
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
 workflow-type: tm+mt
 source-wordcount: '449'
 ht-degree: 1%
@@ -15,14 +15,12 @@ La connaissance des produits vous donne un accès à la demande à l’expertise
 
 >[!AVAILABILITY]
 >
->Cette fonctionnalité est actuellement en version Beta ouverte. Pour demander l’accès, contactez votre gestionnaire de compte. Vous devez également accepter les termes [&#x200B; Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
+>Cette fonctionnalité est actuellement en version Beta ouverte. Pour demander l’accès, contactez votre gestionnaire de compte. Vous devez également accepter les termes [ Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
 
 ## Utilisation {#how-to-use}
 
 1. Dans Mon Marketo, cliquez sur la mosaïque **Marketo AI**.
-
 1. Dans la fenêtre d&#39;invite, tapez votre question en langage naturel ; aucune syntaxe spéciale n&#39;est requise.
-
 1. La réponse est fournie. Si vous avez besoin de plus de détails ou d&#39;un angle différent, demandez un suivi.
 
 ## Cas d’utilisation {#use-cases}
