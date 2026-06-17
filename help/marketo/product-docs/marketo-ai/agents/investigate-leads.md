@@ -1,9 +1,9 @@
 ---
 description: L’agent principal Enquêter répond aux questions les plus fréquentes des spécialistes marketing. Elle est plus rapide et plus fiable que l’exploration manuelle des journaux d’activité, de l’historique des campagnes intelligentes et des enregistrements de notation.
 title: Enquête sur les prospects
-source-git-commit: 3895c3c0ffeeafee45193c8ac3ce346a4e59ebb1
+source-git-commit: 3f7d17870cf0d60c716095ae200c003fc8ff0e28
 workflow-type: tm+mt
-source-wordcount: '549'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Découvrez pourquoi une personne/un prospect spécifique n’a pas atteint un ja
 >
 >* Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [&#x200B; Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
 >
->* Vous devez disposer d’un accès en affichage à l’enregistrement de la personne/du prospect et au programme ou au jalon faisant l’objet de votre enquête.
+>* Vous devez disposer d’un accès en affichage à l’enregistrement de la personne/du prospect et au programme ou au jalon concerné.
 
 >[!AVAILABILITY]
 >
