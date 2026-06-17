@@ -1,7 +1,7 @@
 ---
 description: Utilisez les connaissances du produit pour interroger l’IA dédiée à Marketo sur les fonctionnalités, les bonnes pratiques et la procédure de Marketo Engage. Les réponses sont fondées sur la documentation officielle d’Adobe.
 title: Connaissances du produit
-source-git-commit: 3895c3c0ffeeafee45193c8ac3ce346a4e59ebb1
+source-git-commit: 3f7d17870cf0d60c716095ae200c003fc8ff0e28
 workflow-type: tm+mt
 source-wordcount: '461'
 ht-degree: 1%
@@ -14,7 +14,7 @@ La connaissance des produits vous donne un accès à la demande à l’expertise
 
 >[!PREREQUISITES]
 >
->Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [&#x200B; Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
+>Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [ Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
 
 >[!AVAILABILITY]
 >
