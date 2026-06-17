@@ -20,7 +20,7 @@ Vérifiez vos programmes à la recherche des bonnes pratiques sur tous les compo
 
 >[!PREREQUISITES]
 >
->Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [ Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Contactez votre gestionnaire de compte pour plus de détails.
+>Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [&#x200B; Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Contactez votre gestionnaire de compte pour plus de détails.
 
 ## Utilisation {#how-to-use}
 
