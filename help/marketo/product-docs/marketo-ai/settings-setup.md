@@ -1,11 +1,12 @@
 ---
 description: Découvrez comment activer les autorisations de l’IA dédiée à Marketo, configurer les règles d’organisation et gérer les paramètres tels que les intégrations et les notifications.
 title: Paramètres et configuration
+badge: Beta
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: 3f7d17870cf0d60c716095ae200c003fc8ff0e28
+source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
 workflow-type: tm+mt
-source-wordcount: '564'
-ht-degree: 3%
+source-wordcount: '537'
+ht-degree: 4%
 
 ---
 
@@ -15,11 +16,7 @@ Découvrez comment activer des autorisations et utiliser la zone Paramètres pou
 
 >[!AVAILABILITY]
 >
->Cette fonctionnalité est en disponibilité limitée. Pour demander l’accès, remplissez [ce formulaire](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode){target="_blank"}. Assurez-vous que l’identifiant Munchkin de votre abonnement est prêt.
-
->[!PREREQUISITES]
->
->Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [&#x200B; Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Contactez votre gestionnaire de compte pour plus de détails.
+>Cette fonctionnalité est actuellement en version Beta ouverte. Pour demander l’accès, contactez votre gestionnaire de compte. Vous devez également accepter les termes [ Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
 
 ## Autorisations et rôles {#permission-and-role}
 
@@ -80,7 +77,7 @@ Pour affecter un utilisateur spécifique au rôle _Utilisateur de l’IA_, proc�
 
 ### Rôle personnalisé {#custom-role}
 
-Vous avez également la possibilité de [créer un nouveau rôle](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} et de personnaliser ses autorisations, en ajoutant _Accéder à l’IA Marketo_, ainsi que tout ce que vous souhaitez, et [en attribuant ce rôle](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} à des utilisateurs et utilisatrices spécifiques.
+Vous avez également la possibilité de [créer un nouveau rôle](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} et de personnaliser ses autorisations, en ajoutant _Accéder à l’IA Marketo_, ainsi que tout ce que vous souhaitez, et [en attribuant ce rôle](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} à des utilisateurs et utilisatrices spécifiques.
 
 ## Paramètres {#settings}
 

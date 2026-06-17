@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
-source-git-commit: b6cd3c664558bba94330221dc6280e50df22888b
+source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
 workflow-type: tm+mt
-source-wordcount: '8909'
+source-wordcount: '8899'
 ht-degree: 96%
 
 ---
@@ -36,8 +36,8 @@ ht-degree: 96%
       + [Abonnement aux notifications d’état du système](getting-started/things-to-know/system-status-notifications.md)
       + {hide-from-toc}[Assistant IA pour la connaissance des produits](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
       + {hide-from-toc}[Communauté Marketing Nation](getting-started/things-to-know/community.md)
-      + {hide-from-toc}[Migration &#x200B;](getting-started/things-to-know/aws-migration.md)
-      + {hide-from-toc}[&#x200B; Nouvelle interface utilisateur &#x200B;](getting-started/things-to-know/new-ui.md)
+      + {hide-from-toc}[Migration ](getting-started/things-to-know/aws-migration.md)
+      + {hide-from-toc}[ Nouvelle interface utilisateur ](getting-started/things-to-know/new-ui.md)
    + Solutions rapides {#quick-wins}
       + [Préparer sa configuration et ajouter une personne](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [Envoyer un e-mail](getting-started/quick-wins/send-an-email.md)
@@ -468,9 +468,6 @@ ht-degree: 96%
                + [Envoi d’un exemple](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)
                + [Partage d’un Moment](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
       + Divers {#miscellaneous}
-         + {hide-from-toc}[Présentation du collaborateur](product-docs/core-marketo-concepts/miscellaneous/coworker-overview.md)
-         + {hide-from-toc}[Collègue : créer une campagne par e-mail](product-docs/core-marketo-concepts/miscellaneous/coworker-create-an-email-campaign.md)
-         + {hide-from-toc}[Cas d’utilisation de collègues](product-docs/core-marketo-concepts/miscellaneous/coworker-use-cases.md)
          + {hide-from-toc}[Configuration de l’intégration Adobe Experience Manager](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
          + [Créer un dossier de campagne](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
          + {hide-from-toc}[Glossaire des raccourcis clavier](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
@@ -651,7 +648,7 @@ ht-degree: 96%
          + Conversation en direct {#live-chat}
             + [Vue d’ensemble de la conversation en direct](product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md)
             + [Boîte de réception de l’agent ou de l’agente](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md)
-            + {hide-from-toc}[Notifications &#x200B;](product-docs/demand-generation/dynamic-chat/live-chat/notifications.md)
+            + {hide-from-toc}[Notifications ](product-docs/demand-generation/dynamic-chat/live-chat/notifications.md)
          + IA générative {#generative-ai}
             + [Vue d’ensemble de l’IA générative](product-docs/demand-generation/dynamic-chat/generative-ai/overview.md)
             + [Génération de questions](product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md)
@@ -1005,7 +1002,7 @@ ht-degree: 96%
          + [CSS personnalisé](product-docs/email-marketing/email-designer/custom-css.md)
          + [Mode sombre](product-docs/email-marketing/email-designer/dark-mode.md)
          + [Tester le rendu des e-mails avec Litmus](product-docs/email-marketing/email-designer/test-email-rendering.md)
-         + {hide-from-toc}[Jetons &#x200B;](product-docs/email-marketing/email-designer/personalization-tokens.md)
+         + {hide-from-toc}[Jetons ](product-docs/email-marketing/email-designer/personalization-tokens.md)
          + [Utiliser AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
          + [Modifier des images à l’aide d’Adobe Express](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
          + [Fragments](product-docs/email-marketing/email-designer/fragments.md)
@@ -1114,15 +1111,15 @@ ht-degree: 96%
    + MARKETO AI {#marketo-ai}
       + [Vue d’ensemble](product-docs/marketo-ai/overview.md)
       + [Paramètres et configuration](product-docs/marketo-ai/settings-setup.md)
-      + {hide-from-toc}[&#x200B; Paramètres et configuration &#x200B;](product-docs/marketo-ai/settings-setup-old.md)
-      + Agents {#agents}
-         + [Connaissances du produit](product-docs/marketo-ai/agents/product-knowledge.md)
-         + {hide-from-toc}[Informations sur la surface](product-docs/marketo-ai/agents/surface-insights.md)
-         + {hide-from-toc}[Créer des programmes](product-docs/marketo-ai/agents/build-programs.md)
-         + {hide-from-toc}[Cloner le programme](product-docs/marketo-ai/agents/clone-program.md)
-         + [Enquête sur les prospects](product-docs/marketo-ai/agents/investigate-leads.md)
-         + [Importer les leads](product-docs/marketo-ai/agents/import-leads.md)
-         + [Valider les programmes](product-docs/marketo-ai/agents/validate-programs.md)
+      + {hide-from-toc}[ Paramètres et configuration ](product-docs/marketo-ai/settings-setup-old.md)
+      + Compétences {#skills}
+         + [Connaissances du produit](product-docs/marketo-ai/skills/product-knowledge.md)
+         + {hide-from-toc}[Informations sur la surface](product-docs/marketo-ai/skills/surface-insights.md)
+         + {hide-from-toc}[Créer des programmes](product-docs/marketo-ai/skills/build-programs.md)
+         + {hide-from-toc}[Cloner le programme](product-docs/marketo-ai/skills/clone-program.md)
+         + [Enquête sur les prospects](product-docs/marketo-ai/skills/investigate-leads.md)
+         + [Importer les leads](product-docs/marketo-ai/skills/import-leads.md)
+         + [Valider les programmes](product-docs/marketo-ai/skills/validate-programs.md)
    + Expérience d’utilisation moderne pour Marketo Engage {#marketo-engage-modern-ux}
       + [Vue d’ensemble](product-docs/marketo-engage-modern-ux/overview.md)
       + [Utilisation de la recherche globale](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
@@ -1923,7 +1920,7 @@ ht-degree: 96%
    + [Version actuelle](release-notes/current.md)
    + {hide-from-toc}[Current Release TEMP](release-notes/current-temp.md)
    + [Version de Dynamic Chat](release-notes/dynamic-chat.md)
-   + {hide-from-toc}[TEMP de mise à jour de &#x200B;](release-notes/dynamic-chat-temp.md)
+   + {hide-from-toc}[TEMP de mise à jour de ](release-notes/dynamic-chat-temp.md)
    + [Versions précédentes](release-notes/previous-releases.md)
    + {hide-from-toc} versions précédentes {#previous-releases}
       + 2026 {#2026}
