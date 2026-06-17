@@ -3,7 +3,7 @@ description: Découvrez comment utiliser l’agent Importer des prospects pour c
 title: Importer les leads
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
 badge: Beta
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 1%
@@ -67,3 +67,4 @@ Importez et dédupliquez des listes de prospects dans votre base de données Mar
    ![](assets/import-leads-10.png)
 
 Une fois l’importation terminée, un résumé de vérification s’affiche. Il indique les prospects traités, les lignes ayant échoué et les avertissements éventuels.
+

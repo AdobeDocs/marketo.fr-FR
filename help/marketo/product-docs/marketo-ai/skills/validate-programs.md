@@ -3,7 +3,7 @@ description: Découvrez comment auditer vos programmes à la recherche des bonne
 title: Valider les programmes
 badge: Beta
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 2%
@@ -43,3 +43,4 @@ Vérifiez vos programmes à la recherche des bonnes pratiques sur tous les compo
    L’assistant d’IA fournit un contrôle qualité du programme sélectionné, vous montrant ce qui a réussi et ce qui a échoué.
 
    ![](assets/validate-programs-6.png)
+
