@@ -33,7 +33,7 @@ Parfois, il est préférable de simplement énumérer les règles. Et voilà :
 
 >[!NOTE]
 >
->Le comportement des champs booléens dans une fusion d’API a changé dans la version de mars 2026. Désormais, une valeur False est traitée correctement comme ayant une valeur pour ce champ. Seule une valeur null est traitée comme « vide » lors de l’évaluation de champs en conflit. Voir [ce billet de la communauté](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219){target="_blank"} pour plus d’informations.
+>Le comportement des champs booléens dans une fusion d’API a changé dans la version de mars 2026. Désormais, une valeur False est traitée correctement comme ayant une valeur pour ce champ. Seule une valeur null est traitée comme « vide » lors de l’évaluation de champs en conflit. Voir [ce billet de la communauté](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=fr){target="_blank"} pour plus d’informations.
 
 >[!MORELIKETHIS]
 >
