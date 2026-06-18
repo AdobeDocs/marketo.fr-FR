@@ -2,9 +2,27 @@
 title: 2014
 description: 2014 - Documents Marketo - Documentation Du Produit
 feature: Release Information
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+  - id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1
+  - id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: ad6fe9ab015682c15426fdc416cf6d243c83f297
 workflow-type: tm+mt
 source-wordcount: 3323
@@ -17,7 +35,7 @@ ht-degree: 4%
 
 ## Janvier 2014 {#january}
 
-Les fonctionnalités suivantes sont incluses dans la version de janvier 2014. Vérifiez la disponibilité des fonctionnalités dans votre [édition ](https://www.marketo.com/pricing/).
+Les fonctionnalités suivantes sont incluses dans la version de janvier 2014. Vérifiez la disponibilité des fonctionnalités dans votre [édition &#x200B;](https://www.marketo.com/pricing/).
 
 ## Formulaires 2.0 {#forms}
 
@@ -83,7 +101,7 @@ Les fonctionnalités suivantes sont incluses dans la version de février 2014. C
 
 ## [!UICONTROL score de l’engagement] dans le rapport [!UICONTROL performances du volet Engagement] {#engagement-score-in-engagement-stream-performance-report}
 
-Nous avons ajouté le score de l’engagement au rapport [[!UICONTROL Performances du flux d’engagement] ](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) pour vous aider à évaluer l’efficacité du contenu de votre programme d’engagement.
+Nous avons ajouté le score de l’engagement au rapport [[!UICONTROL Performances du flux d’engagement] &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) pour vous aider à évaluer l’efficacité du contenu de votre programme d’engagement.
 
 ![](assets/image2014-9-22-10-3a50-3a36.png)
 
@@ -149,13 +167,13 @@ Pour rappel, ce paramètre modifie également les mesures d’attribution du pro
 
 ## Langue d&#39;utilisateur supplémentaire {#additional-user-language}
 
-Sélectionnez Votre [Langue D&#39;Application ](/help/marketo/product-docs/administration/settings/change-time-zone.md). Affichez l’interface de gestion des prospects de Marketo dans la langue de votre choix, désormais en japonais.
+Sélectionnez Votre [Langue D&#39;Application &#x200B;](/help/marketo/product-docs/administration/settings/change-time-zone.md). Affichez l’interface de gestion des prospects de Marketo dans la langue de votre choix, désormais en japonais.
 
 ![](assets/image2014-9-22-11-3a37-3a14.png)
 
 ## Blog des développeurs Marketo {#marketo-developer-blog}
 
-Le blog du développeur de Marketo [](https://developers.marketo.com/blog/) est dédié aux développeurs web et aux ingénieurs en logiciels qui prennent en charge les besoins en rapide évolution du marketeur moderne. Vous pouvez vous abonner aux annonces sur les nouvelles options d’intégration, les mises à jour de versions d’API et une nouvelle série d’articles pratiques qui incluent des exemples de code et des bonnes pratiques sur l’intégration à la plateforme Marketo.
+Le blog du développeur de Marketo [&#128279;](https://developers.marketo.com/blog/) est dédié aux développeurs web et aux ingénieurs en logiciels qui prennent en charge les besoins en rapide évolution du marketeur moderne. Vous pouvez vous abonner aux annonces sur les nouvelles options d’intégration, les mises à jour de versions d’API et une nouvelle série d’articles pratiques qui incluent des exemples de code et des bonnes pratiques sur l’intégration à la plateforme Marketo.
 
 Le [premier article](https://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/) de cette série vous explique comment récupérer efficacement des informations sur les personnes (clients/contacts/prospects) stockées dans Marketo à l’aide de l’API.
 
@@ -267,9 +285,9 @@ Les campagnes RTP incluent désormais une nouvelle conception avec des vues de m
 
 Ajoutez toutes vos données RTP dans votre plateforme d’analyse web.
 
-L&#39;intégration avec [](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md) (GA) est désormais activée par défaut. Sous Paramètres du compte, activez donc le commutateur pour les données que vous souhaitez envoyer aux variables et événements personnalisés GA.
+L&#39;intégration avec [&#128279;](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md) (GA) est désormais activée par défaut. Sous Paramètres du compte, activez donc le commutateur pour les données que vous souhaitez envoyer aux variables et événements personnalisés GA.
 
-Nous avons également terminé l’intégration avec [](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md).
+Nous avons également terminé l’intégration avec [&#128279;](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md).
 
 ## Juillet 2014 {#july}
 
@@ -291,7 +309,7 @@ La documentation relative au calendrier marketing sera disponible au moment de l
 
 ## Opérateurs de date {#date-operators}
 
-[Filtres avancés](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) pour « [!UICONTROL  dans le passé avant ] », « [!UICONTROL  dans le futur ] » et « [!UICONTROL  dans le futur après ] ». Par exemple, trouvez les prospects dont la date de naissance se situe dans les 3 prochains mois ou dont le contrat expire après 6 mois.
+[Filtres avancés](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) pour « [!UICONTROL &#x200B; dans le passé avant &#x200B;] », « [!UICONTROL &#x200B; dans le futur &#x200B;] » et « [!UICONTROL &#x200B; dans le futur après &#x200B;] ». Par exemple, trouvez les prospects dont la date de naissance se situe dans les 3 prochains mois ou dont le contrat expire après 6 mois.
 
 ![](assets/image2014-9-22-14-3a23-3a56.png)
 
@@ -307,7 +325,7 @@ Outre le calendrier marketing avec lequel vous gérez vos événements et progra
 
 ## Liste des opérations dans l’API REST {#list-operations-in-the-rest-api}
 
-Nous avons ajouté les appels ci-dessous liés aux opérations de liste dans ReST. Voir [](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api) pour consulter la documentation complète.
+Nous avons ajouté les appels ci-dessous liés aux opérations de liste dans ReST. Voir [&#128279;](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api) pour consulter la documentation complète.
 
 * Obtenir la liste par ID
 * Obtenir plusieurs listes
@@ -451,7 +469,7 @@ Utilisez l’API pour extraire de nouvelles activités ou modifications vers les
 * Obtenir les types d’activités
 * Obtenir le jeton de pagination
 
-Des détails complets seront disponibles après la publication sur [](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api).
+Des détails complets seront disponibles après la publication sur [&#128279;](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api).
 
 ## MSI - Envoyer un e-mail Marketo pour [!DNL Microsoft Dynamics] {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -491,7 +509,7 @@ Utilisez un nouvel appel qui suit l’historique des visites passées du visiteu
 * Produits intéressés par
 * Quelles campagnes RTP ont-ils vues ?
 
-Consultez [](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) pour plus de détails.
+Consultez [&#128279;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) pour plus de détails.
 
 ## Décembre 2014 {#december}
 
@@ -499,7 +517,7 @@ Les fonctionnalités suivantes sont incluses dans la version de décembre 2014. 
 
 ## [!DNL Sales Insight] Reports {#sales-insight-reports}
 
-Le [[!DNL Sales Insight]  Rapport sur les performances des e-mails ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) permet d’afficher les mesures par e-mail et par représentant commercial. Il prend en charge les e-mails envoyés par le biais de [!DNL Salesforce], [!DNL Microsoft Dynamics], le plug-in [!DNL Outlook] et le plug-in [!DNL Gmail].
+Le [[!DNL Sales Insight]  Rapport sur les performances des e-mails &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) permet d’afficher les mesures par e-mail et par représentant commercial. Il prend en charge les e-mails envoyés par le biais de [!DNL Salesforce], [!DNL Microsoft Dynamics], le plug-in [!DNL Outlook] et le plug-in [!DNL Gmail].
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
@@ -547,7 +565,7 @@ Trois nouveaux appels pour l’API REST de lead et d’activité :
 
 · Fusionner le prospect
 
-Des détails complets seront disponibles après la publication sur [](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/home)
+Des détails complets seront disponibles après la publication sur [&#128279;](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/home)
 
 ## Améliorations de la compatibilité [!DNL Munchkin Javascript] {#munchkin-javascript-compatibility-enhancements}
 
