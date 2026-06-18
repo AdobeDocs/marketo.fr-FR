@@ -30,9 +30,9 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+source-git-commit: ad6fe9ab015682c15426fdc416cf6d243c83f297
 workflow-type: tm+mt
-source-wordcount: 2864
+source-wordcount: 2816
 ht-degree: 6%
 
 ---
@@ -480,3 +480,4 @@ Ce nouveau plug-in exécute diverses actions en mode asynchrone pour améliorer 
 ## Recherche par URL de page de destination dans Design Studio {#search-by-url-of-landing-page-in-design-studio}
 
 Dans la grille de page de destination de Design Studio, vous pouvez désormais rechercher vos pages de destination par URL de page. Il peut également être exporté.
+

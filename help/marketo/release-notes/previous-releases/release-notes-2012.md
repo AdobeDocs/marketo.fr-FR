@@ -18,7 +18,7 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+source-git-commit: ad6fe9ab015682c15426fdc416cf6d243c83f297
 workflow-type: tm+mt
 source-wordcount: 3331
 ht-degree: 2%
@@ -582,3 +582,4 @@ Vous êtes-vous déjà demandé quelles campagnes utilisent une action de flux s
 Accédez à **[!UICONTROL Admin]** > **[!UICONTROL Coffre au trésor]** pour activer l’**[!UICONTROL Inspecteur de campagne]**.
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)
+
