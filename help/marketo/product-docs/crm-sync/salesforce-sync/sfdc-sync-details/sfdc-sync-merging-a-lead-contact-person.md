@@ -5,7 +5,8 @@ title: Synchronisation de SFDC - Fusion d’un lead/contact/d’une personne
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/alPa6YMG0tgo08ruZAZlWhujV54iVcUMAAejXJbEQFw
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: 18ccc13ddd9cfb998015bb581373a7ca7c064d59
 workflow-type: tm+mt
 source-wordcount: 268
@@ -18,7 +19,7 @@ ht-degree: 2%
 Parfois, il est préférable de simplement énumérer les règles. Et voilà :
 
 * Lorsque vous fusionnez deux prospects dans **[!DNL Salesforce]**, la synchronisation normale indique à Marketo que les prospects sont fusionnés automatiquement en tant que personnes dans Marketo.
-* La fusion de deux personnes dans **** appelle en fait le même processus que la fusion en tant que prospects dans [!DNL Salesforce]. Cela fonctionne toujours automatiquement.
+* La fusion de deux personnes dans **&#x200B;**&#x200B;appelle en fait le même processus que la fusion en tant que prospects dans [!DNL Salesforce]. Cela fonctionne toujours automatiquement.
 * La fusion d’un **prospect (personne) dans un contact** fonctionne de la même manière. Vous vous retrouvez avec un seul contact des deux côtés.
 * Lors de la fusion, le score par défaut est additionné.
 
