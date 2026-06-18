@@ -28,7 +28,7 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+source-git-commit: 5247efff11566852d4c7271f1d212cc233593c19
 workflow-type: tm+mt
 source-wordcount: 1871
 ht-degree: 4%
@@ -105,7 +105,7 @@ Marketo ajoute une source de données japonaise supplémentaire pour Web Persona
 
 Web Personalization peut désormais personnaliser le contenu pour un visiteur web connu qui fait partie d’une liste statique définie dans les activités marketing (MLM). Grâce à cette amélioration, vous pouvez désormais commercialiser sur plusieurs canaux des listes statiques et cibler les personnes figurant sur ces listes avec du contenu personnalisé sur votre site web.
 
-## ContentAI {#contentai}
+## ContentAI
 
 **Amélioration de l’algorithme prédictif**
 
@@ -189,7 +189,7 @@ Partagez facilement vos graphiques rapides avec d’autres utilisateurs [!UICONT
 
 Une navigation optimisée et des workflows améliorés vous donnent une visibilité sur les critères de réussite du programme et l’accès aux détails du programme.
 
-## ContentAI {#contentai}
+## ContentAI
 
 [Définition des objectifs](/help/marketo/product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
 
@@ -217,7 +217,7 @@ Les fonctionnalités suivantes sont incluses dans la version de l’automne 18. 
 
 Cliquez sur les liens de titre pour consulter les articles détaillés de chaque fonctionnalité, le cas échéant.
 
-## Améliorations principales de la plateforme {#core-platform-enhancements}
+## Améliorations principales de la plateforme
 
 **[Web Personalization](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
 
@@ -305,3 +305,4 @@ Marketo prend désormais en charge l’utilisation des champs de disposition des
 >[!NOTE]
 >
 >Marketo met également à niveau les bibliothèques liées à l’identité et à l’authentification. Pendant la mise à niveau, vous remarquerez peut-être des erreurs intermittentes si une session active est ouverte. Si vous rencontrez des problèmes, déconnectez-vous et reconnectez-vous à votre abonnement.
+
