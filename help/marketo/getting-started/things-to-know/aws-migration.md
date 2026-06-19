@@ -74,7 +74,7 @@ De nouvelles dates et informations sur les datacenters/pods sont régulièrement
    <td>17 h (heure du Pacifique)<br>
    18 h (heure du Pacifique)</td>
   </tr>
-  </body>
+  &lt;/body>
   </table>
 
 ## Adresses IP à ajouter {#ip-addresses}
@@ -99,7 +99,7 @@ En fonction de votre centre de données, collaborez avec votre service informati
 18.200.201.81<br>
 54.220.138.65</td>
   </tr>
-  </body>
+  &lt;/body>
   </table>
 
 ## Mises à jour et assistance
