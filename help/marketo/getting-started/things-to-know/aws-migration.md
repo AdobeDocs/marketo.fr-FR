@@ -4,7 +4,7 @@ title: Migration d’AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 2778f5a4fdc2221b9b46fbda5df90f9e35fa6b9f
+source-git-commit: 1f54476f0f7d66f6250299464b3c1145b11e86b1
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 3%
@@ -104,4 +104,4 @@ En fonction de votre centre de données, collaborez avec votre service informati
 
 ## Mises à jour et assistance
 
-Pour connaître les dernières mises à jour, mettez un signet sur cette page. Pour toute question, contactez l’assistance Adobe via le portail d’assistance d’Admin Console ou [Experience League](https://experienceleague.adobe.com/fr/support).
+Pour connaître les dernières mises à jour, mettez un signet sur cette page. Pour toute question, contactez l’assistance Adobe via le portail d’assistance d’Admin Console ou [Experience League](https://experienceleague.adobe.com/fr/support){target="_blank"}.
