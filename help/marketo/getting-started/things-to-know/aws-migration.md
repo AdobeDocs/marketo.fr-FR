@@ -4,7 +4,7 @@ title: Migration d’AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 1f54476f0f7d66f6250299464b3c1145b11e86b1
+source-git-commit: 6137b262cf085d5b270d16e0bf3e4e39351c5af4
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 3%
@@ -44,9 +44,9 @@ Les impacts ci-dessous ne nécessitent aucune action de votre part.
 
 Avant de passer en revue les tableaux ci-dessous, [découvrez comment identifier](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify) le centre de données et le pod/serveur dans lesquels se trouve votre abonnement.
 
-## Planning {#schedule}
+## Programmation {#schedule}
 
-De nouvelles dates et informations sur les datacenters/pods sont régulièrement ajoutées. N’oubliez pas de revenir ici pour plus de détails.
+De nouvelles dates et informations sur le datacenter/pod sont régulièrement ajoutées. N’oubliez pas de revenir ici pour plus de détails.
 
 <table>
  <tbody>

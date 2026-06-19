@@ -42,9 +42,9 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 6137b262cf085d5b270d16e0bf3e4e39351c5af4
 workflow-type: tm+mt
-source-wordcount: 6102
+source-wordcount: 6103
 ht-degree: 62%
 
 ---
@@ -478,8 +478,8 @@ Vous trouverez ci-dessous des définitions pour de nombreux termes que vous pouv
    <td colspan="1">Lorsqu’une personne a reçu tous les éléments de contenu dans un flux d’engagement. Les personnes marquées comme épuisées le resteront jusqu’à ce que du <strong>contenu</strong> supplémentaire soit ajouté.</td>
   </tr>
   <tr>
-   <td colspan="1"><strong>Experience Cloud Audience Sync</strong></td>
-   <td colspan="1">Une fonctionnalité qui synchronise les segments d’audience entre Marketo Engage et d’autres applications Adobe Experience Cloud (telles que Adobe Experience Platform), ce qui permet un ciblage d’audience cohérent dans l’écosystème Adobe.</td>
+   <td colspan="1"><strong>Synchronisation des audiences Experience Cloud</strong></td>
+   <td colspan="1">Fonction de synchronisation des segments d’audience entre Marketo Engage et d’autres applications Adobe Experience Cloud (telles que Adobe Experience Platform), permettant un ciblage d’audience cohérent dans l’écosystème Adobe.</td>
   </tr>
  </tbody>
 </table>
