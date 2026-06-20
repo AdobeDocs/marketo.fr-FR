@@ -4,7 +4,7 @@ title: Migration d’AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 6137b262cf085d5b270d16e0bf3e4e39351c5af4
+source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 3%
@@ -74,34 +74,34 @@ De nouvelles dates et informations sur le datacenter/pod sont régulièrement aj
    <td>17 h (heure du Pacifique)<br>
    18 h (heure du Pacifique)</td>
   </tr>
-  &lt;/body>
-  </table>
+  </body>
+</table>
 
 ## Adresses IP à ajouter {#ip-addresses}
 
 En fonction de votre centre de données, collaborez avec votre service informatique pour ajouter les adresses IP respectives.
 
 <table>
- <tbody>
-  <tr>
-   <th style="width:25%">Centre de données</th>
-   <th style="width:75%">Adresses IP</th>
-  </tr>
-  <tr>
-   <td>AB</td>
-   <td>54.160.246.246<br>
-   54.237.141.197<br>
-   52.20.211.99</td>
-  </tr>
-  <tr>
-   <td>NLD</td>
-   <td>34.247.24.245<br>
+<tbody>
+<tr>
+  <th style="width:25%">Centre de données</th>
+  <th style="width:75%">Adresses IP</th>
+</tr>
+<tr>
+  <td>AB</td>
+  <td>54.160.246.246<br>
+  54.237.141.197<br>
+  52.20.211.99</td>
+</tr>
+<tr>
+  <td>NLD</td>
+  <td>34.247.24.245<br>
 18.200.201.81<br>
 54.220.138.65</td>
-  </tr>
-  &lt;/body>
-  </table>
+</tr>
+</body>
+</table>
 
 ## Mises à jour et assistance
 
-Pour connaître les dernières mises à jour, mettez un signet sur cette page. Pour toute question, contactez l’assistance Adobe via le portail d’assistance d’Admin Console ou [Experience League](https://experienceleague.adobe.com/fr/support){target="_blank"}.
+Pour connaître les dernières mises à jour, mettez un signet sur cette page. Pour toute question, contactez l’assistance Adobe via le portail d’assistance d’Admin Console ou [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
