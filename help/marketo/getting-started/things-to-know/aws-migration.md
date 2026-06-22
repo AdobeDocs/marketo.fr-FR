@@ -4,10 +4,10 @@ title: Migration d’AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+source-git-commit: 51020c6772c6a81ef53f3a0effcf43cda01f85f4
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 3%
+source-wordcount: '390'
+ht-degree: 2%
 
 ---
 
@@ -58,23 +58,42 @@ De nouvelles dates et informations sur le datacenter/pod sont régulièrement aj
   <tr>
    <td>19 Juin 2026</td>
    <td>AB46</td>
-   <td>17 h (heure du Pacifique)</td>
+   <td>REPORTÉ</td>
   </tr>
   <tr>
    <td>8 juillet 2026</td>
    <td>AB69<br>
    AB64</td>
-   <td>17 h (heure du Pacifique)<br>
-   18 h (heure du Pacifique)</td>
+   <td>17 h (HAP)<br>
+   18 h (HAP)</td>
   </tr>
   <tr>
    <td>9 juillet 2026</td>
    <td>AB70<br>
    AB43</td>
-   <td>17 h (heure du Pacifique)<br>
-   18 h (heure du Pacifique)</td>
+   <td>17 h (HAP)<br>
+   18 h (HAP)</td>
   </tr>
-  &lt;/body>
+  <tr>
+   <td>13 Juillet 2026</td>
+   <td>NLD101</td>
+   <td>10 h (heure du Pacifique)</td>
+  </tr>
+  <tr>
+   <td>15 juillet 2026</td>
+   <td>NLD102<br>
+   NLD104</td>
+   <td>10 h (heure du Pacifique)<br>
+   11 h (heure du Pacifique)</td>
+  </tr>
+  <tr>
+   <td>17 juillet 2026</td>
+   <td>NLD103<br>
+   NLD105</td>
+   <td>10 h (heure du Pacifique)<br>
+   11 h (heure du Pacifique)</td>
+  </tr>
+  </body>
 </table>
 
 ## Adresses IP à ajouter {#ip-addresses}
@@ -99,9 +118,9 @@ En fonction de votre centre de données, collaborez avec votre service informati
 18.200.201.81<br>
 54.220.138.65</td>
 </tr>
-&lt;/body>
+</body>
 </table>
 
 ## Mises à jour et assistance
 
-Pour connaître les dernières mises à jour, mettez un signet sur cette page. Pour toute question, contactez l’assistance Adobe via le portail d’assistance d’Admin Console ou [Experience League](https://experienceleague.adobe.com/fr/support){target="_blank"}.
+Pour connaître les dernières mises à jour, mettez un signet sur cette page. Pour toute question, contactez l’assistance Adobe via le portail d’assistance d’Admin Console ou [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
