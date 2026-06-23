@@ -5,33 +5,14 @@ title: Descriptions des autorisations de rôles
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
 TQID: https://experienceleague.adobe.com/3n-kUApPaDh4HNYgYPGgo94S04tjxqrTgA7UxdwY1h4
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
-  - id: a8c137b3-8aa5-433e-bdc9-0a216c2a11c1
-  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
-  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
-  - id: f7d2c504-7d5f-4a94-b77e-7fce7ef46c22
-  - id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: a8c137b3-8aa5-433e-bdc9-0a216c2a11c1id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275id: f5e85a9b-a883-40d0-8759-f3651efb32e9id: f7d2c504-7d5f-4a94-b77e-7fce7ef46c22id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: e8a199f7105f301b7328def28ea172da00285da9
 workflow-type: tm+mt
-source-wordcount: 1344
-ht-degree: 19%
+source-wordcount: 1338
+ht-degree: 18%
 
 ---
 
@@ -68,7 +49,7 @@ Affichez et modifiez les paramètres dans la section Mon compte de l’administr
 * `Data.com` d’accès : permet aux utilisateurs d’accéder à l’action de flux Data.com.
 * Accéder à l’administrateur de messagerie : permet aux utilisateurs d’accéder à l’administrateur de messagerie pour modifier les paramètres par défaut, tels que le désabonnement et les domaines de marque
 * Accéder aux partenaires d’événement : permet aux utilisateurs d’accéder à LaunchPoint dans Admin.
-* Partage d’audiences d’accès à Experience Cloud - Permet aux utilisateurs de synchroniser une audience de Adobe Experience Cloud vers Marketo Engage
+* Partage d’audiences Access Experience Cloud : permet aux utilisateurs de synchroniser une audience d’Adobe Experience Cloud vers Marketo Engage
 * Gestion des champs d’accès - Permet aux utilisateurs d’accéder à la gestion des champs dans Admin
 * Accéder au téléchargement de fichier : permet aux utilisateurs de télécharger des images et des fichiers dans Design Studio
 * Accéder aux pages de destination : permet aux utilisateurs d’accéder aux pages de destination dans Admin
@@ -234,15 +215,10 @@ Affichez l’onglet Activités marketing, les campagnes et les dossiers de campa
 * Supprimer la ressource marketing
 * Modifier les restrictions de la campagne
 * Modifier la ressource marketing
-* Exporter l&#39;activité de campagne&#42;
+* Exporter l&#39;activité de campagne
 * Importer le programme
 * Importer une liste
 * Programmer une campagne par lot
-
-Accéder à la SEO
-
-* Gérer une SEO
-* Standard SEO
 
 ## Ciblage et personnalisation {#targeting-and-personalization}
 
