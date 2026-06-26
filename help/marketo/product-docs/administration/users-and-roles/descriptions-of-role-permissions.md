@@ -28,10 +28,10 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: e8a199f7105f301b7328def28ea172da00285da9
 workflow-type: tm+mt
-source-wordcount: 1344
-ht-degree: 19%
+source-wordcount: 1338
+ht-degree: 18%
 
 ---
 
@@ -68,7 +68,7 @@ Affichez et modifiez les paramètres dans la section Mon compte de l’administr
 * `Data.com` d’accès : permet aux utilisateurs d’accéder à l’action de flux Data.com.
 * Accéder à l’administrateur de messagerie : permet aux utilisateurs d’accéder à l’administrateur de messagerie pour modifier les paramètres par défaut, tels que le désabonnement et les domaines de marque
 * Accéder aux partenaires d’événement : permet aux utilisateurs d’accéder à LaunchPoint dans Admin.
-* Partage d’audiences d’accès à Experience Cloud - Permet aux utilisateurs de synchroniser une audience de Adobe Experience Cloud vers Marketo Engage
+* Partage d’audiences Access Experience Cloud : permet aux utilisateurs de synchroniser une audience d’Adobe Experience Cloud vers Marketo Engage
 * Gestion des champs d’accès - Permet aux utilisateurs d’accéder à la gestion des champs dans Admin
 * Accéder au téléchargement de fichier : permet aux utilisateurs de télécharger des images et des fichiers dans Design Studio
 * Accéder aux pages de destination : permet aux utilisateurs d’accéder aux pages de destination dans Admin
@@ -234,15 +234,10 @@ Affichez l’onglet Activités marketing, les campagnes et les dossiers de campa
 * Supprimer la ressource marketing
 * Modifier les restrictions de la campagne
 * Modifier la ressource marketing
-* Exporter l&#39;activité de campagne&#42;
+* Exporter l&#39;activité de campagne
 * Importer le programme
 * Importer une liste
 * Programmer une campagne par lot
-
-Accéder à la SEO
-
-* Gérer une SEO
-* Standard SEO
 
 ## Ciblage et personnalisation {#targeting-and-personalization}
 

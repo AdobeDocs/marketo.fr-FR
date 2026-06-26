@@ -9,7 +9,7 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 89c58ba282b1b778d49843bcaa8827ffd0d5fef5
 workflow-type: tm+mt
 source-wordcount: 156
 ht-degree: 11%
@@ -57,3 +57,4 @@ Procédez à un désabonnement en bloc pour les contacts qui ne souhaitent plus 
 Supprimer les contacts en bloc. Les étapes complètes sont disponibles [ici](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md).
 
 ![](assets/delete.png)
+
