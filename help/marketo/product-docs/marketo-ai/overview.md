@@ -3,9 +3,9 @@ description: Explorez la suite d’agents Marketo AI conçue pour automatiser le
 title: Présentation de Marketo AI
 badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: e3e7991f0a8fcdb18f7be8c5a25c3c7904ef9ed6
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '368'
 ht-degree: 1%
 
 ---
@@ -16,11 +16,13 @@ Marketo AI fournit des agents conçus pour automatiser les fonctions marketing l
 
 >[!AVAILABILITY]
 >
->Cette fonctionnalité est actuellement en version Beta ouverte. Pour demander l’accès, contactez votre gestionnaire de compte. Vous devez également accepter les termes [&#x200B; Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
+>Cette fonctionnalité est actuellement en version Beta ouverte. Pour demander l’accès, contactez votre gestionnaire de compte. Vous devez également accepter les termes [ Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
 
 >[!IMPORTANT]
 >
->Une fois que l’IA dédiée à Marketo a été activée pour votre abonnement, vous devez effectuer certaines [étapes de configuration](/help/marketo/product-docs/marketo-ai/settings-setup.md){target="_blank"} pour vous assurer que les utilisateurs souhaités ont accès.
+>* Une fois que l’IA dédiée à Marketo a été activée pour votre abonnement, vous devez effectuer certaines [étapes de configuration](/help/marketo/product-docs/marketo-ai/settings-setup.md){target="_blank"} pour vous assurer que les utilisateurs souhaités ont accès.
+>
+>* Examinez la portée des données, les contrôles de gouvernance et les considérations relatives aux informations d’identification personnelles dans la [fiche d’informations sur les données](/help/marketo/product-docs/marketo-ai/data-information.md){target="_blank"} de l’IA dédiée à Marketo.
 
 ## Comment y accéder {#access}
 
@@ -46,11 +48,11 @@ La connaissance des produits vous donne un accès à la demande à l’expertise
 
 ### Valider les programmes {#validate-programs}
 
-L’option Valider les programmes vérifie automatiquement votre configuration par rapport aux bonnes pratiques de Marketo et recherche les problèmes avant le lancement. En savoir plus sur la compétence [&#x200B; Valider les programmes &#x200B;](/help/marketo/product-docs/marketo-ai/skills/validate-programs.md){target="_blank"}.
+L’option Valider les programmes vérifie automatiquement votre configuration par rapport aux bonnes pratiques de Marketo et recherche les problèmes avant le lancement. En savoir plus sur la compétence [ Valider les programmes ](/help/marketo/product-docs/marketo-ai/skills/validate-programs.md){target="_blank"}.
 
 ### Importer les leads {#import-leads}
 
-Importez et dédupliquez des listes de prospects dans votre base de données Marketo Engage avec l’aide du mappage des champs. En savoir plus sur la compétence [&#x200B; Importer des prospects &#x200B;](/help/marketo/product-docs/marketo-ai/skills/import-leads.md){target="_blank"}.
+Importez et dédupliquez des listes de prospects dans votre base de données Marketo Engage avec l’aide du mappage des champs. En savoir plus sur la compétence [ Importer des prospects ](/help/marketo/product-docs/marketo-ai/skills/import-leads.md){target="_blank"}.
 
 ## Bientôt disponible {#coming-soon}
 
@@ -62,4 +64,4 @@ D’autres agents conçus pour gérer le travail le plus répétitif et le plus 
 
 >[!MORELIKETHIS]
 >
->Le [serveur Marketo Engage MCP](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=fr){target="_blank"} fait office de pont entre votre assistant d’IA et Marketo Engage.
+>Le [serveur Marketo Engage MCP](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"} fait office de pont entre votre assistant d’IA et Marketo Engage.
