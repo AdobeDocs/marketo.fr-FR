@@ -1,10 +1,40 @@
 ---
-title: 2021
+title: "2021"
 description: 2021 - Documents Marketo - Documentation Du Produit
 feature: Release Information
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46id: fc9b09fe-b844-4544-887b-e420c3b82065id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5id: ffdd6159-0e10-4a57-8021-94e93bab8183
-topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: beb7a3c1-66ab-4786-b879-7621375b3c40id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3id: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+  - id: fc9b09fe-b844-4544-887b-e420c3b82065
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
 workflow-type: tm+mt
 source-wordcount: 4744
@@ -67,7 +97,7 @@ Les fonctionnalités suivantes font l’objet d’un cycle non trimestriel et se
 * **[Informations sur le statut des e-mails ([!DNL Salesforce] CRM)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)** : les utilisateurs voient un message d’avertissement lorsqu’ils essaient d’envoyer un e-mail à un ID d’e-mail non valide ou à une adresse e-mail de désabonnement avant d’envoyer un e-mail.  Vous pouvez consulter les statuts de diffusion des e-mails dans l’onglet E-mail de [!DNL Sales Insight].
 * **Envoi d’e-mails en masse depuis les panneaux [Compte](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#account-layout) et [Opportunité](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#opportunity-layout) ([!DNL Salesforce] CRM)** : améliorez l’efficacité du workflow du vendeur et interagissez avec l’ensemble de la liste de contacts d’un compte ou d’une opportunité à l’aide de nouvelles fonctionnalités d’action en masse. Envoyez des e-mails ou ajoutez des contacts aux campagnes Marketo Engage à l’aide de la nouvelle option déroulante dans les onglets compte ou opportunité au lieu de travailler avec des contacts individuels. Ajouter des contacts de compte à une watchlist pour être averti lorsque les leads deviennent chauds.
 * **[[!DNL Sales Insight] pour les intégrations CRM  [!DNL Salesforce]  natives](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)** : les abonnements GA avec des intégrations CRM Salesforce personnalisées peuvent installer le package [!DNL Sales Insight] et aider les équipes commerciales à prioriser et à interagir avec les prospects et les opportunités les plus prometteuses.
-* **[Améliorations des meilleurs résultats](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)** : contactez rapidement les prospects de l’onglet Meilleurs résultats en les envoyant par e-mail ou en les ajoutant à une campagne Marketo Engage. Affichez un prospect dans Marketo Engage ou ajoutez-le à votre liste de surveillance. Les actions en masse et les options de tri sur l&#39;onglet [!UICONTROL  Meilleurs résultats ] permettent de gagner du temps et d&#39;améliorer l&#39;efficacité de l&#39;équipe commerciale.
+* **[Améliorations des meilleurs résultats](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)** : contactez rapidement les prospects de l’onglet Meilleurs résultats en les envoyant par e-mail ou en les ajoutant à une campagne Marketo Engage. Affichez un prospect dans Marketo Engage ou ajoutez-le à votre liste de surveillance. Les actions en masse et les options de tri sur l&#39;onglet [!UICONTROL &#x200B; Meilleurs résultats &#x200B;] permettent de gagner du temps et d&#39;améliorer l&#39;efficacité de l&#39;équipe commerciale.
 
 ## [!DNL Sales Connect]
 
@@ -221,7 +251,7 @@ Les fonctionnalités suivantes font l’objet d’un cycle non trimestriel et se
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible][!DNL LinkedIn] intégration de Forms génération de leads** : les marketeurs peuvent désormais effectuer l’attribution des revenus sur les conversions qui se produisent lorsque [!DNL LinkedIn] capture les remplissages de formulaires par le biais de leurs unités publicitaires de Forms génération de leads. Ces informations peuvent ensuite être utilisées pour optimiser les performances des formulaires et les investissements payants dans les médias. [!DNL LinkedIn] Lead Gen Forms est l&#39;une des offres de médias payants à la croissance la plus rapide de [!DNL LinkedIn] et cette nouvelle fonctionnalité est incluse avec notre intégration [!DNL LinkedIn] Ads existante avec [!DNL Bizible].
+* **[!DNL Bizible]&#x200B;[!DNL LinkedIn] intégration de Forms génération de leads** : les marketeurs peuvent désormais effectuer l’attribution des revenus sur les conversions qui se produisent lorsque [!DNL LinkedIn] capture les remplissages de formulaires par le biais de leurs unités publicitaires de Forms génération de leads. Ces informations peuvent ensuite être utilisées pour optimiser les performances des formulaires et les investissements payants dans les médias. [!DNL LinkedIn] Lead Gen Forms est l&#39;une des offres de médias payants à la croissance la plus rapide de [!DNL LinkedIn] et cette nouvelle fonctionnalité est incluse avec notre intégration [!DNL LinkedIn] Ads existante avec [!DNL Bizible].
 
 * **Tableau de bord de vitesse amélioré** : nous avons ajouté une nouvelle mesure de vitesse et un nouveau filtre de tableau de bord pour obtenir des informations plus détaillées. Ce tableau de bord est utilisé par les spécialistes marketing pour comprendre le lead étape par étape, la vitesse des opportunités et l’efficacité de différentes formes d’engagement en matière de marketing et de vente.
 
@@ -287,7 +317,7 @@ Les fonctionnalités suivantes font l’objet d’un cycle non trimestriel et se
 
 **[!DNL Sales Insight]pour [!DNL Microsoft Dynamics 365] ventes**
 
-* **[!UICONTROL Meilleurs résultats] Améliorations** : l’onglet [!UICONTROL  Meilleurs résultats] dans [!DNL Sales Insight] fournit aux ventes une vue en temps réel des contacts et des prospects les plus dynamiques, classés par priorité de qualité et d’urgence. Nous avons ajouté la possibilité pour les représentants commerciaux de prendre des mesures, telles que : examiner le score d’une personne, envoyer un e-mail ou ajouter des prospects aux campagnes Marketo Engage désignées directement à partir de la page [!DNL Best Bets], ce qui accroît l’efficacité et accélère le temps de réponse.
+* **[!UICONTROL Meilleurs résultats] Améliorations** : l’onglet [!UICONTROL &#x200B; Meilleurs résultats] dans [!DNL Sales Insight] fournit aux ventes une vue en temps réel des contacts et des prospects les plus dynamiques, classés par priorité de qualité et d’urgence. Nous avons ajouté la possibilité pour les représentants commerciaux de prendre des mesures, telles que : examiner le score d’une personne, envoyer un e-mail ou ajouter des prospects aux campagnes Marketo Engage désignées directement à partir de la page [!DNL Best Bets], ce qui accroît l’efficacité et accélère le temps de réponse.
 
 * **Nouveaux tableaux de bord d&#39;e-mail, d&#39;activité web et d&#39;activité web anonyme** : nous avons ajouté les nouveaux tableaux de bord de vente pour informer les vendeurs des activités web et de messagerie les plus récentes de leurs prospects et contacts. Grâce à la nouvelle fonctionnalité de filtrage, les tableaux de bord proposent désormais insight dans les ouvertures d’e-mail, les clics et les visites de page web pour la liste complète des comptes ou un compte spécifique. Marketo Engage suit toutes les activités web et fournit aux ventes des informations essentielles, transformant le trafic anonyme en prospects. Les vendeurs peuvent personnaliser l’engagement et convertir les prospects en ventes plus rapidement, car ils sont mieux informés sur les comportements des prospects et agissent en fonction de la pertinence de tous les points de contact.
 
