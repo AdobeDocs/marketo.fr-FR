@@ -2,7 +2,7 @@
 description: Examinez la portée des données, les contrôles de gouvernance et les considérations relatives aux informations d’identification personnelles de Marketo AI dans les workflows clés tels que l’importation des prospects, l’assurance qualité des programmes et la normalisation des données.
 title: Fiche d’information sur les données de l’IA dédiée à Marketo
 badge: Beta
-source-git-commit: 5c127a9b84033f2baa3c6bce727472d4b58f5842
+source-git-commit: 06d77c31c729de70033696662fb6191eb527dedf
 workflow-type: tm+mt
 source-wordcount: '1454'
 ht-degree: 0%
@@ -127,25 +127,25 @@ Les données traitées par l’IA dédiée au Marketo sont déterminées par le 
 
 ### Workflows qui utilisent uniquement les métadonnées de campagne (aucune information sur le prospect)
 
-* Création de programme à partir d’un résumé — génère des structures de programme, des campagnes intelligentes, des étapes de flux et des espaces réservés de contenu à partir d’instructions en langage naturel
-* Clonage et traduction d&#39;emails : duplique et traduit le contenu, les objets et la copie marketing d&#39;email HTML dans différentes variantes linguistiques
+* Création de programme à partir d’une synthèse : génère des structures de programme, des campagnes intelligentes, des étapes de flux et des espaces réservés de contenu à partir d’instructions en langage naturel
+* Clonage et traduction d’e-mails : duplique et traduit le contenu, les objets et la copie marketing d’e-mails HTML dans différentes variantes linguistiques
 * Contrôle des campagnes : examine les configurations de campagnes intelligentes, les définitions de déclencheur/filtre, la logique de flux et les conventions de nommage.
 * Validation du contrôle qualité du programme : évalue les programmes par rapport aux règles définies par l’utilisateur en termes de conformité, de statut d’approbation et d’exhaustivité structurelle
-* Révisions du centre d&#39;abonnement et de l&#39;architecture du programme — analyse la logique de la campagne et la structure du programme
-* Connaissances sur les produits et conseils sur les bonnes pratiques : fournit des réponses pratiques Marketo à partir d’une couche de connaissances partagées.
+* Révisions du centre d’abonnements et de l’architecture des programmes : analyse la logique des campagnes et la structure des programmes
+* Connaissances sur les produits et conseils sur les bonnes pratiques : fournit des réponses pratiques Marketo à partir d’une couche de connaissances partagées
 
 ### Workflows qui exploitent les enregistrements au niveau du prospect (champs de contact B2B standard)
 
-* Recherche et dépannage de lead — examine les valeurs de champ de lead individuel fournies par l’utilisateur, l’historique des activités et la progression du cycle de vie afin de déterminer pourquoi un lead a atteint ou non le statut MQL ou s’il est admissible pour une campagne marketing.
-* Import et normalisation des leads : traite les données de leads fournies par l’utilisateur, y compris les noms, adresses e-mails, numéros de téléphone et champs d’entreprise, à des fins de mappage, de nettoyage et de déduplication
-* Classification et enrichissement des leads : évalue les enregistrements de leads par rapport à la notation ou à la logique de classification définies par l’utilisateur (par exemple, leads valides ou spams pour l’intégrité de la base de données, personas à des fins de personnalisation, leads d’entreprise avec leads d’entreprise par e-mail par rapport aux leads consommateurs).
+* Recherche et dépannage de lead : examine les valeurs de champ de lead individuel fournies par l’utilisateur, l’historique des activités et la progression du cycle de vie afin de déterminer pourquoi un lead a atteint ou non le statut MQL ou s’il est admissible pour une campagne marketing.
+* Import et normalisation des leads : traite les données de leads fournies par l’utilisateur, y compris les noms, adresses e-mails, numéros de téléphone et champs d’entreprise, pour le mappage, le nettoyage et la déduplication
+* Classification et enrichissement des leads : évalue les enregistrements de leads par rapport à la notation ou à la logique de classification définies par l’utilisateur (par exemple, leads valides ou spams pour l’intégrité de la base de données, personas à des fins de personnalisation, leads d’entreprise avec leads d’e-mail d’entreprise par rapport aux leads consommateurs).
 * Audits de la qualité et de la délivrabilité des données : analyse les données d’engagement au niveau du prospect, les modèles de rebond et les enregistrements en double pour identifier les problèmes d’intégrité de la base de données
-* Analyses des performances de Campaign : fait apparaître les modèles d’engagement des prospects, les données de conversion et la composition de l’audience pour prendre en charge l’analyse des performances
+* Analyses de performances Campaign : fait apparaître les modèles d’engagement des prospects, les données de conversion et la composition de l’audience pour prendre en charge l’analyse des performances
 
 ### Minimisation des données par conception
 
 * Dans tous les cas, les données envoyées au modèle d’IA sont limitées à ce qui est nécessaire pour répondre à la demande spécifique de l’utilisateur dans ce workflow
-* L’IA dédiée au Marketo suit les autorisations Marketo Engage existantes de l’utilisateur ou de l’utilisatrice. Elle ne donne pas accès aux enregistrements, champs ou programmes du prospect au-delà de ce que l’utilisateur ou l’utilisatrice est autorisé à afficher via l’interface utilisateur du produit
+* L’IA dédiée aux Marketo suit les autorisations Marketo Engage existantes de l’utilisateur ou de l’utilisatrice ; elle ne fournit pas d’accès aux enregistrements, champs ou programmes du prospect au-delà de ce que l’utilisateur ou l’utilisatrice est autorisé à afficher via l’interface utilisateur du produit
 * Les utilisateurs qui souhaitent limiter le traitement des données de prospect peuvent restreindre l’accès aux workflows d’enquête de l’outil par le biais des contrôles de rôle et d’autorisation Marketo Engage existants tout en conservant un accès complet aux fonctionnalités d’IA structurelles et administratives
 
 ### Aucune exposition incrémentielle des données
