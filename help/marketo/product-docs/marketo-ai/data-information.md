@@ -2,9 +2,9 @@
 description: Examinez la portée des données, les contrôles de gouvernance et les considérations relatives aux informations d’identification personnelles de Marketo AI dans les workflows clés tels que l’importation des prospects, l’assurance qualité des programmes et la normalisation des données.
 title: Fiche d’information sur les données de l’IA dédiée à Marketo
 badge: Beta
-source-git-commit: e3e7991f0a8fcdb18f7be8c5a25c3c7904ef9ed6
+source-git-commit: 5c127a9b84033f2baa3c6bce727472d4b58f5842
 workflow-type: tm+mt
-source-wordcount: '1479'
+source-wordcount: '1454'
 ht-degree: 0%
 
 ---
@@ -121,11 +121,11 @@ Cette section résume les environnements dans lesquels l’IA dédiée au Market
 
 **Pas de banque de données inter-utilisateurs distincte :** le service n’introduit pas de couche de partage ou de stockage de données d’utilisateur à utilisateur distincte.
 
-## Considérations relatives aux PII et à la confidentialité des données : portée des données par type de workflow
+## Étendue des données par type de workflow
 
 Les données traitées par l’IA dédiée au Marketo sont déterminées par le modèle d’utilisation de l’utilisateur et le workflow spécifique appelé. Tous les workflows ne nécessitent pas de traiter des données au niveau du prospect.
 
-### Workflows qui traitent uniquement les métadonnées de campagne (aucune PII de prospect)
+### Workflows qui utilisent uniquement les métadonnées de campagne (aucune information sur le prospect)
 
 * Création de programme à partir d’un résumé — génère des structures de programme, des campagnes intelligentes, des étapes de flux et des espaces réservés de contenu à partir d’instructions en langage naturel
 * Clonage et traduction d&#39;emails : duplique et traduit le contenu, les objets et la copie marketing d&#39;email HTML dans différentes variantes linguistiques
@@ -134,9 +134,9 @@ Les données traitées par l’IA dédiée au Marketo sont déterminées par le 
 * Révisions du centre d&#39;abonnement et de l&#39;architecture du programme — analyse la logique de la campagne et la structure du programme
 * Connaissances sur les produits et conseils sur les bonnes pratiques : fournit des réponses pratiques Marketo à partir d’une couche de connaissances partagées.
 
-### Workflows qui traitent les enregistrements au niveau du lead (champs de contact B2B standard)
+### Workflows qui exploitent les enregistrements au niveau du prospect (champs de contact B2B standard)
 
-* Recherche et dépannage de lead — Examine les valeurs de champ de lead individuel, l’historique d’activité et la progression du cycle de vie afin de déterminer pourquoi un lead a atteint ou non les normes MQL ou s’est qualifié pour une campagne marketing
+* Recherche et dépannage de lead — examine les valeurs de champ de lead individuel fournies par l’utilisateur, l’historique des activités et la progression du cycle de vie afin de déterminer pourquoi un lead a atteint ou non le statut MQL ou s’il est admissible pour une campagne marketing.
 * Import et normalisation des leads : traite les données de leads fournies par l’utilisateur, y compris les noms, adresses e-mails, numéros de téléphone et champs d’entreprise, à des fins de mappage, de nettoyage et de déduplication
 * Classification et enrichissement des leads : évalue les enregistrements de leads par rapport à la notation ou à la logique de classification définies par l’utilisateur (par exemple, leads valides ou spams pour l’intégrité de la base de données, personas à des fins de personnalisation, leads d’entreprise avec leads d’entreprise par e-mail par rapport aux leads consommateurs).
 * Audits de la qualité et de la délivrabilité des données : analyse les données d’engagement au niveau du prospect, les modèles de rebond et les enregistrements en double pour identifier les problèmes d’intégrité de la base de données
@@ -145,8 +145,7 @@ Les données traitées par l’IA dédiée au Marketo sont déterminées par le 
 ### Minimisation des données par conception
 
 * Dans tous les cas, les données envoyées au modèle d’IA sont limitées à ce qui est nécessaire pour répondre à la demande spécifique de l’utilisateur dans ce workflow
-* L’IA hérite des autorisations Marketo Engage existantes de l’utilisateur demandeur. Elle ne peut pas accéder aux enregistrements, champs ou programmes du lead au-delà de ce que l’utilisateur peut déjà voir dans l’interface utilisateur du produit
-* Les workflows d’enquête et d’opérations de données nécessitent nécessairement des données au niveau du prospect, car l’utilisateur demande explicitement à l’IA d’analyser, de classer ou d’agir sur ces enregistrements
+* L’IA dédiée au Marketo suit les autorisations Marketo Engage existantes de l’utilisateur ou de l’utilisatrice. Elle ne donne pas accès aux enregistrements, champs ou programmes du prospect au-delà de ce que l’utilisateur ou l’utilisatrice est autorisé à afficher via l’interface utilisateur du produit
 * Les utilisateurs qui souhaitent limiter le traitement des données de prospect peuvent restreindre l’accès aux workflows d’enquête de l’outil par le biais des contrôles de rôle et d’autorisation Marketo Engage existants tout en conservant un accès complet aux fonctionnalités d’IA structurelles et administratives
 
 ### Aucune exposition incrémentielle des données
