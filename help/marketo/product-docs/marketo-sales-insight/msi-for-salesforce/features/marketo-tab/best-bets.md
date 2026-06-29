@@ -4,13 +4,11 @@ title: Meilleurs choix
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/amPHkzlbFZeURm4ASjiIyLqpYtVNDMqMMnqbRwjJ-6w
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
-source-wordcount: 314
+source-wordcount: 324
 ht-degree: 0%
 
 ---
@@ -18,6 +16,10 @@ ht-degree: 0%
 # [!DNL Best Bets] {#best-bets}
 
 L’onglet [!DNL Best Bets] comprend une liste de tous vos leads actifs en fonction de leur priorité, calculée à l’aide de l’urgence et du score relatif.
+
+>[!AVAILABILITY]
+>
+>Les meilleurs paris ne sont pas disponibles avec la licence Salesforce Platform.
 
 >[!CAUTION]
 >
