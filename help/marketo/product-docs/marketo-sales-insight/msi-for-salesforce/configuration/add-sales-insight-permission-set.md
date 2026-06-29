@@ -10,9 +10,9 @@ feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
-source-wordcount: 362
+source-wordcount: 393
 ht-degree: 4%
 
 ---
@@ -27,7 +27,9 @@ Procédez comme suit pour ajouter l’accès aux fonctionnalités [!DNL Sales In
 
 >[!IMPORTANT]
 >
->Si vous avez précédemment donné un accès [!DNL Sales Insight] à tous les profils et/ou implémenté des [!DNL Sales Insight] pour tous vos utilisateurs, vous devez [supprimer l’accès au niveau du profil](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} pour utiliser ce jeu d’autorisations.
+>* Si vous avez précédemment donné un accès [!DNL Sales Insight] à tous les profils et/ou implémenté des [!DNL Sales Insight] pour tous vos utilisateurs, vous devez [supprimer l’accès au niveau du profil](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} pour utiliser ce jeu d’autorisations.
+>
+>* La licence Salesforce standard est requise pour une fonctionnalité complète de MSI. Les utilisateurs disposant de la licence Salesforce Platform (une classe de licence limitée) peuvent voir des erreurs lors de l’exécution de certaines actions ou de l’accès à certains onglets.
 
 ## Vue d’ensemble {#overview}
 

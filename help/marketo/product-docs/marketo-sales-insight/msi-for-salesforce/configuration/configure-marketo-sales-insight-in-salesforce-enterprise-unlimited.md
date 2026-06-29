@@ -12,9 +12,9 @@ feature_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
-source-wordcount: 946
+source-wordcount: 977
 ht-degree: 5%
 
 ---
@@ -104,6 +104,10 @@ Configurez Marketo Sales Insight dans les éditions Entreprise/Illimité de Sale
    >_Vous_ choisir votre **[!UICONTROL Nom du site distant]** (`MarketoAPI` est utilisé ici). L’**[!UICONTROL URL du site distant]** se trouve dans le champ Hôte Marketo de la boîte de dialogue Modifier la configuration de l’API à l’étape 3 de la section « Configurer l’Insight des ventes dans Marketo ».
 
 ## Octroyer aux utilisateurs de Sales Insight l’accès aux objets Salesforce standard {#grant-sales-insight-users-profile-access}
+
+>[!IMPORTANT]
+>
+>La licence Salesforce standard est requise pour une fonctionnalité complète de MSI. Les utilisateurs disposant de la licence Salesforce Platform (une classe de licence limitée) peuvent voir des erreurs lors de l’exécution de certaines actions ou de l’accès à certains onglets.
 
 En raison des améliorations apportées à la sécurité de Salesforce, les packages AppExchange ne peuvent plus accorder d’autorisation aux objets standard. En outre, l’accès doit être accordé aux objets Salesforce appropriés à partir du profil de l’utilisateur Salesforce. Pour accorder les autorisations requises, procédez comme suit.
 
