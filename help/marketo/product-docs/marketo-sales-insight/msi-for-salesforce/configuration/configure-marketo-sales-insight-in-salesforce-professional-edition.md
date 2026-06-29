@@ -5,9 +5,13 @@ title: Configurer Informations sur les ventes Marketo dans Salesforce Profession
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/ixHyQT01yLz6LIoEG5L0wm9WKUSOgShHmXZUCI-R4Pw
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
 source-wordcount: 810
@@ -148,11 +152,11 @@ En raison des améliorations apportées à la sécurité de Salesforce, les pack
 1. Répétez l&#39;étape précédente pour les champs suivants :
 
    * [!UICONTROL Engagement]
-   * [!UICONTROL  Valeur de score relative ]
+   * [!UICONTROL &#x200B; Valeur de score relative &#x200B;]
    * [!UICONTROL Valeur d’urgence]
    * [!UICONTROL Dernière date intéressante]
    * [!UICONTROL Desc Dernier moment intéressant]
-   * Source du dernier moment intéressant][!UICONTROL 
+   * Source du dernier moment intéressant
    * [!UICONTROL Type de dernier moment intéressant]
 
 1. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé.
@@ -209,9 +213,9 @@ Les champs Personne de Marketo doivent être mappés aux champs Contact de Sales
 
 1. Dans Salesforce, cliquez sur le signe **+** à l’extrémité de la barre d’onglets, puis cliquez sur **[!UICONTROL Configuration Insight des ventes Marketo]**.
 
-1. Copiez les informations d’identification du panneau API Soap dans la page d’administration Marketo Sales Insight [](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} et collez-les dans la section API Soap de la page Configuration Salesforce Sales Insight .
+1. Copiez les informations d’identification du panneau API Soap dans la page d’administration Marketo Sales Insight [&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} et collez-les dans la section API Soap de la page Configuration Salesforce Sales Insight .
 
-1. Copiez les informations d’identification du panneau **[!UICONTROL API REST]** dans la page d’administration Marketo Sales Insight [](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} et collez-les dans la section API Rest de la page Configuration Salesforce Sales Insight.
+1. Copiez les informations d’identification du panneau **[!UICONTROL API REST]** dans la page d’administration Marketo Sales Insight [&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} et collez-les dans la section API Rest de la page Configuration Salesforce Sales Insight.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
 
@@ -219,7 +223,7 @@ Vous devriez être en mesure de voir les champs Marketo Sales Insight pour les l
 
 >[!NOTE]
 >
->Si le test des diagnostics échoue, l’ajout [ champs supplémentaires à la mise en page ](https://nation.marketo.com/t5/knowledgebase/how-to-repair-marketo-sales-insight-setup-configuration-problems/ta-p/248218){target="_blank"} peut résoudre le problème.
+>Si le test des diagnostics échoue, l’ajout [&#x200B; champs supplémentaires à la mise en page &#x200B;](https://nation.marketo.com/t5/knowledgebase/how-to-repair-marketo-sales-insight-setup-configuration-problems/ta-p/248218){target="_blank"} peut résoudre le problème.
 
 >[!NOTE]
 >
