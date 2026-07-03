@@ -30,7 +30,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td><strong>Marketo AI</strong> : utilisez une suite d’agents conçus pour automatiser les fonctions marketing longues mais importantes (deux agents disponibles maintenant, d’autres seront bientôt disponibles).
 </td>
    <td>Ouvrir la version bêta</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Présentation de Marketo AI</a></td>
+   <td><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Présentation de Marketo AI</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -40,7 +40,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   <tr>
    <td><strong>Serveur MCP Marketo Engage </strong> : le serveur MCP Marketo Engage fait office de pont entre votre assistant AI et Marketo Engage. Il expose plus de 100 opérations sur des formulaires, des programmes, des campagnes intelligentes, des personnes/prospects, des e-mails, des fragments de code, des listes et des dossiers.</td>
    <td>Ouvrir la version bêta</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html" target="_blank">Serveur MCP Marketo</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=fr" target="_blank">Serveur MCP Marketo</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -121,7 +121,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
 
 Plus tôt cette année, les champs connexes qui avaient été laissés en arrière-plan ont été supprimés de Marketo. Peu après, les requêtes d’API référençant certains champs de prospect liés aux réseaux sociaux ont renvoyé une erreur « champ introuvable », provoquant des interruptions. Le service a été restauré après la remise à disposition des champs concernés. Afin d’éviter toute perturbation supplémentaire, Marketo a donc découplé définitivement les champs des réseaux sociaux de l’obsolescence des fonctionnalités des réseaux sociaux (qui seront donc disponibles dans votre compte Marketo). Nous recommandons aux utilisateurs de passer en revue les requêtes d’API et les intégrations qui font référence à des champs liés à Marketo Social et de déterminer si ces champs sont toujours requis pour les processus métier en cours.
 
-* **Fonctionnalité de fusion d’API pour les champs booléens** : le comportement des champs booléens dans une fusion d’API a changé dans la version de mars 2026. Désormais, une valeur False est traitée correctement comme ayant une valeur pour ce champ. Seule une valeur null est traitée comme « vide » lors de l’évaluation de champs en conflit. Voir [ce billet de la communauté](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219){target="_blank"} pour plus d’informations.
+* **Fonctionnalité de fusion d’API pour les champs booléens** : le comportement des champs booléens dans une fusion d’API a changé dans la version de mars 2026. Désormais, une valeur False est traitée correctement comme ayant une valeur pour ce champ. Seule une valeur null est traitée comme « vide » lors de l’évaluation de champs en conflit. Voir [ce billet de la communauté](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=fr){target="_blank"} pour plus d’informations.
 
 * **Obsolescence du paramètre &#39;access_token&#39; de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours d’obsolescence et ne sera plus disponible après le 31 juillet 2026. Toutes les intégrations nouvelles et existantes doivent authentifier les appels de l’API REST à l’aide de l’en-tête « Autorisation », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
@@ -129,4 +129,4 @@ Plus tôt cette année, les champs connexes qui avaient été laissés en arriè
 
 * **Obsolescence de l’API SOAP** : la prise en charge de l’API Marketo SOAP prendra fin le 31 juillet 2026. Les services qui utilisent les fonctionnalités de l’API SOAP doivent être migrés vers l’[API REST](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
 
-* **Limites de taille de liste statique pour les activités Get Lead et Get Lead Changes** : à compter du 30 septembre 2026, les appels aux points d’entrée Get Lead Activities et Get Lead Changes qui incluent le paramètre `listId` renverront un code d’erreur 1003 si la liste statique cible contient 10 000 leads ou plus. Consultez le [&#x200B; Guide de migration &#x200B;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} pour plus d’informations.
+* **Limites de taille de liste statique pour les activités Get Lead et Get Lead Changes** : à compter du 30 septembre 2026, les appels aux points d’entrée Get Lead Activities et Get Lead Changes qui incluent le paramètre `listId` renverront un code d’erreur 1003 si la liste statique cible contient 10 000 leads ou plus. Consultez le [&#x200B; Guide de migration &#x200B;](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} pour plus d’informations.
