@@ -1,11 +1,11 @@
 ---
 description: Notes De Mise À Jour - Mars 2026 - Documents Marketo - Documentation Du Produit
-title: Notes De Mise À Jour - Février 2026
+title: Notes De Mise À Jour - Mars 2026
 feature: Release Information
-source-git-commit: 713ab854749cb88a35b24f4355368092cdb35e64
+source-git-commit: 7ed34709d2a8b8ab3922a62d043bcdfa8e2d33ce
 workflow-type: tm+mt
-source-wordcount: '468'
-ht-degree: 21%
+source-wordcount: '533'
+ht-degree: 18%
 
 ---
 
@@ -37,8 +37,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Email Designer - Composants HTML modifiables dans les fragments</strong> : dans les fragments visuels, les champs modifiables sont pris en charge sur les composants image, texte et bouton via le panneau des propriétés du composant. Pour les composants HTML, les champs modifiables sont configurés différemment, à l’aide d’une syntaxe basée sur des variables dans le code source du composant HTML lui-même.
-   </td>
+   <td><strong>Email Designer - Composants HTML modifiables dans les fragments</strong> : dans les fragments visuels, les champs modifiables sont pris en charge sur les composants image, texte et bouton via le panneau des propriétés du composant. Pour les composants HTML, les champs modifiables sont configurés différemment, à l’aide d’une syntaxe basée sur des variables dans le code source du composant HTML lui-même.</td>
    <td>Libéré</i></td>
    <td><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments#editable-html" target="_blank">Composants HTML modifiables dans les fragments</a></td>
   </tr>
@@ -48,8 +47,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Email Designer - Actions rapides</strong> : <i>parité avec l’ancien éditeur d’email</i>. Les actions rapides sont désormais disponibles pour toutes les ressources de Designer par e-mail (e-mails, modèles d’e-mail, fragments). Les actions rapides prises en charge sont les suivantes : Dupliquer, Supprimer, Déplacer, Créer/Modifier le brouillon.
-   </td>
+   <td><strong>Email Designer - Actions rapides</strong> : <i>parité avec l’ancien éditeur d’email</i>. Les actions rapides sont désormais disponibles pour toutes les ressources de Designer par e-mail (e-mails, modèles d’e-mail, fragments). Les actions rapides prises en charge sont les suivantes : Dupliquer, Supprimer, Déplacer, Créer/Modifier le brouillon.</td>
    <td>Libéré</i></td>
    <td>s/o</td>
   </tr>
@@ -59,8 +57,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td> </td>
   </tr>
    <tr>
-   <td><strong>Email Designer - Correctif de rendu Outlook</strong> : cette mise à jour corrige les problèmes de rendu, en particulier dans MS Outlook. Le mode HTML avancé vous permet d’effectuer des modifications HTML/CSS mineures ou d’ajouter des balises de script à votre modèle d’e-mail.
-   </td>
+   <td><strong>Email Designer - Correctif de rendu Outlook</strong> : cette mise à jour corrige les problèmes de rendu, en particulier dans MS Outlook. Le mode HTML avancé vous permet d’effectuer des modifications HTML/CSS mineures ou d’ajouter des balises de script à votre modèle d’e-mail.</td>
    <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/advanced-html-mode.md" target="_blank">Modification de modèles d’e-mail à l’aide de l’éditeur HTML avancé</a></td>
   </tr>
