@@ -5,14 +5,12 @@ title: Vue d’ensemble de l’éditeur d’e-mail v2.0
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
 TQID: https://experienceleague.adobe.com/FKo7NwPSrEVbNBlfo1Jpd88yXyIH-NVfdpYiVmrRSLM
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: 5935e1cef334c7c5fd40864dd2a677b4cb9d46d4
 workflow-type: tm+mt
-source-wordcount: 462
-ht-degree: 79%
+source-wordcount: 479
+ht-degree: 72%
 
 ---
 
@@ -22,35 +20,35 @@ Vue d’ensemble de l’éditeur d’e-mail classique.
 
 >[!IMPORTANT]
 >
->Bien qu’il n’y ait pas de date exacte, l’éditeur d’e-mail classique finira par être obsolète (nous annoncerons une date exacte lorsque nous en aurons une). Il est vivement recommandé de commencer à adopter le Designer d’e-mail[&#128279;](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"} avancé, car il dispose de nombreuses fonctionnalités qui ne sont pas disponibles dans l’éditeur classique.
+>Bien qu’il n’y ait pas de date exacte, l’éditeur d’e-mail classique finira par être obsolète (nous annoncerons une date exacte lorsque nous en aurons une). Il est vivement recommandé de commencer à adopter le Designer d’e-mail](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"} avancé, car il dispose de nombreuses fonctionnalités qui ne sont pas disponibles dans l’éditeur classique.[
 
-**Sélectionneur de modèle d’e-mail**
+## Sélecteur de modèle d’e-mail {#email-template-picker}
 
 Lorsque vous créez un e-mail, vous êtes redirigé vers le [sélecteur de modèle d’e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
 
 ![](assets/email-editor-v2-overview-1.png)
 
-**Éditeur d’e-mail**
+## Éditeur d’e-mail {#email-editor}
 
 Lorsque vous commencerez à modifier votre e-mail, vous remarquerez que l’éditeur a une toute nouvelle apparence.
 
 ![](assets/email-editor-v2-overview-2.png)
 
-**Modules**
+### Modules {#modules}
 
 Ces éléments sur le côté droit de l’éditeur sont appelés modules. Découvrez comment [ajouter des modules à votre e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
 
 ![](assets/email-editor-v2-overview-3.png)
 
-**Version texte**
+### Version texte {#text-version}
 
 L’option permettant de basculer entre les versions HTML et Texte de votre e-mail se trouve désormais dans un onglet pratique dans la partie inférieure. Découvrez comment [modifier la version texte d’un e-mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
 
 ![](assets/email-editor-v2-overview-4.png)
 
-**En-tête de l’e-mail**
+### En-tête de l’e-mail {#email-header}
 
-Vous souhaitez plus d’espace de conception ? L’en-tête de l’e-mail peut être masqué une fois que vous avez terminé [&#x200B; le modifier](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Il vous suffit de cliquer sur cette icône…
+Vous souhaitez plus d’espace de conception ? L’en-tête de l’e-mail peut être masqué une fois que vous avez terminé [ le modifier](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Il vous suffit de cliquer sur cette icône…
 
 ![](assets/email-editor-v2-overview-5.png)
 
@@ -58,7 +56,7 @@ Vous souhaitez plus d’espace de conception ? L’en-tête de l’e-mail peut 
 
 ![](assets/email-editor-v2-overview-6.png)
 
-**Prévisualiser l’e-mail**
+### Prévisualiser l’e-mail {#preview-your-email}
 
 Par défaut, l’e-mail affiche l’apparence qu’il aurait sur un ordinateur, comme indiqué par l’icône bleue en surbrillance. Si vous cliquez sur l’icône à sa droite…
 
@@ -80,7 +78,7 @@ La vue par défaut est « Ordinateur »…
 
 ![](assets/email-editor-v2-overview-11.png)
 
-**[!UICONTROL Actions d’e-mail]**
+## Actions d’e-mail {#email-actions}
 
 Sous **[!UICONTROL Actions d’e-mail]**, vous remarquerez de nouvelles fonctionnalités. **[!UICONTROL Charger une image ou un fichier]** et **[!UICONTROL Prendre des images du web]**. Vous pouvez également enregistrer l’e-mail lui-même en tant que nouveau modèle d’e-mail. Il suffit de lui donner un nom et une destination.
 
@@ -94,11 +92,17 @@ Sous **[!UICONTROL Actions d’e-mail]**, vous remarquerez de nouvelles fonction
 >
 >**[[!UICONTROL Prendre des images du web]](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** fonctionne comme dans [!UICONTROL Design Studio].
 
-**[!UICONTROL Désactiver le suivi des ouvertures]** Sous **[!UICONTROL Modifier les paramètres]**, vous pouvez désactiver le suivi des ouvertures si nécessaire.
+## Paramètres d’e-mail {#email-settings}
+
+Faites votre choix parmi divers paramètres supplémentaires qui vous permettent de personnaliser l’e-mail.
+
+### Désactiver le suivi des ouvertures
+
+Sous **[!UICONTROL Modifier les paramètres]**, vous pouvez désactiver le suivi des ouvertures si nécessaire.
 
 ![](assets/email-editor-v2-overview-13.png)
 
-**[!UICONTROL Modifier les paramètres]**
+### Ajouter un pré-titre {#add-a-preheader}
 
 Vous avez la possibilité d’ajouter un [!UICONTROL pré-en-tête]. Un [!UICONTROL pré-en-tête] est le court texte de résumé après la ligne d’objet lorsque les e-mails sont affichés dans votre boîte de réception.
 
