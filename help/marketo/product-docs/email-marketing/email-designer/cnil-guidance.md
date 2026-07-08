@@ -1,21 +1,20 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Conformité aux directives de la CNIL - Suivi des ouvertures d’e-mails conditionnels
+title: Guide de la CNIL - Suivi des ouvertures d’e-mails conditionnels
 description: Découvrez comment configurer Marketo Engage pour la conformité CNIL à l’aide d’un champ booléen personnalisé pour acheminer le suivi des ouvertures d’e-mails en fonction du statut de consentement de chaque personne.
 level: Beginner, Intermediate
 feature: Email Designer
-hide: true
-source-git-commit: c0c8e88ae6357c4bf75437e1bbc7fe0d6bce1012
+source-git-commit: b8d1872fc697e42a82675a2b45ce01f21bb83edd
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
 
-# Conformité des conseils de la CNIL : tracking conditionnel des ouvertures d&#39;emails {#cnil}
+# Instructions de la CNIL : tracking conditionnel des ouvertures d’e-mails {#cnil}
 
-Découvrez comment configurer Marketo Engage pour honorer le consentement de l’utilisateur final pour le suivi de l’ouverture de l’e-mail (pixels), conformément aux directives de la CNIL (LIEN DE LA COMMUNAUTÉ). L’approche utilise un champ booléen personnalisé pour déterminer la variante d’e-mail qu’une personne reçoit, une dont le suivi des ouvertures est activé ou une dont le suivi est désactivé.
+Découvrez comment configurer Marketo Engage pour honorer le consentement de l’utilisateur final pour le suivi de l’ouverture des e-mails (en pixels), conformément aux [directives CNIL](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/understanding-cnil-s-updated-guidance-on-email-open-tracking-251632?profile.language=fr){target="_blank"}. L’approche utilise un champ booléen personnalisé pour déterminer la variante d’e-mail qu’une personne reçoit, une dont le suivi des ouvertures est activé ou une dont le suivi est désactivé.
 
 ## Étape 1 : créer un champ booléen personnalisé {#custom-field}
 
