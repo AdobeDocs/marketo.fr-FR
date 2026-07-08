@@ -29,7 +29,7 @@ Découvrez comment configurer Marketo Engage pour honorer le consentement de l�
 
 ## Étape 2 : remplir le champ de consentement {#populate}
 
-1. Définissez la valeur du champ Suivi des pixels d’e-mail pour chaque personne via l’importation de données (synchronisation des API ou [chargement CSV](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}).
+1. Définissez la valeur du champ Suivi des pixels d’e-mail pour chaque personne via l’importation de données (synchronisation des API ou [chargement CSV](https://experienceleague.adobe.com/fr/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}).
 
    ![](assets/cnil-3.png)
 
@@ -63,7 +63,7 @@ Dans le Designer d’e-mail, la case à cocher **Désactiver le suivi des ouvert
 
 ## Étape 4 : configuration de votre campagne intelligente {#smart-campaign}
 
-[Créez une campagne intelligente](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"} pour déterminer l’e-mail que chaque personne reçoit.
+[Créez une campagne intelligente](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"} pour déterminer l’e-mail que chaque personne reçoit.
 
 1. Dans l’onglet _Flux_ de votre campagne dynamique, insérez l’étape de flux **Envoyer un e-mail**.
 
