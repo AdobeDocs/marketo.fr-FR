@@ -4,7 +4,7 @@ title: Migration d’AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 9c2784f06be42e5b65cd338a18b0d37a8fa48d9a
+source-git-commit: de84d9a26dea78022a1d4ca79baa8e2f445ee2a9
 workflow-type: tm+mt
 source-wordcount: '392'
 ht-degree: 2%
@@ -17,7 +17,7 @@ Au cours des prochains mois, tous les abonnements Marketo Engage seront migrés 
 
 Vous recevrez un e-mail ainsi qu’une notification in-app environ 30 jours avant la migration. Utilisez ce guide pour vous préparer.
 
-## Actions recommandées
+## Actions recommandées {#actions}
 
 Pendant la période de migration, tous les services Marketo Engage ne seront pas disponibles. Nous vous recommandons de prendre les mesures suivantes pour atténuer tout impact sur votre entreprise.
 
@@ -33,7 +33,7 @@ Pendant la période de migration, tous les services Marketo Engage ne seront pas
 
 * **Ajoutez de nouvelles adresses IP** et conservez vos adresses IP actuelles en l’état. Voir les adresses IP à ajouter via le [tableau ci-dessous](#ip-addresses).
 
-## Impacts attendus sur le service
+## Impacts attendus sur le service {#impacts}
 
 Les impacts ci-dessous ne nécessitent aucune action de votre part.
 
@@ -93,7 +93,7 @@ De nouvelles dates et informations sur le datacenter/pod sont régulièrement aj
    <td>10 h (heure du Pacifique)<br>
    11 h (heure du Pacifique)</td>
   </tr>
-  &lt;/body>
+  </body>
 </table>
 
 ## Adresses IP à ajouter {#ip-addresses}
@@ -118,9 +118,9 @@ En fonction de votre centre de données, collaborez avec votre service informati
 18.200.201.81<br>
 54.220.138.65</td>
 </tr>
-&lt;/body>
+</body>
 </table>
 
-## Mises à jour et assistance
+## Mises à jour et assistance {#support}
 
-Pour connaître les dernières mises à jour, mettez un signet sur cette page. Pour toute question, contactez l’assistance Adobe via le portail d’assistance d’Admin Console ou [Experience League](https://experienceleague.adobe.com/fr/support){target="_blank"}.
+Pour connaître les dernières mises à jour, mettez un signet sur cette page. Pour toute question, contactez l’assistance Adobe via le portail d’assistance d’Admin Console ou [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
