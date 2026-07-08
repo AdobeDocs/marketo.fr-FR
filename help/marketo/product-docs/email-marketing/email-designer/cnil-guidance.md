@@ -6,9 +6,9 @@ description: Découvrez comment configurer Marketo Engage pour la conformité CN
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
-source-git-commit: 070a7cc09b8e428a8282cab15e3ad236ecf70ef0
+source-git-commit: c0c8e88ae6357c4bf75437e1bbc7fe0d6bce1012
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Découvrez comment configurer Marketo Engage pour honorer le consentement de l�
 
 ## Étape 2 : remplir le champ de consentement {#populate}
 
-1. Définissez la valeur du champ Suivi des pixels d’e-mail pour chaque personne via l’importation de données (synchronisation des API ou [chargement CSV](https://experienceleague.adobe.com/fr/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}).
+1. Définissez la valeur du champ Suivi des pixels d’e-mail pour chaque personne via l’importation de données (synchronisation des API ou [chargement CSV](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}).
 
    ![](assets/cnil-3.png)
 
@@ -63,13 +63,13 @@ Dans le Designer d’e-mail, la case à cocher **Désactiver le suivi des ouvert
 
 ## Étape 4 : configuration de votre campagne intelligente {#smart-campaign}
 
-[Créez une campagne intelligente](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"} pour déterminer l’e-mail que chaque personne reçoit.
+[Créez une campagne intelligente](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"} pour déterminer l’e-mail que chaque personne reçoit.
 
 1. Dans l’onglet _Flux_ de votre campagne dynamique, insérez l’étape de flux **Envoyer un e-mail**.
 
    ![](assets/cnil-8.png){width="800" zoomable="yes"}
 
-1. Dans l’étape de flux, cliquez sur **Ajouter un choix**. Dans Choix 1, définissez **if** sur _EmailPixelTracking_, définissez l’opérateur sur _is_, puis définissez la valeur sur _false_. Pour **E-mail**, sélectionnez _E-mail 2_.
+1. Dans l’étape de flux, cliquez sur **Ajouter un choix**. Dans Choix 1, définissez **if** sur _Suivi des pixels d’e-mail_, définissez l’opérateur sur _is_ et définissez la valeur sur _false_. Pour **E-mail**, sélectionnez _E-mail 2_.
 
 1. Dans le choix par défaut, définissez **E-mail** sur _E-mail 1_.
 
