@@ -4,9 +4,9 @@ title: Migration d’AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: de84d9a26dea78022a1d4ca79baa8e2f445ee2a9
+source-git-commit: 94b7cd136325e2c6cb63b8bbf9ae2ee0aeb028b7
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '432'
 ht-degree: 2%
 
 ---
@@ -93,6 +93,31 @@ De nouvelles dates et informations sur le datacenter/pod sont régulièrement aj
    <td>10 h (heure du Pacifique)<br>
    11 h (heure du Pacifique)</td>
   </tr>
+  <tr>
+   <td>21 juillet 2026</td>
+   <td>AB54<br>
+   AB56</td>
+   <td>17 h (HAP)<br>
+   18 h (HAP)</td>
+  </tr>
+  <tr>
+   <td>23 juillet 2026</td>
+   <td>AB48</td>
+   <td>17 h (HAP)</td>
+  </tr>
+  <tr>
+   <td>12 Août 2026</td>
+   <td>AB61<br>
+   AB17</td>
+   <td>15 h (HAP)<br>
+   16 h (HAP)</td>
+  </tr>
+  <td>13 Août 2026</td>
+   <td>AB62<br>
+   AB68</td>
+   <td>15 h (HAP)<br>
+   16 h (HAP)</td>
+  </tr>
   </body>
 </table>
 
@@ -123,4 +148,4 @@ En fonction de votre centre de données, collaborez avec votre service informati
 
 ## Mises à jour et assistance {#support}
 
-Pour connaître les dernières mises à jour, mettez un signet sur cette page. Pour toute question, contactez l’assistance Adobe via le portail d’assistance d’Admin Console ou [Experience League](https://experienceleague.adobe.com/fr/support){target="_blank"}.
+Pour connaître les dernières mises à jour, mettez un signet sur cette page. Pour toute question, contactez l’assistance Adobe via le portail d’assistance d’Admin Console ou [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
