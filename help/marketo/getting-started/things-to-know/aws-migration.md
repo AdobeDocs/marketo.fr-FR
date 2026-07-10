@@ -4,9 +4,9 @@ title: Migration d’AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 94b7cd136325e2c6cb63b8bbf9ae2ee0aeb028b7
+source-git-commit: 959b1599d48d5e496f012b515a9d8f9a528431e0
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '428'
 ht-degree: 2%
 
 ---
@@ -64,10 +64,8 @@ De nouvelles dates et informations sur le datacenter/pod sont régulièrement aj
   </tr>
   <tr>
    <td>9 juillet 2026</td>
-   <td>AB70<br>
-   AB43</td>
-   <td>17 h (HAP)<br>
-   18 h (HAP)</td>
+   <td>AB70</td>
+   <td>17 h (HAP)</td>
   </tr>
   <tr>
    <td>11 juillet 2026</td>
