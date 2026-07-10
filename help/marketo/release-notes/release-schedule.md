@@ -5,16 +5,13 @@ title: Calendrier de publication
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
 TQID: https://experienceleague.adobe.com/qWeyxsBXYxKLSJvq6SfpXsBsocY3eLGROIO8EcZlkMw
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-topic_v2:
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: c0c8e88ae6357c4bf75437e1bbc7fe0d6bce1012
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: d0cf66fe0c72af8e9d1db09792f73fd6db10abbb
 workflow-type: tm+mt
-source-wordcount: 165
-ht-degree: 78%
+source-wordcount: 152
+ht-degree: 83%
 
 ---
 
@@ -60,18 +57,13 @@ _Les dates de publication et les fonctionnalités sont susceptibles d’être mo
    <td>Terminée</td>
   </tr>
   <tr>
-  <td><a href="/help/marketo/release-notes/current.md">Juillet '26 (1 de 2)</a></td>
+  <td><a href="/help/marketo/release-notes/current.md">26 juillet</a></td>
    <td>10 Juillet 2026</td>
    <td>Prévu</td>
   </tr>
   <tr>
-  <td>Juillet '26 (2 de 2)</td>
-   <td>31 juillet 2026</td>
-   <td>Prévu</td>
-  </tr>
-  <tr>
   <td>26 août</td>
-   <td>28 Août 2026</td>
+   <td>14 Août 2026</td>
    <td>Prévu</td>
   </tr>
   <tr>
