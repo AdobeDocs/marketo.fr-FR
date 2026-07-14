@@ -4,9 +4,9 @@ title: Migration d’AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 3073a443b5dee8033e88dc474989c44552851e52
+source-git-commit: 7f91d1423f25ba0e1572673cbd55099b0000cb03
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: '431'
 ht-degree: 2%
 
 ---
@@ -116,10 +116,8 @@ De nouvelles dates et informations sur le datacenter/pod sont régulièrement aj
    16 h (HAP)</td>
   </tr>
   <td>13 Août 2026</td>
-   <td>AB62<br>
-   AB68</td>
-   <td>15 h (HAP)<br>
-   16 h (HAP)</td>
+   <td>AB68</td>
+   <td>16 h (HAP)</td>
   </tr>
   </body>
 </table>
@@ -151,4 +149,4 @@ En fonction de votre centre de données, collaborez avec votre service informati
 
 ## Mises à jour et assistance {#support}
 
-Pour connaître les dernières mises à jour, mettez un signet sur cette page. Pour toute question, contactez l’assistance Adobe via le portail d’assistance d’Admin Console ou [Experience League](https://experienceleague.adobe.com/fr/support){target="_blank"}.
+Pour connaître les dernières mises à jour, mettez un signet sur cette page. Pour toute question, contactez l’assistance Adobe via le portail d’assistance d’Admin Console ou [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
