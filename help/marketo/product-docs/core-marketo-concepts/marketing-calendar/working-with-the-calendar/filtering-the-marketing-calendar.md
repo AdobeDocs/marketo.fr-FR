@@ -4,13 +4,13 @@ description: Découvrez comment filtrer le calendrier marketing par type d’ent
 title: Filtrage du calendrier marketing
 exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
 feature: Marketing Calendar
-TQID: https://experienceleague.adobe.com/kMQU58oZslkR2iLG6vy9yLcaN----3rjAIZ5ln3QtMg
+TQID: https://experienceleague.adobe.com/kMQU58oZslkR2iLG6vy9yLcaN%2D%2D%2D%2D3rjAIZ5ln3QtMg
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 0e20d3cd1d58a098d8419c4b10572fe85e672aa2
 workflow-type: tm+mt
 source-wordcount: 118
 ht-degree: 6%
