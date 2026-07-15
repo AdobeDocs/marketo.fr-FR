@@ -53,4 +53,4 @@ Accédez au code incorporé d’un formulaire pour l’héberger sur votre propr
 
    >[!TIP]
    >
-   >Si votre développeur souhaite personnaliser l&#39;apparence ou accéder aux fonctions d&#39;API avancées, affichez-lui la page Développeurs de [Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
+   >Si votre développeur souhaite personnaliser l&#39;apparence ou accéder aux fonctions d&#39;API avancées, affichez-lui la page Développeurs de [Forms 2.0](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
