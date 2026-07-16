@@ -12,49 +12,45 @@ feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 4cdacd070daedd0ecc8f619c994f343b14c00adb
 workflow-type: tm+mt
-source-wordcount: 227
-ht-degree: 7%
+source-wordcount: 212
+ht-degree: 5%
 
 ---
 
 # Incorporer un formulaire sur votre site web {#embed-a-form-on-your-website}
 
-Marketo vous permet d&#39;intégrer nos formulaires sur votre propre site Web. Voici comment accéder au code incorporé.
+Accédez au code incorporé d’un formulaire pour l’héberger sur votre propre site web.
 
-1. Accédez à **[!UICONTROL Activités marketing]**.
+>[!PREREQUISITES]
+>
+>Le formulaire doit être approuvé pour que le code incorporé soit disponible.
 
-   ![](assets/login-marketing-activities-4.png)
+1. Recherchez et sélectionnez le formulaire de votre choix.
 
-1. Recherchez et sélectionnez votre formulaire.
+   ![](assets/embed-a-form-on-your-website-1.png)
 
-   ![](assets/image2014-9-15-12-3a12-3a14.png)
+1. Sur le côté droit de l’écran des détails du formulaire, cliquez sur **[!UICONTROL Code incorporé]**.
 
-1. Sous **[!UICONTROL Actions de formulaire]**, cliquez sur **[!UICONTROL Code incorporé]**.
-
-   >[!NOTE]
-   >
-   >Le formulaire doit être approuvé pour que l’élément **[!UICONTROL Code intégré]** soit visible/utilisable.
-
-   ![](assets/image2014-9-15-12-3a12-3a20.png)
+   ![](assets/embed-a-form-on-your-website-2.png)
 
    >[!CAUTION]
    >
    >Le **[préremplissage de formulaire](/help/marketo/product-docs/administration/settings/edit-landing-page-settings.md)** ne fonctionne pas lors de l’utilisation du code incorporé du formulaire sur vos propres pages _ou_ une page de destination Marketo. Le préremplissage de formulaire n&#39;est destiné à fonctionner que lorsque le formulaire est utilisé dans une page de destination Marketo via l&#39;option Insérer un élément .
 
-1. Sélectionnez/copiez le code intégré, puis cliquez sur **[!UICONTROL Fermer]**.
+1. Dans l’onglet _Standard_, cliquez sur **[!UICONTROL Copier le texte]**. Cliquez sur **[!UICONTROL Fermer]** lorsque vous avez terminé.
 
-   ![](assets/image2014-9-15-12-3a12-3a31.png)
+   ![](assets/embed-a-form-on-your-website-3.png)
 
->[!TIP]
->
->Une fois que le code est incorporé sur votre site web, toutes les modifications apportées au formulaire dans Marketo sont transmises à votre site lors de l’approbation du formulaire. Vous n’avez pas besoin d’apporter d’autres modifications au code.
+   >[!NOTE]
+   >
+   >Pour le code Lightbox, voir [Utiliser un formulaire dans un Lightbox](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md).
 
-Il vous suffit maintenant de donner le code incorporé à votre développeur web et de lui demander de l’ajouter à votre site.
+1. Donnez le code incorporé à votre développeur web.
 
->[!NOTE]
->
->Si votre développeur souhaite personnaliser l&#39;apparence ou accéder aux fonctions d&#39;API avancées, affichez-lui la page Développeurs de [Forms 2.0](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
+   Une fois le code incorporé sur votre site web, toutes les modifications apportées au formulaire dans Marketo Engage seront transmises à votre site lors de l’approbation du formulaire. Vous n’avez pas besoin d’apporter de modifications au code.
 
-Pour le code Lightbox, voir [Utiliser un formulaire dans un Lightbox](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md).
+   >[!TIP]
+   >
+   >Si votre développeur souhaite personnaliser l&#39;apparence ou accéder aux fonctions d&#39;API avancées, affichez-lui la page Développeurs de [Forms 2.0](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).

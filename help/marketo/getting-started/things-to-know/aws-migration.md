@@ -4,10 +4,10 @@ title: Migration d’AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 7f91d1423f25ba0e1572673cbd55099b0000cb03
+source-git-commit: 4cdacd070daedd0ecc8f619c994f343b14c00adb
 workflow-type: tm+mt
-source-wordcount: '431'
-ht-degree: 2%
+source-wordcount: '459'
+ht-degree: 6%
 
 ---
 
@@ -51,9 +51,10 @@ De nouvelles dates et informations sur le datacenter/pod sont régulièrement aj
 <table>
  <tbody>
   <tr>
-   <th style="width:50%">Date</th>
-   <th style="width:20%">Centre de données/pod</th>
-   <th style="width:30%">Heure</th>
+   <th style="width:25%">Date</th>
+   <th style="width:25%">Centre de données/pod</th>
+   <th style="width:25%">Heure</th>
+   <th style="width:25%">Statut</th>
   </tr>
   <tr>
    <td>8 juillet 2026</td>
@@ -61,21 +62,26 @@ De nouvelles dates et informations sur le datacenter/pod sont régulièrement aj
    AB64</td>
    <td>17 h (HAP)<br>
    18 h (HAP)</td>
+   <td>Terminé<br>
+   Terminé</td>
   </tr>
   <tr>
    <td>9 juillet 2026</td>
    <td>AB70</td>
    <td>17 h (HAP)</td>
+   <td>Terminé</td>
   </tr>
   <tr>
    <td>11 juillet 2026</td>
    <td>AB46</td>
    <td>10 h (heure du Pacifique)</td>
+   <td>Terminé</td>
   </tr>
   <tr>
    <td>13 Juillet 2026</td>
    <td>NLD101</td>
    <td>10 h (heure du Pacifique)</td>
+   <td>Terminé</td>
   </tr>
   <tr>
    <td>15 juillet 2026</td>
@@ -83,6 +89,8 @@ De nouvelles dates et informations sur le datacenter/pod sont régulièrement aj
    NLD104</td>
    <td>10 h (heure du Pacifique)<br>
    11 h (heure du Pacifique)</td>
+   <td>Prévu<br>
+   Selon le calendrier</td>
   </tr>
   <tr>
    <td>17 juillet 2026</td>
@@ -90,6 +98,8 @@ De nouvelles dates et informations sur le datacenter/pod sont régulièrement aj
    NLD105</td>
    <td>10 h (heure du Pacifique)<br>
    11 h (heure du Pacifique)</td>
+   <td>Prévu<br>
+   Selon le calendrier</td>
   </tr>
   <tr>
    <td>21 juillet 2026</td>
@@ -97,16 +107,20 @@ De nouvelles dates et informations sur le datacenter/pod sont régulièrement aj
    AB56</td>
    <td>17 h (HAP)<br>
    18 h (HAP)</td>
+   <td>Prévu<br>
+   Selon le calendrier</td>
   </tr>
   <tr>
    <td>23 juillet 2026</td>
    <td>AB48</td>
    <td>17 h (HAP)</td>
+   <td>Prévu</td>
   </tr>
   <tr>
    <td>31 juillet 2026</td>
    <td>AB43</td>
    <td>15 h (HAP)</td>
+   <td>Prévu</td>
   </tr>
   <tr>
    <td>12 Août 2026</td>
@@ -114,10 +128,13 @@ De nouvelles dates et informations sur le datacenter/pod sont régulièrement aj
    AB17</td>
    <td>15 h (HAP)<br>
    16 h (HAP)</td>
+   <td>Prévu<br>
+   Selon le calendrier</td>
   </tr>
   <td>13 Août 2026</td>
    <td>AB68</td>
    <td>16 h (HAP)</td>
+   <td>Prévu</td>
   </tr>
   </body>
 </table>
