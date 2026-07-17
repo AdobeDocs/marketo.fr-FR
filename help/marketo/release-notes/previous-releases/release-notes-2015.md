@@ -30,9 +30,9 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+source-git-commit: ca5ce3f901525a7ad1d08a7c4a4d8d5f61786cf4
 workflow-type: tm+mt
-source-wordcount: 2871
+source-wordcount: 2874
 ht-degree: 6%
 
 ---
@@ -267,7 +267,9 @@ Utilisez le machine learning et les algorithmes d’analyse prédictive de RTP p
 
 Les fonctionnalités suivantes sont incluses dans la version de juin 2015. Consultez votre édition Marketo pour connaître la disponibilité des fonctionnalités. Après la publication, veillez à revenir pour trouver des liens vers des articles détaillés pour chaque fonctionnalité.
 
-## [Rapport d’e-mail d’attribution](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) {#attribution-email-report}
+## Rapport d’e-mail d’attribution {#attribution-email-report}
+
+[Rapport d’e-mail d’attribution](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
 
 Affichez la personnalisation de valeur et le contenu recommandé fournis à vos activités marketing. [Le rapport Attribution par e-mail](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) affiche les prospects directs et assistés attribués à partir des campagnes de personnalisation et de contenu recommandées de RTP. Dans les RTP, Paramètres utilisateur et Rapport sur les e-mails, ajoutez le Rapport sur les e-mails d’attribution pour recevoir des e-mails mensuels ou trimestriels.
 
@@ -281,7 +283,8 @@ Sorti le midi mais vous avez besoin de reprogrammer un email ? L’application [
 
 ## Mise à jour de l’éditeur de texte enrichi {#rich-text-editor-update}
 
-Mise à jour de l’éditeur de texte pour moderniser l’aspect, notamment la mise en forme rationalisée du texte, la modification des images, l’insertion de liens et la modification dans HTML. L’éditeur HTML offre désormais une validation minimale, ce qui permet une modification de code moins restrictive.`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Cette mise à jour sera automatiquement déployée dans les jours qui suivront la publication de juillet. Ensuite, vous pourrez basculer entre les versions nouvelle et héritée de l’éditeur à partir de **[!UICONTROL Admin] > [!UICONTROL E-mail] > [!UICONTROL Modifier les paramètres de l’éditeur]**.
+Mise à jour de l’éditeur de texte pour moderniser l’aspect, notamment la mise en forme rationalisée du texte, la modification des images, l’insertion de liens et la modification dans HTML. L’éditeur HTML offre désormais une validation minimale, ce qui permet une modification de code moins restrictive.
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Cette mise à jour sera automatiquement déployée dans les jours qui suivront la publication de juillet. Ensuite, vous pourrez basculer entre les versions nouvelle et héritée de l’éditeur à partir de **[!UICONTROL Admin] > [!UICONTROL E-mail] > [!UICONTROL Modifier les paramètres de l’éditeur]**.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
