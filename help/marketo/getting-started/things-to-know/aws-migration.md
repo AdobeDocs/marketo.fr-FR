@@ -42,7 +42,7 @@ Les impacts ci-dessous ne nécessitent aucune action de votre part.
 
 >[!NOTE]
 >
->Si vous utilisez des [formulaires externes](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} et souhaitez conserver les données pendant la migration, contactez l’assistance technique d’[Adobe](https://experienceleague.adobe.com/en/support){target="_blank"} et fournissez l’ID de formulaire et l’ID de Munchkin de votre abonnement.
+>Si vous utilisez des [formulaires externes](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} et souhaitez conserver les données pendant la migration, contactez l’assistance technique d’[Adobe](https://experienceleague.adobe.com/fr/support){target="_blank"} et fournissez l’ID de formulaire et l’ID de Munchkin de votre abonnement.
 
 ## Identifier votre datacenter/pod {#identify}
 
@@ -170,4 +170,4 @@ En fonction de votre centre de données, collaborez avec votre service informati
 
 ## Mises à jour et assistance {#support}
 
-Pour connaître les dernières mises à jour, mettez un signet sur cette page. Pour toute question, contactez l’assistance Adobe via le portail d’assistance d’Admin Console ou [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
+Pour connaître les dernières mises à jour, mettez un signet sur cette page. Pour toute question, contactez l’assistance Adobe via le portail d’assistance d’Admin Console ou [Experience League](https://experienceleague.adobe.com/fr/support){target="_blank"}.
