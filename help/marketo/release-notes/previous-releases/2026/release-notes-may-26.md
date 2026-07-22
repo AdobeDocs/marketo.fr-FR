@@ -2,10 +2,10 @@
 description: Notes De Mise À Jour - Mai 2026 - Documents Marketo - Documentation Du Produit
 title: Notes De Mise À Jour - Mai 2026
 feature: Release Information
-source-git-commit: 7ed34709d2a8b8ab3922a62d043bcdfa8e2d33ce
+source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
 workflow-type: tm+mt
-source-wordcount: '802'
-ht-degree: 14%
+source-wordcount: '760'
+ht-degree: 15%
 
 ---
 
@@ -15,7 +15,7 @@ Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version d
 
 Les notes de mise à jour spécifiques à Adobe Dynamic Chat [peuvent être consultées ici](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
-## Fonctionnalités du cycle de publication de la version standard {#standard-release-cycle-features}
+## Fonctionnalités du cycle de publication standard {#standard-release-cycle-features}
 
 Les fonctionnalités suivantes font partie du cycle de publication standard et commenceront à être publiées le **22 mai 2026**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication sont susceptibles d’être modifiées. Vérifiez le statut en regard de chaque fonctionnalité.
 
@@ -30,7 +30,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td><strong>Marketo AI</strong> : utilisez une suite d’agents conçus pour automatiser les fonctions marketing longues mais importantes (deux agents disponibles maintenant, d’autres seront bientôt disponibles).
 </td>
    <td>Ouvrir la version bêta</td>
-   <td><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Présentation de Marketo AI</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Présentation de Marketo AI</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -40,7 +40,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   <tr>
    <td><strong>Serveur MCP Marketo Engage </strong> : le serveur MCP Marketo Engage fait office de pont entre votre assistant AI et Marketo Engage. Il expose plus de 100 opérations sur des formulaires, des programmes, des campagnes intelligentes, des personnes/prospects, des e-mails, des fragments de code, des listes et des dossiers.</td>
    <td>Ouvrir la version bêta</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=fr" target="_blank">Serveur MCP Marketo</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html" target="_blank">Serveur MCP Marketo</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -69,7 +69,8 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat - Est en train de saisir </strong> : le visiteur et l’agent voient maintenant un message « est en train de saisir... » notification pendant que l'autre partie tape, empêchant l'une d'interrompre l'autre.</td>
+   <td><strong>Dynamic Chat - Est en train de taper </strong> : désormais, le visiteur et l’agent voient tous deux une notification « est en train de taper... » pendant que l’autre partie tape, empêchant l’un d’interrompre l’autre.
+   </td>
    <td>Libéré</td>
    <td>s/o</td>
   </tr>
@@ -101,7 +102,8 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat - Nouveau comportement de synchronisation des attributs </strong> : auparavant, l’ajout de nouveaux attributs bloquait les modifications dans l’environnement pendant 24 heures au maximum, tandis que la synchronisation se terminait, empêchant la modification et la publication des boîtes de dialogue. Désormais, bien que l’ajout d’un nouvel attribut nécessite toujours une synchronisation complète des données (ce qui peut toujours prendre jusqu’à 24 heures), l’environnement n’est plus bloqué pendant le processus.</td>
+   <td><strong>Dynamic Chat - Nouveau comportement de synchronisation des attributs </strong> : auparavant, l’ajout de nouveaux attributs bloquait les modifications dans l’environnement pendant 24 heures au maximum, tandis que la synchronisation se terminait, empêchant la modification et la publication des boîtes de dialogue. Désormais, bien que l’ajout d’un nouvel attribut nécessite toujours une synchronisation complète des données (ce qui peut toujours prendre jusqu’à 24 heures), l’environnement n’est plus bloqué pendant le processus.
+   </td>
    <td>Libéré</td>
    <td>s/o</td>
   </tr>
@@ -113,20 +115,20 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
 
 * **Champs d’obsolescence des fonctionnalités sociales** : en 2025, Marketo Engage a abandonné les fonctionnalités sociales suivantes :
 
-   * Sondages
-   * Bouton social
-   * Offre de parrainage
-   * Partage de vidéos
-   * Loteries
+  * Sondages
+  * Bouton social
+  * Offre de parrainage
+  * Partage de vidéos
+  * Loteries
 
 Plus tôt cette année, les champs connexes qui avaient été laissés en arrière-plan ont été supprimés de Marketo. Peu après, les requêtes d’API référençant certains champs de prospect liés aux réseaux sociaux ont renvoyé une erreur « champ introuvable », provoquant des interruptions. Le service a été restauré après la remise à disposition des champs concernés. Afin d’éviter toute perturbation supplémentaire, Marketo a donc découplé définitivement les champs des réseaux sociaux de l’obsolescence des fonctionnalités des réseaux sociaux (qui seront donc disponibles dans votre compte Marketo). Nous recommandons aux utilisateurs de passer en revue les requêtes d’API et les intégrations qui font référence à des champs liés à Marketo Social et de déterminer si ces champs sont toujours requis pour les processus métier en cours.
 
-* **Fonctionnalité de fusion d’API pour les champs booléens** : le comportement des champs booléens dans une fusion d’API a changé dans la version de mars 2026. Désormais, une valeur False est traitée correctement comme ayant une valeur pour ce champ. Seule une valeur null est traitée comme « vide » lors de l’évaluation de champs en conflit. Voir [ce billet de la communauté](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=fr){target="_blank"} pour plus d’informations.
+* **Fonctionnalité de fusion d’API pour les champs booléens** : le comportement des champs booléens dans une fusion d’API a changé dans la version de mars 2026. Désormais, une valeur False est traitée correctement comme ayant une valeur pour ce champ. Seule une valeur null est traitée comme « vide » lors de l’évaluation de champs en conflit. Voir [ce billet de la communauté](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219){target="_blank"} pour plus d’informations.
 
-* **Obsolescence du paramètre &#39;access_token&#39; de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours d’obsolescence et ne sera plus disponible après le 31 juillet 2026. Toutes les intégrations nouvelles et existantes doivent authentifier les appels de l’API REST à l’aide de l’en-tête « Autorisation », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Obsolescence du paramètre &#39;access_token&#39; de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours d’obsolescence et ne sera plus disponible après le 31 août 2026. Toutes les intégrations nouvelles et existantes doivent authentifier les appels de l’API REST à l’aide de l’en-tête « Autorisation », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
 * **Limite de leads de fusion de l’API REST** : à compter du 31 juillet 2026, les appels qui incluent plus de 25 identifiants dans le paramètre leadIds d’un appel de l’API Merge Leads entraîneront un code d’erreur 1080 et l’appel sera ignoré. Les tâches nécessitant la fusion de plus de 25 enregistrements en un seul doivent être divisées en plusieurs tâches pour assurer le succès de ces appels.
 
 * **Obsolescence de l’API SOAP** : la prise en charge de l’API Marketo SOAP prendra fin le 31 juillet 2026. Les services qui utilisent les fonctionnalités de l’API SOAP doivent être migrés vers l’[API REST](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
 
-* **Limites de taille de liste statique pour les activités Get Lead et Get Lead Changes** : à compter du 30 septembre 2026, les appels aux points d’entrée Get Lead Activities et Get Lead Changes qui incluent le paramètre `listId` renverront un code d’erreur 1003 si la liste statique cible contient 10 000 leads ou plus. Consultez le [&#x200B; Guide de migration &#x200B;](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} pour plus d’informations.
+* **Limites de taille de liste statique pour les activités Get Lead et Get Lead Changes** : à compter du 30 septembre 2026, les appels aux points d’entrée Get Lead Activities et Get Lead Changes qui incluent le paramètre `listId` renverront un code d’erreur 1003 si la liste statique cible contient 10 000 leads ou plus. Consultez le [ Guide de migration ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} pour plus d’informations.
