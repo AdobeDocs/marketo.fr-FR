@@ -3,7 +3,7 @@ description: Découvrez comment activer les autorisations de l’IA dédiée à 
 title: Paramètres et configuration
 badge: Beta
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: f5228b97caf8301ca2a4360c02803d5749854b56
 workflow-type: tm+mt
 source-wordcount: '537'
 ht-degree: 4%
@@ -81,7 +81,7 @@ Vous avez également la possibilité de [créer un nouveau rôle](https://experi
 
 ## Paramètres {#settings}
 
-1. Dans Mon Marketo, cliquez sur la mosaïque **Marketo AI**.
+1. Dans Mon Marketo, cliquez sur la mosaïque **[!UICONTROL Marketo AI]**.
 
    ![](assets/settings-setup-7.png)
 
