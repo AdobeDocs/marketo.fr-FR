@@ -35,7 +35,7 @@ ht-degree: 96%
     + [Centre d’aide](getting-started/things-to-know/help-center.md)
     + [Abonnement aux notifications d’état du système](getting-started/things-to-know/system-status-notifications.md)
     + [Migration d’AWS](getting-started/things-to-know/aws-migration.md)
-    + {hide-from-toc}[ Nouvelle interface utilisateur ](getting-started/things-to-know/new-ui.md)
+    + {hide-from-toc}[&#x200B; Nouvelle interface utilisateur &#x200B;](getting-started/things-to-know/new-ui.md)
   + Solutions rapides {#quick-wins}
     + [Configuration et ajout d’une personne](getting-started/quick-wins/get-set-up-and-add-a-person.md)
     + [Envoyer un e-mail](getting-started/quick-wins/send-an-email.md)
@@ -646,7 +646,7 @@ ht-degree: 96%
       + Conversation en direct {#live-chat}
         + [Vue d’ensemble de la conversation en direct](product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md)
         + [Boîte de réception de l’agent ou de l’agente](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md)
-        + {hide-from-toc}[Notifications ](product-docs/demand-generation/dynamic-chat/live-chat/notifications.md)
+        + {hide-from-toc}[Notifications &#x200B;](product-docs/demand-generation/dynamic-chat/live-chat/notifications.md)
       + IA générative {#generative-ai}
         + [Vue d’ensemble de l’IA générative](product-docs/demand-generation/dynamic-chat/generative-ai/overview.md)
         + [Génération de questions](product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md)
@@ -1000,7 +1000,7 @@ ht-degree: 96%
       + [CSS personnalisé](product-docs/email-marketing/email-designer/custom-css.md)
       + [Mode sombre](product-docs/email-marketing/email-designer/dark-mode.md)
       + [Tester le rendu des e-mails avec Litmus](product-docs/email-marketing/email-designer/test-email-rendering.md)
-      + {hide-from-toc}[Jetons ](product-docs/email-marketing/email-designer/personalization-tokens.md)
+      + {hide-from-toc}[Jetons &#x200B;](product-docs/email-marketing/email-designer/personalization-tokens.md)
       + [Utiliser AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
       + [Modifier des images à l’aide d’Adobe Express](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
       + [Fragments](product-docs/email-marketing/email-designer/fragments.md)
@@ -1916,7 +1916,7 @@ ht-degree: 96%
   + [Version actuelle](release-notes/current.md)
   + {hide-from-toc}[Current Release TEMP](release-notes/current-temp.md)
   + [Version de Dynamic Chat](release-notes/dynamic-chat.md)
-  + {hide-from-toc}[TEMP de mise à jour de ](release-notes/dynamic-chat-temp.md)
+  + {hide-from-toc}[TEMP de mise à jour de &#x200B;](release-notes/dynamic-chat-temp.md)
   + [Versions précédentes](release-notes/previous-releases.md)
   + {hide-from-toc} versions précédentes {#previous-releases}
     + 2026 {#2026}
