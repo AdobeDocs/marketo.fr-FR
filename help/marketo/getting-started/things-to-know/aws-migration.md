@@ -4,9 +4,9 @@ title: Migration d’AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: cd0b1dece6129df76deb7eb9c8953711d4d29e45
+source-git-commit: b38557d141ba7364fa5900ba0b87c7ba9d24da4d
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '479'
 ht-degree: 5%
 
 ---
@@ -42,7 +42,7 @@ Les impacts ci-dessous ne nécessitent aucune action de votre part.
 
 >[!NOTE]
 >
->Si vous utilisez des [formulaires externes](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} et souhaitez conserver les données pendant la migration, contactez l’assistance technique d’[Adobe](https://experienceleague.adobe.com/fr/support){target="_blank"} et fournissez l’ID de formulaire et l’ID de Munchkin de votre abonnement.
+>Si vous utilisez des [formulaires externes](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} et souhaitez conserver les données pendant la migration, contactez l’assistance technique d’[Adobe](https://experienceleague.adobe.com/en/support){target="_blank"} et fournissez l’ID de formulaire et l’ID de Munchkin de votre abonnement.
 
 ## Identifier votre datacenter/pod {#identify}
 
@@ -107,12 +107,9 @@ De nouvelles dates et informations sur le datacenter/pod sont régulièrement aj
   </tr>
   <tr>
    <td>21 juillet 2026</td>
-   <td>AB54<br>
-   AB56</td>
-   <td>17 h (HAP)<br>
-   18 h (HAP)</td>
-   <td>Prévu<br>
-   Selon le calendrier</td>
+   <td>AB54</td>
+   <td>17 h (HAP)</td>
+   <td>Terminé</td>
   </tr>
   <tr>
    <td>23 juillet 2026</td>
@@ -170,4 +167,4 @@ En fonction de votre centre de données, collaborez avec votre service informati
 
 ## Mises à jour et assistance {#support}
 
-Pour connaître les dernières mises à jour, mettez un signet sur cette page. Pour toute question, contactez l’assistance Adobe via le portail d’assistance d’Admin Console ou [Experience League](https://experienceleague.adobe.com/fr/support){target="_blank"}.
+Pour connaître les dernières mises à jour, mettez un signet sur cette page. Pour toute question, contactez l’assistance Adobe via le portail d’assistance d’Admin Console ou [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
