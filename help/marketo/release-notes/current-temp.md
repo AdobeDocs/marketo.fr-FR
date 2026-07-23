@@ -1,5 +1,5 @@
 ---
-description: Notes de mise à jour actuelles - Documents Marketo - Documentation du produit
+description: Notes de mise à jour actuelles - Documentation Marketo - Documentation du produit
 title: Notes de mise à jour actuelles
 hide: true
 feature: Release Information
@@ -17,10 +17,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 7ed34709d2a8b8ab3922a62d043bcdfa8e2d33ce
+source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
 workflow-type: tm+mt
-source-wordcount: 483
-ht-degree: 22%
+source-wordcount: 466
+ht-degree: 23%
 
 ---
 
@@ -30,7 +30,7 @@ Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la première
 
 Les notes de mise à jour spécifiques à Adobe Dynamic Chat [peuvent être consultées ici](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
-## Fonctionnalités du cycle de publication de la version standard {#standard-release-cycle-features}
+## Fonctionnalités du cycle de publication standard {#standard-release-cycle-features}
 
 Les fonctionnalités suivantes font partie du cycle de publication standard et commenceront à être publiées le **10 juillet 2026**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication sont susceptibles d’être modifiées. Vérifiez le statut en regard de chaque fonctionnalité.
 
@@ -42,7 +42,8 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <th style="width:25%">Documentation</th>
   </tr>
   <tr>
-   <td><strong>Compétences en IA dédiée à Marketo - Connaissance des produits </strong> : la connaissance des produits vous donne un accès à la demande à l’expertise de Marketo sans quitter la plateforme. Posez une question en langage clair et l’IA dédiée à Marketo s’appuie sur la documentation officielle d’Adobe pour y répondre.</td>
+   <td><strong>Compétences en IA dédiée à Marketo - Connaissance des produits </strong> : la connaissance des produits vous donne un accès à la demande à l’expertise de Marketo sans quitter la plateforme. Posez une question en langage clair et l’IA dédiée à Marketo s’appuie sur la documentation officielle d’Adobe pour y répondre.
+</td>
    <td>Ouvrir la version bêta</td>
    <td><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">Présentation de Marketo AI</a></td>
   </tr>
@@ -74,7 +75,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
 
 ## Annonces {#announcements}
 
-* **Obsolescence du paramètre &#39;access_token&#39; de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours d’obsolescence et ne sera plus disponible après le 31 juillet 2026. Toutes les intégrations nouvelles et existantes doivent authentifier les appels de l’API REST à l’aide de l’en-tête « Autorisation », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Obsolescence du paramètre &#39;access_token&#39; de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours d’obsolescence et ne sera plus disponible après le 31 août 2026. Toutes les intégrations nouvelles et existantes doivent authentifier les appels de l’API REST à l’aide de l’en-tête « Autorisation », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
 * **Limite de leads de fusion de l’API REST** : à compter du 31 juillet 2026, les appels qui incluent plus de 25 identifiants dans le paramètre leadIds d’un appel de l’API Merge Leads entraîneront un code d’erreur 1080 et l’appel sera ignoré. Les tâches nécessitant la fusion de plus de 25 enregistrements en un seul doivent être divisées en plusieurs tâches pour assurer le succès de ces appels.
 

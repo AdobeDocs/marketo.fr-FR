@@ -25,10 +25,10 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+source-git-commit: babcd0bfb6c16165488cabd075a9d75d2952016b
 workflow-type: tm+mt
-source-wordcount: 4282
-ht-degree: 6%
+source-wordcount: 4311
+ht-degree: 7%
 
 ---
 
@@ -50,8 +50,8 @@ Les fonctionnalités suivantes seront publiées le **21 janvier 2022**, avec un 
 
 * **Mise à jour de Screens dans l’expérience de nouvelle génération** : nous proposons d’autres écrans actualisés dans l’expérience de nouvelle génération qui offrent une conception et des améliorations de convivialité mises à jour et accessibles via le bouton bascule :
 
-   * Détails de la ressource de page de destination dans [!UICONTROL Design Studio]
-   * Détails de la ressource de page de destination dans [!UICONTROL Activités marketing]
+  * Détails de la ressource de page de destination dans [!UICONTROL Design Studio]
+  * Détails de la ressource de page de destination dans [!UICONTROL Activités marketing]
 
 ## Intégration [!DNL Microsoft Dynamics] {#microsoft-dynamics-integration}
 
@@ -129,7 +129,7 @@ Les fonctionnalités suivantes seront publiées le **11 mars 2022**, avec un dé
 
 ## Orchestration cross-canal
 
-* **[!DNL Dynamic Chat]** : maximisez chaque opportunité sur votre site web en ciblant les prospects et les comptes avec des conversations proactives, attrayantes et 1:1 personnalisées. [&#128279;](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} permet aux utilisateurs de Marketo Engage de commencer à utiliser le chat comme élément clé des expériences cross-canal intégrées pour les cas d’utilisation de marketing et de ventes B2B. Les fonctionnalités incluent : la possibilité de réserver des réunions directement dans le chat, le routage des prospects, les modèles de démarrage, la création de conversations par glisser-déposer, et bien plus encore. Dynamic Chat est inclus dans tous les packages Marketo Engage et sera déployé auprès de tous les utilisateurs Marketo Engage cette année.
+* **[!DNL Dynamic Chat]** : maximisez chaque opportunité sur votre site web en ciblant les prospects et les comptes avec des conversations proactives, attrayantes et personnalisées 1:1. [&#128279;](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} permet aux utilisateurs de Marketo Engage de commencer à utiliser le chat comme élément clé des expériences cross-canal intégrées pour les cas d’utilisation de marketing et de ventes B2B. Les fonctionnalités incluent : la possibilité de réserver des réunions directement dans le chat, le routage des prospects, les modèles de démarrage, la création de conversations par glisser-déposer, et bien plus encore. Dynamic Chat est inclus dans tous les packages Marketo Engage et sera déployé auprès de tous les utilisateurs Marketo Engage cette année.
 
 * **Amélioration du filtrage des activités de robots d’e-mail** : en complément de la fonctionnalité [Filtrage des activités de robots d’e-mail](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} publiée précédemment, vous pouvez désormais vous inscrire aux activités de journalisation identifiées comme des robots. Vous pouvez ensuite filtrer et déclencher des actions en fonction des activités identifiées comme étant exécutées par des robots.
 
@@ -137,7 +137,7 @@ Les fonctionnalités suivantes seront publiées le **11 mars 2022**, avec un dé
 
 * **Mise à jour de Screens dans l’expérience de nouvelle génération** : nous proposons d’autres écrans actualisés dans l’expérience de nouvelle génération qui offrent une conception et des améliorations de convivialité mises à jour et accessibles via le bouton bascule :
 
-   * Vue Liste des formulaires dans [!UICONTROL Design Studio] (y compris les nouvelles actions en masse)
+  * Vue Liste des formulaires dans [!UICONTROL Design Studio] (y compris les nouvelles actions en masse)
 
 * **Mise à jour du workflow d’importation du programme** : le workflow d’importation du programme est fourni dans l’expérience de nouvelle génération avec une conception et des améliorations de convivialité mises à jour. Il s’agira d’une modification automatique sans commutateur.
 
@@ -275,8 +275,8 @@ Les fonctionnalités suivantes seront publiées le **24 juin 2022**, avec un dé
 
 **Nouveau bouton (bascule) des vues** : les vues ci-dessous sont désormais disponibles dans l’expérience de nouvelle génération :
 
-* [Vue Détails de l’e-mail](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
-* [Vue Liste d’e-mails](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
+* [Vue Détails de l’e-mail](https://experienceleague.adobe.com/fr/docs/marketo/using/home){target="_blank"}
+* [Vue Liste d’e-mails](https://experienceleague.adobe.com/fr/docs/marketo/using/home){target="_blank"}
 
 ## Automatisation de l’expérience
 
@@ -340,10 +340,10 @@ Le déploiement échelonné des fonctionnalités suivantes a commencé le **26 a
 
 * **Afficher la hiérarchie des dossiers du dossier de destination dans la boîte de dialogue Déplacer** : l’affichage de la hiérarchie des dossiers pour chaque dossier facilite le déplacement des ressources et réduit la probabilité de les placer dans un mauvais dossier.
 
-* **[Mise à jour de Screens dans l’expérience de nouvelle génération](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target="_blank"}** : nous proposons d’autres écrans actualisés dans l’expérience de nouvelle génération qui offrent une conception et des améliorations de convivialité mises à jour et accessibles via le bouton bascule :
+* **[Mise à jour de Screens dans l’expérience de nouvelle génération](https://experienceleague.adobe.com/fr/docs/marketo/using/home){target="_blank"}** : nous proposons d’autres écrans actualisés dans l’expérience de nouvelle génération qui offrent une conception et des améliorations de convivialité mises à jour et accessibles via le bouton bascule :
 
-   * Détails du fragment de code
-   * Détails « Images et fichiers »
+  * Détails du fragment de code
+  * Détails « Images et fichiers »
 
 >[!NOTE]
 >
@@ -408,7 +408,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td>Libéré</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Synchronisation des champs personnalisés des personnes membres du programme</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Synchronisation des champs personnalisés des membres de programme</a></td>
   </tr>
   </tbody>
 </table>
@@ -433,8 +433,8 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
 
 * **Mise à jour de Screens dans l’expérience de nouvelle génération** : nous proposons d’autres écrans actualisés dans l’expérience de nouvelle génération qui offrent une conception et des améliorations de convivialité mises à jour et accessibles via le bouton bascule :
 
-   * Détails du modèle de page de destination
-   * Liste de modèles d’e-mail
+  * Détails du modèle de page de destination
+  * Liste de modèles d’e-mail
 
 <table>
   <tr>
@@ -443,7 +443,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td>Libéré</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Bouton (bascule)</a></td>
+   <td><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/home">Bouton (bascule)</a></td>
   </tr>
   </tbody>
 </table>

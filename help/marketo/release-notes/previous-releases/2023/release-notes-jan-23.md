@@ -14,10 +14,10 @@ topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: babcd0bfb6c16165488cabd075a9d75d2952016b
 workflow-type: tm+mt
-source-wordcount: 656
-ht-degree: 21%
+source-wordcount: 663
+ht-degree: 22%
 
 ---
 
@@ -39,8 +39,8 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
 
 * **Mise à jour de Screens dans l’expérience utilisateur moderne** : dans l’expérience utilisateur moderne (anciennement appelée Expérience de nouvelle génération), nous vous proposons d’autres écrans actualisés qui offrent des améliorations de conception et de convivialité mises à jour et accessibles via le bouton bascule :
 
-   * Vue Liste d’extrait
-   * Liste de modèles de page de destination
+  * Vue Liste d’extrait
+  * Liste de modèles de page de destination
 
   <table>
   <tr>
@@ -49,7 +49,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td>Libéré</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Bouton (bascule)</a></td>
+   <td><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/home">Bouton (bascule)</a></td>
   </tr>
   </tbody>
 
