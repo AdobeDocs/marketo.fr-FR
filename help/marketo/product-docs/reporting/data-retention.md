@@ -2,7 +2,7 @@
 description: Découvrez comment les politiques de conservation des données sur 25 mois et 90 jours de Marketo affectent les rapports Analytics, avec une répartition par rapport et des conseils pour conserver les données plus longtemps.
 title: Conservation des données
 feature: Reporting
-source-git-commit: 0828b4cb43dd18d02b80083ea5128e2f0e5e40d6
+source-git-commit: 8eb9fd285e5dd055603579fbb5e7a4c4eb681172
 workflow-type: tm+mt
 source-wordcount: '1084'
 ht-degree: 5%
@@ -13,7 +13,7 @@ ht-degree: 5%
 
 Marketo conserve les données d’activité marketing de manière progressive. Les données sur les activités et les adhésions aux campagnes sont stockées pendant 25 mois consécutifs après la date d’activité. Par défaut, les données d’activité volumineuses sont conservées pendant 90 jours consécutifs après la date d’activité, après quoi elles peuvent être ajustées par utilisateur. Au-delà de ces périodes de conservation, les données ne sont plus disponibles via l’interface utilisateur de Marketo.
 
-## Rapports Marketo analytics
+## Rapports Marketo Analytics
 
 Les données d’activité étant conservées jusqu’à 25 mois, certains rapports Marketo Analytics sont affectés par cette politique, tandis que d’autres ne le sont pas. Les rapports qui extraient des données des journaux d’activité des personnes n’affichent des données que pour une durée maximale de 25 mois. Les rapports qui ne font aucune référence à l’activité des personnes ne sont pas affectés.
 
@@ -25,7 +25,7 @@ Le tableau ci-dessous résume le comportement de chaque rapport, y compris les s
 
 | Type de rapport | Filtrer le scénario | Affecté par la politique de rétention ? |
 |---|---|---|
-| **Rapports de l’explorateur du cycle de revenus** | Aucun filtre disponible | Non — Les utilisateurs de Revenue Cycle Explorer et d’Advanced Analytics sont entièrement exemptés de ces limites de conservation. Les données RCE sont envoyées pendant la nuit dans un serveur de base de données distinct qui gère les rapports RCE. Étant donné qu’ils sont hébergés séparément et non dans des journaux d’activité personnels, ces rapports ne sont pas affectés par cette politique. L’Explorateur du cycle de revenu n’extrait pas directement les données de la base de données des personnes. Les filtres ne sont donc pas disponibles. |
+| **Rapports de l’explorateur du cycle de revenus** | Aucun filtre disponible | Non : les utilisateurs de Revenue Cycle Explorer et d’Advanced Analytics sont entièrement exemptés de ces limites de conservation. Les données RCE sont envoyées pendant la nuit dans un serveur de base de données distinct qui gère les rapports RCE. Étant donné qu’ils sont hébergés séparément et non dans des journaux d’activité personnels, ces rapports ne sont pas affectés par cette politique. L’Explorateur du cycle de revenu n’extrait pas directement les données de la base de données des personnes. Les filtres ne sont donc pas disponibles. |
 | **Rapport sur les performances des personnes** | Aucun filtre de liste dynamique | Non |
 | | Filtres sur les attributs de personne (par exemple : prénom) | Non |
 | | Filtres sur les activités des personnes au cours des 25 derniers mois | Non |
@@ -38,7 +38,7 @@ Le tableau ci-dessous résume le comportement de chaque rapport, y compris les s
 | | Filtres sur les attributs de personne (par exemple : prénom) | Non |
 | | Filtres sur les activités des personnes au cours des 25 derniers mois | Non |
 | | Filtres sur les activités des personnes sans contrainte de date | Oui |
-| **Analyseur de chemin de succès** | N’inclut pas les listes dynamiques | S/O |
+| **Analyseur de chemin de succès** | N’inclut pas les listes dynamiques | NR |
 | **Rapport d’influence sociale** | Aucun filtre de liste dynamique | Oui |
 | | Filtres sur les attributs de personne (par exemple : prénom) | Oui |
 | | Filtres sur les activités des personnes au cours des 25 derniers mois | Oui |
@@ -57,11 +57,11 @@ Le tableau ci-dessous résume le comportement de chaque rapport, y compris les s
 | | Filtres sur les attributs de personne (par exemple : prénom) | Non |
 | | Filtres sur les activités des personnes au cours des 25 derniers mois | Non |
 | | Filtres sur les activités des personnes sans contrainte de date | Oui |
-| **Performances de la page de destination** | Aucun filtre de liste dynamique | Non — Les données de performances des pages de destination sont conservées indéfiniment et ne sont pas soumises à la politique de conservation. |
+| **Performances de la page de destination** | Aucun filtre de liste dynamique | Non : les données de performances des pages de destination sont conservées indéfiniment et ne sont pas soumises à la politique de conservation. |
 | | Filtres sur les attributs de personne (par exemple : prénom) | Non |
 | | Filtres sur les activités des personnes au cours des 25 derniers mois | Non |
 | | Filtres sur les activités des personnes sans contrainte de date | Non |
-| **Activité de page web** | Aucun filtre de liste dynamique | Oui - sous réserve de la période de conservation par défaut de 90 jours (ajustable par utilisateur) |
+| **Activité de page web** | Aucun filtre de liste dynamique | Oui : sous réserve de la période de conservation par défaut de 90 jours (ajustable par utilisateur) |
 | | Filtres sur les attributs de personne (par exemple : prénom) | Oui |
 | | Filtres sur les activités des personnes au cours des 25 derniers mois | Oui |
 | | Filtres sur les activités des personnes sans contrainte de date | Oui |

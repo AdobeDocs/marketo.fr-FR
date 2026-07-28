@@ -4,10 +4,10 @@ title: Migration d’AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 0828b4cb43dd18d02b80083ea5128e2f0e5e40d6
+source-git-commit: f0d3f6ad0113d3610f55e03533f8280816ed5181
 workflow-type: tm+mt
-source-wordcount: '502'
-ht-degree: 5%
+source-wordcount: '531'
+ht-degree: 6%
 
 ---
 
@@ -50,7 +50,7 @@ Avant de passer en revue les tableaux ci-dessous, [découvrez comment identifier
 
 ## Programmation {#schedule}
 
-De nouvelles dates et informations sur le datacenter/pod sont régulièrement ajoutées. N’oubliez pas de revenir ici pour plus de détails.
+De nouvelles dates et informations sur le datacenter/pod sont régulièrement ajoutées ou modifiées. Surveillez donc ce planning pour les mises à jour.
 
 <table>
  <tbody>
@@ -150,6 +150,24 @@ De nouvelles dates et informations sur le datacenter/pod sont régulièrement aj
    AB44</td>
    <td>17 h (HAP)<br>
    18 h (HAP)</td>
+   <td>Prévu<br>
+   Selon le calendrier</td>
+  </tr>
+  <tr>
+   <td>26 Août 2026</td>
+   <td>AB40<br>
+   AB50</td>
+   <td>17 h (HAP)<br>
+   18 h (HAP)</td>
+   <td>Prévu<br>
+   Selon le calendrier</td>
+  </tr>
+  <tr>
+   <td>28 Août 2026</td>
+   <td>AB53<br>
+   AB56</td>
+   <td>15 h (HAP)<br>
+   16 h (HAP)</td>
    <td>Prévu<br>
    Selon le calendrier</td>
   </tr>
