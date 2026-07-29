@@ -9,9 +9,9 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 76cacaf05738c6fe8836c5f2e9c64d9287c56bb7
 workflow-type: tm+mt
-source-wordcount: 106
+source-wordcount: 117
 ht-degree: 5%
 
 ---
@@ -19,6 +19,10 @@ ht-degree: 5%
 # Vue d’ensemble des moments intéressants {#interesting-moments-overview}
 
 Vous pouvez utiliser l’étape de flux des moments intéressante pour donner à votre équipe des ventes une visibilité sur les activités intéressantes de vos prospects dans une campagne intelligente.
+
+>[!AVAILABILITY]
+>
+>Pour utiliser des moments intéressants, vous devez être un utilisateur [!DNL Marketo Sales Insight] ou [[!DNL Marketo Sales Connect]](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md).
 
 ![](assets/image2016-1-27-11-3a1-3a53.png)
 
