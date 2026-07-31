@@ -1,10 +1,9 @@
 ---
 description: Examinez la portée des données, les contrôles de gouvernance et les considérations relatives aux informations d’identification personnelles de Marketo AI dans les workflows clés tels que l’importation des prospects, l’assurance qualité des programmes et la normalisation des données.
 title: Fiche d’information sur les données de l’IA dédiée à Marketo
-badge: Beta
-source-git-commit: 06d77c31c729de70033696662fb6191eb527dedf
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
-source-wordcount: '1454'
+source-wordcount: '1453'
 ht-degree: 0%
 
 ---
