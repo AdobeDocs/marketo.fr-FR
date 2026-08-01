@@ -1,9 +1,8 @@
 ---
 description: Explorez la suite d’agents Marketo AI conçue pour automatiser les tâches marketing telles que l’assurance qualité des programmes, l’importation de prospects, la normalisation des données, etc.
 title: Présentation de Marketo AI
-badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: f500c305c3e5c1331e9bb34c01cfec5974cf329e
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 1%
@@ -16,7 +15,7 @@ L’IA dédiée à Marketo fournit des compétences d’agent conçues pour auto
 
 >[!AVAILABILITY]
 >
->Cette fonctionnalité est actuellement en version Beta ouverte. Pour demander l’accès, contactez votre gestionnaire de compte. Vous devez également accepter les termes [&#x200B; Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Actuellement, l’IA dédiée à Marketo est uniquement optimisée pour l’anglais.
+>Cette fonctionnalité est disponible pour tous les abonnements. Si la vignette Marketo AI ne s’affiche pas sur votre écran My Marketo, contactez votre gestionnaire de compte. Vous devez également accepter les termes [&#x200B; Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
 
 >[!IMPORTANT]
 >
