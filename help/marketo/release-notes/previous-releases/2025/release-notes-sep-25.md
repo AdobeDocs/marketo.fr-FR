@@ -15,7 +15,7 @@ subfeature_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: bf1ac405e4e4ce9a9d6ea3e93d8f46730957f435
 workflow-type: tm+mt
 source-wordcount: 960
 ht-degree: 85%
@@ -32,7 +32,7 @@ Les notes de mise à jour spécifiques à Adobe Dynamic Chat [peuvent être co
 >
 >Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.
 
-## Fonctionnalités du cycle de publication de la version standard {#standard-release-cycle-features}
+## Fonctionnalités du cycle de publication standard&#x200B; {#standard-release-cycle-features}
 
 Les fonctionnalités suivantes font partie du cycle de publication de la version standard et commenceront à être publiées le **19 septembre 2025**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication sont susceptibles d’être modifiées. Vérifiez le statut en regard de chaque fonctionnalité.
 
@@ -56,7 +56,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   <tr>
    <td><strong>Concepteur d’e-mail - Autorisations de l’assistant IA</strong> : les administrateurs et administratrices Marketo peuvent fournir un accès aux fonctionnalités de GenAI pour des personnes spécifiques.</td>
    <td>Libéré</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md#set-up-permissions">Configuration des autorisations</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/generate-content.md#set-up-permissions">Configuration des autorisations</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -74,7 +74,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Concepteur d’e-mail - Workflow de collaboration de contenu</strong> : vous pouvez désormais apporter des commentaires à propos des autres utilisateurs et utilisatrices de Marketo et collaborer avec eux dans une ressource d’e-mail. Identifiez les personnes membres de l’équipe (les utilisateurs et utilisatrices de Marketo qui disposent des autorisations appropriées sur les ressources) et elles recevront une notification push ou un e-mail.</td>
+   <td><strong>Concepteur d’e-mail - Workflow de collaboration de contenu</strong> : vous pouvez désormais apporter des commentaires à propos des autres utilisateurs et utilisatrices de Marketo et collaborer avec eux dans une ressource d’e-mail. Identifiez les membres de l’équipe (utilisateurs et utilisatrices de Marketo qui disposent des autorisations appropriées sur les ressources) pour qu’ils reçoivent une notification par e-mail ou via Pulse.</td>
    <td>Libéré</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-collaboration.md">Collaboration par e-mail</a></td>
   </tr>
@@ -100,9 +100,9 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
 
 * **Fin de vie de Marketo Engage Identity** : en août 2025, Adobe a commencé à supprimer progressivement la prise en charge de Marketo Engage Identity (connexion via `login.marketo.com`). Pour éviter l’interruption de l’accès à Marketo Engage, vous devez passer à [Adobe Identity](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} au plus tard le 30 septembre 2025.
 
-   * _Obsolescence des restrictions d’adresse IP_ : la prise en charge de la [restriction des connexions Marketo en fonction des adresses IP](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} a pris fin le 30 juillet 2025. La fonctionnalité restera opérationnelle jusqu’à la fin de la transition vers Adobe Identity. Une nouvelle fonctionnalité de contrôle d’accès basé sur l’emplacement pour Adobe Identity dans Adobe Admin Console est prévue pour bientôt.
+  * _Obsolescence des restrictions d’adresse IP_ : la prise en charge de la [restriction des connexions Marketo en fonction des adresses IP](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} a pris fin le 30 juillet 2025. La fonctionnalité restera opérationnelle jusqu’à la fin de la transition vers Adobe Identity. Une nouvelle fonctionnalité de contrôle d’accès basé sur l’emplacement pour Adobe Identity dans Adobe Admin Console sera bientôt disponible.
 
-   * _Obsolescence de l’authentification unique (SSO)_ : la prise en charge de [l’authentification unique de Marketo Identity](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} prendra fin le 30 juillet 2025. La fonctionnalité restera opérationnelle jusqu’à la fin de la transition vers Adobe Identity. L’authentification unique pour Adobe Identity dans Adobe Admin Console doit être configurée séparément. Pour connaître les étapes de configuration, consultez [Configurer une identité et l’authentification unique](https://helpx.adobe.com/fr/enterprise/using/set-up-identity.html){target="_blank"}.
+  * _Obsolescence de l’authentification unique (SSO)_ : la prise en charge de [l’authentification unique de Marketo Identity](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} prendra fin le 30 juillet 2025. La fonctionnalité restera opérationnelle jusqu’à la fin de la transition vers Adobe Identity. L’authentification unique pour Adobe Identity dans Adobe Admin Console doit être configurée séparément. Pour connaître les étapes de configuration, consultez [Configurer une identité et l’authentification unique](https://helpx.adobe.com/fr/enterprise/using/set-up-identity.html){target="_blank"}.
 
 * **Obsolescence de la fonctionnalité _Transférer à un ami_** : le 29 septembre 2025, la fonctionnalité _Transférer à un ami_ des e-mails dans Marketo Engage 2.0 (l’ancien éditeur d’e-mail) sera complètement obsolète pour tous les abonnements. Cela affecte le jeton « Transférer à un ami » et les liens « Transférer à un ami » dans les e-mails qui ont déjà été envoyés ou qui seront envoyés à l’aide du jeton. [En savoir plus](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 

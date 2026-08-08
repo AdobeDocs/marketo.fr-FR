@@ -1,8 +1,8 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Utiliser l’assistant IA
-description: Découvrez comment utiliser l’assistant d’IA pour ajouter du texte et des images aux e-mails. Utilisez l’IA générative d’Adobe dans le Designer d’e-mail pour des idées de contenu.
+title: Générer du contenu dans le Designer Email
+description: Découvrez comment générer du contenu pour ajouter du texte et des images aux e-mails. Utilisez l’IA générative d’Adobe dans le Designer d’e-mail pour des idées de contenu.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
@@ -14,20 +14,20 @@ feature_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+source-git-commit: bf1ac405e4e4ce9a9d6ea3e93d8f46730957f435
 workflow-type: tm+mt
-source-wordcount: 936
-ht-degree: 3%
+source-wordcount: 914
+ht-degree: 1%
 
 ---
 
-# Assistant AI pour Email Designer {#ai-assistant-email-designer}
+# Générer du contenu dans le Designer Email {#generate-content}
 
-L’assistant AI de Marketo Engage Email Designer vous permet de créer des e-mails contemporains, performants et intuitifs. Pour ce faire, Adobe utilise une technologie d’IA générative et une bibliothèque d’invites, ainsi que Firefly pour la génération d’images, qui permettent de créer du contenu adapté à une personne/un groupe d’achat spécifique, une étape de parcours marketing, une stratégie de communication, un ton, etc. Des ressources de marque spécifiques peuvent également être utilisées pour créer du contenu.
+La génération de contenu dans le Designer d’e-mail Marketo Engage vous permet de créer des e-mails contemporains, performants et intuitifs. Pour ce faire, Adobe utilise une technologie d’IA générative et une bibliothèque d’invites, ainsi que Firefly pour la génération d’images, qui permettent de créer du contenu adapté à une personne/un groupe d’achat spécifique, une étape de parcours marketing, une stratégie de communication, un ton, etc. Des ressources de marque spécifiques peuvent également être utilisées pour créer du contenu.
 
 >[!PREREQUISITES]
 >
->L’assistant AI n’est pas activé par défaut. Vous devez d’abord accepter les conditions générales [Core Gen-AI et les conditions supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} relatives à l’utilisation de la fonctionnalité Gen-AI dans le Designer d’e-mail. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
+>Cette fonctionnalité n’est pas activée par défaut. Vous devez d’abord accepter les conditions générales [Core Gen-AI et les conditions supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} relatives à l’utilisation de la fonctionnalité Gen-AI dans le Designer d’e-mail. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
 
 ## Configuration des autorisations {#set-up-permissions}
 
@@ -57,9 +57,7 @@ _Après_ conformément à la condition préalable ci-dessus, les administrateurs
 
 +++
 
-## Cas pratiques {#use-cases}
-
-Il existe quelques cas d’utilisation principaux pour l’assistant AI :
+## Cas d’utilisation {#use-cases}
 
 * [Créer un objet et/ou un pré-titre](#create-a-subject-line-preheader) pour votre e-mail
 * [Créer du contenu pour une section spécifique](#create-content-for-a-specific-section) de votre e-mail
@@ -67,7 +65,7 @@ Il existe quelques cas d’utilisation principaux pour l’assistant AI :
 
 ## Créer une ligne d’objet/un pré-titre {#create-a-subject-line-preheader}
 
-Vous pouvez utiliser l’assistant d’IA pour créer une ligne d’objet, un pré-titre, ou les deux.
+Créez une ligne d’objet, un pré-titre ou les deux.
 
 ![](assets/use-the-ai-assistant-1.png)
 
@@ -75,11 +73,11 @@ L’exemple ci-dessous illustre la ligne d’objet. Pour un pré-titre, suivez l
 
 Lors de la création d’un e-mail à l’aide du nouveau Designer d’e-mail, saisissez un objet temporaire.
 
-Une fois l’e-mail créé, l’objet se trouve dans la colonne _Détails_ à droite. Cliquez sur le bouton de l’assistant d’IA ( ![icône de filtre](assets/icon-ai-assistant.png) ) en regard pour obtenir de l’aide sur la création d’une ligne d’objet à l’aide de la fonctionnalité IA dédiée aux généralités.
+Une fois l’e-mail créé, l’objet se trouve dans la colonne _Détails_ à droite. Cliquez sur le bouton Générer le contenu ( ![icône Filtre](assets/icon-ai-assistant.png) ) en regard pour obtenir de l’aide sur la création d’une ligne d’objet à l’aide de la fonctionnalité IA dédiée aux généralités.
 
 ![](assets/use-the-ai-assistant-2.png)
 
-Activez l’option **Utiliser le contenu de référence** pour que l’Assistant IA personnalise le nouveau contenu en fonction du contenu sélectionné.
+Activez l’option **Utiliser du contenu de référence** pour personnaliser le nouveau contenu en fonction du contenu sélectionné.
 
 Saisissez l’invite de personnalisation de l’objet. Saisissez les paramètres de texte appropriés et chargez toutes les ressources de marque que vous souhaitez utiliser comme référence pour créer une ligne d&#39;objet appropriée.
 
@@ -135,7 +133,7 @@ Une fois l’e-mail créé, vous avez la possibilité de modifier certaines sect
 
 ![](assets/use-the-ai-assistant-7.png)
 
-Dans cet exemple, nous utilisons un modèle financier. Si une ou plusieurs images existantes ne répondent pas à vos besoins, vous pouvez demander à l’assistant d’IA de créer une image basée sur votre description. Sélectionnez l’image souhaitée et cliquez sur l’icône de l’assistant d’IA .
+Dans cet exemple, nous utilisons un modèle financier. Si une ou plusieurs des images existantes ne répondent pas à vos besoins, vous pouvez créer une nouvelle image basée sur votre description. Sélectionnez l’image souhaitée et cliquez sur l’icône Générer le contenu .
 
 ![](assets/use-the-ai-assistant-8.png)
 
@@ -161,7 +159,7 @@ Tout comme pour les images, les parties de texte de l’e-mail peuvent égalemen
 
 Cette option n’est disponible que si l’e-mail est créé à l’aide d’un modèle existant. Il peut s’agir d’un modèle standard fourni par le Designer d’e-mail, d’un modèle enregistré que vous avez déjà créé ou d’un modèle importé à l’aide de l’option Importer HTML . Cette option n’est pas disponible si vous choisissez [Créer en partant de zéro](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#design-from-scratch) pour votre e-mail.
 
-Sélectionnez un modèle, sans sélectionner de composant dans le modèle, puis cliquez sur le bouton de l’assistant AI dans le Designer d’e-mail.
+Sélectionnez un modèle, sans sélectionner de composant dans le modèle, puis cliquez sur le bouton Générer le contenu dans le Designer d’e-mail.
 
 ![](assets/use-the-ai-assistant-12.png)
 

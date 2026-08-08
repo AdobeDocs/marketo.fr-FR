@@ -4,9 +4,9 @@ user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 3a01bc6f6d6ec2e07a95316a30be7a379152091d
+source-git-commit: 354c6285ff143a28b3057fa7d3b0ca528c3e51b6
 workflow-type: tm+mt
-source-wordcount: '8917'
+source-wordcount: '8918'
 ht-degree: 96%
 
 ---
@@ -1011,7 +1011,7 @@ ht-degree: 96%
       + [Intégration de GenStudio pour Marketo Engage](product-docs/email-marketing/email-designer/genstudio.md)
       + [Verrouillage de contenu](product-docs/email-marketing/email-designer/content-locking.md)
       + [Collaboration d’e-mail](product-docs/email-marketing/email-designer/email-collaboration.md)
-      + [Assistant AI pour Email Designer](product-docs/email-marketing/email-designer/ai-assistant.md)
+      + [Générer du contenu dans le Designer Email](product-docs/email-marketing/email-designer/generate-content.md)
       + [Rapport de spam pour les e-mails avec SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
       + [Guide de suivi des ouvertures de la CNIL](product-docs/email-marketing/email-designer/cnil-guidance.md)
     + Programmes d’e-mail {#email-programs}
