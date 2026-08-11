@@ -3,14 +3,12 @@ description: Découvrez les outils de gestion de la confidentialité dans Market
 title: Gestion de la confidentialité
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
 TQID: https://experienceleague.adobe.com/MzzRnGGXqzNNFzl2VYU0fZDsdyqhKqJ5BDwfdw1fQaY
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2:
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 2cfe050fe4844f44815b9842cffafa4c1eb37c13
 workflow-type: tm+mt
-source-wordcount: 439
-ht-degree: 1%
+source-wordcount: 268
+ht-degree: 5%
 
 ---
 
@@ -26,19 +24,11 @@ Marketo Engage propose un ensemble d’outils pour vous aider à vous conformer 
 >
 >**-ou-**
 >
->* les utilisateurs de Marketo Engage qui utilisent un autre produit Experience Cloud déjà sur le système Adobe Identity Management (par exemple, les éditions RT-CDP, B2B et B2P, Audience Manager).
+>* les utilisateurs de Marketo Engage qui utilisent un autre produit Experience Cloud déjà présent dans le système Adobe Identity Management (par exemple, les éditions RT-CDP, B2B et B2P, Audience Manager).
 
 ## Règlements relatifs à la gestion de la confidentialité {#regulations-on-privacy-management}
 
-Les fonctionnalités de Marketo Engage vous aident à vous conformer aux réglementations suivantes :
-
-* **[!DNL GDPR]** [Règlement général sur la protection des données](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-does-general-data-protection-regulation-gdpr-govern_en) est la loi de l&#39;Union européenne (UE) sur la protection de la vie privée qui harmonise et modernise les exigences en matière de protection des données pour les pays de l&#39;UE.
-* **[!DNL CCPA]** [California Consumer Privacy Act](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&division=3.&title=1.81.5.&part=4.&chapter=&article=) confère aux Californiens des droits sur leurs informations personnelles et impose des responsabilités en matière de protection des données à certaines entités exerçant des activités en Californie.
-* **[!DNL PDPA]** [loi sur la protection des données personnelles](https://secureprivacy.ai/thailand-pdpa-summary-what-businesses-need-to-know/) est la loi sur la protection de la vie privée qui harmonise et modernise les exigences de protection des données pour la Thaïlande.
-* **[!DNL LGPD]** [Lei Geral de Proteção de Dados](https://iapp.org/media/pdf/resource_center/Brazilian_General_Data_Protection_Law.pdf) en vigueur début 2021 pour toutes les entreprises qui collectent ou traitent des données à caractère personnel au Brésil.
-* **[!DNL NZPA]** [Privacy Act 2020](https://www.legislation.govt.nz/act/public/2020/0031/latest/LMS23223.html) est la loi sur la protection de la vie privée qui harmonise et modernise les exigences de protection des données en Nouvelle-Zélande.
-
-Toutes les réglementations ci-dessus s’appliquent aux clients Marketo Engage qui détiennent des données pour les titulaires de données résidant dans les régions ou pays respectifs mentionnés ci-dessus (UE, Californie, Thaïlande, Brésil, Nouvelle-Zélande).
+Les fonctionnalités de Marketo Engage vous aident à vous conformer à plusieurs réglementations en matière de confidentialité. Pour obtenir la liste des réglementations prises en charge, voir [Présentation des réglementations de confidentialité](https://experienceleague.adobe.com/fr/docs/experience-platform/privacy/regulations/overview){target="_blank"}.
 
 ## Droit d&#39;accès et droit à l&#39;oubli {#right-to-access-and-right-to-be-forgotten}
 
