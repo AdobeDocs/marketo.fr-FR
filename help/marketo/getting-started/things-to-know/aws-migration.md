@@ -4,9 +4,9 @@ title: Migration d’AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 99b7a65fe436f40d474a708fb54d2f2f1a45c5db
+source-git-commit: 750dabcbfaf8fe66291e5eac7e26a0cefc05e675
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '835'
 ht-degree: 5%
 
 ---
@@ -42,7 +42,7 @@ Les impacts ci-dessous ne nécessitent aucune action de votre part.
 
 >[!NOTE]
 >
->Si vous utilisez des [formulaires externes](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} et souhaitez conserver les données pendant la migration, contactez l’assistance technique d’[Adobe](https://experienceleague.adobe.com/fr/support){target="_blank"} et fournissez l’ID de formulaire et l’ID de Munchkin de votre abonnement.
+>Si vous utilisez [formulaires externes](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} et souhaitez éviter de perdre les données d’envoi de formulaire collectées alors que Marketo Engage n’est pas disponible pendant votre période de migration, contactez [l’assistance Adobe](https://experienceleague.adobe.com/en/support){target="_blank"} **au moins deux jours ouvrables** à l’avance et fournissez l’ID de formulaire et l’ID de Munchkin de votre abonnement.
 
 ## Identifier votre datacenter/pod {#identify}
 
@@ -251,7 +251,7 @@ En fonction de votre centre de données, collaborez avec votre service informati
 
 ## Mises à jour et assistance {#support}
 
-Pour connaître les dernières mises à jour, mettez un signet sur cette page. Pour toute question, contactez l’assistance Adobe via le portail d’assistance d’Admin Console ou [Experience League](https://experienceleague.adobe.com/fr/support){target="_blank"}.
+Pour connaître les dernières mises à jour, mettez un signet sur cette page. Pour toute question, contactez l’assistance Adobe via le portail d’assistance d’Admin Console ou [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
 
 ## Questions fréquentes {#faq}
 

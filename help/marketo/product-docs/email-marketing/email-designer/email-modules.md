@@ -6,8 +6,7 @@ description: Découvrez comment accéder à des modules préconfigurés, les ins
 level: Beginner, Intermediate
 feature: Email Designer
 role: User
-hide: true
-source-git-commit: 3a01bc6f6d6ec2e07a95316a30be7a379152091d
+source-git-commit: f80ac366b06d1bbd6ee165f5046f96d4d0174c59
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
