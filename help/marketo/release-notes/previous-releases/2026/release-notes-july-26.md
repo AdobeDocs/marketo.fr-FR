@@ -2,10 +2,10 @@
 description: Notes De Mise À Jour - Juillet 2026 - Documents Marketo - Documentation Du Produit
 title: Notes De Mise À Jour - Juillet 2026
 feature: Release Information
-source-git-commit: 354c6285ff143a28b3057fa7d3b0ca528c3e51b6
+source-git-commit: 093bb2edda0a9c70bf45462fc8a67c45bda9b4e1
 workflow-type: tm+mt
-source-wordcount: '480'
-ht-degree: 20%
+source-wordcount: '505'
+ht-degree: 19%
 
 ---
 
@@ -29,7 +29,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   <tr>
    <td><strong>Compétences en IA pour Marketo - Connaissance des produits </strong> : la connaissance des produits vous donne un accès à la demande à l’expertise de Marketo sans quitter la plateforme. Posez une question en langage clair et l’IA dédiée à Marketo s’appuie sur la documentation officielle d’Adobe pour fournir une réponse.
 </td>
-   <td>Ouvrir la version bêta</td>
+   <td>Libéré</td>
    <td><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">Connaissances du produit</a></td>
   </tr>
   <tr>
@@ -40,8 +40,19 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   <tr>
    <td><strong>Compétences en IA dédiée à Marketo - Rechercher des prospects </strong> : découvrez pourquoi une personne/un prospect spécifique n’a pas atteint un jalon (comme MQL, qualification d’un programme ou une campagne) et obtenez une explication en langage clair de ce qui s’est passé.
 </td>
-   <td>Ouvrir la version bêta</td>
+   <td>Libéré</td>
    <td><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">Enquête sur les prospects</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Email Designer - Modules</strong> : vous avez désormais accès à des blocs de contenu entièrement structurés, prêts à l’emploi et conçus pour accélérer l’assemblage des e-mails.</td>
+   <td>Libéré</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-modules.md" target="_blank">Utilisation de modules dans le Designer Email</a></td>
+  </tr>
   </tr>
   <tr>
    <td> </td>
@@ -51,12 +62,14 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   <tr>
    <td><strong>Email Designer - Menu contextuel Générer le contenu</strong> : les fonctionnalités « Générer le contenu » du Designer Email sont désormais accessibles à partir du menu contextuel (la barre noire). Par exemple, lorsque vous sélectionnez du contenu texte, l’icône Générer du contenu s’affiche dans le menu contextuel, ce qui vous permet d’effectuer des actions rapides à partir de cet emplacement.</td>
    <td><i>Bientôt disponible</i></td>
-   <td><i>Bientôt disponible</i></td>
+<td><i>Bientôt disponible</i></td>
   </tr>
   </tr>
   </tbody>
 </table>
 <br/>
+
+
 
 ## Annonces {#announcements}
 
