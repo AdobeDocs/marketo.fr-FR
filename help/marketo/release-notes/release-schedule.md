@@ -1,19 +1,16 @@
 ---
 unique-page-id: 5472490
-description: Calendrier des versions - Documents Marketo - Documentation du produit
+description: Planning des versions - Documentation Marketo - Documentation produit
 title: Calendrier de publication
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
 TQID: https://experienceleague.adobe.com/qWeyxsBXYxKLSJvq6SfpXsBsocY3eLGROIO8EcZlkMw
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-topic_v2:
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: eb36cf28856d8f889f39d69825bb2e0046e1b197
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 7116fe4f2b7f909e023be05fdb5ad53f9d49cf15
 workflow-type: tm+mt
-source-wordcount: 152
+source-wordcount: 151
 ht-degree: 83%
 
 ---
@@ -60,14 +57,14 @@ _Les dates de publication et les fonctionnalités sont susceptibles d’être mo
    <td>Terminée</td>
   </tr>
   <tr>
-  <td><a href="/help/marketo/release-notes/current.md">26 juillet</a></td>
+  <td><a href="/help/marketo/release-notes/previous-releases/2026/release-notes-july-26.md">26 juillet</a></td>
    <td>10 Juillet 2026</td>
-   <td>En cours</td>
+   <td>Terminée</td>
   </tr>
   <tr>
-  <td>26 août</td>
+  <td><a href="/help/marketo/release-notes/current.md">26 août</a></td>
    <td>14 Août 2026</td>
-   <td>Prévu</td>
+   <td>En cours</td>
   </tr>
   <tr>
   <td>Septembre '26</td>
