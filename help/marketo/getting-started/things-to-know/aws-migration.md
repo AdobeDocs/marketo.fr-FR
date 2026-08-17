@@ -3,9 +3,9 @@ description: Migration AWS - Documents Marketo Engage - Documentation du produit
 title: Migration d’AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 86ea4c057d6a02526083a14105ea036f835aad89
+source-git-commit: d5768261c9bb659ef96b73c46a9e078f953d8ed6
 workflow-type: tm+mt
-source-wordcount: '827'
+source-wordcount: '834'
 ht-degree: 4%
 
 ---
@@ -41,7 +41,7 @@ Les impacts ci-dessous ne nécessitent aucune action de votre part.
 
 >[!NOTE]
 >
->Si vous utilisez [formulaires externes](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} et souhaitez éviter de perdre les données d’envoi de formulaire collectées alors que Marketo Engage n’est pas disponible pendant votre période de migration, contactez [l’assistance Adobe](https://experienceleague.adobe.com/fr/support){target="_blank"} **au moins deux jours ouvrables** à l’avance et fournissez l’ID de formulaire et l’ID de Munchkin de votre abonnement.
+>Si vous utilisez [formulaires externes](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} et souhaitez éviter de perdre les données d’envoi de formulaire collectées alors que Marketo Engage n’est pas disponible pendant votre période de migration, contactez [l’assistance Adobe](https://experienceleague.adobe.com/en/support){target="_blank"} **au moins deux jours ouvrables** à l’avance et fournissez l’ID de formulaire et l’ID de Munchkin de votre abonnement.
 
 ## Identifier votre datacenter/pod {#identify}
 
@@ -153,9 +153,9 @@ De nouvelles dates et informations sur le datacenter/pod sont régulièrement aj
   </tr>
   <tr>
   <td>18 Août 2026</td>
-   <td>AB39</td>
-   <td>17 h (HAP)</td>
-   <td>Reporté (date à déterminer)</td>
+   <td><i>AB39</i></td>
+   <td><i>17 h (HAP)</i></td>
+   <td><i>Reporté (date à déterminer)</i></td>
   </tr>
   <tr>
    <td>20 Août 2026</td>
@@ -195,9 +195,12 @@ De nouvelles dates et informations sur le datacenter/pod sont régulièrement aj
   </tr>
   <tr>
    <td>10 septembre 2026</td>
-   <td>AB03</td>
-   <td>17 h (HAP)</td>
-   <td>Prévu</td>
+   <td>AB03<br>
+   <i>AB04</i></td>
+   <td>17 h (HAP)<br>
+   18 <i> PDT</i></td>
+   <td>Prévu<br>
+   <i>Reporté (date à déterminer)</i></td>
   </tr>
   <tr>
    <td>15 septembre 2026</td>
@@ -247,7 +250,7 @@ En fonction de votre centre de données, collaborez avec votre service informati
 
 ## Mises à jour et assistance {#support}
 
-Pour connaître les dernières mises à jour, mettez un signet sur cette page. Pour toute question, contactez l’assistance Adobe via le portail d’assistance d’Admin Console ou [Experience League](https://experienceleague.adobe.com/fr/support){target="_blank"}.
+Pour connaître les dernières mises à jour, mettez un signet sur cette page. Pour toute question, contactez l’assistance Adobe via le portail d’assistance d’Admin Console ou [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
 
 ## Questions fréquentes {#faq}
 
