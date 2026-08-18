@@ -8,9 +8,9 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b85314d3e3117a0a4ddd45fa6ebf15963566e716
 workflow-type: tm+mt
-source-wordcount: 299
+source-wordcount: 324
 ht-degree: 0%
 
 ---
@@ -65,7 +65,9 @@ Rendez Marketo Engage Forms conversationnel en les intégrant aux flux de conver
 
    >[!NOTE]
    >
-   >La logique de critère définie sur « all » signifie que chaque attribut doit être satisfait pour être admissible. La logique de critère définie sur « any » signifie que l’un des attributs sera suffisant.
+   >* La logique de critère définie sur « all » signifie que chaque attribut doit être satisfait pour être admissible. La logique de critère définie sur « any » signifie que l’un des attributs sera suffisant.
+   >
+   >* Pour « Membre des listes dynamiques », les valeurs de la liste déroulante représentent toutes les listes dynamiques qui font partie de n’importe quel programme. Elles s’affichent sous la forme de `<program name>.<smart list name>`.
 
    **ÉTAPE FACULTATIVE** : si vous ajoutez plusieurs choix, vous pouvez les réorganiser en cliquant sur leurs flèches haut/bas.
 
