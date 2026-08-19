@@ -60,7 +60,7 @@ _Les dates de publication et les fonctionnalités sont susceptibles d’être mo
    <td>Terminée</td>
   </tr>
   <tr>
-  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-july-26">26 juillet</a></td>
+  <td><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/release-notes/previous-releases/2026/release-notes-july-26">26 juillet</a></td>
    <td>10 Juillet 2026</td>
    <td>Terminée</td>
   </tr>
