@@ -2,9 +2,9 @@
 description: Notes De Mise À Jour - Juillet 2026 - Documents Marketo - Documentation Du Produit
 title: Notes De Mise À Jour - Juillet 2026
 feature: Release Information
-source-git-commit: bd433a683cab2437f6c32a5f52454d8ac4d9293a
+source-git-commit: 37ef6b0f6c89b8ec8cd098beb5cf4d321fdac401
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '503'
 ht-degree: 19%
 
 ---
@@ -60,7 +60,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Email Designer - Menu contextuel Générer le contenu</strong> : les fonctionnalités « Générer le contenu » du Designer Email sont désormais accessibles à partir du menu contextuel (la barre noire). Par exemple, lorsque vous sélectionnez du contenu texte, l’icône Générer du contenu s’affiche dans le menu contextuel, ce qui vous permet d’effectuer des actions rapides à partir de cet emplacement.</td>
+   <td><strong>Email Designer - Menu contextuel Générer le contenu</strong> : les fonctionnalités « Générer le contenu » du Designer Email sont désormais accessibles à partir du menu contextuel (la barre noire). Par exemple, lorsque vous sélectionnez du contenu texte, l’icône Générer du contenu s’affiche dans le menu contextuel, ce qui vous permet d’effectuer des actions rapides.</td>
    <td><i>Bientôt disponible</i></td>
 <td><i>Bientôt disponible</i></td>
   </tr>
