@@ -3,9 +3,9 @@ description: Migration AWS - Documents Marketo Engage - Documentation du produit
 title: Migration d’AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 3b6dbef83c5ac1f764d573f96d88dd0dfb388acc
+source-git-commit: b420d49baca6e04cbb52179881701ecc57f5deac
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '824'
 ht-degree: 4%
 
 ---
@@ -157,7 +157,7 @@ De nouvelles dates et informations sur le datacenter/pod sont régulièrement aj
    <i>AB44</i></td>
    <td>17 h (HAP)<br>
    18 <i> PDT</i></td>
-   <td>Prévu<br>
+   <td>Terminé<br>
    <i>Reporté (date à déterminer)</i></td>
   </tr>
   <tr>
