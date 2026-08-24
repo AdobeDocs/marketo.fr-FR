@@ -3,9 +3,9 @@ description: Découvrez comment les métadonnées C2PA sont automatiquement asso
 title: Métadonnées C2PA dans Marketo Engage
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 2746d9d016a6119411bb1fe29c4be2e16f3610e8
+source-git-commit: 77c4c0b6438f8a5070fd33412b7037b79f7fded1
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '698'
 ht-degree: 3%
 
 ---
@@ -30,7 +30,7 @@ Le tableau suivant résume le moment où des métadonnées C2PA sont jointes, en
 
 | Action | Description | Métadonnées C2PA jointes ? | Exemple de cas d’utilisation |
 |---|---|---|---|
-| **Générer une image** | Créez une image à partir d’une invite de texte ou d’une image de référence, ou générez une image similaire. | Toujours. L’image est générée par l’IA générative, elle transfère donc toujours de nouvelles métadonnées C2PA. | Une image de bannière pour une campagne par e-mail est générée à partir d’une invite de texte décrivant le visuel souhaité. |
+| **Utiliser l’outil ’Générer l’image’** | Créez une image à partir d’une invite de texte ou d’une image de référence, ou générez une image similaire. | Toujours. L’image est générée par l’IA générative, elle transfère donc toujours de nouvelles métadonnées C2PA. | Une image de bannière pour une campagne par e-mail est générée à partir d’une invite de texte décrivant le visuel souhaité. |
 | **Recadrer une image** | Ajustez une image aux dimensions demandées. | Uniquement si l’image source possédait déjà des métadonnées C2PA. Le recadrage recrée les pixels de l’image, ce qui effacerait normalement ces métadonnées C2PA. Marketo Engage les lit donc à partir de l’image source avant de les recadrer, puis les reconstruit et les relie au résultat recadré. Le recadrage lui-même n&#39;ajoute pas une nouvelle action générative de l&#39;IA : il préserve celle qui existe. | Une image de bannière générée est recadrée pour s’adapter à une page web : les métadonnées C2PA sont conservées par le recadrage. Une photo de catalogue téléchargée utilisée comme arrière-plan de notification push est recadrée pour s’adapter à l’écran : étant donné que la photo de catalogue ne comporte aucune action d’IA générative, aucune métadonnée C2PA n’est créée. |
 | **Ajouter une superposition de texte** | Effectuez le rendu du texte généré sur une image d’arrière-plan. | Uniquement si l’image d’arrière-plan contenait déjà des métadonnées C2PA. Le rendu du recouvrement génère une nouvelle image à partir de l’arrière-plan plus le texte, ce qui effacerait normalement ces métadonnées C2PA. Marketo Engage les lit donc au préalable à partir de l’image d’arrière-plan, puis les recrée et les relie au résultat. L’étape de recouvrement n’ajoute pas de nouvelle action d’IA générative. | Un titre promotionnel est rendu sous la forme d’une superposition de texte sur une image d’arrière-plan générée pour une page de destination : les métadonnées C2PA de l’image d’arrière-plan sont conservées. |
 
@@ -47,4 +47,4 @@ Marketo Engage conserve les métadonnées C2PA associées aux ressources d’ima
 ## Ressources supplémentaires
 
 * [Consignes d’utilisation de l’IA générative d’Adobe Experience Cloud](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)
-* [Mécanismes de sécurisation et limitations](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails)
+* [Mécanismes de sécurisation et limitations](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails)
