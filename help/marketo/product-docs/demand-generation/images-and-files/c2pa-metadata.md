@@ -47,4 +47,4 @@ Marketo Engage conserve les métadonnées C2PA associées aux ressources d’ima
 ## Ressources supplémentaires
 
 * [Consignes d’utilisation de l’IA générative d’Adobe Experience Cloud](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)
-* [Mécanismes de sécurisation et limitations](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails)
+* [Mécanismes de sécurisation et limitations](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails)
