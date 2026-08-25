@@ -3,10 +3,10 @@ description: Migration AWS - Documents Marketo Engage - Documentation du produit
 title: Migration d’AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: b420d49baca6e04cbb52179881701ecc57f5deac
+source-git-commit: 034bb35c7f1d46fb001c5380947f563d130b5ab9
 workflow-type: tm+mt
-source-wordcount: '824'
-ht-degree: 4%
+source-wordcount: '856'
+ht-degree: 5%
 
 ---
 
@@ -162,21 +162,21 @@ De nouvelles dates et informations sur le datacenter/pod sont régulièrement aj
   </tr>
   <tr>
    <td>26 Août 2026</td>
-   <td>AB40<br>
+   <td><i>AB40</i><br>
    AB50</td>
-   <td>17 h (HAP)<br>
+   <td>17 <i> PDT</i><br>
    18 h (HAP)</td>
-   <td>Prévu<br>
-   Selon le calendrier</td>
+   <td><i>Reporté (date à déterminer)</i><br>
+   Prévu</td>
   </tr>
   <tr>
    <td>28 Août 2026</td>
-   <td>AB53<br>
+   <td><i>AB53</i><br>
    AB56</td>
-   <td>15 h (HAP)<br>
+   <td>15 <i> PDT</i><br>
    16 h (HAP)</td>
-   <td>Prévu<br>
-   Selon le calendrier</td>
+   <td><i>Reporté (date à déterminer)</i><br>
+   Prévu</td>
   </tr>
   <tr>
    <td>8 septembre 2026</td>
@@ -211,6 +211,24 @@ De nouvelles dates et informations sur le datacenter/pod sont régulièrement aj
    AB08</td>
    <td>17 h (HAP)<br>
    18 h (HAP)</td>
+   <td>Prévu<br>
+   Selon le calendrier</td>
+  </tr>
+  <tr>
+   <td>22 septembre 2026</td>
+   <td>AB09<br>
+   AB12</td>
+   <td>17 h (HAP)<br>
+   18 h (HAP)</td>
+   <td>Prévu<br>
+   Selon le calendrier</td>
+  </tr>
+  <tr>
+   <td>25 septembre 2026</td>
+   <td>AB10<br>
+   AB11</td>
+   <td>16 h (HAP)<br>
+   17 h (HAP)</td>
    <td>Prévu<br>
    Selon le calendrier</td>
   </tr>

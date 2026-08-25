@@ -4,9 +4,9 @@ user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: ad7e1cef03a03e43198d91a6dd8f30ee3c2a5732
+source-git-commit: 9976bffe8ac2fac804cc1e1e5a95088622334bdf
 workflow-type: tm+mt
-source-wordcount: '8922'
+source-wordcount: '8927'
 ht-degree: 96%
 
 ---
@@ -765,6 +765,7 @@ ht-degree: 96%
       + {hide-from-toc}[Nouveau document Ajouter des images](product-docs/demand-generation/images-and-files/new-add-images-doc.md)
       + [Ajouter des images et des fichiers à Marketo](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
       + {hide-from-toc}[Modifier Assets avec Adobe Express](product-docs/demand-generation/images-and-files/edit-assets-with-adobe-express.md)
+      + {hide-from-toc}[Métadonnées C2PA dans Marketo Engage](product-docs/demand-generation/images-and-files/c2pa-metadata.md)
       + [Supprimer une image chargée ou un fichier chargé](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
       + [Rechercher l’URL d’une image chargée ou d’un fichier chargé](product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
       + [Récupérer les images d’une page web](product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)

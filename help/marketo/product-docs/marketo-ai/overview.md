@@ -2,7 +2,7 @@
 description: Explorez la suite d’agents Marketo AI conçue pour automatiser les tâches marketing telles que l’assurance qualité des programmes, l’importation de prospects, la normalisation des données, etc.
 title: Présentation de Marketo AI
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
+source-git-commit: 13a4d86a8f99417431a834bcddf52bbdd42b303f
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 1%
@@ -29,7 +29,7 @@ Sur votre écran Mon Marketo, cliquez sur la mosaïque **Marketo AI**.
 
 ![](assets/overview-1.png)
 
-Saisissez votre demande dans le champ d’invite ou sélectionnez l’un des agents ci-dessous.
+Saisissez votre demande dans le champ d’invite ou sélectionnez l’une des compétences ci-dessous.
 
 ![](assets/overview-2.png)
 
