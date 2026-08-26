@@ -3,10 +3,10 @@ description: Découvrez comment les métadonnées C2PA sont automatiquement asso
 title: Métadonnées C2PA dans Marketo Engage
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 77c4c0b6438f8a5070fd33412b7037b79f7fded1
+source-git-commit: 10781cbfd51019a2e4af346803a2e35ef40855d0
 workflow-type: tm+mt
-source-wordcount: '698'
-ht-degree: 3%
+source-wordcount: '715'
+ht-degree: 2%
 
 ---
 
@@ -46,5 +46,6 @@ Marketo Engage conserve les métadonnées C2PA associées aux ressources d’ima
 
 ## Ressources supplémentaires
 
-* [Consignes d’utilisation de l’IA générative d’Adobe Experience Cloud](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)
-* [Mécanismes de sécurisation et limitations](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails)
+* [Transparence du contenu d’IA générative](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/overview/content-transparency){target="_blank"}
+* [Consignes d’utilisation de l’IA générative d’Adobe Experience Cloud](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"}
+* [Mécanismes de sécurisation et limitations](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails){target="_blank"}
