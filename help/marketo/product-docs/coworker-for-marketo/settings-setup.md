@@ -1,9 +1,9 @@
 ---
 description: Découvrez comment activer les autorisations Coworker for Marketo Engage, configurer les règles d’organisation et gérer les paramètres tels que les intégrations et les notifications.
 title: Paramètres et configuration
-source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
+source-git-commit: 73a09b315526dda5bd4d53646a17141a16943218
 workflow-type: tm+mt
-source-wordcount: '555'
+source-wordcount: '593'
 ht-degree: 3%
 
 ---
@@ -14,13 +14,17 @@ Découvrez comment activer des autorisations et utiliser la zone Paramètres pou
 
 >[!AVAILABILITY]
 >
->Cette fonctionnalité est disponible pour tous les abonnements. Si la mosaïque Collègues pour Marketo Engage ne s’affiche pas sur votre écran Mon Marketo, contactez votre gestionnaire de compte. Vous devez également accepter les termes [&#x200B; Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
+>Cette fonctionnalité est disponible pour tous les abonnements. Si la mosaïque Collègues pour Marketo Engage ne s’affiche pas sur votre écran Mon Marketo, contactez votre gestionnaire de compte. Vous devez également accepter les termes [ Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
+
+>[!IMPORTANT]
+>
+>Cette fonctionnalité était auparavant connue sous le nom d’IA dédiée à Marketo. Les noms des autorisations et des rôles utilisateur n’ont pas encore été mis à jour et seront modifiés dans une prochaine version. D’ici là, le nom précédent s’affichera toujours dans la section Admin .
 
 ## Autorisations et rôles {#permission-and-role}
 
 Il existe une autorisation _Accéder à l’IA Marketo_ et un rôle _Utilisateur de l’IA Marketo_, ce qui permet aux administrateurs et administratrices de mieux contrôler quels utilisateurs et utilisatrices peuvent accéder à la fonctionnalité **IA Marketo**. L’autorisation est affectée au niveau du rôle. Le rôle _Utilisateur Marketo AI_ est fourni avec l’autorisation _Accéder à Marketo AI_ activée par défaut.
 
->[!IMPORTANT]
+>[!NOTE]
 >
 >L’autorisation _Accéder à l’IA Marketo_ n’est pas activée par défaut pour tous les rôles. Voir le tableau ci-dessous pour plus de détails.
 
@@ -75,7 +79,7 @@ Pour affecter un utilisateur spécifique au rôle _Utilisateur de l’IA_, proc�
 
 ### Rôle personnalisé {#custom-role}
 
-Vous avez également la possibilité de [créer un nouveau rôle](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} et de personnaliser ses autorisations, en ajoutant _Accéder à l’IA Marketo_, ainsi que tout ce que vous souhaitez, et [en attribuant ce rôle](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} à des utilisateurs et utilisatrices spécifiques.
+Vous avez également la possibilité de [créer un nouveau rôle](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} et de personnaliser ses autorisations, en ajoutant _Accéder à l’IA Marketo_, ainsi que tout ce que vous souhaitez, et [en attribuant ce rôle](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} à des utilisateurs et utilisatrices spécifiques.
 
 ## Paramètres {#settings}
 
