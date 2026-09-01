@@ -498,7 +498,7 @@ ht-degree: 95%
       + {hide-from-toc}[Enquêter sur les prospects](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + {hide-from-toc}[Importer des prospects](product-docs/coworker-for-marketo/skills/import-leads.md)
       + {hide-from-toc}[Valider les programmes](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + {hide-from-toc}[Marketo MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
+    + {hide-from-toc}[Marketo MCP](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/mcp-server)
   + Synchronisation CRM {#crm-sync}
     + Synchronisation Microsoft Dynamics {#microsoft-dynamics}
       + [Présentation de la synchronisation Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
@@ -1136,7 +1136,7 @@ ht-degree: 95%
       + [Enquête sur les prospects](product-docs/marketo-ai/skills/investigate-leads.md)
       + [Importer les leads](product-docs/marketo-ai/skills/import-leads.md)
       + [Valider les programmes](product-docs/marketo-ai/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/mcp-server)
   + Notifications Marketo {#marketo-notifications}
     + {hide-from-toc}[Notification : Connexion Websocket](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}
