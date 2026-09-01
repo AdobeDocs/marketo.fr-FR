@@ -4,10 +4,10 @@ user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 10781cbfd51019a2e4af346803a2e35ef40855d0
+source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
 workflow-type: tm+mt
-source-wordcount: '8927'
-ht-degree: 96%
+source-wordcount: '8968'
+ht-degree: 95%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 96%
     + [Centre d’aide](getting-started/things-to-know/help-center.md)
     + [Abonnement aux notifications d’état du système](getting-started/things-to-know/system-status-notifications.md)
     + [Migration d’AWS](getting-started/things-to-know/aws-migration.md)
-    + {hide-from-toc}[&#x200B; Nouvelle interface utilisateur &#x200B;](getting-started/things-to-know/new-ui.md)
+    + {hide-from-toc}[ Nouvelle interface utilisateur ](getting-started/things-to-know/new-ui.md)
   + Solutions rapides {#quick-wins}
     + [Configuration et ajout d’une personne](getting-started/quick-wins/get-set-up-and-add-a-person.md)
     + [Envoyer un e-mail](getting-started/quick-wins/send-an-email.md)
@@ -486,6 +486,19 @@ ht-degree: 96%
       + [Prise en main des audiences prédictives](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
       + [Modèles et insights](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
       + [Filtres prédictifs](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
+  + Collègue pour Marketo Engage {#coworker-for-marketo}
+    + {hide-from-toc}[Vue d’ensemble](product-docs/coworker-for-marketo/overview.md)
+    + {hide-from-toc}[ Paramètres et configuration ](product-docs/coworker-for-marketo/settings-setup.md)
+    + {hide-from-toc}[Fiche d’informations de collègue pour Marketo Engage](product-docs/coworker-for-marketo/data-information.md)
+    + Compétences {#skills}
+      + {hide-from-toc}[Connaissance des produits](product-docs/coworker-for-marketo/skills/product-knowledge.md)
+      + {hide-from-toc}[Informations sur la surface](product-docs/coworker-for-marketo/skills/surface-insights.md)
+      + {hide-from-toc}[Créer des programmes](product-docs/coworker-for-marketo/skills/build-programs.md)
+      + {hide-from-toc}[Cloner le programme](product-docs/coworker-for-marketo/skills/clone-program.md)
+      + {hide-from-toc}[Enquêter sur les prospects](product-docs/coworker-for-marketo/skills/investigate-leads.md)
+      + {hide-from-toc}[Importer des prospects](product-docs/coworker-for-marketo/skills/import-leads.md)
+      + {hide-from-toc}[Valider les programmes](product-docs/coworker-for-marketo/skills/validate-programs.md)
+    + {hide-from-toc}[Marketo MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Synchronisation CRM {#crm-sync}
     + Synchronisation Microsoft Dynamics {#microsoft-dynamics}
       + [Présentation de la synchronisation Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
@@ -648,7 +661,7 @@ ht-degree: 96%
       + Conversation en direct {#live-chat}
         + [Vue d’ensemble de la conversation en direct](product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md)
         + [Boîte de réception de l’agent ou de l’agente](product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md)
-        + {hide-from-toc}[Notifications &#x200B;](product-docs/demand-generation/dynamic-chat/live-chat/notifications.md)
+        + {hide-from-toc}[Notifications ](product-docs/demand-generation/dynamic-chat/live-chat/notifications.md)
       + IA générative {#generative-ai}
         + [Vue d’ensemble de l’IA générative](product-docs/demand-generation/dynamic-chat/generative-ai/overview.md)
         + [Génération de questions](product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md)
@@ -1004,7 +1017,7 @@ ht-degree: 96%
       + [CSS personnalisé](product-docs/email-marketing/email-designer/custom-css.md)
       + [Mode sombre](product-docs/email-marketing/email-designer/dark-mode.md)
       + [Tester le rendu des e-mails avec Litmus](product-docs/email-marketing/email-designer/test-email-rendering.md)
-      + {hide-from-toc}[Jetons &#x200B;](product-docs/email-marketing/email-designer/personalization-tokens.md)
+      + {hide-from-toc}[Jetons ](product-docs/email-marketing/email-designer/personalization-tokens.md)
       + [Utiliser AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
       + [Modifier des images à l’aide d’Adobe Express](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
       + [Fragments](product-docs/email-marketing/email-designer/fragments.md)
@@ -1123,7 +1136,7 @@ ht-degree: 96%
       + [Enquête sur les prospects](product-docs/marketo-ai/skills/investigate-leads.md)
       + [Importer les leads](product-docs/marketo-ai/skills/import-leads.md)
       + [Valider les programmes](product-docs/marketo-ai/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Notifications Marketo {#marketo-notifications}
     + {hide-from-toc}[Notification : Connexion Websocket](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}
@@ -1666,7 +1679,7 @@ ht-degree: 96%
       + [Modifier le contenu prédictif de la barre de recommandation](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
   + Rapports {#reporting}
     + [Vue d’ensemble des rapports](product-docs/reporting/reporting-overview.md)
-    + {hide-from-toc}[Politique De Conservation Des Données D’Activité &#x200B;](product-docs/reporting/data-retention.md)
+    + {hide-from-toc}[Politique De Conservation Des Données D’Activité ](product-docs/reporting/data-retention.md)
     + Rapports de base {#basic-reporting}
       + Création de rapports {#creating-reports}
         + [Créer un rapport dans un programme](product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)
@@ -1921,7 +1934,7 @@ ht-degree: 96%
   + [Version actuelle](release-notes/current.md)
   + {hide-from-toc}[Current Release TEMP](release-notes/current-temp.md)
   + [Version de Dynamic Chat](release-notes/dynamic-chat.md)
-  + {hide-from-toc}[TEMP de mise à jour de &#x200B;](release-notes/dynamic-chat-temp.md)
+  + {hide-from-toc}[TEMP de mise à jour de ](release-notes/dynamic-chat-temp.md)
   + [Versions précédentes](release-notes/previous-releases.md)
   + {hide-from-toc} versions précédentes {#previous-releases}
     + 2026 {#2026}
