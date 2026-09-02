@@ -4,10 +4,10 @@ user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 10781cbfd51019a2e4af346803a2e35ef40855d0
+source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
 workflow-type: tm+mt
-source-wordcount: '8927'
-ht-degree: 96%
+source-wordcount: '8968'
+ht-degree: 95%
 
 ---
 
@@ -486,6 +486,19 @@ ht-degree: 96%
       + [Prise en main des audiences prédictives](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
       + [Modèles et insights](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
       + [Filtres prédictifs](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
+  + Collègue pour Marketo Engage {#coworker-for-marketo}
+    + {hide-from-toc}[Vue d’ensemble](product-docs/coworker-for-marketo/overview.md)
+    + {hide-from-toc}[&#x200B; Paramètres et configuration &#x200B;](product-docs/coworker-for-marketo/settings-setup.md)
+    + {hide-from-toc}[Fiche d’informations de collègue pour Marketo Engage](product-docs/coworker-for-marketo/data-information.md)
+    + Compétences {#skills}
+      + {hide-from-toc}[Connaissance des produits](product-docs/coworker-for-marketo/skills/product-knowledge.md)
+      + {hide-from-toc}[Informations sur la surface](product-docs/coworker-for-marketo/skills/surface-insights.md)
+      + {hide-from-toc}[Créer des programmes](product-docs/coworker-for-marketo/skills/build-programs.md)
+      + {hide-from-toc}[Cloner le programme](product-docs/coworker-for-marketo/skills/clone-program.md)
+      + {hide-from-toc}[Enquêter sur les prospects](product-docs/coworker-for-marketo/skills/investigate-leads.md)
+      + {hide-from-toc}[Importer des prospects](product-docs/coworker-for-marketo/skills/import-leads.md)
+      + {hide-from-toc}[Valider les programmes](product-docs/coworker-for-marketo/skills/validate-programs.md)
+    + {hide-from-toc}[Marketo MCP](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/mcp-server)
   + Synchronisation CRM {#crm-sync}
     + Synchronisation Microsoft Dynamics {#microsoft-dynamics}
       + [Présentation de la synchronisation Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)

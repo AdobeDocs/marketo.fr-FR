@@ -3,7 +3,7 @@ description: Migration AWS - Documents Marketo Engage - Documentation du produit
 title: Migration d’AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: b045a92925884a5124727f0a51dc8f09a3942aec
+source-git-commit: 90726ce1010f75690587936f3c4019846bdbb0fa
 workflow-type: tm+mt
 source-wordcount: '855'
 ht-degree: 5%
@@ -128,6 +128,8 @@ De nouvelles dates et informations sur le datacenter/pod sont régulièrement aj
 
 +++
 
++++Planning du mois d&#39;août
+
 <table>
  <tbody>
   <tr>
@@ -153,12 +155,9 @@ De nouvelles dates et informations sur le datacenter/pod sont régulièrement aj
   </tr>
   <tr>
    <td>20 Août 2026</td>
-   <td>AB42<br>
-   <i>AB44</i></td>
-   <td>17 h (HAP)<br>
-   18 <i> PDT</i></td>
-   <td>Terminé<br>
-   <i>Reporté (date à déterminer)</i></td>
+   <td>AB42</td>
+   <td>17 h (HAP)</td>
+   <td>Terminé</td>
   </tr>
   <tr>
    <td>26 Août 2026</td>
@@ -176,7 +175,20 @@ De nouvelles dates et informations sur le datacenter/pod sont régulièrement aj
    <td>15 <i> PDT</i><br>
    16 h (HAP)</td>
    <td><i>Reporté (date à déterminer)</i><br>
-   Prévu</td>
+   Terminé</td>
+  </tr>
+  </body>
+</table>
+
++++
+
+<table>
+ <tbody>
+  <tr>
+   <th style="width:25%">Date</th>
+   <th style="width:25%">Centre de données/pod</th>
+   <th style="width:25%">Heure</th>
+   <th style="width:25%">Statut</th>
   </tr>
   <tr>
    <td>8 septembre 2026</td>
