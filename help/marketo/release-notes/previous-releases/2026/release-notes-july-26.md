@@ -2,9 +2,9 @@
 description: Notes De Mise À Jour - Juillet 2026 - Documents Marketo - Documentation Du Produit
 title: Notes De Mise À Jour - Juillet 2026
 feature: Release Information
-source-git-commit: 37ef6b0f6c89b8ec8cd098beb5cf4d321fdac401
+source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '505'
 ht-degree: 19%
 
 ---
@@ -30,7 +30,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td><strong>Compétences en IA pour Marketo - Connaissance des produits </strong> : la connaissance des produits vous donne un accès à la demande à l’expertise de Marketo sans quitter la plateforme. Posez une question en langage clair et l’IA dédiée à Marketo s’appuie sur la documentation officielle d’Adobe pour fournir une réponse.
 </td>
    <td>Libéré</td>
-   <td><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">Connaissances du produit</a></td>
+   <td><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/coworker-for-marketo/skills/product-knowledge" target="_blank">Connaissances du produit</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -41,7 +41,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td><strong>Compétences en IA dédiée à Marketo - Rechercher des prospects </strong> : découvrez pourquoi une personne/un prospect spécifique n’a pas atteint un jalon (comme MQL, qualification d’un programme ou une campagne) et obtenez une explication en langage clair de ce qui s’est passé.
 </td>
    <td>Libéré</td>
-   <td><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">Enquête sur les prospects</a></td>
+   <td><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/coworker-for-marketo/skills/investigate-leads" target="_blank">Enquête sur les prospects</a></td>
   </tr>
   <tr>
    <td> </td>

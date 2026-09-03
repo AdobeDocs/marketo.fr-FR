@@ -4,10 +4,10 @@ user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
+source-git-commit: 8a3959f6edd01d28e6377a3a39a23b63a1d6475e
 workflow-type: tm+mt
-source-wordcount: '8968'
-ht-degree: 95%
+source-wordcount: '8931'
+ht-degree: 96%
 
 ---
 
@@ -487,18 +487,18 @@ ht-degree: 95%
       + [Modèles et insights](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
       + [Filtres prédictifs](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
   + Collègue pour Marketo Engage {#coworker-for-marketo}
-    + {hide-from-toc}[Vue d’ensemble](product-docs/coworker-for-marketo/overview.md)
-    + {hide-from-toc}[&#x200B; Paramètres et configuration &#x200B;](product-docs/coworker-for-marketo/settings-setup.md)
-    + {hide-from-toc}[Fiche d’informations de collègue pour Marketo Engage](product-docs/coworker-for-marketo/data-information.md)
+    + [Vue d’ensemble](product-docs/coworker-for-marketo/overview.md)
+    + [Paramètres et configuration](product-docs/coworker-for-marketo/settings-setup.md)
+    + [Fiche d’information de Collègue pour Marketo Engage](product-docs/coworker-for-marketo/data-information.md)
     + Compétences {#skills}
-      + {hide-from-toc}[Connaissance des produits](product-docs/coworker-for-marketo/skills/product-knowledge.md)
+      + [Connaissances du produit](product-docs/coworker-for-marketo/skills/product-knowledge.md)
       + {hide-from-toc}[Informations sur la surface](product-docs/coworker-for-marketo/skills/surface-insights.md)
       + {hide-from-toc}[Créer des programmes](product-docs/coworker-for-marketo/skills/build-programs.md)
       + {hide-from-toc}[Cloner le programme](product-docs/coworker-for-marketo/skills/clone-program.md)
-      + {hide-from-toc}[Enquêter sur les prospects](product-docs/coworker-for-marketo/skills/investigate-leads.md)
-      + {hide-from-toc}[Importer des prospects](product-docs/coworker-for-marketo/skills/import-leads.md)
-      + {hide-from-toc}[Valider les programmes](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + {hide-from-toc}[Marketo MCP](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/mcp-server)
+      + [Enquête sur les prospects](product-docs/coworker-for-marketo/skills/investigate-leads.md)
+      + [Importer les leads](product-docs/coworker-for-marketo/skills/import-leads.md)
+      + [Valider les programmes](product-docs/coworker-for-marketo/skills/validate-programs.md)
+    + [MARKETO MCP](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/mcp-server)
   + Synchronisation CRM {#crm-sync}
     + Synchronisation Microsoft Dynamics {#microsoft-dynamics}
       + [Présentation de la synchronisation Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
@@ -1124,19 +1124,6 @@ ht-degree: 95%
         + [Utiliser le jeton d’envoi d’information d’alerte](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
         + [Utilisation d’URL dans Mes jetons](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
       + [Copie carbone d’e-mail](product-docs/email-marketing/general/email-cc.md)
-  + IA Marketo {#marketo-ai}
-    + [Vue d’ensemble](product-docs/marketo-ai/overview.md)
-    + [Paramètres et configuration](product-docs/marketo-ai/settings-setup.md)
-    + [Fiche d’information sur les données de l’IA dédiée à Marketo](product-docs/marketo-ai/data-information.md)
-    + Compétences {#skills}
-      + [Connaissances du produit](product-docs/marketo-ai/skills/product-knowledge.md)
-      + {hide-from-toc}[Informations sur la surface](product-docs/marketo-ai/skills/surface-insights.md)
-      + {hide-from-toc}[Créer des programmes](product-docs/marketo-ai/skills/build-programs.md)
-      + {hide-from-toc}[Cloner le programme](product-docs/marketo-ai/skills/clone-program.md)
-      + [Enquête sur les prospects](product-docs/marketo-ai/skills/investigate-leads.md)
-      + [Importer les leads](product-docs/marketo-ai/skills/import-leads.md)
-      + [Valider les programmes](product-docs/marketo-ai/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/mcp-server)
   + Notifications Marketo {#marketo-notifications}
     + {hide-from-toc}[Notification : Connexion Websocket](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}

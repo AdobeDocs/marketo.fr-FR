@@ -1,16 +1,16 @@
 ---
 description: Explorez la suite d’agents Coworker for Marketo Engage conçue pour automatiser les tâches marketing telles que l’assurance qualité des programmes, l’importation de prospects, la normalisation des données, etc.
 title: Présentation de Collègue pour Marketo Engage
-source-git-commit: 7526f4d10f9ee6da85677a6f709220e1390c6896
+source-git-commit: b981719a196b7b6ef74c2d048b21f0324fd51859
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '408'
 ht-degree: 1%
 
 ---
 
 # Présentation de Collègue pour Marketo Engage {#overview}
 
-Coworker for Marketo Engage fournit des compétences d’agent conçues pour automatiser les fonctions marketing longues mais importantes.
+Coworker for Marketo Engage (anciennement appelé Marketo AI) fournit des compétences d’agent conçues pour automatiser les fonctions marketing longues, mais importantes.
 
 >[!AVAILABILITY]
 >
@@ -18,9 +18,9 @@ Coworker for Marketo Engage fournit des compétences d’agent conçues pour aut
 
 >[!IMPORTANT]
 >
->* Une fois que Coworker for Marketo Engage a été activé pour votre abonnement, vous devez effectuer certaines [étapes de configuration](/help/marketo/product-docs/marketo-ai/settings-setup.md){target="_blank"} pour vous assurer que les utilisateurs souhaités ont accès.
+>* Une fois que Coworker for Marketo Engage a été activé pour votre abonnement, vous devez effectuer certaines [étapes de configuration](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"} pour vous assurer que les utilisateurs souhaités ont accès.
 >
->* Passez en revue la portée des données, les contrôles de gouvernance et les considérations relatives aux informations d’identification personnelles dans la fiche d’informations de Coworker for Marketo Engage [data sheet](/help/marketo/product-docs/marketo-ai/data-information.md){target="_blank"}.
+>* Passez en revue la portée des données, les contrôles de gouvernance et les considérations relatives aux informations d’identification personnelles dans la fiche d’informations de Coworker for Marketo Engage [data sheet](/help/marketo/product-docs/coworker-for-marketo/data-information.md){target="_blank"}.
 
 ## Comment y accéder {#access}
 
@@ -38,19 +38,19 @@ La console centrale dispose d’un ensemble croissant de compétences d’agent 
 
 ### Enquête sur les prospects {#investigate-leads}
 
-Découvrez pourquoi une personne/un prospect spécifique n’a pas atteint un jalon (comme MQL, qualification d’un programme ou une campagne) et obtenez une explication en langage clair de ce qui s’est passé. En savoir plus sur la compétence [Enquêter sur les prospects](/help/marketo/product-docs/marketo-ai/skills/investigate-leads.md){target="_blank"}.
+Découvrez pourquoi une personne/un prospect spécifique n’a pas atteint un jalon (comme MQL, qualification d’un programme ou une campagne) et obtenez une explication en langage clair de ce qui s’est passé. En savoir plus sur la compétence [Enquêter sur les prospects](/help/marketo/product-docs/coworker-for-marketo/skills/investigate-leads.md){target="_blank"}.
 
 ### Connaissances du produit {#product-knowledge}
 
-La connaissance des produits vous donne un accès à la demande à l’expertise de Marketo sans quitter la plateforme. Posez une question en langage clair et Coworker for Marketo Engage s’appuie sur la documentation officielle d’Adobe pour y répondre. En savoir plus sur la [compétence de connaissance du produit](/help/marketo/product-docs/marketo-ai/skills/product-knowledge.md){target="_blank"}.
+La connaissance des produits vous donne un accès à la demande à l’expertise de Marketo sans quitter la plateforme. Posez une question en langage clair et Coworker for Marketo Engage s’appuie sur la documentation officielle d’Adobe pour y répondre. En savoir plus sur la [compétence de connaissance du produit](/help/marketo/product-docs/coworker-for-marketo/skills/product-knowledge.md){target="_blank"}.
 
 ### Valider les programmes {#validate-programs}
 
-L’option Valider les programmes vérifie automatiquement votre configuration par rapport aux bonnes pratiques de Marketo et recherche les problèmes avant le lancement. En savoir plus sur la compétence [&#x200B; Valider les programmes &#x200B;](/help/marketo/product-docs/marketo-ai/skills/validate-programs.md){target="_blank"}.
+L’option Valider les programmes vérifie automatiquement votre configuration par rapport aux bonnes pratiques de Marketo et recherche les problèmes avant le lancement. En savoir plus sur la compétence [&#x200B; Valider les programmes &#x200B;](/help/marketo/product-docs/coworker-for-marketo/skills/validate-programs.md){target="_blank"}.
 
 ### Importer les leads {#import-leads}
 
-Importez et dédupliquez des listes de prospects dans votre base de données Marketo Engage avec l’aide du mappage des champs. En savoir plus sur la compétence [&#x200B; Importer des prospects &#x200B;](/help/marketo/product-docs/marketo-ai/skills/import-leads.md){target="_blank"}.
+Importez et dédupliquez des listes de prospects dans votre base de données Marketo Engage avec l’aide du mappage des champs. En savoir plus sur la compétence [&#x200B; Importer des prospects &#x200B;](/help/marketo/product-docs/coworker-for-marketo/skills/import-leads.md){target="_blank"}.
 
 ## Bientôt disponible {#coming-soon}
 

@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 618fe38fae7621ecf72aab8ec09fc345aba23358
+source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
 workflow-type: tm+mt
-source-wordcount: 434
-ht-degree: 21%
+source-wordcount: 477
+ht-degree: 19%
 
 ---
 
@@ -52,18 +52,18 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Email Designer - Créateur de scripts</strong> : le créateur de scripts est un assistant optimisé par l’IA qui vous permet de créer des scripts de personnalisation plus rapidement.
-</td>
-   <td><i>Bientôt disponible</i></td>
-   <td><i>Bientôt disponible</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
    <td><strong>Désactiver les campagnes sur l’archive </strong> : l’archivage d’un dossier désactive et déplanifie désormais toutes les campagnes de cette arborescence de dossiers, empêchant l’exécution inattendue de campagnes intelligentes archivées.
+</td>
+   <td>Libéré</td>
+   <td>s/o</td>
+  </tr>
+    <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Email Designer - Créateur de scripts</strong> : le créateur de scripts est un assistant optimisé par l’IA qui vous permet de créer des scripts de personnalisation plus rapidement.
 </td>
    <td><i>Bientôt disponible</i></td>
    <td><i>Bientôt disponible</i></td>
@@ -73,6 +73,8 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
 <br/>
 
 ## Annonces {#announcements}
+
+* **Marketo AI est désormais Coworker for Marketo Engage** : Coworker for Marketo Engage fournit des compétences d’agent conçues pour automatiser les fonctions marketing qui prennent du temps. Nouveau nom, mêmes fonctionnalités, disponible pour tous les utilisateurs. [En savoir plus](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/coworker-for-marketo/overview){target="_blank"}
 
 * **Obsolescence du paramètre &#39;access_token&#39; de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours d’obsolescence et ne sera plus disponible après le 31 août 2026. Toutes les intégrations nouvelles et existantes doivent authentifier les appels de l’API REST à l’aide de l’en-tête « Autorisation », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 

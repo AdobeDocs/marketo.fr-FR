@@ -2,10 +2,10 @@
 description: Notes De Mise À Jour - Mai 2026 - Documents Marketo - Documentation Du Produit
 title: Notes De Mise À Jour - Mai 2026
 feature: Release Information
-source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
+source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
 workflow-type: tm+mt
-source-wordcount: '760'
-ht-degree: 15%
+source-wordcount: '805'
+ht-degree: 14%
 
 ---
 
@@ -27,10 +27,10 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <th style="width:25%">Documentation</th>
   </tr>
   <tr>
-   <td><strong>Marketo AI</strong> : utilisez une suite d’agents conçus pour automatiser les fonctions marketing longues mais importantes (deux agents disponibles maintenant, d’autres seront bientôt disponibles).
+   <td><strong>Marketo AI</strong> : utilisez une suite de compétences d’agent conçues pour automatiser les fonctions marketing longues mais importantes (deux compétences d’agent sont disponibles maintenant, d’autres le seront bientôt).
 </td>
    <td>Ouvrir la version bêta</td>
-   <td><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Présentation de Marketo AI</a></td>
+   <td><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/coworker-for-marketo/overview" target="_blank">Présentation de Marketo AI</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -69,7 +69,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat - Est en train de taper </strong> : désormais, le visiteur et l’agent voient tous deux une notification « est en train de taper... » pendant que l’autre partie tape, empêchant l’un d’interrompre l’autre.
+   <td><strong>Dynamic Chat - Est en train de saisir </strong> : le visiteur et l’agent voient maintenant un message « est en train de saisir... » notification pendant que l'autre partie tape, empêchant l'une d'interrompre l'autre.
    </td>
    <td>Libéré</td>
    <td>s/o</td>

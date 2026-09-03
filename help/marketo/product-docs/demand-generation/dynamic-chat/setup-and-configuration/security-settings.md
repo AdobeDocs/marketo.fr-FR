@@ -10,9 +10,9 @@ feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 88949407423d12a95bf39470e3c29835d934e2f6
 workflow-type: tm+mt
-source-wordcount: 130
+source-wordcount: 238
 ht-degree: 3%
 
 ---
@@ -22,6 +22,17 @@ ht-degree: 3%
 Dans les paramètres de sécurité, vous avez la possibilité d’ajouter des domaines à une liste autorisée bloquée ou .
 
 ![](assets/security-settings-1.png)
+
+>[!IMPORTANT]
+>
+>Le filtrage Bloquer et Autoriser le domaine de messagerie s’applique uniquement lorsqu’un visiteur saisit son adresse e-mail directement dans Dynamic Chat, dans le chatbot ou dans un flux de conversation. Elle ne s’applique pas aux adresses e-mail que Dynamic Chat reçoit des produits intégrés, tels que Marketo Engage. Pour plus d’informations, consultez le tableau ci-dessous.
+
+| Scénario | Le filtrage s’applique-t-il ? |
+|---|---|
+| Le visiteur saisit directement son adresse e-mail dans le chatbot Dynamic Chat | Oui |
+| Le visiteur saisit directement son adresse e-mail dans un flux de conversation Dynamic Chat | Oui |
+| L’e-mail est pré-rempli à partir d’un envoi de formulaire Marketo (le flux conversationnel apparaît après le remplissage du formulaire) | Non |
+| L’e-mail est transmis à Dynamic Chat à partir de tout autre système intégré | Non |
 
 ## Domaines d’e-mail bloqués {#blocked-email-domains}
 
