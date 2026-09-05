@@ -3,9 +3,9 @@ description: Migration AWS - Documents Marketo Engage - Documentation du produit
 title: Migration d’AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 90726ce1010f75690587936f3c4019846bdbb0fa
+source-git-commit: 26975e7134c06510311ac3869e281f9c160d2657
 workflow-type: tm+mt
-source-wordcount: '855'
+source-wordcount: '903'
 ht-degree: 5%
 
 ---
@@ -239,6 +239,36 @@ De nouvelles dates et informations sur le datacenter/pod sont régulièrement aj
    <td>25 septembre 2026</td>
    <td>AB10<br>
    AB11</td>
+   <td>16 h (HAP)<br>
+   17 h (HAP)</td>
+   <td>Prévu<br>
+   Selon le calendrier</td>
+  </tr>
+  <tr>
+   <td>29 septembre 2026</td>
+   <td>AB14</td>
+   <td>18 h (HAP)</td>
+   <td>Prévu</td>
+  </tr>
+   <tr>
+   <td>1er octobre 2026</td>
+   <td>AB15<br>
+   AB16</td>
+   <td>17 h (HAP)<br>
+   18 h (HAP)</td>
+   <td>Prévu<br>
+   Selon le calendrier</td>
+  </tr>
+  <tr>
+   <td>6 Octobre 2026</td>
+   <td>AB18</td>
+   <td>17 h (HAP)</td>
+   <td>Prévu</td>
+  </tr>
+  <tr>
+   <td>9 Octobre 2026</td>
+   <td>AB19<br>
+   AB22</td>
    <td>16 h (HAP)<br>
    17 h (HAP)</td>
    <td>Prévu<br>
