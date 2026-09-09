@@ -3,9 +3,9 @@ description: Migration AWS - Documents Marketo Engage - Documentation du produit
 title: Migration d’AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 2f5b6f31959e542b149e10bf42e4ab4ee763fbcd
+source-git-commit: 45994b2296473529f7c8ea9e34dd76c6c1c1e897
 workflow-type: tm+mt
-source-wordcount: '918'
+source-wordcount: '990'
 ht-degree: 5%
 
 ---
@@ -43,7 +43,7 @@ Les impacts ci-dessous ne nécessitent aucune action de votre part.
 
 >[!IMPORTANT]
 >
->Si vous utilisez [formulaires externes](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} et souhaitez éviter de perdre les données d’envoi de formulaire collectées alors que Marketo Engage n’est pas disponible pendant votre période de migration, contactez [l’assistance Adobe](https://experienceleague.adobe.com/fr/support){target="_blank"} **au moins deux jours ouvrables** à l’avance et fournissez l’ID de formulaire et l’ID de Munchkin de votre abonnement.
+>Si vous utilisez [formulaires externes](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} et souhaitez éviter de perdre les données d’envoi de formulaire collectées alors que Marketo Engage n’est pas disponible pendant votre période de migration, contactez [l’assistance Adobe](https://experienceleague.adobe.com/en/support){target="_blank"} **au moins deux jours ouvrables** à l’avance et fournissez l’ID de formulaire et l’ID de Munchkin de votre abonnement.
 
 ## Identifier votre datacenter/pod {#identify}
 
@@ -51,7 +51,9 @@ Avant de consulter le planning ci-dessous, [découvrez comment identifier](/help
 
 ## Planning {#schedule}
 
-De nouvelles dates et informations sur le datacenter/pod sont régulièrement ajoutées ou modifiées. Surveillez donc ce planning pour les mises à jour.
+De nouvelles dates et informations sur le datacenter/pod sont régulièrement ajoutées ou modifiées. Surveillez donc ce planning pour les mises à jour. Vous n’avez pas la possibilité de vous exclure ou de demander le déplacement de votre migration vers une autre date.
+
+Si, pour une raison quelconque, une migration échoue, vous en serez informé et nous replanifierons l’opération.
 
 +++Planning de juillet
 <table>
@@ -306,7 +308,9 @@ En fonction de votre centre de données, collaborez avec votre service informati
 
 ## Mises à jour et assistance {#support}
 
-Pour connaître les dernières mises à jour, mettez un signet sur cette page. Pour toute question, contactez l’assistance Adobe via le portail d’assistance d’Admin Console ou [Experience League](https://experienceleague.adobe.com/fr/support){target="_blank"}.
+Pour obtenir les dernières informations, mettez un signet sur cette page. Pour recevoir des mises à jour de statut au début et à la fin de la migration, mais [vous devez vous abonner](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} pour les recevoir. Tu peux également consulter le site https://status.adobe.com/.
+
+Pour toute question, contactez l’assistance Adobe via le portail d’assistance d’Admin Console ou [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
 
 ## Questions fréquentes {#faq}
 
