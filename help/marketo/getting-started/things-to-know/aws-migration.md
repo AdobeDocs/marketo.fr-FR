@@ -310,7 +310,7 @@ En fonction de votre centre de données, collaborez avec votre service informati
 
 Pour obtenir les dernières informations, mettez un signet sur cette page.
 
-Pour les mises à jour de statut, vous pouvez vous [abonner pour les recevoir](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} au début et à la fin de la migration. Vous pouvez également consulter [](https://status.adobe.com/fr){target="_blank"} pendant votre période de migration.
+Pour les mises à jour de statut, vous pouvez vous [abonner pour les recevoir](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} au début et à la fin de la migration. Vous pouvez également consulter [&#128279;](https://status.adobe.com/fr){target="_blank"} pendant votre période de migration.
 
 Pour toute question, contactez l’assistance Adobe via le portail d’assistance d’Admin Console ou [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
 
