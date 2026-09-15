@@ -1,14 +1,14 @@
 ---
-description: La description va ici.
+description: Découvrez comment les règles d’organisation définissent les normes de gouvernance et guident Coworker for Marketo Engage dans la création, la planification et la validation de programmes.
 title: Règles d'organisation
-source-git-commit: 0949e5193333d56943a5c9a52c1715ecbcb274f3
+source-git-commit: 60ab04f79b2b24ca659676f5847d6f87b867e2f4
 workflow-type: tm+mt
-source-wordcount: '760'
+source-wordcount: '828'
 ht-degree: 0%
 ---
 # Règles d&#39;organisation {#organizational-rules}
 
-Les règles d&#39;organisation définissent vos normes d&#39;exploitation marketing et vos exigences de gouvernance dans un document unique qui guide Coworker dans les workflows de création de programme, de planification de campagne et de validation.
+Les règles d’organisation définissent vos normes d’opérations marketing et exigences de gouvernance dans un document unique qui guide Coworker for Marketo Engage dans les workflows de création de programme, de planification de campagne et de validation.
 
 ## Que sont les règles d&#39;organisation ? {#what-are-organizational-rules}
 
@@ -23,13 +23,13 @@ Chaque instance de Marketo inclut des règles d’organisation par défaut. Vous
 
 ## Où les règles d’organisation sont utilisées {#where-organizational-rules-are-used}
 
-Les règles d’organisation guident le collaborateur à travers trois compétences :
+Les règles d’organisation guident Coworker for Marketo Engage selon trois compétences :
 
 | Compétence | Application des règles |
 | --- | --- |
-| Créer des programmes | Les règles guident la création de la structure, du nom et de la configuration initiale du programme. Un collègue signale tout problème de conformité dans votre mémoire avant de créer le programme. |
-| Planifier des campagnes | Les règles indiquent comment Coworker structure les campagnes intelligentes, les filtres et les étapes de flux en fonction de vos normes. |
-| Valider les programmes | Les règles définissent ce que Coworker vérifie lors de la validation des programmes avant activation. |
+| Créer des programmes | Les règles guident la création de la structure, du nom et de la configuration initiale du programme. Un collègue de Marketo Engage signale tout problème de conformité dans votre mémoire avant de créer le programme. |
+| Planifier des campagnes | Les règles indiquent comment Coworker pour Marketo Engage structure les campagnes intelligentes, les filtres et les étapes de flux en fonction de vos normes. |
+| Valider les programmes | Les règles définissent ce que Coworker for Marketo Engage vérifie lors de la validation des programmes avant activation. |
 
 ## Accès et personnalisation des règles d’organisation {#how-to-access-and-customize-organizational-rules}
 
@@ -45,7 +45,7 @@ Les règles d’organisation guident le collaborateur à travers trois compéten
    * Normes de conformité et d&#39;exclusion
 
 1. Mettez à jour le numéro de version lorsque vous apportez des modifications.
-1. Enregistrez vos modifications. Toutes les compétences des collègues utiliseront immédiatement vos règles personnalisées.
+1. Enregistrez vos modifications. Toutes les compétences Coworker for Marketo Engage utiliseront immédiatement vos règles personnalisées.
 
 ## Structure des règles d&#39;organisation {#organizational-rules-structure}
 
@@ -53,7 +53,7 @@ Les règles d’organisation sont formatées en Markdown avec la matière de fro
 
 ```markdown
 ---
-name: Your Organization Name — Marketo Campaign Governance
+name: Your Organization Name - Marketo Campaign Governance
 version: 1.0
 enabled: true
 customized: true
@@ -83,7 +83,7 @@ customized: true
 
 # Email Compliance
 
-## ⚠️ REQUIRED Elements
+## Required Elements
 - Unsubscribe link in footer
 - Company name and physical address
 - All external links include UTM parameters
@@ -99,16 +99,16 @@ customized: true
 * **Rester concentré sur les règles** : incluez uniquement les exigences importantes pour votre organisation. Les règles inutiles créent du bruit et réduisent inutilement les scores de conformité.
 * **Utiliser à la fois des vérifications automatisées et manuelles** :
 
-  * Vérifications automatisées : conventions de nommage, dossiers requis, utilisation des jetons (un collègue peut les vérifier)
-  * Vérifications manuelles : conception visuelle des e-mails, conformité de la marque, logique de la campagne (un collègue les signalera comme étant des étapes de révision manuelle)
+  * Vérifications automatisées : conventions de nommage, dossiers requis, utilisation des jetons (Coworker for Marketo Engage peut vérifier ces éléments)
+  * Vérifications manuelles : conception visuelle des e-mails, conformité de la marque, logique de la campagne (un collègue de Marketo Engage les signalera comme étant des étapes de révision manuelle)
 
 * **Équilibrer rigueur et flexibilité** : des règles trop strictes peuvent ralentir la création d’un programme. Les règles trop souples ne détecteront pas les problèmes de conformité importants.
 * **Version de vos règles** : mettez à jour le numéro de version lorsque vous effectuez des modifications importantes afin que votre équipe sache que les normes de gouvernance ont été mises à jour.
 * **Communiquer les modifications** : lorsque vous mettez à jour les règles d’organisation, informez votre équipe des opérations marketing de ce qui a changé et pourquoi.
 
-## Ce que Coworker peut et ne peut pas valider {#what-coworker-can-and-cannot-validate}
+## Ce que Coworker for Marketo Engage peut ou ne peut pas valider {#what-coworker-can-and-cannot-validate}
 
-Un collègue PEUT valider (contrôles automatisés) :
+Coworker for Marketo Engage PEUT valider (contrôles automatisés) :
 
 * Les conventions de nommage correspondent à vos modèles
 * La structure de dossiers requise existe.
@@ -117,7 +117,7 @@ Un collègue PEUT valider (contrôles automatisés) :
 * Les liens externes incluent les paramètres UTM.
 * Les noms de campagnes intelligentes respectent les conventions
 
-Collègue NE PEUT PAS valider (révision manuelle requise) :
+Collègue pour Marketo Engage NE PEUT PAS valider (révision manuelle requise) :
 
 * Logique de filtre de liste dynamique (limitation de l’API : vous devez configurer les filtres manuellement)
 * Logique d’étape de flux de campagne intelligente (limitation de l’API : vous devez configurer les flux manuellement)
@@ -125,15 +125,15 @@ Collègue NE PEUT PAS valider (révision manuelle requise) :
 * Conformité de la marque et ton des messages (nécessite un jugement humain)
 * Règles de segmentation de contenu dynamique (limitation d’API)
 
-Lorsqu’un collègue rencontre un élément qu’il ne peut pas valider, il le signale comme une étape de révision manuelle dans le workflow.
+Lorsque Coworker for Marketo Engage rencontre un élément qu’il ne peut pas valider, il le signale comme une étape de révision manuelle dans le workflow.
 
 ## Score de conformité {#compliance-scoring}
 
-Lorsque vous utilisez Valider les programmes, Coworker calcule un score de conformité en fonction des éléments suivants :
+Lorsque vous utilisez Valider les programmes, Coworker for Marketo Engage calcule un score de conformité en fonction des éléments suivants :
 
-* **Vérifications réussies** — Un collègue a vérifié la conformité et n&#39;a trouvé aucun problème
-* **Échec des vérifications** — Un collègue a trouvé des violations de vos règles d&#39;organisation
-* **Étapes de vérification manuelle** — Éléments nécessitant une vérification humaine (ceux-ci ne sont PAS pris en compte dans votre score)
+* **Vérifications réussies** : la conformité a été vérifiée par un collègue de Marketo Engage et aucun problème n’a été détecté
+* **Échec des vérifications** : un collègue de Marketo Engage a détecté des violations de vos règles d’organisation
+* **Étapes de vérification manuelle** : éléments nécessitant une vérification humaine (ils ne sont PAS comptabilisés dans votre score)
 
 Un programme peut être conforme à 100 % et nécessiter toujours des étapes de révision manuelles ; elles sont exclues du calcul de la note.
 
@@ -161,7 +161,7 @@ Utilisez cette option si vous souhaitez une cohérence sur les codes région, ma
 **Exemple 3 : règles minimales (accent mis sur la conformité)**
 
 ```markdown
-# Email Compliance — REQUIRED
+# Email Compliance - REQUIRED
 
 - Unsubscribe link present
 - CAN-SPAM physical address in footer
@@ -172,9 +172,9 @@ Utilisez cette option si votre entreprise donne la priorité à la conformité p
 
 ## Dépannage {#troubleshooting}
 
-**Q : J’ai mis à jour les règles d’organisation, mais Coworker utilise toujours les anciennes règles.**
+**Q : J’ai mis à jour les règles d’organisation, mais Coworker pour Marketo Engage utilise toujours les anciennes règles.**
 
-R : Les modifications prennent effet immédiatement pour les nouveaux programmes et validations. Si vous travaillez sur un programme existant, actualisez votre navigateur ou démarrez un nouveau workflow Collègue pour afficher les règles mises à jour.
+R : Les modifications prennent effet immédiatement pour les nouveaux programmes et validations. Si vous travaillez sur un programme existant, actualisez votre navigateur ou démarrez un workflow Coworker for Marketo Engage pour afficher les règles mises à jour.
 
 **Q : Puis-je revenir aux règles par défaut ?**
 
