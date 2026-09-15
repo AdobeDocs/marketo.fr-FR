@@ -2,13 +2,11 @@
 description: Notes De Mise À Jour - Juillet 2026 - Documents Marketo - Documentation Du Produit
 title: Notes De Mise À Jour - Juillet 2026
 feature: Release Information
-source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
+source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
 workflow-type: tm+mt
-source-wordcount: '505'
-ht-degree: 19%
-
+source-wordcount: '454'
+ht-degree: 22%
 ---
-
 # Notes De Mise À Jour : Juillet 2026 {#release-notes-july-26}
 
 Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 26 juillet. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
@@ -30,7 +28,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td><strong>Compétences en IA pour Marketo - Connaissance des produits </strong> : la connaissance des produits vous donne un accès à la demande à l’expertise de Marketo sans quitter la plateforme. Posez une question en langage clair et l’IA dédiée à Marketo s’appuie sur la documentation officielle d’Adobe pour fournir une réponse.
 </td>
    <td>Libéré</td>
-   <td><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/coworker-for-marketo/skills/product-knowledge" target="_blank">Connaissances du produit</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/coworker-for-marketo/skills/product-knowledge" target="_blank">Connaissances du produit</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -41,7 +39,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td><strong>Compétences en IA dédiée à Marketo - Rechercher des prospects </strong> : découvrez pourquoi une personne/un prospect spécifique n’a pas atteint un jalon (comme MQL, qualification d’un programme ou une campagne) et obtenez une explication en langage clair de ce qui s’est passé.
 </td>
    <td>Libéré</td>
-   <td><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/coworker-for-marketo/skills/investigate-leads" target="_blank">Enquête sur les prospects</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/coworker-for-marketo/skills/investigate-leads" target="_blank">Enquête sur les prospects</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -51,18 +49,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   <tr>
    <td><strong>Email Designer - Modules</strong> : vous avez désormais accès à des blocs de contenu entièrement structurés, prêts à l’emploi et conçus pour accélérer l’assemblage des e-mails.</td>
    <td>Libéré</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-modules.md" target="_blank">Utilisation de modules dans le Designer Email</a></td>
-  </tr>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Menu contextuel Générer le contenu</strong> : les fonctionnalités « Générer le contenu » du Designer Email sont désormais accessibles à partir du menu contextuel (la barre noire). Par exemple, lorsque vous sélectionnez du contenu texte, l’icône Générer du contenu s’affiche dans le menu contextuel, ce qui vous permet d’effectuer des actions rapides.</td>
-   <td><i>Bientôt disponible</i></td>
-<td><i>Bientôt disponible</i></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-modules.md" target="_blank">Utiliser les modules dans le concepteur d’e-mail</a></td>
   </tr>
   </tr>
   </tbody>
@@ -74,4 +61,4 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
 * **Obsolescence du paramètre &#39;access_token&#39; de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours d’obsolescence et ne sera plus disponible après le 31 août 2026. Toutes les intégrations nouvelles et existantes doivent authentifier les appels de l’API REST à l’aide de l’en-tête « Autorisation », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 * **Limite de leads de fusion de l’API REST** : à compter du 31 juillet 2026, les appels qui incluent plus de 25 identifiants dans le paramètre leadIds d’un appel de l’API Merge Leads entraîneront un code d’erreur 1080 et l’appel sera ignoré. Les tâches nécessitant la fusion de plus de 25 enregistrements en un seul doivent être divisées en plusieurs tâches pour assurer le succès de ces appels.
 * **Obsolescence de l’API SOAP** : la prise en charge de l’API Marketo SOAP prendra fin le 31 juillet 2026. Les services qui utilisent les fonctionnalités de l’API SOAP doivent être migrés vers l’[API REST](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
-* **Limites de taille de liste statique pour les activités Get Lead et Get Lead Changes** : à compter du 30 septembre 2026, les appels aux points d’entrée Get Lead Activities et Get Lead Changes qui incluent le paramètre `listId` renverront un code d’erreur 1003 si la liste statique cible contient 10 000 leads ou plus. Consultez le [&#x200B; Guide de migration &#x200B;](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} pour plus d’informations.
+* **Limites de taille de liste statique pour les activités Get Lead et Get Lead Changes** : à compter du 30 septembre 2026, les appels aux points d’entrée Get Lead Activities et Get Lead Changes qui incluent le paramètre `listId` renverront un code d’erreur 1003 si la liste statique cible contient 10 000 leads ou plus. Consultez le [ Guide de migration ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} pour plus d’informations.
