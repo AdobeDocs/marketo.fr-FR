@@ -12,7 +12,7 @@ Décrivez une campagne marketing en langage simple et Coworker for Marketo Engag
 
 >[!PREREQUISITES]
 >
->* Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [ Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
+>* Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [&#x200B; Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
 >
 >* Vous devez être autorisé à créer des programmes dans votre compte Marketo et disposer d’au moins un programme Marketo existant à utiliser comme modèle. Le programme modèle doit contenir au moins un e-mail et une campagne intelligente.
 
