@@ -4,13 +4,11 @@ user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 8a3959f6edd01d28e6377a3a39a23b63a1d6475e
+source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
 workflow-type: tm+mt
-source-wordcount: '8931'
+source-wordcount: '8930'
 ht-degree: 96%
-
 ---
-
 
 # Guide Marketo {#using}
 
@@ -487,7 +485,7 @@ ht-degree: 96%
       + [Modèles et insights](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
       + [Filtres prédictifs](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
   + Collègue pour Marketo Engage {#coworker-for-marketo}
-    + [Vue d’ensemble](product-docs/coworker-for-marketo/overview.md)
+    + [Présentation](product-docs/coworker-for-marketo/overview.md)
     + [Paramètres et configuration](product-docs/coworker-for-marketo/settings-setup.md)
     + [Fiche d’information de Collègue pour Marketo Engage](product-docs/coworker-for-marketo/data-information.md)
     + Compétences {#skills}
@@ -1007,7 +1005,7 @@ ht-degree: 96%
       + [Vue d’ensemble](product-docs/email-marketing/email-designer/overview.md)
       + [Comparaison des fonctionnalités](product-docs/email-marketing/email-designer/feature-comparison.md)
       + [Création d’e-mails](product-docs/email-marketing/email-designer/email-authoring.md)
-      + [Utilisation de modules dans le Designer Email](product-docs/email-marketing/email-designer/email-modules.md)
+      + [Utiliser les modules dans le concepteur d’e-mail](product-docs/email-marketing/email-designer/email-modules.md)
       + [Contenu conditionnel](product-docs/email-marketing/email-designer/conditional-content.md)
       + [Création de modèle d’e-mail](product-docs/email-marketing/email-designer/email-template-authoring.md)
       + [Importer un modèle](product-docs/email-marketing/email-designer/import-template.md)
@@ -1027,7 +1025,7 @@ ht-degree: 96%
       + [Collaboration d’e-mail](product-docs/email-marketing/email-designer/email-collaboration.md)
       + [Générer du contenu dans le Designer Email](product-docs/email-marketing/email-designer/generate-content.md)
       + [Rapport de spam pour les e-mails avec SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
-      + [Guide de suivi des ouvertures de la CNIL](product-docs/email-marketing/email-designer/cnil-guidance.md)
+      + [Suivi conditionnel des ouvertures](product-docs/email-marketing/email-designer/conditional-open-tracking.md)
     + Programmes d’e-mail {#email-programs}
       + Création d’un programme d’e-mail {#creating-an-email-program}
         + [Créer un programme d’e-mail](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
