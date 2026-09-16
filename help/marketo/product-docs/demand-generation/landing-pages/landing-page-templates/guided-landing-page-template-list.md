@@ -31,7 +31,7 @@ Parcourez notre collection d’exemples de modèles à utiliser avec l’[Édite
 
 ## Comment importer un modèle dans Marketo Engage{#how-to-import}
 
-1. Cliquez sur le nom du modèle [ souhaité ci-dessous](#all-templates) pour accéder à sa page dédiée.
+1. Cliquez sur le nom du modèle [&#x200B; souhaité ci-dessous](#all-templates) pour accéder à sa page dédiée.
 
 1. Cliquez avec le bouton droit sur « Télécharger le modèle » et sélectionnez **Enregistrer le lien sous...**. Enregistrez le fichier à l&#39;emplacement souhaité sur votre ordinateur.
 
