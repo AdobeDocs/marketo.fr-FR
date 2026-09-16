@@ -1,9 +1,9 @@
 ---
 description: Découvrez comment les règles d’organisation définissent les normes de gouvernance et guident Coworker for Marketo Engage dans la création, la planification et la validation de programmes.
 title: Règles d'organisation
-source-git-commit: 60ab04f79b2b24ca659676f5847d6f87b867e2f4
+source-git-commit: c1581e2b692dd50bf472756e4e6222ff75ae091c
 workflow-type: tm+mt
-source-wordcount: '828'
+source-wordcount: '829'
 ht-degree: 0%
 ---
 # Règles d&#39;organisation {#organizational-rules}
@@ -19,7 +19,7 @@ Les règles d’organisation sont un document de configuration basé sur Markdow
 * Exigences de conformité (liens de désabonnement, paramètres UTM, filtres d’exclusion)
 * Bonnes pratiques (conception d’e-mail, configuration de liste dynamique)
 
-Chaque instance de Marketo inclut des règles d’organisation par défaut. Vous pouvez les personnaliser en fonction des besoins de gouvernance spécifiques de votre entreprise.
+Chaque environnement Marketo Engage comprend des règles d’organisation par défaut. Vous pouvez les personnaliser en fonction des besoins de gouvernance spécifiques de votre entreprise.
 
 ## Où les règles d’organisation sont utilisées {#where-organizational-rules-are-used}
 
