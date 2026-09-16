@@ -4,9 +4,9 @@ user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
+source-git-commit: 60ab04f79b2b24ca659676f5847d6f87b867e2f4
 workflow-type: tm+mt
-source-wordcount: '8930'
+source-wordcount: '8932'
 ht-degree: 96%
 ---
 
@@ -487,6 +487,7 @@ ht-degree: 96%
   + Collègue pour Marketo Engage {#coworker-for-marketo}
     + [Présentation](product-docs/coworker-for-marketo/overview.md)
     + [Paramètres et configuration](product-docs/coworker-for-marketo/settings-setup.md)
+    + {hide-from-toc}[Règles d&#39;organisation](product-docs/coworker-for-marketo/organizational-rules.md)
     + [Fiche d’information de Collègue pour Marketo Engage](product-docs/coworker-for-marketo/data-information.md)
     + Compétences {#skills}
       + [Connaissances du produit](product-docs/coworker-for-marketo/skills/product-knowledge.md)

@@ -7,18 +7,18 @@ feature: Landing Pages, Guided Landing Page Templates
 TQID: https://experienceleague.adobe.com/7a3AMZ2s3vkMMjEuKYN7FlLQ9wjK8IWjvvuMDcWT3Uc
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+source-git-commit: 5c0e06eafd047db8a64255351e09d1533cc82d0a
 workflow-type: tm+mt
-source-wordcount: 73
+source-wordcount: '73'
 ht-degree: 5%
-
 ---
-
 # Modèle 20B {#template-20b}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 20B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html?lang=fr)
+Cliquez avec le bouton droit pour [télécharger le modèle 20B](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-20b.html)
 
 ![](assets/template-20b.png)
 
@@ -26,11 +26,11 @@ Ce modèle comprend le contenu suivant :
 
 * Une section principale
 
-   * comprend des vidéos et du texte de premier plan
+  * comprend des vidéos et du texte de premier plan
 
 * Quatre sections de corps (facultatif)
 * Pied de page (facultatif)
 
 **Cliquez avec le bouton droit de la souris ci-dessous pour télécharger ce modèle :**
 
-[Modèle 20B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20b.html?lang=fr)
+[Modèle 20B.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-20b.html)
