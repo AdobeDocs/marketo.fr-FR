@@ -7,18 +7,20 @@ feature: Landing Pages, Guided Landing Page Templates
 TQID: https://experienceleague.adobe.com/aHSN4jaUa-1FI8CRLUo1h-UmxjwWCB0ZDt3vbvoEVa0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Troubleshooting
+source-git-commit: 39f87db3b9437e82aeec1a860592654acaf8e0ca
 workflow-type: tm+mt
-source-wordcount: 357
-ht-degree: 61%
-
+source-wordcount: '411'
+ht-degree: 53%
 ---
-
 # Liste des modèles de page de destination guidée {#guided-landing-page-template-list}
 
 Parcourez notre collection d’exemples de modèles à utiliser avec l’[Éditeur de page de destination guidée](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Chaque modèle est entièrement réactif et s’appuie sur le framework Bootstrap.
@@ -27,15 +29,35 @@ Parcourez notre collection d’exemples de modèles à utiliser avec l’[Édite
 >
 >La prise en charge de Marketo n’est pas configurée pour vous aider à résoudre les problèmes d’HTML. Si vous avez besoin d&#39;aide pour modifier l&#39;un de ces modèles, veuillez consulter un développeur Web.
 
-Pour importer un modèle dans Marketo :
+## Comment importer un modèle dans Marketo Engage{#how-to-import}
 
-1. Cliquez sur le nom du modèle pour l’agrandir.
-1. Téléchargez le modèle choisi.
-1. Dans Marketo, accédez à **[!UICONTROL Design Studio]**.
-1. Cliquez sur **[!UICONTROL Pages de destination]** dans l’arborescence de gauche, puis sélectionnez **[!UICONTROL Modèles]**.
+1. Cliquez sur le nom du modèle [&#x200B; souhaité ci-dessous](#all-templates) pour accéder à sa page dédiée.
 
-1. Dans la barre de menus, cliquez sur **[!UICONTROL Importer modèle]**.
-1. Choisissez le fichier téléchargé, saisissez un nom de modèle, puis cliquez sur **[!UICONTROL Importer]** (veillez à choisir un nom explicite et à indiquer que le mode de modification est **[!UICONTROL Guidé]**).
+1. Cliquez avec le bouton droit sur « Télécharger le modèle » et sélectionnez **Enregistrer le lien sous...**. Enregistrez le fichier à l&#39;emplacement souhaité sur votre ordinateur.
+
+1. Dans Marketo Engage, accédez à **[!UICONTROL Design Studio]**.
+
+1. Sélectionnez **[!UICONTROL Modèles de page de destination]**.
+
+   ![](assets/guided-landing-page-template-list-3.png)
+
+1. Dans la liste déroulante **[!UICONTROL Actions du modèle de landing page]**, sélectionnez **[!UICONTROL Nouveau modèle de landing page]**.
+
+   ![](assets/guided-landing-page-template-list-4.png)
+
+1. Attribuez un nom à votre modèle. Dans la liste déroulante Mode d’édition , sélectionnez **[!UICONTROL Guidé]**. Cochez la case **[!UICONTROL Importer le modèle]**.
+
+   ![](assets/guided-landing-page-template-list-5.png)
+
+1. Sélectionnez le fichier de modèle que vous avez téléchargé et cliquez sur **[!UICONTROL Créer]** (la sélection de **Remplacer tout modèle existant portant ce nom** est facultative).
+
+   ![](assets/guided-landing-page-template-list-6.png)
+
+1. Votre modèle est maintenant importé et prêt pour vos modifications.
+
+## Tous les modèles disponibles {#all-templates}
+
+Parcourez la bibliothèque de modèles gratuite.
 
 <table>
 <tr>

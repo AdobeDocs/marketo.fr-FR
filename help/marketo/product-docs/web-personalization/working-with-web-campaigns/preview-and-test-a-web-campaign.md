@@ -46,7 +46,7 @@ Cet article vous explique différentes manières de prévisualiser une campagne 
 
    >[!NOTE]
    >
-   >Vous avez également la possibilité d’installer un plug-in de navigateur ([[!DNL Chrome]](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) ou [[!DNL Firefox]](0.0.0.8.xpi)) pour bénéficier de la meilleure expérience en prévisualisant votre campagne. Voir la section ci-dessous.
+   >Vous avez également la possibilité d’installer un plug-in de navigateur ([[!DNL Chrome]](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) ou [[!DNL Firefox]] (0.0.0.8.xpi)) pour bénéficier de la meilleure expérience en prévisualisant votre campagne. Voir la section ci-dessous.
 
 ## Prévisualisez une campagne web sur la page de création à l’aide du module externe de navigateur {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 

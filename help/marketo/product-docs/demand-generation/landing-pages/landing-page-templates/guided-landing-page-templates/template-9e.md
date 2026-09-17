@@ -11,14 +11,18 @@ product_v2:
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
-source-git-commit: 5c0e06eafd047db8a64255351e09d1533cc82d0a
+source-git-commit: 043d09315fec24d58897c362e9e28008df7d4aa9
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 5%
+source-wordcount: '102'
+ht-degree: 3%
 ---
 # Modèle 9E {#template-9e}
 
-Cliquez avec le bouton droit pour [télécharger le modèle 9E](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-9e.html)
+Cliquez avec le bouton droit sur [Télécharger le modèle 9E](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-9e.html) et sélectionnez **Enregistrer le lien sous...**
+
+>[!NOTE]
+>
+>Les étapes complètes de téléchargement et d’importation d’un modèle [sont disponibles ici](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md#how-to-import){target="_blank"}.
 
 ![](assets/image2015-7-28-15-3a33-3a3.png)
 
@@ -31,6 +35,6 @@ Ce modèle comprend le contenu suivant :
 * Huit sections du corps (facultatif)
 * Un pied de page (facultatif)
 
-**Cliquez avec le bouton droit de la souris ci-dessous pour télécharger ce modèle :**
+**Cliquez avec le bouton droit ci-dessous (et sélectionnez _Enregistrer le lien sous..._) pour télécharger ce modèle, procédez comme suit**
 
 [Modèle 9E.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-9e.html)
