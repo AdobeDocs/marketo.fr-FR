@@ -24,9 +24,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 3a4c5d6f8aa299111ff8c09836246e9e0c7f93b1
+source-git-commit: ba06d7ce62da1ceb3f696527532975622e06fa70
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '524'
 ht-degree: 17%
 ---
 # Notes De Mise À Jour : Août 2026 {#release-notes-aug-26}
@@ -61,19 +61,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td><strong>Désactiver les campagnes sur l’archive </strong> : l’archivage d’un dossier désactive et déplanifie désormais toutes les campagnes de cette arborescence de dossiers, empêchant l’exécution inattendue de campagnes intelligentes archivées.
 </td>
    <td>Libéré</td>
-   <td><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#disable-campaigns-archive" target="_blank">Désactiver les campagnes sur l’archive</a></td>
-  </tr>
-    <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Créateur de scripts</strong> : le créateur de scripts est un assistant optimisé par l’IA qui vous permet de créer des scripts de personnalisation plus rapidement.
-</td>
-   <td><i>Bientôt disponible</i></td>
-   <td><i>Bientôt disponible</i></td>
-  </tr>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#disable-campaigns-archive" target="_blank">Désactiver les campagnes sur l’archive</a></td>
   </tr>
     <tr>
    <td> </td>
@@ -92,12 +80,12 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
 
 ## Annonces {#announcements}
 
-* **Marketo AI est désormais Coworker for Marketo Engage** : Coworker for Marketo Engage fournit des compétences d’agent conçues pour automatiser les fonctions marketing qui prennent du temps. Nouveau nom, mêmes fonctionnalités, disponible pour tous les utilisateurs. [En savoir plus](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/coworker-for-marketo/overview){target="_blank"}
+* **Marketo AI est désormais Coworker for Marketo Engage** : Coworker for Marketo Engage fournit des compétences d’agent conçues pour automatiser les fonctions marketing qui prennent du temps. Nouveau nom, mêmes fonctionnalités, disponible pour tous les utilisateurs. [En savoir plus](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/coworker-for-marketo/overview){target="_blank"}
 
 * **Obsolescence du paramètre &#39;access_token&#39; de l’API REST** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est obsolète et ne sera plus disponible après le 31 août 2026. Toutes les intégrations nouvelles et existantes doivent authentifier les appels de l’API REST à l’aide de l’en-tête « Autorisation », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
 * **Identifiant d’exécution de campagne de l’API REST** : dans certains cas, la valeur de l’identifiant d’exécution de campagne d’une activité était parfois renvoyée avec un formatage incorrect, entre deux paires de guillemets (par exemple, `"campaignRunId": ""102938""`). <br/>À partir de la version d’août, cette valeur sera toujours renvoyée avec le bon format numérique (`"campaignRunId": 102938`)
 
-* **Limites de taille de liste statique pour les activités Get Lead et Get Lead Changes** : à compter du 30 septembre 2026, les appels aux points d’entrée Get Lead Activities ou Get Lead Changes qui incluent le paramètre `listId` échoueront avec un code d’erreur 1003 (indiquant que la liste statique cible contient trop d’enregistrements) si les listes cibles contiennent 10 000 leads ou plus. Consultez le [&#x200B; Guide de migration &#x200B;](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} pour plus d’informations.
+* **Limites de taille de liste statique pour les activités Get Lead et Get Lead Changes** : à compter du 30 septembre 2026, les appels aux points d’entrée Get Lead Activities ou Get Lead Changes qui incluent le paramètre `listId` échoueront avec un code d’erreur 1003 (indiquant que la liste statique cible contient trop d’enregistrements) si les listes cibles contiennent 10 000 leads ou plus. Consultez le [ Guide de migration ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} pour plus d’informations.
 
 * **Limite de leads de fusion de l’API REST** : depuis le 31 juillet 2026, les appels qui incluent plus de 25 identifiants dans le paramètre leadIds d’un appel de l’API Merge Leads génèrent un code d’erreur 1080 et l’appel est ignoré. Les tâches nécessitant la fusion de plus de 25 enregistrements en un seul doivent être divisées en plusieurs tâches pour assurer le succès de ces appels.
