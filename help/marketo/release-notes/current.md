@@ -24,9 +24,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 3a4c5d6f8aa299111ff8c09836246e9e0c7f93b1
+source-git-commit: ba06d7ce62da1ceb3f696527532975622e06fa70
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '524'
 ht-degree: 17%
 ---
 # Notes De Mise À Jour : Août 2026 {#release-notes-aug-26}
@@ -62,18 +62,6 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
 </td>
    <td>Libéré</td>
    <td><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#disable-campaigns-archive" target="_blank">Désactiver les campagnes sur l’archive</a></td>
-  </tr>
-    <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Créateur de scripts</strong> : le créateur de scripts est un assistant optimisé par l’IA qui vous permet de créer des scripts de personnalisation plus rapidement.
-</td>
-   <td><i>Bientôt disponible</i></td>
-   <td><i>Bientôt disponible</i></td>
-  </tr>
   </tr>
     <tr>
    <td> </td>

@@ -3,9 +3,9 @@ description: Migration AWS - Documents Marketo Engage - Documentation du produit
 title: Migration d’AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: f162e96cb2706942d51f10be6d85f700ee4b9d49
+source-git-commit: 58db91f621e88382bb0c44524e59a43abfaa49d3
 workflow-type: tm+mt
-source-wordcount: '997'
+source-wordcount: '1020'
 ht-degree: 5%
 ---
 # Migration d’AWS {#aws-migration}
@@ -225,7 +225,7 @@ Si, pour une raison quelconque, une migration échoue, vous en serez informé et
    <i>AB08</i></td>
    <td>17 h (HAP)<br>
    18 <i> PDT</i></td>
-   <td>Prévu<br>
+   <td>Terminé<br>
    <i>Reporté (date à déterminer)</i></td>
   </tr>
   <tr>
@@ -265,6 +265,21 @@ Si, pour une raison quelconque, une migration échoue, vous en serez informé et
    <td>9 Octobre 2026</td>
    <td>AB19<br>
    AB22</td>
+   <td>16 h (HAP)<br>
+   17 h (HAP)</td>
+   <td>Prévu<br>
+   Selon le calendrier</td>
+  </tr>
+  <tr>
+   <td>14 Octobre 2026</td>
+   <td>AB25</td>
+   <td>17 h (HAP)</td>
+   <td>Prévu</td>
+  </tr>
+  <tr>
+   <td>16 Octobre 2026</td>
+   <td>AB23<br>
+   AB26</td>
    <td>16 h (HAP)<br>
    17 h (HAP)</td>
    <td>Prévu<br>

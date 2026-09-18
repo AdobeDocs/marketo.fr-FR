@@ -25,9 +25,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
+source-git-commit: ba06d7ce62da1ceb3f696527532975622e06fa70
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '552'
 ht-degree: 18%
 ---
 # Notes De Mise À Jour : Septembre 2026 {#release-notes-sep-26}
@@ -80,6 +80,16 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   </tr>
   <tr>
    <td><strong>Étapes de flux en libre-service - Délai d’expiration de rappel augmenté </strong> : le délai d’expiration de rappel des étapes de flux en libre-service passe d’une heure à quatre heures. Aucune action n’est requise de votre part.</td>
+   <td><i>Bientôt disponible</i></td>
+   <td><i>Bientôt disponible</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Email Designer - Tableaux</strong> : vous pouvez désormais glisser-déposer le type de contenu « tableau » dans votre e-mail, avec la possibilité de définir le nombre de colonnes et de lignes.</td>
    <td><i>Bientôt disponible</i></td>
    <td><i>Bientôt disponible</i></td>
   </tr>
