@@ -7,18 +7,20 @@ feature: Administration
 TQID: https://experienceleague.adobe.com/MIuDfjHpqBC2Z-hMEgtk0BvK-W2DEL25M-j6GNQK9zI
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: aa0494716e0deb2a2d04be5b2e6fdd1c13483f45
 workflow-type: tm+mt
-source-wordcount: 175
-ht-degree: 12%
-
+source-wordcount: '139'
+ht-degree: 15%
 ---
-
 # Créer une liste autorisée pour l’accès à l’API basé sur l’adresse IP {#create-an-allowlist-for-ip-based-api-access}
 
 Parfois, vous souhaitez accorder l’accès à l’API uniquement à une adresse IP spécifique ou à une plage d’adresses. Pour ce faire, vous devez d’abord activer les restrictions, puis spécifier les adresses IP qui sont autorisées à utiliser les API.
@@ -26,10 +28,6 @@ Parfois, vous souhaitez accorder l’accès à l’API uniquement à une adresse
 >[!NOTE]
 >
 >**Autorisations d’administration requises**
-
->[!CAUTION]
->
->L&#39;activation de cette fonctionnalité vous empêche d&#39;accéder au serveur MCP [&#128279;](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/mcp-server){target="_blank"} pour le moment. Ce problème devrait être résolu dans une prochaine version.
 
 1. Accédez à la zone **[!UICONTROL Admin]**.
 
