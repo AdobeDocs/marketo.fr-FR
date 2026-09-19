@@ -1,9 +1,9 @@
 ---
 description: Explorez la suite d’agents Coworker for Marketo Engage conçue pour automatiser les tâches marketing telles que l’assurance qualité des programmes, l’importation de prospects, la normalisation des données, etc.
 title: Présentation de Collègue pour Marketo Engage
-source-git-commit: 0949e5193333d56943a5c9a52c1715ecbcb274f3
+source-git-commit: fc1bcbdaa543e39127945852a6f89e69f2966c21
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '439'
 ht-degree: 1%
 ---
 # Présentation de Collègue pour Marketo Engage {#overview}
@@ -34,13 +34,9 @@ Saisissez votre requête dans le champ d’invite, sélectionnez l’une des com
 
 La console centrale dispose d’un ensemble croissant de compétences d’agent disponibles pour vous aider à effectuer diverses tâches. Chaque compétence est un assistant d’IA personnalisé avec lequel vous interagissez en langage naturel pour terminer une tâche spécifique.
 
-<!--
+### Créer des programmes {#build-programs}
 
-### Build programs {#build-programs}
-
-Describe a marketing campaign in plain language and Coworker for Marketo Engage builds the program structure, complete with asset placeholders and scheduling. Learn more about the [Build programs skill](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}.
-
--->
+Décrivez une campagne marketing en langage simple et Coworker for Marketo Engage crée la structure du programme, avec les espaces réservés aux ressources et la planification. En savoir plus sur la compétence [Créer des programmes](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}.
 
 ### Enquête sur les prospects {#investigate-leads}
 
