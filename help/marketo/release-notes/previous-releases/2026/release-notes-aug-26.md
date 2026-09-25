@@ -2,10 +2,10 @@
 description: Notes De Mise À Jour - Juillet 2026 - Documents Marketo - Documentation Du Produit
 title: Notes De Mise À Jour - Juillet 2026
 feature: Release Information
-source-git-commit: edeb795f12082fab9c72b0ff4305f3db90aa4c46
+source-git-commit: 15308a78867253ae6c54faa8e77c2cf7eb68b9a5
 workflow-type: tm+mt
-source-wordcount: '526'
-ht-degree: 15%
+source-wordcount: '577'
+ht-degree: 13%
 ---
 # Notes De Mise À Jour : Août 2026 {#release-notes-aug-26}
 
@@ -36,6 +36,16 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td> </td>
   </tr>
   <tr>
+   <td><strong>Serveur MCP Marketo Engage </strong> : le serveur MCP Marketo Engage fait office de pont entre votre assistant AI et Marketo Engage. Il expose plus de 100 opérations sur des formulaires, des programmes, des campagnes intelligentes, des personnes/prospects, des e-mails, des fragments de code, des listes et des dossiers.</td>
+   <td>Généralement Disponible</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=fr" target="_blank">Serveur MCP Marketo</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
    <td><strong>Désactiver les campagnes sur l’archive </strong> : l’archivage d’un dossier désactive et déplanifie désormais toutes les campagnes de cette arborescence de dossiers, empêchant l’exécution inattendue de campagnes intelligentes archivées.
 </td>
    <td>Libéré</td>
@@ -50,7 +60,6 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td><strong>Email Designer - Menu contextuel Générer le contenu</strong> : les fonctionnalités « Générer le contenu » du Designer Email sont désormais accessibles à partir du menu contextuel (la barre noire). Par exemple, lorsque vous sélectionnez du contenu texte, l’icône Générer du contenu s’affiche dans le menu contextuel, ce qui vous permet d’effectuer des actions rapides.</td>
    <td><i>Bientôt disponible</i></td>
    <td><i>Bientôt disponible</i></td>
-  </tr>
   </tr>
   </tbody>
 </table>

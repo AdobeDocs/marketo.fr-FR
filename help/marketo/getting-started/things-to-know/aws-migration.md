@@ -3,9 +3,9 @@ description: Migration AWS - Documents Marketo Engage - Documentation du produit
 title: Migration d’AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 662073adfb4fedc2a8f122cb60ae7c5a35672926
+source-git-commit: 8c767c18df9483c060fea9bd055e48be1a58c172
 workflow-type: tm+mt
-source-wordcount: '1007'
+source-wordcount: '1001'
 ht-degree: 5%
 ---
 # Migration d’AWS {#aws-migration}
@@ -215,12 +215,9 @@ Si, pour une raison quelconque, une migration échoue, vous en serez informé et
   </tr>
   <tr>
    <td>17 septembre 2026</td>
-   <td>AB07<br>
-   <i>AB08</i></td>
-   <td>17 h (HAP)<br>
-   18 <i> PDT</i></td>
-   <td>Terminé<br>
-   <i>Reporté (date à déterminer)</i></td>
+   <td>AB07</td>
+   <td>17 h (HAP)</td>
+   <td>Terminé</td>
   </tr>
   <tr>
    <td>22 septembre 2026</td>
@@ -242,9 +239,9 @@ Si, pour une raison quelconque, une migration échoue, vous en serez informé et
   </tr>
   <tr>
    <td>29 septembre 2026</td>
-   <td>AB14</td>
-   <td>18 h (HAP)</td>
-   <td>Prévu</td>
+   <td><i>AB14</i></td>
+   <td><i>18 h (HAP)</i></td>
+   <td><i>Reporté (date à déterminer)</i></td>
   </tr>
    <tr>
    <td>1er octobre 2026</td>
