@@ -1,23 +1,23 @@
 ---
-description: Glossaire des icônes - Documents Marketo Engage - Documentation du produit
+description: Glossaire des icônes - Documentation Marketo Engage - Documentation produit
 title: Glossaire des icônes
 feature: Getting Started
 exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
 TQID: https://experienceleague.adobe.com/JzvT5UwsTTmvs-QCBwiDr-C9hipDM-VMLGioDLQhJb0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+source-git-commit: dc8457cac3da6d128b39590ff6d54958f1622ee8
 workflow-type: tm+mt
-source-wordcount: 245
+source-wordcount: '231'
 ht-degree: 100%
-
 ---
-
 # Glossaire des icônes Marketo Engage {#icon-glossary}
 
-Vous trouverez ci-dessous les icônes de l’interface actuelle d’Adobe Marketo Engage. Si vous devez vous référer aux icônes Marketo Classic, elles se trouvent [ici](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
+Vous trouverez ci-dessous les icônes de l’interface actuelle d’Adobe Marketo Engage.
 
 ## Icônes générales {#general-icons}
 
@@ -36,12 +36,12 @@ Vous trouverez ci-dessous les icônes de l’interface actuelle d’Adobe Marke
   <tr>
    <td><img src="assets/classic-smart-campaign-active.png"></td>
    <td><img src="assets/batch-active.png"></td>
-   <td>Campagne par lot - Active</td>
+   <td>Campagne par lots - active</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-inactive.png"></td>
    <td><img src="assets/batch-inactive.png"></td>
-   <td>Campagne par lot - Inactive</td>
+   <td>Campagne par lots - inactive</td>
   </tr>
   <tr>
    <td><img src="assets/classic-default-program.png"></td>
@@ -116,7 +116,7 @@ Vous trouverez ci-dessous les icônes de l’interface actuelle d’Adobe Marke
   <tr>
    <td><img src="assets/classic-form.png"></td>
    <td><img src="assets/form.png"></td>
-   <td>Formulaire</td>
+   <td>Form</td>
   </tr>
   <tr>
    <td><img src="assets/classic-images-and-files.png"></td>
@@ -156,7 +156,7 @@ Vous trouverez ci-dessous les icônes de l’interface actuelle d’Adobe Marke
   <tr>
    <td><img src="assets/classic-push-notification.png"></td>
    <td><img src="assets/push-notification.png"></td>
-   <td>Notification Push</td>
+   <td>Notification push</td>
   </tr>
   <tr>
    <td><img src="assets/classic-referral-offer.png"></td>
@@ -171,7 +171,7 @@ Vous trouverez ci-dessous les icônes de l’interface actuelle d’Adobe Marke
   <tr>
    <td><strong>s/o</strong></td>
    <td><img src="assets/search.png"></td>
-   <td>Rechercher</td>
+   <td>Recherche</td>
   </tr>
   <tr>
    <td><img src="assets/classic-segment.png"></td>
@@ -201,7 +201,7 @@ Vous trouverez ci-dessous les icônes de l’interface actuelle d’Adobe Marke
   <tr>
    <td><img src="assets/classic-social-button.png"></td>
    <td><img src="assets/social-button.png"></td>
-   <td>Réseaux sociaux</td>
+   <td>Bouton social</td>
   </tr>
   <tr>
    <td><img src="assets/classic-static-list.png"></td>
@@ -263,7 +263,7 @@ Vous trouverez ci-dessous les icônes de l’interface actuelle d’Adobe Marke
   <tr>
    <td><img src="assets/classic-smart-campaign-never-run.png"></td>
    <td><img src="assets/never-run.png"></td>
-   <td>Ne jamais exécuter</td>
+   <td>Jamais d’exécution</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td>
@@ -332,7 +332,7 @@ Vous trouverez ci-dessous les icônes de l’interface actuelle d’Adobe Marke
   <tr>
    <td><img src="assets/classic-email-program-aborted.png"></td>
    <td><img src="assets/aborted.png"></td>
-   <td>Abandonné</td>
+   <td>Interrompu</td>
   </tr>
   <tr>
    <td><img src="assets/classic-email-program-complete.png"></td>
@@ -401,7 +401,7 @@ Vous trouverez ci-dessous les icônes de l’interface actuelle d’Adobe Marke
   <tr>
    <td><strong>s/o</strong></td>
    <td><img src="assets/inapp-scheduled.png"></td>
-   <td>Programmé</td>
+   <td>Planifié</td>
   </tr>
   <tr>
    <td><img src="assets/classic-in-app-program-stopped.png"></td>
@@ -450,17 +450,17 @@ Vous trouverez ci-dessous les icônes de l’interface actuelle d’Adobe Marke
   <tr>
    <td><strong>s/o</strong></td>
    <td><img src="assets/approved-under-calculation.png"></td>
-   <td>Approuvé - En cours de calcul</td>
+   <td>Approuvé - calcul en cours</td>
   </tr>
   <tr>
    <td><strong>s/o</strong></td>
    <td><img src="assets/approved-under-recalculation.png"></td>
-   <td>Approuvé - En cours de nouveau calcul</td>
+   <td>Approuvé - recalcul en cours</td>
   </tr>
   <tr>
    <td><strong>s/o</strong></td>
    <td><img src="assets/draft-under-calculation.png"></td>
-   <td>Brouillon - En cours de calcul</td>
+   <td>Brouillon - recalcul en cours</td>
   </tr>
  </tbody>
 </table>
