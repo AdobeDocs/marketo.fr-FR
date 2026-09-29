@@ -7,18 +7,20 @@ feature: Email Programs
 TQID: https://experienceleague.adobe.com/90WK5ODp6PnSFAyWFvEc4DFR1oiRn97gsqlP1lXj7-M
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 514
+source-wordcount: '514'
 ht-degree: 95%
-
 ---
-
 # Rapport des performances des e-mails {#email-performance-report}
 
 Pour évaluer les performances de vos e-mails par rapport à des statistiques telles que la diffusion, l’ouverture, les clics, etc., créez un rapport sur les performances des e-mails.
@@ -27,23 +29,23 @@ Pour évaluer les performances de vos e-mails par rapport à des statistiques te
 1. [Modifiez la période du rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), puis cliquez sur l’onglet **[!UICONTROL Rapport]**.
 1. Vous êtes là ! Parcourez maintenant le rapport pour voir les performances de votre ou vos e-mails.
 
-   >[!NOTE]
-   >
-   >Le filtre Date d’envoi est basé sur la première date d’envoi de l’e-mail.
+>[!NOTE]
+>
+>Le filtre Date d’envoi est basé sur la première date d’envoi de l’e-mail.
 
-   ![](assets/email-performance-report.png)
+![](assets/email-performance-report.png)
 
-   >[!TIP]
-   >
-   >Cliquez sur le nom d’un e-mail pour l’ouvrir dans le Prévisualiseur d’e-mail.
+>[!TIP]
+>
+>Cliquez sur le nom d’un e-mail pour l’ouvrir dans le Prévisualiseur d’e-mail.
 
-   >[!NOTE]
-   >
-   >Un rapport sur les performances des e-mails inclut des activités pour toutes les personnes, y compris celles qui ont été supprimées depuis l’envoi de l’e-mail. Parfois, vous souhaitez afficher les activités uniquement pour les personnes actives. Dans ce cas, vous devez filtrer pour retirer les personnes supprimées de votre rapport. Utilisez l’onglet **[!UICONTROL Liste intelligente]** pour [créer une liste intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) pour le rapport. Si vous ne filtrez aucun champ spécifique, définissez le filtre Adresse e-mail sur : **[!UICONTROL n’est pas vide]**.
+>[!NOTE]
+>
+>Un rapport sur les performances des e-mails inclut des activités pour toutes les personnes, y compris celles qui ont été supprimées depuis l’envoi de l’e-mail. Parfois, vous souhaitez afficher les activités uniquement pour les personnes actives. Dans ce cas, vous devez filtrer pour retirer les personnes supprimées de votre rapport. Utilisez l’onglet **[!UICONTROL Liste intelligente]** pour [créer une liste intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) pour le rapport. Si vous ne filtrez aucun champ spécifique, définissez le filtre Adresse e-mail sur : **[!UICONTROL n’est pas vide]**.
 
-   Pour un rapport Performances des e-mails, [sélectionnez les colonnes du rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) comme suit :
+Pour un rapport Performances des e-mails, [sélectionnez les colonnes du rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) comme suit :
 
-   <table><thead>
+<table><thead>
 
 <tr>
     <th>Colonne</th>
@@ -60,7 +62,7 @@ Pour évaluer les performances de vos e-mails par rapport à des statistiques te
   </tr>
   <tr>
     <td>En attente</td>
-    <td>Ce nombre est calculé en soustrayant le nombre d’e-mails diffusés et renvoyés définitivement ou temporairement du nombre total d’envois.</td>
+    <td>Cette valeur est calculée en soustrayant du nombre total d’e-mails envoyés le nombre d’e-mails diffusés, rejetés et ayant généré un rebond temporaire.</td>
   </tr>
   <tr>
     <td>Lien cliqué</td>
@@ -72,7 +74,7 @@ Pour évaluer les performances de vos e-mails par rapport à des statistiques te
   </tr>
   <tr>
     <td>Abandonné</td>
-    <td>Nombre d’e-mails n’ayant pas pu être diffusés sans événement de renvoi. Un e-mail est automatiquement qualifié d’Abandonné si aucune réponse n’est reçue dans les trois jours suivant l’envoi de l’e-mail.</td>
+    <td>Nombre d’e-mails qui n’ont pas pu être diffusés et pour lesquels aucun événement de rebond n’a été reçu. Un e-mail est automatiquement qualifié d’Abandonné si aucune réponse n’est reçue dans les trois jours suivant l’envoi de l’e-mail.</td>
   </tr>
 </tbody></table>
 

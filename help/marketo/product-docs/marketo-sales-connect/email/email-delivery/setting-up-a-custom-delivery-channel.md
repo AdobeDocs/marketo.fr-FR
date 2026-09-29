@@ -1,20 +1,19 @@
 ---
 unique-page-id: 14746470
 description: Découvrez comment configurer un canal de diffusion personnalisé dans Sales Connect. Utilisez votre propre SMTP ou votre propre infrastructure d’envoi pour les e-mails de vente.
-title: Configurationd’ un canal de remise personnalisé
+title: Configuration d’un canal de diffusion personnalisé
 exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/3AyKPoZ-rxPE-6cpQQ4flbL23aILwkVpmnMQAUjQLmI
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 404
+source-wordcount: '404'
 ht-degree: 4%
-
 ---
-
-# Configurationd’ un canal de remise personnalisé {#setting-up-a-custom-delivery-channel}
+# Configuration d’un canal de diffusion personnalisé {#setting-up-a-custom-delivery-channel}
 
 [!DNL Marketo Sales Connect] vous permet de l’intégrer à un serveur SMTP personnalisé pour la diffusion de vos e-mails. Il s’agit d’une excellente option pour ceux qui ne souhaitent pas envoyer d’e-mails en masse à partir de leur canal de diffusion Gmail ou [!DNL Exchange].
 

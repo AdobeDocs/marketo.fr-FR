@@ -1,25 +1,27 @@
 ---
 unique-page-id: 2359469
 description: Découvrez comment afficher le tableau de bord du programme de messagerie. Consultez les mesures de performances et l’état du programme en un coup d’œil.
-title: Afficher le tableau de bord du programme d’e-mail
+title: Afficher le tableau de bord du programme d’e-mail​
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
 TQID: https://experienceleague.adobe.com/XFLGP-fP49QTNHdurvS6vs-ZFJu8SUIw3oFyC46ojcc
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 233
+source-wordcount: '233'
 ht-degree: 6%
-
 ---
-
-# Afficher le tableau de bord du programme d’e-mail {#view-the-email-program-dashboard}
+# Afficher le tableau de bord du programme d’e-mail&#x200B; {#view-the-email-program-dashboard}
 
 Découvrez les performances de votre programme de messagerie (avec ou sans test A/B) avec ce tableau de bord.
 

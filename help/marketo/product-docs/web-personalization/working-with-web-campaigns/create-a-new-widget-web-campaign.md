@@ -1,25 +1,27 @@
 ---
 unique-page-id: 4719402
 description: Créez des campagnes web de widget qui s’affichent sous la forme de texte fixe ou de bannières sur le côté vertical des pages web avec les fonctionnalités de développement et de contrat. Personnalisez les paramètres de position, de couleur, d’animation et d’affichage.
-title: Créer une campagne web de widget
+title: Créer une nouvelle campagne web de type Widget
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
 TQID: https://experienceleague.adobe.com/N5fOUcDPWM9bxW225YElTMZi6qkoqNEoGHHW3QXj8dw
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 655
+source-wordcount: '655'
 ht-degree: 4%
-
 ---
-
-# Créer une campagne web de widget {#create-a-new-widget-web-campaign}
+# Créer une nouvelle campagne web de type Widget {#create-a-new-widget-web-campaign}
 
 Une campagne web est une réaction personnalisée associée à un segment spécifique et peut être une [boîte de dialogue](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) sur votre site web, un remplacement de zone [in](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), une fonctionnalité de widget ou une alerte par e-mail. La campagne web Widget est un texte ou une bannière qui s’affiche sur le côté vertical de votre page web avec la possibilité de se développer et de se contracter, tout en restant fixe sur la page web tout au long de la visite.
 
@@ -79,7 +81,7 @@ Une campagne web est une réaction personnalisée associée à un segment spéci
   </tr>
   <tr>
    <td colspan="1"><strong>Fixe</strong></td>
-   <td colspan="1">Cette sélection garantit que le widget apparaîtra sur toutes les pages web tout au long de la session du visiteur.</td>
+   <td colspan="1">En sélectionnant cette option, vous vous assurez que le widget apparaîtra sur toutes les pages web tout au long de la session du visiteur.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Réduire le widget sur l’affichage de la campagne</strong></td>
@@ -103,7 +105,7 @@ Une campagne web est une réaction personnalisée associée à un segment spéci
 
 >[!NOTE]
 >
->**Vous souhaitez tester vos campagnes web A/B ?** Une ou plusieurs campagnes web peuvent être testées [A/B pour obtenir des résultats optimaux](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Grâce à la fonctionnalité [!UICONTROL &#x200B; Réglage automatique &#x200B;], la plateforme reconnaît automatiquement les campagnes les plus performantes, continue avec les campagnes de conversion les plus performantes et met en pause les autres.
+>**Vous souhaitez tester vos campagnes web A/B ?** Une ou plusieurs campagnes web peuvent être testées [A/B pour obtenir des résultats optimaux](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Grâce à la fonctionnalité [!UICONTROL  Réglage automatique ], la plateforme reconnaît automatiquement les campagnes les plus performantes, continue avec les campagnes de conversion les plus performantes et met en pause les autres.
 
 ## Modification d’une campagne web {#edit-a-web-campaign}
 

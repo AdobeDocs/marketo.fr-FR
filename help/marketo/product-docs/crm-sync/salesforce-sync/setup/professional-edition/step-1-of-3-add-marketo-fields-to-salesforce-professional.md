@@ -7,13 +7,12 @@ feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/RUXVwNEVQ7kaqc5QZvAOErO5B--hgyGLhx3TzlJfI70
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 767
+source-wordcount: '767'
 ht-degree: 9%
-
 ---
-
 # Étape 1 sur 3 : Ajouter des champs Marketo à [!DNL Salesforce] (Professionnel) {#step-of-add-marketo-fields-to-salesforce-professional}
 
 >[!PREREQUISITES]
@@ -56,58 +55,58 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés pour
 
 1. Saisissez les [!UICONTROL Libellé du champ], [!UICONTROL Longueur] et [!UICONTROL Nom du champ] pour le champ, comme illustré dans le tableau ci-dessous.
 
-<table>
- <thead>
-  <tr>
-   <th>
-    <div>
-      Intitulé de champ
-    </div></th>
-   <th>
-    <div>
-      Nom du champ
-    </div></th>
-   <th>
-    <div>
-      Type de données
-    </div></th>
-   <th>
-    <div>
-      Attributs de champ
-    </div></th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <td>Score</td>
-   <td>mkto71_Lead_Score</td>
-   <td>Nombre</td>
-   <td>Longueur 10<br>Décimales 0 </td>
-  </tr>
-  <tr>
-   <td>Date d’acquisition</td>
-   <td>mkto71_Acquisition_Date</td>
-   <td>Date/heure</td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td>Programme d’acquisition</td>
-   <td>mkto71_Acquisition_Program</td>
-   <td>Texte</td>
-   <td>Longueur 255</td>
-  </tr>
- </tbody>
-</table>
+   <table>
+   <thead>
+   <tr>
+      <th>
+      <div>
+         Intitulé de champ
+      </div></th>
+      <th>
+      <div>
+         Nom du champ
+      </div></th>
+      <th>
+      <div>
+         Type de données
+      </div></th>
+      <th>
+      <div>
+         Attributs de champ
+      </div></th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+      <td>Score</td>
+      <td>mkto71_Lead_Score</td>
+      <td>Nombre</td>
+      <td>Longueur 10<br>Décimales 0 </td>
+   </tr>
+   <tr>
+      <td>Date d’acquisition</td>
+      <td>mkto71_Acquisition_Date</td>
+      <td>Date/heure</td>
+      <td> </td>
+   </tr>
+   <tr>
+      <td>Programme d’acquisition</td>
+      <td>mkto71_Acquisition_Program</td>
+      <td>Texte</td>
+      <td>Longueur 255</td>
+   </tr>
+   </tbody>
+   </table>
 
->[!NOTE]
->
->[!DNL Salesforce] ajoute __c aux noms de champ lorsqu’il les utilise pour créer des noms d’API.
+   >[!NOTE]
+   >
+   >[!DNL Salesforce] ajoute __c aux noms de champ lorsqu’il les utilise pour créer des noms d’API.
 
-![](assets/image2016-5-26-14-3a55-3a33.png)
+   ![](assets/image2016-5-26-14-3a55-3a33.png)
 
->[!NOTE]
->
->Les champs de texte et de nombre nécessitent une longueur, mais pas les champs Date/Heure. Une description est facultative.
+   >[!NOTE]
+   >
+   >Les champs de texte et de nombre nécessitent une longueur, mais pas les champs Date/Heure. Une description est facultative.
 
 1. Cliquez sur **[!UICONTROL Suivant]**.
 
@@ -119,9 +118,9 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés pour
 
    * Désélectionnez la case **[!UICONTROL Lecture seule]** pour le profil de l’utilisateur de synchronisation :
 
-      * Si vous avez un utilisateur avec le profil d’un _Administrateur système_ en tant qu’utilisateur de synchronisation, désélectionnez la case **[!UICONTROL Lecture seule]** pour le profil Administrateur système (comme illustré ci-dessous)
+     * Si vous avez un utilisateur avec le profil d’un _Administrateur système_ en tant qu’utilisateur de synchronisation, désélectionnez la case **[!UICONTROL Lecture seule]** pour le profil Administrateur système (comme illustré ci-dessous)
 
-      * Si vous avez créé un _profil personnalisé_ pour l’utilisateur de synchronisation, décochez la case **[!UICONTROL Lecture seule]** pour ce profil personnalisé
+     * Si vous avez créé un _profil personnalisé_ pour l’utilisateur de synchronisation, décochez la case **[!UICONTROL Lecture seule]** pour ce profil personnalisé
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -206,7 +205,7 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés pour
    <td>Longueur 255</td>
   </tr>
   <tr>
-   <td>Indicatif téléphonique local déduit</td>
+   <td>Indicatif régional de téléphone déduit​</td>
    <td>mkto71_Inferred_Phone_Area_Code</td>
    <td>Texte</td>
    <td>Longueur 255</td>

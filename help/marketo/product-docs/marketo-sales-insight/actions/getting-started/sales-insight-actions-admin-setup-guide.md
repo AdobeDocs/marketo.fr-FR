@@ -6,17 +6,18 @@ feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/OSNakPU4zEu-ORacv80glsvfhIeC-XfwtAcvuE3Iacw
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 669
+source-wordcount: '669'
 ht-degree: 4%
-
 ---
-
-# Guide de configuration de l’administration pour Actions des informations sur les ventes {#sales-insight-actions-admin-setup-guide}
+# Guide de configuration administrateur pour Sales Insight Actions {#sales-insight-actions-admin-setup-guide}
 
 >[!NOTE]
 >
@@ -144,11 +145,11 @@ La synchronisation des champs d’unification des données pour les actions de S
 
    ![](assets/msi-actions-admin-guide-13.png)
 
-Les enregistrements de personne qui existent dans Marketo et [!DNL Salesforce] seront synchronisés avec votre compte Marketo Sales Apps.
+   Les enregistrements de personne qui existent dans Marketo et [!DNL Salesforce] seront synchronisés avec votre compte Marketo Sales Apps.
 
->[!NOTE]
->
->Pour en savoir plus sur la manière dont les données de personnes et d’activités se synchronisent entre les actions de Sales Insight, Marketo et Salesforce, [cliquez ici](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"}.
+   >[!NOTE]
+   >
+   >Pour en savoir plus sur la manière dont les données de personnes et d’activités se synchronisent entre les actions de Sales Insight, Marketo et Salesforce, [cliquez ici](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"}.
 
 ## Inviter des utilisateurs individuels à participer à des actions MSI {#invite-individual-users-to-msi-actions}
 

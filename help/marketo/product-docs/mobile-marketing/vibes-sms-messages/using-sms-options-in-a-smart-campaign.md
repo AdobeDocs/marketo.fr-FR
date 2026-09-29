@@ -6,20 +6,23 @@ exl-id: 199b7cae-86d2-42fe-8934-10aa780f4454
 TQID: https://experienceleague.adobe.com/wpXQpXx-Og5t9TJtlZnuXS2sgGkdDPYv7n5ehPSPHC4
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
 subfeature_v2:
   - id: ad89fb33-8541-4339-afe7-bb13d1633714
+    internal-label: Flow Step
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 420
+source-wordcount: '420'
 ht-degree: 7%
-
 ---
-
 # Utilisation des options SMS dans une campagne intelligente {#using-sms-options-in-a-smart-campaign}
 
 Après avoir [créé un SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, vous souhaiterez utiliser les déclencheurs et filtres de liste dynamique dans une campagne dynamique pour en tirer les avantages.
@@ -84,7 +87,7 @@ Vous avez le choix entre trois étapes de flux de SMS.
     <td>Cette action de flux lance le processus d’abonnement SMS par le biais d’une campagne d’acquisition Vibes sélectionnée par l’utilisateur. Vibes envoie alors un message de confirmation auquel le destinataire doit répondre par « Y » dans les 24 heures pour confirmer son opt-in. Une fois que l’utilisateur a choisi de s’inscrire, il devient membre de la liste d’abonnements Vibes associée.</td>
   </tr>
   <tr>
-    <td style="width:20%"><b>Se désabonner de la liste Vibes</b></td>
+    <td style="width:20%"><b>Se désinscrire de la liste Vibes</b></td>
     <td>Cette action de flux désabonne chaque personne d’une liste d’abonnements Vibes activée par l’utilisateur. Lorsqu’un utilisateur envoie un SMS « STOP » à votre code, son enregistrement de personne est mis à jour pour refléter le fait qu’il n’est plus membre de la liste d’abonnements Vibes.</td>
   </tr>
   </tbody>

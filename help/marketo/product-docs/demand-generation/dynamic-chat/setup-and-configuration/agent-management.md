@@ -6,17 +6,18 @@ exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
 TQID: https://experienceleague.adobe.com/WZgOsCc5-8oEKLPhj6ziYMIhrYKHxHjrqhLp73mirSU
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 362
-ht-degree: 3%
-
+source-wordcount: '362'
+ht-degree: 4%
 ---
-
 # Gestion des agentes et agents {#agent-management}
 
 Dans Gestion des agents, affichez une liste d’agents dans votre instance Dynamic Chat, gérez les équipes et définissez vos règles de secours.
@@ -87,13 +88,13 @@ Sélectionnez un message standard (système) ou écrivez-en un personnalisé pou
 
 ## Paramètres {#settings}
 
-### Limite du nombre de Live Chats simultanés {#concurrent-live-chat}
+### Limite de chats en direct simultanés {#concurrent-live-chat}
 
 Définissez le nombre de conversations actives simultanées qu’un agent peut prendre à la fois. Peut être compris entre 1 et 10.
 
 ![](assets/agent-management-10.png)
 
-### Limite de temps d’attente du visiteur {#visitor-wait-time}
+### Limite de temps d’attente du visiteur ou de la visiteuse {#visitor-wait-time}
 
 Contrôle la durée maximale pendant laquelle un visiteur attend (en secondes) pour être connecté à un agent en direct avant de recevoir un message de secours. Peut être défini entre 10 et 500 secondes.
 

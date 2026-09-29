@@ -7,13 +7,12 @@ feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/wL4DvH6WwopQbqXlYcvSQJLPYyJbnmDENqvb7qCJo8w
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 340
+source-wordcount: '340'
 ht-degree: 2%
-
 ---
-
 # Ajouter à la campagne marketing {#add-to-marketing-campaign}
 
 >[!PREREQUISITES]
@@ -52,11 +51,11 @@ PICC
 
 1. Cliquez sur la liste déroulante Espaces de travail et sélectionnez l’espace de travail contenant la campagne à laquelle vous souhaitez ajouter le groupe.
 
-PICC
+   PICC
 
->[!NOTE]
->
->Si vous ne voyez pas l’espace de travail souhaité, assurez-vous que votre administrateur l’a configuré via votre page Marketo [!UICONTROL Accès de l’équipe].
+   >[!NOTE]
+   >
+   >Si vous ne voyez pas l’espace de travail souhaité, assurez-vous que votre administrateur l’a configuré via votre page Marketo [!UICONTROL Accès de l’équipe].
 
 1. Sélectionnez la campagne souhaitée et cliquez sur **[!UICONTROL Suivant]**.
 
@@ -86,19 +85,19 @@ PICC
 
 1. Sélectionnez **[!UICONTROL Campagne marketing]**.
 
-PICC
+   PICC
 
->[!NOTE]
->
->Pour ajouter une personne à une campagne Marketo à partir de [!DNL Sales Connect], [!DNL Sales Connect] devez disposer de son ID de prospect Marketo.
+   >[!NOTE]
+   >
+   >Pour ajouter une personne à une campagne Marketo à partir de [!DNL Sales Connect], [!DNL Sales Connect] devez disposer de son ID de prospect Marketo.
 
 1. Cliquez sur la liste déroulante Espaces de travail et sélectionnez l’espace de travail contenant la campagne à laquelle vous souhaitez ajouter le groupe.
 
-PICC
+   PICC
 
->[!NOTE]
->
->Si vous ne voyez pas l’espace de travail souhaité, assurez-vous que votre administrateur l’a configuré via votre page d’accès de l’équipe Marketo.
+   >[!NOTE]
+   >
+   >Si vous ne voyez pas l’espace de travail souhaité, assurez-vous que votre administrateur l’a configuré via votre page d’accès de l’équipe Marketo.
 
 1. Sélectionnez la campagne souhaitée et cliquez sur **[!UICONTROL Suivant]**.
 
