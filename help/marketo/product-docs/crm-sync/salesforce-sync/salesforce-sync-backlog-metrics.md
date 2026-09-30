@@ -17,9 +17,9 @@ feature_v2:
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: 7480399d10794264471d53430c733147060664e0
 workflow-type: tm+mt
-source-wordcount: '1155'
+source-wordcount: '1153'
 ht-degree: 1%
 ---
 # Mesures de la liste d’attente de synchronisation Salesforce&#x200B;  {#salesforce-sync-backlog-metrics}
@@ -32,7 +32,7 @@ La liste d’attente de synchronisation est le nom utilisé pour les enregistrem
 
    ![](assets/salesforce-sync-backlog-metrics-1.png)
 
-1. Sélectionnez **&#x200B;**.
+1. Sélectionnez ****.
 
    ![](assets/salesforce-sync-backlog-metrics-2.png)
 
@@ -103,17 +103,17 @@ Lorsqu’un grand nombre de mises à jour sont effectuées (par exemple à parti
 
 ## Bonnes pratiques de gestion des retards de synchronisation {#best-practices}
 
-**Champs visibles pour l’utilisateur de la synchronisation** : assurez-vous que les champs visibles à synchroniser sont uniquement ceux qui doivent être synchronisés et ont une valeur pour les efforts marketing. Toute mise à jour d’un enregistrement dans Salesforce qui met à jour la date et l’heure de la dernière modification met un enregistrement en file d’attente dans la liste d’attente de synchronisation. De plus, la synchronisation des champs inutiles peut ralentir les champs plus importants sous synchronisation. Si les champs inutiles sont masqués à l’utilisateur de la synchronisation, les mises à jour de ces champs entraîneront une omission beaucoup plus rapide qu’une mise à jour. Contactez votre administrateur Salesforce pour passer en revue les bonnes pratiques [ici](https://nation.marketo.com/t5/marketo-whisperer-blogs/best-practices-for-determining-which-fields-to-sync-with-marketo/ba-p/247449){target="_blank"} et mettre à jour les champs visibles par l’utilisateur de synchronisation Marketo.
+**Champs visibles pour l’utilisateur de la synchronisation** : assurez-vous que les champs visibles à synchroniser sont uniquement ceux qui doivent être synchronisés et ont une valeur pour les efforts marketing. Toute mise à jour d’un enregistrement dans Salesforce qui met à jour la date et l’heure de la dernière modification met un enregistrement en file d’attente dans la liste d’attente de synchronisation. De plus, la synchronisation des champs inutiles peut ralentir les champs plus importants sous synchronisation. Si les champs inutiles sont masqués à l’utilisateur de la synchronisation, les mises à jour de ces champs entraîneront une omission beaucoup plus rapide qu’une mise à jour. Contactez votre administrateur Salesforce pour [consulter les bonnes pratiques](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/best-practices-for-determining-which-fields-to-sync-with-marketo-161224){target="_blank"} et mettre à jour les champs visibles par l’utilisateur de synchronisation Marketo.
 
-**Masquer ou filtrer les enregistrements inutiles** : si un enregistrement n’est pas commercialisable, cela peut entraîner une perte de ressources de synchronisation. Si l’utilisateur ou l’utilisatrice de la synchronisation ne peut pas le voir, il ne gaspillera pas de ressources à essayer de le synchroniser. La prise en charge de [&#128279;](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"} peut vous aider à configurer un filtre de synchronisation pour empêcher la synchronisation des enregistrements en fonction de critères supplémentaires. Vous trouverez plus d’informations sur la configuration d’un filtre de synchronisation personnalisé [ici](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}. Il est vivement recommandé d’utiliser les champs d’index dans Salesforce (contactez Salesforce pour plus d’informations).
+**Masquer ou filtrer les enregistrements inutiles** : si un enregistrement n’est pas commercialisable, cela peut entraîner une perte de ressources de synchronisation. Si l’utilisateur ou l’utilisatrice de la synchronisation ne peut pas le voir, il ne gaspillera pas de ressources à essayer de le synchroniser. La prise en charge de [](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"} peut vous aider à configurer un filtre de synchronisation pour empêcher la synchronisation des enregistrements en fonction de critères supplémentaires. Vous trouverez plus d’informations sur la configuration d’un filtre de synchronisation personnalisé [ici](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}. Il est vivement recommandé d’utiliser les champs d’index dans Salesforce (contactez Salesforce pour plus d’informations).
 
 **Planifier des mises à jour en bloc pendant les heures non critiques** : passez en revue vos modèles de synchronisation des données pour identifier les périodes non critiques. Vérifiez si des mises à jour en bloc peuvent être planifiées au cours de ces périodes non critiques, si possible.
 
 **Champs fréquemment mis à jour** : certains champs sont sujets à de fréquentes mises à jour. Par exemple, les champs de devise qui font l’objet de modifications de devise. Vérifiez si ces champs doivent être synchronisés ou s’ils doivent être conçus différemment. Si d’autres champs sont mis à jour fréquemment et ne sont pas nécessaires, masquez-les à l’utilisateur ou à l’utilisatrice de synchronisation. Discutez avec votre administrateur SFDC des intégrations qui peuvent mettre à jour les champs.
 
-**Objets personnalisés** : vérifiez régulièrement [objets personnalisés](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} activés pour synchroniser et désactiver ceux qui n’ont plus besoin d’être synchronisés.
+**Objets personnalisés** : vérifiez régulièrement [objets personnalisés](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} activés pour synchroniser et désactiver ceux qui n’ont plus besoin d’être synchronisés.
 
-**Activités** : [vérifiez si la synchronisation activée pour les activités](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} peut être supprimée de la synchronisation.  Ces activités ne se synchronisent qu’une seule fois par jour par prospect.
+**Activités** : [vérifiez si la synchronisation activée pour les activités](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} peut être supprimée de la synchronisation.  Ces activités ne se synchronisent qu’une seule fois par jour par prospect.
 
 **Vérifier les erreurs de synchronisation** : la gestion des exceptions peut ralentir la synchronisation. La révision des notifications utilisateur et la résolution des erreurs peuvent améliorer l’intégrité de la synchronisation.
 

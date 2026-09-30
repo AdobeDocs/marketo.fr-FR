@@ -19,7 +19,7 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 3b41a127ca8ff73849ccf27b1fe903169f464a02
+source-git-commit: 7480399d10794264471d53430c733147060664e0
 workflow-type: tm+mt
 source-wordcount: '1703'
 ht-degree: 84%
@@ -69,7 +69,7 @@ La première partie est le CNAME de suivi de l’e-mail, `[EmailTrackingCNAME]`.
 
 >[!CAUTION]
 >
->Les CNAME d’e-mail et de page de destination doivent être différents. Évitez également les CNAME tels que « suivi » ou « lien ». Il est souvent marqué comme spam
+>Les CNAME d’e-mail et de page de destination doivent être différents. Évitez également les CNAME tels que « suivi » ou « lien ». Il est souvent marqué comme spam.
 
 Pour trouver votre lien de suivi Marketo, accédez à la zone **[!UICONTROL Admin]**.
 

@@ -12,7 +12,7 @@ topic_v2:
     internal-label: Accessibility
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: 7480399d10794264471d53430c733147060664e0
 workflow-type: tm+mt
 source-wordcount: '636'
 ht-degree: 6%
@@ -117,11 +117,11 @@ La procédure suivante permet à l’utilisateur de la synchronisation Marketo d
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-13.png)
 
-1. Dans la section [!UICONTROL &#x200B; Autorisations d’objet standard &#x200B;], assurez-vous que les autorisations [!UICONTROL Lecture], [!UICONTROL Créer], [!UICONTROL Modifier] et [!UICONTROL Supprimer] sont cochées pour [!UICONTROL Comptes] et [!UICONTROL Contacts].
+1. Dans la section [!UICONTROL  Autorisations d’objet standard ], assurez-vous que les autorisations [!UICONTROL Lecture], [!UICONTROL Créer], [!UICONTROL Modifier] et [!UICONTROL Supprimer] sont cochées pour [!UICONTROL Comptes] et [!UICONTROL Contacts].
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-14.png)
 
-1. Sous la section [!UICONTROL &#x200B; Autorisations d’objet personnalisé &#x200B;], assurez-vous que les autorisations [!UICONTROL Lecture] sont vérifiées pour [!UICONTROL Appel], [!UICONTROL Message de clé d’appel] et tout autre objet personnalisé souhaité.
+1. Sous la section [!UICONTROL  Autorisations d’objet personnalisé ], assurez-vous que les autorisations [!UICONTROL Lecture] sont vérifiées pour [!UICONTROL Appel], [!UICONTROL Message de clé d’appel] et tout autre objet personnalisé souhaité.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-15.png)
 
@@ -149,7 +149,7 @@ La procédure suivante permet à l’utilisateur de la synchronisation Marketo d
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-18.png)
 
-   Recherchez les champs inutiles et assurez-vous que les options [!UICONTROL Accès en lecture] et [!UICONTROL Accès en modification] sont **décochées** cochées. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé.
+1. Recherchez les champs inutiles et assurez-vous que les options [!UICONTROL Accès en lecture] et [!UICONTROL Accès en modification] sont **décochées** cochées. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
 
