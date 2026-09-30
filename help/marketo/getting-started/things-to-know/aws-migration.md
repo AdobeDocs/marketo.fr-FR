@@ -3,9 +3,9 @@ description: Migration AWS - Documents Marketo Engage - Documentation du produit
 title: Migration d’AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 0a3368703167c231464884c85a472b10e6a14fd8
+source-git-commit: 1f7f306e387ec0baa6fb452313d76a4fdcb83680
 workflow-type: tm+mt
-source-wordcount: '1011'
+source-wordcount: '1013'
 ht-degree: 5%
 ---
 # Migration d’AWS {#aws-migration}
@@ -41,7 +41,7 @@ Les impacts ci-dessous ne nécessitent aucune action de votre part.
 
 >[!IMPORTANT]
 >
->Si vous utilisez [formulaires externes](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} et souhaitez éviter de perdre les données d’envoi de formulaire collectées alors que Marketo Engage n’est pas disponible pendant votre période de migration, contactez [l’assistance Adobe](https://experienceleague.adobe.com/fr/support){target="_blank"} **au moins deux jours ouvrables** à l’avance et fournissez l’ID de formulaire et l’ID de Munchkin de votre abonnement.
+>Si vous utilisez [formulaires externes](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} et souhaitez éviter de perdre les données d’envoi de formulaire collectées alors que Marketo Engage n’est pas disponible pendant votre période de migration, contactez [l’assistance Adobe](https://experienceleague.adobe.com/en/support){target="_blank"} **au moins deux jours ouvrables** à l’avance et fournissez l’ID de formulaire et l’ID de Munchkin de votre abonnement.
 
 ## Identifier votre datacenter/pod {#identify}
 
@@ -242,12 +242,9 @@ Si, pour une raison quelconque, une migration échoue, vous en serez informé et
   </tr>
    <tr>
    <td>1er octobre 2026</td>
-   <td><i>AB15</i><br>
-   AB16</td>
-   <td>17 <i> PDT</i><br>
-   18 h (HAP)</td>
-   <td><i>Reporté (date à déterminer)</i><br>
-   Prévu</td>
+   <td>AB16</td>
+   <td>18 h (HAP)</td>
+   <td>Prévu</td>
   </tr>
   <tr>
    <td>9 Octobre 2026</td>
@@ -291,6 +288,12 @@ Si, pour une raison quelconque, une migration échoue, vous en serez informé et
    <td>Prévu<br>
    Selon le calendrier</td>
   </tr>
+  <tr>
+   <td>28 Octobre 2026</td>
+   <td>AB15</td>
+   <td>17 h (HAP)</td>
+   <td>Prévu</td>
+  </tr>
   </body>
 </table>
 
@@ -323,9 +326,9 @@ En fonction de votre centre de données, collaborez avec votre service informati
 
 Pour obtenir les dernières informations, mettez un signet sur cette page.
 
-Pour les mises à jour de statut, vous pouvez vous [abonner pour les recevoir](https://experienceleague.adobe.com/fr/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} au début et à la fin de la migration. Vous pouvez également consulter [status.adobe.com](https://status.adobe.com/fr){target="_blank"} pendant la période de migration.
+Pour les mises à jour de statut, vous pouvez vous [abonner pour les recevoir](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} au début et à la fin de la migration. Vous pouvez également consulter [status.adobe.com](https://status.adobe.com/fr){target="_blank"} pendant la période de migration.
 
-Pour toute question, contactez l’assistance Adobe via le portail d’assistance d’Admin Console ou [Experience League](https://experienceleague.adobe.com/fr/support){target="_blank"}.
+Pour toute question, contactez l’assistance Adobe via le portail d’assistance d’Admin Console ou [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
 
 ## Questions fréquentes {#faq}
 
