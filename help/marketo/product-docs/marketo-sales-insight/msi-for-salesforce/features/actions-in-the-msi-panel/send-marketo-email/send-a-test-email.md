@@ -6,15 +6,15 @@ feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/SqRcW7-vBInte7Qbxdt-C6acYyqyA0KrBLY4TidCabQ
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 170
+source-wordcount: '170'
 ht-degree: 4%
-
 ---
-
 # Envoyer un e-mail de test {#send-a-test-email}
 
 Avant d’envoyer un e-mail, vous pouvez tester le format et les jetons de l’e-mail en vous envoyant un e-mail de test à n’importe quelle adresse e-mail.
@@ -39,4 +39,4 @@ Vous recevrez un e-mail avec des valeurs de jeton renseignées pour les prospect
 
 >[!NOTE]
 >
->Ne vous inquiétez pas, vous resterez sur la page « [!UICONTROL &#x200B; Envoyer un e-mail Marketo &#x200B;] » même après l’envoi de l’e-mail de test, vous ne perdrez donc pas l’e-mail que vous avez créé.
+>Ne vous inquiétez pas, vous resterez sur la page « [!UICONTROL &#x200B; Envoyer un e-mail Marketo &#x200B;] » même après l’envoi de l’e-mail de test, afin de ne pas perdre l’e-mail que vous avez créé.

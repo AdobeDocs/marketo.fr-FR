@@ -6,23 +6,27 @@ exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
 TQID: https://experienceleague.adobe.com/5qqiLY7-0rQiixzz0cgP7rjp8wqwHePgr4vOakFA6Ew
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Dynamic Chat
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 627
+source-wordcount: '627'
 ht-degree: 74%
-
 ---
-
 # Vue d’ensemble de [!DNL Dynamic Chat] {#dynamic-chat-overview}
 
-Dynamic Chat vous permet de tirer parti d’une interface intuitive pour cibler les personnes et les comptes qui visitent votre site web. Collectez le contenu pertinent, tel que le nom, les coordonnées et le texte libre. Les visiteurs et visiteuses du site peuvent également discuter avec un agent ou une agente en direct et même planifier des réunions avec votre équipe des ventes. Les données d’activité et d’engagement de Dynamic Chat peuvent être utilisées pour ajouter des personnes membres aux programmes Marketo et déclencher des activités cross-canal.
+Dynamic Chat vous permet de tirer parti d’une interface intuitive pour cibler les personnes et les comptes qui visitent votre site web. Collectez le contenu pertinent, tel que le nom, les coordonnées et le texte libre. Les visiteurs de site peuvent également discuter avec un agent en direct et même réserver des réunions avec votre équipe commerciale. Les données d’activité et d’engagement de Dynamic Chat peuvent être utilisées pour ajouter des membres aux programmes Marketo et déclencher des activités cross-canal.
 
 >[!TIP]
 >
@@ -40,7 +44,7 @@ Les éléments suivants sont synchronisés :
 
 ## Boîtes de dialogue {#dialogues}
 
-Les boîtes de dialogue représentent un engagement de conversation unique. Considérez-les comme un conteneur avec tout ce dont vous avez besoin pour avoir un échange enrichissant avec les visiteurs et visiteuses de votre site web. Dans chaque boîte de dialogue, vous pouvez spécifier la ou les pages sur lesquelles vous souhaitez que la boîte de dialogue apparaisse, pour qui vous souhaitez qu’elle apparaisse, ainsi que le contenu et le flux de la boîte de dialogue elle-même. De plus, vous pouvez trouver des mesures pour évaluer les performances de votre boîte de dialogue. [En savoir plus sur les boîtes de dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/dialogue-overview.md){target="_blank"}.
+Les dialogues représentent un engagement de conversation unique. Considérez-les comme un conteneur avec tout ce dont vous avez besoin pour avoir un échange enrichissant avec les visiteurs et visiteuses de votre site web. Pour chaque dialogue, vous pouvez définir la ou les pages sur lesquelles il doit apparaître, les visiteurs auxquels il doit être présenté, ainsi que son contenu et son flux. De plus, vous pouvez consulter des mesures pour évaluer les performances de votre dialogue. [En savoir plus sur les boîtes de dialogue](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/dialogue-overview.md){target="_blank"}.
 
 ## Configuration {#configuration}
 
@@ -104,7 +108,7 @@ Vous trouverez ci-dessous quelques-unes des limites/paramètres de Dynamic Chat.
   <th>Type de données</th>
   <th>Période de conservation</th>
  <tr>
-  <td>Prospect anonyme sans engagement</td>
+  <td>Lead anonyme sans engagement</td>
   <td>90 jours</td>
  </tr>
  <tr>

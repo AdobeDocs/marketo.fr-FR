@@ -7,22 +7,27 @@ feature: Email Editor
 TQID: https://experienceleague.adobe.com/TIBs0w7HaCEdQfctJj7L48APmhsSp22DfNdqGDN0RmM
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
 subfeature_v2:
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 759
-ht-degree: 3%
-
+source-wordcount: '1000'
+ht-degree: 26%
 ---
-
 # Utilisation de l’éditeur de texte enrichi {#using-the-rich-text-editor}
 
 L’éditeur de texte enrichi (RTE) s’affiche dans Marketo et est disponible lorsque vous souhaitez ajouter ou modifier du contenu. Une version s’affiche sur les pages de destination, les programmes, les e-mails, les formulaires et les fragments de code. Il vous suffit de cliquer sur **[!UICONTROL Modifier le brouillon]** pour qu’il s’affiche.

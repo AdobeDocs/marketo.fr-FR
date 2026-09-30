@@ -1,25 +1,28 @@
 ---
 description: Découvrez les mesures de la liste d’attente de synchronisation de Salesforce et comment surveiller les enregistrements en attente de synchronisation. Affichez la tendance et le débit de la liste d’attente par type d’objet dans Admin et Salesforce.
-title: Mesures de la liste d’attente de synchronisation Salesforce
+title: Mesures de la liste d’attente de synchronisation Salesforce​
 feature: Reporting
 exl-id: 6b58eb50-ff0d-4774-a232-3ae929948e2a
 TQID: https://experienceleague.adobe.com/RSYhWjNNh7gQiyEw1ImnHr6q23UpaVWhBll6aziHkJk
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 1155
+source-wordcount: '1155'
 ht-degree: 1%
-
 ---
-
-# Mesures de la liste d’attente de synchronisation Salesforce  {#salesforce-sync-backlog-metrics}
+# Mesures de la liste d’attente de synchronisation Salesforce&#x200B;  {#salesforce-sync-backlog-metrics}
 
 La liste d’attente de synchronisation est le nom utilisé pour les enregistrements en attente de synchronisation. Il prend en compte les enregistrements en attente de synchronisation de Salesforce vers Marketo Engage, et vice versa. Veiller à ce que la liste d’attente reste contrôlée permettra des synchronisations fluides et temporelles. La liste d’attente couvre les nombres de mises à jour de post-synchronisation en attente d’un côté ou de l’autre, et non ceux entrepris par des étapes de flux de synchronisation telles que les étapes de flux Synchroniser le lead avec SFDC .
 
@@ -89,7 +92,8 @@ Les statistiques reflètent le débit et le statut de la liste d’attente pour 
     <td>Statut de la liste d’attente</td>
     <td>Indique si la liste d’attente a augmenté au cours des 6 dernières heures. Il est considéré comme « croissant » si l’arriéré actuel est supérieur à l’arriéré enregistré il y a 6 heures. Dans le cas contraire, il s’affiche comme « Normal ». L’objectif est d’indiquer si le débit de synchronisation rattrape la liste d’attente.</td>
   </tr>
-</tbody></table>
+</tbody>
+</table>
 
 ## Causes des retards de synchronisation {#what-causes-sync-backlogs}
 

@@ -7,20 +7,23 @@ exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
 TQID: https://experienceleague.adobe.com/RkW-U6fZa-sLIdAWdbLET8S2f8yEFYaELRktRXCrCho
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
 subfeature_v2:
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: 3b41a127ca8ff73849ccf27b1fe903169f464a02
 workflow-type: tm+mt
-source-wordcount: 1705
-ht-degree: 85%
-
+source-wordcount: '1703'
+ht-degree: 84%
 ---
-
 # Étapes de configuration {#setup-steps}
 
 **Bienvenue dans Adobe Marketo Engage.**
@@ -48,10 +51,10 @@ Certaines étapes nécessitent l’aide de votre équipe informatique.
 
 Vous pouvez prendre plusieurs mesures pour vous assurer que les e-mails atteignent le plus grand nombre possible de personnes.
 
-* **Appliquez votre image de marque à vos liens de suivi**. Vous pouvez choisir un CNAME pour utiliser votre propre domaine (au lieu de celui de Marketo) dans les liens que vous incluez dans les e-mails provenant de Marketo. Cela renforce l’image de marque de votre domaine et accroît la confiance et la délivrabilité pour vos personnes destinataires.
+* **Appliquez votre image de marque à vos liens de suivi**. Vous pouvez choisir un CNAME pour utiliser votre propre domaine (au lieu de celui de Marketo) dans les liens que vous incluez dans les e-mails provenant de Marketo. Cela renforce l’image de marque de votre domaine et augmente la confiance ainsi que la délivrabilité auprès de vos destinataires.
 * **Ajoutez Marketo à la liste autorisée de votre messagerie professionnelle**. Il est recommandé d’envoyer des e-mails de test à vos comptes de test avant d’envoyer des e-mails à des personnes réelles. En ajoutant Marketo à votre liste autorisée, vous pouvez empêcher le blocage de ces e-mails de test ou leur désignation en tant que spam.
 * **Configurez SPF et DKIM**. Ces technologies garantissent à vos personnes destinataires que vos e-mails Marketo ne sont pas du spam. Pour empêcher les filtres de spam des personnes destinataires de rejeter vos e-mails Marketo, procédez comme suit pour [configurer un SPF et un DKIM pour la délivrabilité de vos e-mails](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
-* **Configurer un enregistrement MX pour votre domaine.** Un enregistrement MX vous permet de recevoir des e-mails du domaine depuis lequel vous envoyez des e-mails afin de traiter les réponses et les répondeurs automatiques. Si vous effectuez un envoi à partir de votre domaine d’entreprise, il est probable que vous ayez déjà configuré ce paramètre. Si ce n’est pas le cas, vous pouvez généralement le configurer pour qu’il soit mappé à votre enregistrement MX de domaine d’entreprise.
+* **Configurer un enregistrement MX pour votre domaine.** Un enregistrement MX vous permet de recevoir des e-mails du domaine depuis lequel vous envoyez des e-mails afin de traiter les réponses et les répondeurs automatiques. Si vous effectuez un envoi à partir de votre domaine d’entreprise, il est probable que vous ayez déjà configuré ce paramètre. Si ce n’est pas le cas, vous pouvez généralement le configurer de manière à ce qu’il pointe vers l’enregistrement MX de votre domaine d’entreprise.
 * **Paramètres recommandés pour l’adresse d’expédition.** Vous devez utiliser un domaine d’e-mail valide, existant et fonctionnel dans l’adresse d’expédition dans toutes les campagnes par e-mail. Il peut s’avérer bénéfique de configurer un sous-domaine de votre domaine d’entreprise plutôt que d’effectuer des envois à partir de votre domaine d’entreprise. Vous aurez ainsi la garantie que les problèmes de votre flux de messagerie d’entreprise n’auront pas d’impact sur votre flux de messagerie Marketo et vice versa. De plus, l’envoi d’e-mails à partir de `something@nonexistentdomain.com` entraîne le filtrage ou le blocage des e-mails. Tout domaine utilisé dans l’adresse d’expédition de l’expéditeur ou de l’expéditrice doit disposer d’un compte postmaster@ et abuse@ valide et fonctionnel.
 
 Si vous utilisez des applications Google pour héberger les e-mails de votre entreprise, vous ne pourrez pas créer d&#39;e-mails « abus » ou « maître de poste » sous votre domaine. Pour contourner ce problème, vous devez créer des groupes nommés « abuse » et « postmaster ». Les utilisateurs et utilisatrices qui sont membres de ces groupes recevront des e-mails envoyés à ces adresses (par exemple, <postmaster@domain.com>). Vous trouverez des instructions détaillées sur la création de groupes [ici](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}.
@@ -86,7 +89,7 @@ Voici votre `[MktoTrackingLink]`. Enregistrez-le. Vous devrez le communiquer au 
 
 Récupérez les domaines « From ». Créez une liste de tous les domaines « From » (par exemple, `[Sender]@[FromDomain].com`) que vous prévoyez d’utiliser pour envoyer des e-mails à partir de Marketo. Pour la plupart, il n’y en a qu’un.
 
-Par exemple, « marketo.com », « info.marketo.com ». Il s’agit de `[FromDomain1]`,`[FromDomain2]`, etc. Enregistrez-les. Vous devrez les communiquer au service informatique à l’étape 5.
+Par exemple, « marketo.com », « info.marketo.com ». Il s’agit de `[FromDomain1]`,`[FromDomain2]`, etc. Enregistrez-les. Vous devrez les communiquer à l’équipe informatique à l’étape 5.
 
 Vous disposez maintenant de toutes les informations nécessaires pour envoyer votre demande au service informatique.
 
@@ -94,7 +97,7 @@ Vous disposez maintenant de toutes les informations nécessaires pour envoyer vo
 
 >[!NOTE]
 >
->Êtes-vous client ou cliente d’un pack de lancement ? Vous pouvez ignorer cette étape. Votre consultant ou votre consultante vous fournira un document d’instructions de configuration informatique lors de votre appel de lancement.
+>Êtes-vous client ou cliente Launch Pack ? Vous pouvez ignorer cette étape. Votre consultant vous fournira un document d’instructions pour la configuration informatique lors de votre appel de lancement de projet.
 
 >[!NOTE]
 >
@@ -102,9 +105,9 @@ Vous disposez maintenant de toutes les informations nécessaires pour envoyer vo
 
 Choisissez un CNAME pour vos pages de destination. Voici quelques exemples :
 
-    * **go**.[CompanyDomain].com
-    * **www2**.[CompanyDomain].com
-    * **lp**.[CompanyDomain].com
+* **go**.[CompanyDomain].com
+* **www2**.[CompanyDomain].com
+* **lp**.[CompanyDomain].com
 
 >[!TIP]
 >
@@ -148,7 +151,7 @@ Collez ce texte dans l’e-mail et remplacez les espaces réservés en gras :
 
 Chère équipe d’administration informatique,
 
-Notre équipe marketing utilise désormais la plateforme Marketo pour communiquer avec nos équipes. Pour garantir une délivrabilité optimale des e-mails, nous devons effectuer les modifications suivantes :
+Notre équipe marketing utilise désormais la plateforme Marketo pour communiquer avec nos collaborateurs. Pour garantir une excellente délivrabilité des e-mails, nous devons effectuer les modifications suivantes :
 
 `1)` Pour nos landing pages, ajoutez une entrée DNS (CNAME) pour **[LandingPageCNAME]**.**[CompanyDomain]**.com, pointant vers **[Munchkin ID]**.mktoweb.com.
 
@@ -156,26 +159,26 @@ Notre équipe marketing utilise désormais la plateforme Marketo pour communique
 
 `3)` Ajoutez Marketo à votre liste autorisée.
 
-    * Si nous utilisons des adresses IP dans notre liste autorisée d’e-mails, ajoutez les adresses IP répertoriées ci-dessous :
-    199.15.212.0/22
-    
-    192.28.144.0/20
-    
-    192.28.160.0/19
-    
-    185.28.196.0/22
-    
-    130.248.172.0/24
-    
-    130.248.173.0/24
-    
-    94.236.119.0/26
+* Si nous utilisons des adresses IP dans notre Place sur la liste autorisée e-mail, ajoutez les adresses IP répertoriées ci-dessous :
+199.15.212.0/22
+
+192.28.144.0/20
+
+192.28.160.0/19
+
+185.28.196.0/22
+
+130.248.172.0/24
+
+130.248.173.0/24
+
+94.236.119.0/26
 
 >[!NOTE]
 >
 >Contactez l’assistance Adobe si vous souhaitez obtenir une liste abrégée d’adresses IP à placer sur la liste autorisée spécifique à votre environnement.
 
-    * Si notre système anti-spam utilise des domaines De, ajoutez les éléments suivants :
+* Si notre système anti-spam utilise des domaines d&#39;origine, ajoutez les éléments suivants :
 
 **`[FromDomain1]`**
 **`[FromDomain2]`**
@@ -187,13 +190,13 @@ Notre équipe marketing utilise désormais la plateforme Marketo pour communique
 IN TXT **[Depuis le domaine]** : v=spf1 mx ip4:**[IP d’entreprise]**
 <br/>include: mktomail.com ~all
 
-Si nous avons déjà un enregistrement SPF existant dans notre entrée DNS, ajoutez-y simplement ce qui suit :
+Si notre entrée DNS contient déjà un enregistrement SPF existant, ajoutez-y simplement ce qui suit :
 
 include:mktomail.com
 
 `[`Remplacez **From Domain** par votre adresse e-mail de domaine (entreprise.com, par exemple) et **CorpIP** par l’adresse IP du serveur de messagerie de votre entreprise (255.255.255.255, par exemple).  Si vous prévoyez d’envoyer des e-mails à partir de plusieurs domaines via Marketo, demandez à votre personnel informatique d’ajouter cette ligne pour chaque domaine (sur une seule ligne).`]`
 
-`b.` Pour DKIM, créez des enregistrements de ressources DNS pour chaque domaine que nous voulons configurer. Vous trouverez ci-dessous les enregistrements d’hôtes et les valeurs TXT pour chaque domaine soumis à une connexion :
+`b.` Pour DKIM, créez des enregistrements de ressources DNS pour chaque domaine que nous voulons configurer. Vous trouverez ci-dessous les enregistrements d’hôte et les valeurs TXT pour chacun des domaines que nous signerons :&#x200B;
 
 **`[DKIMDomain1]`** : l’enregistrement hôte est **`[HostRecord1]`** et la valeur TXT est **`[TXTValue1]`**.
 
@@ -201,7 +204,7 @@ include:mktomail.com
 
 `[`Copiez les éléments **HostRecord** et **TXTValue** pour chaque **DKIMDomain** que vous avez configuré après avoir suivi les [instructions ici](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). N’oubliez pas de vérifier chaque domaine dans **Admin > E-mail > DKIM** une fois que votre personnel informatique a terminé cette étape.`]`
 
-`5)` Nous devons nous assurer qu’il existe un enregistrement MX valide pour nos domaines FROM **`[FromDomain1]`**, **`[FromDomain2]`**, etc. Pouvez-vous confirmer ? Si ce n’est pas le cas, configurez pour mapper notre enregistrement MX de domaine d’entreprise. Nous pourrons ainsi traiter les réponses/répondeurs automatiques à nos publipostages Marketo.
+`5)` Nous devons nous assurer qu’il existe un enregistrement MX valide pour nos domaines FROM **`[FromDomain1]`**, **`[FromDomain2]`**, etc. Pouvez-vous confirmer ? Si ce n’est pas le cas, veuillez configurer le mappage vers l’enregistrement MX de notre domaine d’entreprise. Nous pourrons ainsi traiter les réponses/répondeurs automatiques à nos publipostages Marketo.
 
 Prévenez-moi lorsque vous avez terminé ces étapes, afin que je puisse terminer le processus de configuration avec Marketo.
 
@@ -215,7 +218,7 @@ Cordialement,
 
 Envoyez l’e-mail au service informatique. Nous comprenons que le service informatique puisse prendre un certain temps pour effectuer ces tâches. Vous pouvez passer à l’étape suivante, mais n’oubliez pas que vous devez revenir à cette étape pour terminer votre configuration de Marketo Engage.
 
-## Terminez votre configuration de Marketo une fois que l’équipe informatique aura terminé. {#complete-your-marketo-setup-after-it-finishes}
+## Finaliser votre configuration Marketo après l’intervention de l’équipe informatique {#complete-your-marketo-setup-after-it-finishes}
 
 Une fois que le service informatique a terminé ses tâches, procédez comme suit pour ajouter vos CNAME de page de destination et d’e-mail, ainsi que pour activer la signature DKIM.
 
@@ -247,7 +250,7 @@ Faites défiler jusqu’à [!UICONTROL Noms des domaines]. Sélectionnez votre d
 
 Dans le champ Domaine, saisissez votre domaine de suivi d’e-mail. Il doit se présenter comme suit :
 
-`[EmailTrackingCNAME].[CompanyDomain].com`. Cliquez sur **[!UICONTROL Enregistrer]**
+`[EmailTrackingCNAME].[CompanyDomain].com`. Cliquez sur **[!UICONTROL Enregistrer]**.
 
 ![](assets/setup-steps-13.png)
 
@@ -274,7 +277,7 @@ Marketo Engage dispose d’un JavaScript de suivi personnalisé ([!DNL Munchkin
 
 >[!NOTE]
 >
->Une certaine expérience avec HTML est requise pour ajouter le code de suivi.
+>Une certaine expérience du langage HTML est requise pour ajouter le code de suivi.
 
 ## Attentes en matière de performances {#performance-expectations}
 

@@ -6,16 +6,17 @@ feature: Veeva CRM
 TQID: https://experienceleague.adobe.com/xBrDKmj-kFlbwaisJkDElcAI8GFlNp7EjWyISrvVJ3g
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+    internal-label: Accessibility
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 636
+source-wordcount: '636'
 ht-degree: 6%
-
 ---
-
 # Étape 2 sur 3 : création d’un utilisateur CRM [!DNL Veeva] pour Marketo Engage {#step-2-of-3-create-a-veeva-crm-user-for-marketo-engage}
 
 >[!NOTE]
@@ -86,7 +87,7 @@ La procédure suivante permet à l’utilisateur de la synchronisation Marketo d
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-7.png)
 
-1. Saisissez « profiles » dans la barre de recherche de navigation et cliquez sur le lien **[!UICONTROL Profils]**.
+1. Saisissez « profiles » dans la barre de recherche de navigation, puis cliquez sur le lien **[!UICONTROL Profils]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-8.png)
 
@@ -148,13 +149,13 @@ La procédure suivante permet à l’utilisateur de la synchronisation Marketo d
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-18.png)
 
-Recherchez les champs inutiles et assurez-vous que les options [!UICONTROL Accès en lecture] et [!UICONTROL Accès en modification] sont **décochées** cochées. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé.
+   Recherchez les champs inutiles et assurez-vous que les options [!UICONTROL Accès en lecture] et [!UICONTROL Accès en modification] sont **décochées** cochées. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé.
 
-![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
+   ![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
 
->[!NOTE]
->
->Ne modifiez que l’accessibilité des champs personnalisés.
+   >[!NOTE]
+   >
+   >Ne modifiez que l’accessibilité des champs personnalisés.
 
 1. Une fois que vous avez désactivé tous les champs inutiles, cochez [!UICONTROL Accès en lecture] et [!UICONTROL Accès en modification] pour les champs d’objet suivants. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé.
 

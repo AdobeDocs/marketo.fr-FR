@@ -7,15 +7,15 @@ feature: Smart Lists
 TQID: https://experienceleague.adobe.com/MbEBE0fLA0Idw-vJUgaw5x9qZNN3hMsv2zSP2vAEIng
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 73
+source-wordcount: '73'
 ht-degree: 10%
-
 ---
-
 # Créer une personne manuellement {#create-a-person-manually}
 
 Il existe de nombreuses façons d’intégrer une personne à Marketo Engage. Pour en créer un manuellement, procédez comme suit.
