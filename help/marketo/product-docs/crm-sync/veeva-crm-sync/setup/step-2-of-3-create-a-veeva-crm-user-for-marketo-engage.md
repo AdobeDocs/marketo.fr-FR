@@ -12,7 +12,7 @@ topic_v2:
     internal-label: Accessibility
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: 7480399d10794264471d53430c733147060664e0
 workflow-type: tm+mt
 source-wordcount: '636'
 ht-degree: 6%
@@ -149,7 +149,7 @@ La procédure suivante permet à l’utilisateur de la synchronisation Marketo d
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-18.png)
 
-   Recherchez les champs inutiles et assurez-vous que les options [!UICONTROL Accès en lecture] et [!UICONTROL Accès en modification] sont **décochées** cochées. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé.
+1. Recherchez les champs inutiles et assurez-vous que les options [!UICONTROL Accès en lecture] et [!UICONTROL Accès en modification] sont **décochées** cochées. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
 

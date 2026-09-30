@@ -7,13 +7,12 @@ feature: Target Account Management
 TQID: https://experienceleague.adobe.com/l%2D%2D%2D8i0ay7ON1YhQQyl9AItu-nvqlycAgeh9-Uu4l2c
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 source-git-commit: 0e20d3cd1d58a098d8419c4b10572fe85e672aa2
 workflow-type: tm+mt
-source-wordcount: 376
+source-wordcount: '376'
 ht-degree: 2%
-
 ---
-
 # [!UICONTROL Score du compte] {#account-score}
 
 La notation de compte est une partie essentielle de la [!UICONTROL gestion des comptes Target]. Cela vous aide à déterminer le niveau d’engagement de vos comptes.
@@ -49,7 +48,10 @@ Dans le monde complexe des processus d’achat B2B, il est rare qu’une seule p
 >
 >Pour calculer les scores du compte, vous devez d’abord créer les scores des prospects. Marketo TAM agrège automatiquement les scores de prospect aux scores de compte. Par exemple, nous allons prendre deux des exemples ci-dessus (_score de l’intérêt du produit du compte_ et _score de l’engagement sur le web du compte_).
 >
->Créez tout d’abord des champs de score de prospect qui capturent les détails pertinents de chaque prospect d’un compte cible.Attribuez ensuite ces scores de prospect à leurs scores de compte respectifs :Note d’intérêt du produit du compte = SOMME (note d’intérêt du produit du lead)Score de l’engagement web du compte = SUM (score de l’engagement web du lead)
+>Créez tout d’abord des champs de score de prospect qui capturent les détails pertinents de chaque prospect d’un compte cible.
+>Attribuez ensuite ces scores de prospect à leurs scores de compte respectifs :
+>Note d’intérêt du produit du compte = SOMME (note d’intérêt du produit du lead)
+>Score de l’engagement web du compte = SUM (score de l’engagement web du lead)
 
 >[!NOTE]
 >

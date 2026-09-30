@@ -8,7 +8,7 @@ TQID: https://experienceleague.adobe.com/RUXVwNEVQ7kaqc5QZvAOErO5B--hgyGLhx3TzlJ
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: 7480399d10794264471d53430c733147060664e0
 workflow-type: tm+mt
 source-wordcount: '767'
 ht-degree: 9%
@@ -98,15 +98,15 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés pour
    </tbody>
    </table>
 
-   >[!NOTE]
-   >
-   >[!DNL Salesforce] ajoute __c aux noms de champ lorsqu’il les utilise pour créer des noms d’API.
+>[!NOTE]
+>
+>[!DNL Salesforce] ajoute __c aux noms de champ lorsqu’il les utilise pour créer des noms d’API.
 
-   ![](assets/image2016-5-26-14-3a55-3a33.png)
+![](assets/image2016-5-26-14-3a55-3a33.png)
 
-   >[!NOTE]
-   >
-   >Les champs de texte et de nombre nécessitent une longueur, mais pas les champs Date/Heure. Une description est facultative.
+>[!NOTE]
+>
+>Les champs de texte et de nombre nécessitent une longueur, mais pas les champs Date/Heure. Une description est facultative.
 
 1. Cliquez sur **[!UICONTROL Suivant]**.
 
