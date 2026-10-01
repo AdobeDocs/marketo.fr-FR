@@ -7,21 +7,27 @@ feature: Reporting
 TQID: https://experienceleague.adobe.com/pMoHSEmaDbjOVpoVaUi1lvUHBYkyzOwkuF1n7mxpmY0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: a3bd8b47cc9c49d4b0c164219347d003441971c0
 workflow-type: tm+mt
-source-wordcount: 234
-ht-degree: 33%
-
+source-wordcount: '260'
+ht-degree: 30%
 ---
-
 # Rapport des performances des e-mails de campagne {#campaign-email-performance-report}
 
-Pour afficher les statistiques de performances des e-mails regroupées par [campagne intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md), exécutez un rapport Performances des e-mails de Campaign.
+Pour afficher les statistiques de performances des e-mails regroupées par [Campagne intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md), exécutez un rapport Performances des e-mails de Campaign.
+
+>[!NOTE]
+>
+>Un rapport de performances des e-mails de campagne ne peut être créé que comme ressource locale dans un programme d’activités marketing. Il n’est pas disponible dans la section Analytics.
 
 1. [Créez un rapport](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) puis sélectionnez le **[!UICONTROL Performances des emails de campagne]** [type de rapport](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
@@ -33,7 +39,7 @@ Pour afficher les statistiques de performances des e-mails regroupées par [camp
 
    >[!TIP]
    >
-   >Cliquez sur le nom d’un e-mail pour l’ouvrir dans le Prévisualiseur d’e-mail.
+   >Cliquez sur le nom d’un e-mail pour l’ouvrir dans l’aperçu des e-mails.
 
    [Les colonnes que vous pouvez sélectionner](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) pour un rapport Performances des e-mails de Campaign incluent :
 
@@ -52,4 +58,4 @@ Pour afficher les statistiques de performances des e-mails regroupées par [camp
    >[!MORELIKETHIS]
    >
    >* [Filtrer Assets dans un rapport de campagne par e-mail](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
-   >* [&#x200B; Rapport sur les performances des e-mails &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+   >* [ Rapport sur les performances des e-mails ](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
