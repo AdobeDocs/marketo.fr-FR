@@ -7,13 +7,12 @@ feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/alPa6YMG0tgo08ruZAZlWhujV54iVcUMAAejXJbEQFw
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: 18ccc13ddd9cfb998015bb581373a7ca7c064d59
+    internal-label: Marketo Engage
+source-git-commit: c8f30157ca645b020191f85a414cf66407b421bb
 workflow-type: tm+mt
-source-wordcount: 268
-ht-degree: 2%
-
+source-wordcount: '207'
+ht-degree: 3%
 ---
-
 # Synchronisation SFDC : fusion d’un lead/d’un contact/d’une personne {#sfdc-sync-merging-a-lead-contact-person}
 
 Parfois, il est préférable de simplement énumérer les règles. Et voilà :
@@ -30,10 +29,6 @@ Parfois, il est préférable de simplement énumérer les règles. Et voilà :
 * Les valeurs de champ en conflit proviennent de l’« enregistrement gagnant ». (Enregistrement = lead ou contact résultant)
 * Si l’« enregistrement perdu » (celui qui disparaît) avait une valeur et que l’enregistrement gagnant n’en a aucune (ou est nul), nous conserverons l’enregistrement perdu. En d’autres termes, « une certaine valeur est préférable à aucune valeur ».
 * Tous les éléments du journal d’activité sont fusionnés.
-
->[!NOTE]
->
->Le comportement des champs booléens dans une fusion d’API a changé dans la version de mars 2026. Désormais, une valeur False est traitée correctement comme ayant une valeur pour ce champ. Seule une valeur null est traitée comme « vide » lors de l’évaluation de champs en conflit. Voir [ce billet de la communauté](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=fr){target="_blank"} pour plus d’informations.
 
 >[!MORELIKETHIS]
 >
