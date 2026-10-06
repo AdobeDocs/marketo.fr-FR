@@ -1,34 +1,34 @@
 ---
-description: Utilisez Coworker for Marketo Engage pour créer un programme Marketo en adaptant un modèle existant. Préparez les campagnes intelligentes, la planification et les espaces réservés de ressources à examiner et à affiner.
+description: Utilisez CX Enterprise Coworker for Marketo Engage pour créer un programme Marketo en adaptant un modèle existant. Préparez les campagnes intelligentes, la planification et les espaces réservés de ressources à examiner et à affiner.
 title: Créer des programmes
-source-git-commit: fc1bcbdaa543e39127945852a6f89e69f2966c21
+source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
 workflow-type: tm+mt
-source-wordcount: '804'
+source-wordcount: '828'
 ht-degree: 0%
 ---
 # Créer des programmes {#build-programs}
 
-Décrivez une campagne marketing en langage simple et Coworker for Marketo Engage adapte un modèle de programme existant en fonction de vos besoins, en mettant automatiquement à jour le contenu des e-mails et en créant des ressources supplémentaires en dupliquant la structure de votre modèle.
+Décrivez une campagne marketing en langage clair et CX Enterprise Coworker for Marketo Engage adapte un modèle de programme existant en fonction de vos besoins, en mettant automatiquement à jour le contenu des e-mails et en créant des ressources supplémentaires en dupliquant la structure du modèle.
 
-Les [règles d’organisation](/help/marketo/product-docs/coworker-for-marketo/organizational-rules.md){target="_blank"} de votre entreprise guident la manière dont Coworker pour Marketo Engage structure et valide le programme lors de sa création. Ces règles garantissent que le nouveau programme s’aligne sur vos conventions de nommage, jetons requis, structure de dossiers et normes de conformité.
+Les [règles d’organisation](/help/marketo/product-docs/coworker-for-marketo/organizational-rules.md){target="_blank"} de votre entreprise guident la manière dont CX Enterprise Coworker for Marketo Engage structure et valide le programme lors de sa création. Ces règles garantissent que le nouveau programme s’aligne sur vos conventions de nommage, jetons requis, structure de dossiers et normes de conformité.
 
 >[!PREREQUISITES]
 >
->* Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [&#x200B; Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
+>* Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [ Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
 >
 >* Vous devez être autorisé à créer des programmes dans votre compte Marketo et disposer d’au moins un programme Marketo existant à utiliser comme modèle. Le programme modèle doit contenir au moins un e-mail et une campagne intelligente.
 
 ## Utilisation {#how-to-use}
 
-1. Dans Mon Marketo, cliquez sur la mosaïque **Collègue pour Marketo Engage**.
+1. Dans Mon Marketo, cliquez sur la mosaïque **CX Enterprise Coworker pour Marketo Engage**.
 
 1. Sélectionnez un modèle de programme. Choisissez un programme existant correspondant à votre type de campagne (par exemple, e-mail, webinaire, formation).
 
 1. Dans la fenêtre d’invite, saisissez une description de la campagne que vous souhaitez créer. Soyez aussi spécifique ou général que vous le souhaitez (vous pouvez toujours l’affiner).
 
-1. Coworker for Marketo Engage confirme son interprétation de votre mémoire et énumère ce qu&#39;il prévoit de créer. Examinez-le avant sa génération.
+1. CX Enterprise Coworker for Marketo Engage confirme son interprétation de votre mémoire et répertorie ce qu’il prévoit de créer. Examinez-le avant sa génération.
 
-1. Confirmez et Coworker for Marketo Engage crée le programme dans votre environnement.
+1. Confirmez et CX Enterprise Coworker for Marketo Engage crée le programme dans votre environnement.
 
 1. Ouvrez le programme que vous venez de créer dans Marketo et vérifiez sa structure.
 
@@ -40,13 +40,13 @@ Les [règles d’organisation](/help/marketo/product-docs/coworker-for-marketo/o
 
 ## Cas d’utilisation {#use-cases}
 
-**Programme d’enregistrement de webinaire** : un responsable de campagne tape « Créer un programme d’enregistrement de webinaire pour notre démonstration du produit d’août. Envoyez un e-mail d’invitation, un rappel la veille et un suivi avec le lien d’enregistrement par la suite. » Coworker for Marketo Engage crée un programme avec trois campagnes intelligentes (invitation, rappel, suivi), des e-mails d’espace réservé pour chacune d’elles et une planification basée sur la date de l’événement.
+**Programme d’enregistrement de webinaire** : un responsable de campagne tape « Créer un programme d’enregistrement de webinaire pour notre démonstration du produit d’août. Envoyez un e-mail d’invitation, un rappel la veille et un suivi avec le lien d’enregistrement par la suite. » CX Enterprise Coworker for Marketo Engage crée un programme avec trois campagnes intelligentes (invitation, rappel, suivi), des e-mails d’espace réservé pour chacune d’elles et une planification basée sur la date de l’événement.
 
-**Campagne de déclenchement de la notation du lead** : un spécialiste des opérations marketing tape « Créer un programme qui se déclenche lorsqu’un lead atteint une note de 50 et l’envoie à une liste dynamique MQL ». Coworker for Marketo Engage crée le programme avec une campagne de déclenchement qui écoute le changement de score et une étape de flux qui ajoute le prospect à la liste MQL.
+**Campagne de déclenchement de la notation du lead** : un spécialiste des opérations marketing tape « Créer un programme qui se déclenche lorsqu’un lead atteint une note de 50 et l’envoie à une liste dynamique MQL ». CX Enterprise Coworker for Marketo Engage crée le programme avec une campagne de déclenchement qui écoute le changement de score et une étape de flux qui ajoute le prospect à la liste MQL.
 
-**Culture de réengagement** : un responsable de la génération de la demande demande une série de 3 e-mails de réengagement ciblant les prospects qui ne se sont pas engagés depuis 90 jours. Coworker for Marketo Engage crée la campagne par lots avec le filtre d’inactivité, trois étapes d’envoi d’e-mails avec les étapes d’attente appropriées entre elles et une étape de flux pour mettre à jour le statut du prospect si quelqu’un se réengage.
+**Culture de réengagement** : un responsable de la génération de la demande demande une série de 3 e-mails de réengagement ciblant les prospects qui ne se sont pas engagés depuis 90 jours. CX Enterprise Coworker for Marketo Engage crée la campagne par lots avec le filtre d’inactivité, trois étapes d’envoi d’e-mails avec les étapes d’attente appropriées entre elles et une étape de flux pour mettre à jour le statut du prospect si quelqu’un se réengage.
 
-**Programme de suivi des événements** : après un salon professionnel, un responsable demande à Coworker for Marketo Engage de créer un programme de suivi post-événement qui envoie un e-mail de remerciement aux participants et un e-mail de remerciement aux inscrits qui ne se sont pas présentés. Coworker for Marketo Engage crée deux campagnes intelligentes, une pour chaque segment, avec les filtres et les espaces réservés d’e-mail appropriés.
+**Programme de suivi des événements** : à l’issue d’un salon, un responsable demande à CX Enterprise Coworker for Marketo Engage de créer un programme de suivi post-événement qui envoie un e-mail de remerciement aux participants et un e-mail de remerciement aux inscrits qui ne se sont pas présentés. CX Enterprise Coworker for Marketo Engage crée deux campagnes intelligentes, une pour chaque segment, avec les filtres et les espaces réservés d’e-mail appropriés.
 
 >[!NOTE]
 >
@@ -58,6 +58,6 @@ Les [règles d’organisation](/help/marketo/product-docs/coworker-for-marketo/o
 * La sélection du modèle est obligatoire. Choisissez un modèle avec au moins un e-mail et une campagne intelligente. L’outil ne peut pas fonctionner avec des modèles vides.
 * Le contenu des e-mails est généré automatiquement, mais les filtres de campagne intelligente et les étapes de flux restent manuels. Vous devez configurer la logique après la création pour qu’elle corresponde au comportement prévu de votre campagne.
 * Les ressources supplémentaires sont créées par duplication. Si votre brief appelle 4 emails mais que votre modèle en comporte 1, l’outil crée 3 doublons. Examinez-les toutes pour assurer la cohérence ; elles héritent de la conception et de la structure du modèle.
-* Coworker for Marketo Engage ne peut pas accéder automatiquement à vos listes d’audience existantes. Vous devez configurer manuellement les filtres de liste dynamique pour cibler vos segments réels une fois le programme créé.
+* CX Enterprise Coworker for Marketo Engage ne peut pas accéder automatiquement à vos listes d’audiences existantes. Vous devez configurer manuellement les filtres de liste dynamique pour cibler vos segments réels une fois le programme créé.
 * Les programmes complexes à plusieurs étapes avec une logique de branchement avancée peuvent nécessiter un affinement manuel après leur création.
 * Si votre environnement Marketo utilise des conventions de nommage ou des structures de dossiers, spécifiez-les dans votre résumé afin que le programme soit créé au bon endroit.

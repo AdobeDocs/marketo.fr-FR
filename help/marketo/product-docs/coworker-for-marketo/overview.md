@@ -1,34 +1,34 @@
 ---
-description: Explorez la suite d’agents Coworker for Marketo Engage conçue pour automatiser les tâches marketing telles que l’assurance qualité des programmes, l’importation de prospects, la normalisation des données, etc.
-title: Présentation de Collègue pour Marketo Engage
-source-git-commit: fc1bcbdaa543e39127945852a6f89e69f2966c21
+description: Explorez la suite d’agents CX Enterprise Coworker for Marketo Engage conçue pour automatiser les tâches marketing telles que l’assurance qualité des programmes, l’importation de prospects, la normalisation des données, etc.
+title: Présentation de CX Enterprise Coworker for Marketo Engage
+source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '454'
 ht-degree: 1%
 ---
-# Présentation de Collègue pour Marketo Engage {#overview}
+# Présentation de CX Enterprise Coworker for Marketo Engage {#overview}
 
-Coworker for Marketo Engage (anciennement appelé Marketo AI) fournit des compétences d’agent conçues pour automatiser les fonctions marketing longues, mais importantes.
+CX Enterprise Coworker for Marketo Engage fournit des compétences d’agent conçues pour automatiser les fonctions marketing longues mais importantes.
 
 >[!AVAILABILITY]
 >
->Cette fonctionnalité est disponible pour tous les abonnements. Si la mosaïque Collègues pour Marketo Engage ne s’affiche pas sur votre écran Mon Marketo, contactez votre gestionnaire de compte. Vous devez également accepter les termes [&#x200B; Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
+>Cette fonctionnalité est disponible pour tous les abonnements. Si la mosaïque CX Enterprise Coworker for Marketo Engage ne s’affiche pas sur votre écran Mon Marketo, contactez votre gestionnaire de compte. Vous devez également accepter les termes [ Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
 
 >[!IMPORTANT]
 >
->* Une fois que Coworker for Marketo Engage a été activé pour votre abonnement, vous devez effectuer certaines [étapes de configuration](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"} pour vous assurer que les utilisateurs souhaités ont accès.
+>* Une fois que CX Enterprise Coworker for Marketo Engage a été activé pour votre abonnement, vous devez effectuer certaines [étapes de configuration](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"} pour vous assurer que les utilisateurs souhaités ont accès.
 >
->* Passez en revue la portée des données, les contrôles de gouvernance et les considérations relatives aux informations d’identification personnelles dans la fiche d’informations de Coworker for Marketo Engage [data sheet](/help/marketo/product-docs/coworker-for-marketo/data-information.md){target="_blank"}.
+>* Passez en revue la portée des données, les contrôles de gouvernance et les considérations relatives aux informations d’identification personnelles dans la CX Enterprise Coworker for Marketo Engage [fiche d’informations sur les données](/help/marketo/product-docs/coworker-for-marketo/data-information.md){target="_blank"}.
 
 ## Comment y accéder {#access}
 
-Sur votre écran Mon Marketo, cliquez sur la mosaïque **Collègue pour Marketo Engage**.
+Sur votre écran Mon Marketo, cliquez sur la mosaïque **CX Enterprise Coworker pour Marketo Engage**.
 
-![](assets/overview-1.png)
+![](assets/cx-overview-1.png)
 
 Saisissez votre requête dans le champ d’invite, sélectionnez l’une des compétences de l’agent ou essayez l’un des exemples d’invites.
 
-![](assets/overview-2.png)
+![](assets/cx-overview-2.png)
 
 ## Compétences {#skills}
 
@@ -36,7 +36,7 @@ La console centrale dispose d’un ensemble croissant de compétences d’agent 
 
 ### Créer des programmes {#build-programs}
 
-Décrivez une campagne marketing en langage simple et Coworker for Marketo Engage crée la structure du programme, avec les espaces réservés aux ressources et la planification. En savoir plus sur la compétence [Créer des programmes](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}.
+Décrivez une campagne marketing en langage clair et CX Enterprise Coworker for Marketo Engage crée la structure du programme, avec les espaces réservés aux ressources et la planification. En savoir plus sur la compétence [Créer des programmes](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}.
 
 ### Enquête sur les prospects {#investigate-leads}
 
@@ -44,15 +44,15 @@ Découvrez pourquoi une personne/un prospect spécifique n’a pas atteint un ja
 
 ### Connaissances du produit {#product-knowledge}
 
-La connaissance des produits vous donne un accès à la demande à l’expertise de Marketo sans quitter la plateforme. Posez une question en langage clair et Coworker for Marketo Engage s’appuie sur la documentation officielle d’Adobe pour y répondre. En savoir plus sur la [compétence de connaissance du produit](/help/marketo/product-docs/coworker-for-marketo/skills/product-knowledge.md){target="_blank"}.
+La connaissance des produits vous donne un accès à la demande à l’expertise de Marketo sans quitter la plateforme. Poser une question en langage clair et CX Enterprise Coworker for Marketo Engage s’appuie sur la documentation officielle d’Adobe pour y répondre. En savoir plus sur la [compétence de connaissance du produit](/help/marketo/product-docs/coworker-for-marketo/skills/product-knowledge.md){target="_blank"}.
 
 ### Valider les programmes {#validate-programs}
 
-L’option Valider les programmes vérifie automatiquement votre configuration par rapport aux bonnes pratiques de Marketo et recherche les problèmes avant le lancement. En savoir plus sur la compétence [&#x200B; Valider les programmes &#x200B;](/help/marketo/product-docs/coworker-for-marketo/skills/validate-programs.md){target="_blank"}.
+L’option Valider les programmes vérifie automatiquement votre configuration par rapport aux bonnes pratiques de Marketo et recherche les problèmes avant le lancement. En savoir plus sur la compétence [ Valider les programmes ](/help/marketo/product-docs/coworker-for-marketo/skills/validate-programs.md){target="_blank"}.
 
 ### Importer les leads {#import-leads}
 
-Importez et dédupliquez des listes de prospects dans votre base de données Marketo Engage avec l’aide du mappage des champs. En savoir plus sur la compétence [&#x200B; Importer des prospects &#x200B;](/help/marketo/product-docs/coworker-for-marketo/skills/import-leads.md){target="_blank"}.
+Importez et dédupliquez des listes de prospects dans votre base de données Marketo Engage avec l’aide du mappage des champs. En savoir plus sur la compétence [ Importer des prospects ](/help/marketo/product-docs/coworker-for-marketo/skills/import-leads.md){target="_blank"}.
 
 ## Bientôt disponible {#coming-soon}
 
@@ -64,4 +64,4 @@ D’autres agents conçus pour gérer le travail le plus répétitif et le plus 
 
 >[!MORELIKETHIS]
 >
->Le [serveur Marketo Engage MCP](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=fr){target="_blank"} fait office de pont entre votre assistant d’IA et Marketo Engage.
+>Le [serveur Marketo Engage MCP](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"} fait office de pont entre votre assistant d’IA et Marketo Engage.

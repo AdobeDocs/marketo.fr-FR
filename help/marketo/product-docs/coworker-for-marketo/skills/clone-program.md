@@ -3,20 +3,18 @@ description: Le programme de clonage duplique un programme Marketo existant dans
 title: Cloner le programme
 badge: Beta
 hide: true
-source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
+source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '487'
 ht-degree: 1%
-
 ---
-
 # Cloner le programme {#clone-program}
 
 L’agent de programme Clone copie un programme opérationnel, y compris ses campagnes intelligentes, ses étapes de flux, ses ressources d’e-mail et sa configuration, à un nouvel emplacement de votre environnement Marketo.
 
 >[!PREREQUISITES]
 >
->* Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [&#x200B; Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
+>* Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [ Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
 >
 >* Vous devez disposer des autorisations nécessaires pour créer des programmes dans le dossier de destination.
 >
@@ -28,16 +26,16 @@ L’agent de programme Clone copie un programme opérationnel, y compris ses cam
 
 ## Utilisation {#how-to-use}
 
-1. Dans Mon Marketo, cliquez sur la mosaïque **Collègue pour Marketo Engage**.
+1. Dans Mon Marketo, cliquez sur la mosaïque **CX Enterprise Coworker pour Marketo Engage**.
 1. Dans la fenêtre d’invite, saisissez vos instructions. Par exemple, « Clonez mon programme de webinaire du 2e trimestre dans le dossier Campagnes du 3e trimestre et nommez-le Webinaire de démonstration du produit du 3e trimestre ».
-1. Un collègue pour Marketo Engage confirme le programme source, le dossier de destination et le nouveau nom. Vérifiez et confirmez.
-1. Le clone est créé. Un collègue de Marketo Engage vous confirme que c’est fait et vous indique où le trouver.
+1. CX Enterprise Coworker for Marketo Engage confirme le programme source, le dossier de destination et le nouveau nom. Vérifiez et confirmez.
+1. Le clone est créé. CX Enterprise Coworker for Marketo Engage vous confirme la date de fin de l’opération et vous indique où la retrouver.
 1. Ouvrez le nouveau programme dans Marketo et mettez à jour les éléments différents : contenu des e-mails, dates, filtres d’audience, jetons, etc.
 1. Exécutez l’agent [Program QA](/help/marketo/product-docs/coworker-for-marketo/skills/validate-programs.md) avant l’activation.
 
 ## Cas d’utilisation {#use-cases}
 
-**Réutilisation trimestrielle des campagnes** : un responsable de campagne lance la même série de webinaires chaque trimestre. Ils demandent à Coworker for Marketo Engage de cloner le programme de webinaire du dernier trimestre dans le dossier du nouveau trimestre avec un nom mis à jour. Ils mettent ensuite à jour la copie de l’e-mail, les jetons de date du webinaire et le lien d’enregistrement, ce qui permet de gagner des heures de configuration.
+**Réutilisation trimestrielle des campagnes** : un responsable de campagne lance la même série de webinaires chaque trimestre. Ils demandent à CX Enterprise Coworker for Marketo Engage de cloner le programme de webinaire du dernier trimestre dans le dossier du nouveau trimestre avec un nom mis à jour. Ils mettent ensuite à jour la copie de l’e-mail, les jetons de date du webinaire et le lien d’enregistrement, ce qui permet de gagner des heures de configuration.
 
 **Création d’un modèle à partir d’un programme éprouvé** : un spécialiste des opérations marketing clone un programme de lancement de produit hautement performant dans un dossier « Modèles » pour servir de point de départ pour les lancements futurs. Le clone reste désactivé et est utilisé comme copie de référence.
 
