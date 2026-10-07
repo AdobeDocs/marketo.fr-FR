@@ -3,10 +3,10 @@ description: Migration AWS - Documents Marketo Engage - Documentation du produit
 title: Migration d’AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 78cbf2bc22a769e1b1013ddf7293e1a49ccd77e4
+source-git-commit: a02e4782a1c320ec1baa8c304d50c7e1807ab445
 workflow-type: tm+mt
-source-wordcount: '1020'
-ht-degree: 5%
+source-wordcount: '1227'
+ht-degree: 4%
 ---
 # Migration d’AWS {#aws-migration}
 
@@ -20,7 +20,7 @@ Pendant la période de migration, tous les services Marketo Engage ne seront pas
 
 * **Évitez de créer ou de mettre à jour des prospects/personnes** ou d’exécuter des processus qui modifient les enregistrements de personne.
 
-* **Ne déclenchez pas de processus de suivi** car les campagnes planifiées seront suspendues.
+* **Ne déclenchez pas de processus de suivi** car toutes les campagnes planifiées seront suspendues.
 
 * **Désactivez temporairement toutes les intégrations** qui envoient ou reçoivent des données vers ou depuis Marketo Engage.
 
@@ -45,7 +45,7 @@ Les impacts ci-dessous ne nécessitent aucune action de votre part.
 
 ## Identifier votre datacenter/pod {#identify}
 
-Avant de consulter le planning ci-dessous, [découvrez comment identifier](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify) le centre de données et le pod/serveur dans lesquels se trouve votre abonnement.
+Avant de consulter le planning ci-dessous, [découvrez comment identifier](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify){target="_blank"} le centre de données et le pod/serveur dans lesquels se trouve votre abonnement.
 
 ## Planning {#schedule}
 
@@ -362,3 +362,13 @@ Marketo utilise Amazon Aurora, un moteur de base de données relationnelle natif
 Aurora effectue également des sauvegardes automatiques continues vers Amazon S3 en temps réel, permettant la récupération instantanée (PITR) à n’importe quelle seconde dans la fenêtre de conservation configurée.
 
 Actuellement, le déploiement de Marketo Aurora fonctionne dans une seule région AWS, sans réplication inter-régions. Les données de production restent au sein de l&#39;infrastructure régionale désignée, et la reprise après sinistre est assurée par la redondance du stockage multi-AZ d&#39;Aurora et des sauvegardes continues plutôt que par le basculement géographique vers une région secondaire. Cela peut être évalué plus en détail à mesure que l’infrastructure AWS de Marketo se développe.
+
+**Comment les désabonnements sont-ils gérés pendant les temps d’arrêt ?**
+Les désabonnements standard et de liste (clients de messagerie) sont toujours reçus et seront traités peu de temps après la migration.
+
+**Existe-t-il des alternatives à la suspension des campagnes ?**
+Oui. Si vous souhaitez empêcher les utilisateurs d’avancer sans perdre les données entrantes, tenez compte des options suivantes :
+
+* Ajouter une étape de choix : au lieu de désactiver votre campagne, laissez-la active, mais ajoutez une [étape de flux d’attente](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview){target="_blank"} ou une étape « Ne rien faire » immédiate tout en haut du flux. Définissez une [règle de choix](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step){target="_blank"} qui dirige vos personnes vers cet état en pause, puis mettez à jour les règles de choix lorsque vous êtes prêt.
+* Supprimer du flux : si des personnes ont déjà rejoint la campagne, mais que vous devez arrêter leur progression, utilisez l’action [Supprimer du flux](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow){target="_blank"} pour les extraire sans désactiver définitivement le déclencheur de la campagne.
+* Alternative par lots : envisagez de convertir les campagnes par déclencheurs en campagnes par lots si vous n’avez pas besoin de routage instantané ou de réponses et que vous souhaitez simplement traiter les personnes du jour au lendemain ou à des intervalles planifiés.
