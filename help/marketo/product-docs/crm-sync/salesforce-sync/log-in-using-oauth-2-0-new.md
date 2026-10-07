@@ -84,7 +84,7 @@ Salesforce utilise le protocole OAuth pour permettre aux utilisateurs des applic
 >* L’utilisateur de la synchronisation Marketo doit être créé dans Salesforce.
 >* Les bloqueurs de fenêtres contextuelles sont désactivés.
 >* L’application connectée est créée et les clés [!UICONTROL Consumer Key] et [!UICONTROL Consumer Secret] peuvent être utilisées.
->* Contactez le support technique de Marketo [&#128279;](https://experienceleague.adobe.com/en/support) pour activer les fonctionnalités suivantes : activer OAuth pour la synchronisation SFDC, Exiger un secret pour le flux de jeton d&#39;actualisation et la clé de vérification pour l&#39;échange de code (PKCE).
+>* Contactez le support technique de Marketo [&#128279;](https://experienceleague.adobe.com/fr/support) pour activer les fonctionnalités suivantes : activer OAuth pour la synchronisation SFDC, Exiger un secret pour le flux de jeton d&#39;actualisation et la clé de vérification pour l&#39;échange de code (PKCE).
 
 >[!CAUTION]
 >
