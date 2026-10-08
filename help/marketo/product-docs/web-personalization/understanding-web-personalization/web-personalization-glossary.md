@@ -4,21 +4,25 @@ description: Découvrez le glossaire de personnalisation web dans Marketo Engage
 title: Glossaire de Web Personalization
 exl-id: 82f7aa62-0b5a-4d34-865c-aa77c1b0b0e7
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/dpI1btj5vzxsJzPdBgej7QwFJedLGu8125uj6kKn5Jg
+TQID: 'https://experienceleague.adobe.com/dpI1btj5vzxsJzPdBgej7QwFJedLGu8125uj6kKn5Jg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 268
-ht-degree: 23%
-
+source-wordcount: '268'
+ht-degree: 25%
 ---
-
 # Glossaire [!DNL Web Personalization] {#web-personalization-glossary}
 
 Quelques aperçus du monde et de la langue des [!DNL Marketo Web Personalization].
@@ -32,7 +36,7 @@ Quelques aperçus du monde et de la langue des [!DNL Marketo Web Personalization
 | **Visiteur connu** | Un visiteur ou une visiteuse web qui a rempli un formulaire et laissé ses détails (adresse e-mail) sur votre site web ou qui a cliqué sur un lien dans un e-mail Marketo. |
 | **Liste des comptes** | Liste des noms clés de compte/organisation. Également appelée liste Account-Based Marketing (ABM). |
 | **Segments** | Ensemble de visiteurs et visiteuses qui répondent aux critères spécifiés définis dans la page [« Définir un segment »](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md). |
-| **Test fractionné** | Expérience de test avec deux variantes ou plus pour mesurer la différence dans les résultats. L’objectif est d’identifier les modifications apportées aux pages web qui augmentent ou optimisent un résultat ciblé. |
+| **Test fractionné** | Expérience de test avec deux variantes ou plus pour mesurer la différence dans les résultats. L’objectif est d’identifier les modifications à apporter aux pages web afin d’améliorer ou de maximiser le résultat attendu. |
 | **Caractère générique** | Caractère générique (&#42; est utilisé) utilisé avant ou après une chaîne pour remplacer tout autre caractère ou caractères d’une chaîne. Voir les exemples ci-dessous. |
 
 ## Exemples de caractères génériques {#wildcard-examples}

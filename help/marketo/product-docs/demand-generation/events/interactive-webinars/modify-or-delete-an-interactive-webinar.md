@@ -3,16 +3,18 @@ description: Découvrez comment modifier ou supprimer un webinaire interactif da
 title: Modifier ou supprimer un webinaire interactif
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-TQID: https://experienceleague.adobe.com/drQyVdmCEcipyzmbkrhLV-VCKsHzSrceZVMRn5d5NKc
+TQID: 'https://experienceleague.adobe.com/drQyVdmCEcipyzmbkrhLV-VCKsHzSrceZVMRn5d5NKc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 330
+source-wordcount: '330'
 ht-degree: 4%
-
 ---
-
 # Modifier ou supprimer un webinaire interactif {#modify-or-delete-an-interactive-webinar}
 
 Découvrez comment apporter des modifications à votre webinaire interactif.

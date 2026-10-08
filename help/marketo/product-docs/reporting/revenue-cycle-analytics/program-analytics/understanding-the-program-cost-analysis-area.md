@@ -1,17 +1,23 @@
 ---
 unique-page-id: 4718636
 description: Découvrez la zone d’analyse des coûts du programme dans Marketo Engage, y compris la compréhension des coûts du programme. Utilisez ce guide pour passer à l’étape suivante.
-title: Présentation de la zone d’analyse du coût du programme
+title: Présentation de la zone d’analyse des coûts du programme
 exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 24%
-
 ---
-
-# Présentation de la zone d’analyse du coût du programme {#understanding-the-program-cost-analysis-area}
+# Présentation de la zone d’analyse des coûts du programme {#understanding-the-program-cost-analysis-area}
 
 La zone Analyse des coûts du programme vous permet d’analyser l’efficacité de programmes individuels ou d’afficher des résultats résumés par canal pour une période donnée.
 

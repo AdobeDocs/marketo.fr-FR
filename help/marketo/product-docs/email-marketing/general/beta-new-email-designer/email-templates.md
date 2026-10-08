@@ -4,26 +4,36 @@ title: Modèles d’e-mail
 hide: true
 feature: Email Editor
 exl-id: 9e1d81fb-28f5-47d4-b813-950462fee81d
-TQID: https://experienceleague.adobe.com/z-unNOgHUxTyNSc8P5r7-xbP8AQd79P3Z0qz3uZkKqw
+TQID: 'https://experienceleague.adobe.com/z-unNOgHUxTyNSc8P5r7-xbP8AQd79P3Z0qz3uZkKqw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
 subfeature_v2:
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1786
+source-wordcount: '1786'
 ht-degree: 8%
-
 ---
-
 # Modèles d’e-mail {#email-templates}
 
 Pour accélérer et améliorer le processus de conception, vous pouvez créer des modèles d’e-mail autonomes pour réutiliser facilement du contenu personnalisé.
@@ -42,7 +52,7 @@ Pour accélérer et améliorer le processus de conception, vous pouvez créer de
 
 ## Création d’un modèle d’e-mail {#create-an-email-template}
 
-1. Connectez-vous à Marketo Engage via [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
+1. Connectez-vous à Marketo Engage via l’[ Adobe Experience Cloud ](https://experiencecloud.adobe.com/){target="_blank"}.
 
 1. Dans Mon Marketo, sélectionnez **Design Studio**.
 
@@ -196,7 +206,7 @@ L’exemple ci-dessous décrit les étapes à suivre pour ajuster la marge inté
 
 1. Dans la barre d’outils Colonne, cliquez sur l’outil _[!UICONTROL Sélectionner une colonne]_ et choisissez celle à modifier.
 
-   Vous pouvez également la sélectionner dans l&#39;arborescence. Les paramètres modifiables de cette colonne sont affichés dans les onglets _[!UICONTROL Paramètres]_ et _[!UICONTROL Styles]_ sur la droite.
+   Vous pouvez également la sélectionner dans l’arborescence. Les paramètres modifiables de cette colonne sont affichés dans les onglets _[!UICONTROL Paramètres]_ et _[!UICONTROL Styles]_ sur la droite.
 
    ![](assets/layers-settings-styles-2.png)
 
@@ -287,9 +297,9 @@ Tirez parti des options d’affichage et de validation du contenu disponibles da
 
 * Affichez le contenu sur les appareils de bureau, mobiles ou en texte seul/texte brut.
 
-   * Cliquez sur l’icône Affichage dynamique (œil) pour afficher un aperçu du contenu sur tous les appareils.
+  * Cliquez sur l’icône Affichage dynamique (œil) pour afficher un aperçu du contenu sur tous les appareils.
 
-   * Sélectionnez l’un des appareils prêts à l’emploi ou saisissez des dimensions personnalisées pour prévisualiser votre contenu.
+  * Sélectionnez l’un des appareils prêts à l’emploi ou saisissez des dimensions personnalisées pour prévisualiser votre contenu.
 
 ### Plus d’options {#more-options}
 

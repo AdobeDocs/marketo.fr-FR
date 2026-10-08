@@ -1,25 +1,30 @@
 ---
 unique-page-id: 4719179
 description: Découvrez comment utiliser l’éditeur de texte enrichi de personnalisation web dans Marketo Engage à l’aide de la personnalisation web dnl. Passez à l’étape suivante en toute confiance.
-title: Utilisation de l’éditeur de texte enrichi pour Web Personalization
+title: Utilisation de l’éditeur de texte enrichi de la personnalisation web
 exl-id: a07d8f2b-0ec6-4799-a430-0a5f7cf5f583
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/XmnR-DkqT-OfgqQndug3Yvos4EtYsv0U-Zmuq8rruQ8
+TQID: 'https://experienceleague.adobe.com/XmnR-DkqT-OfgqQndug3Yvos4EtYsv0U-Zmuq8rruQ8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 193
+source-wordcount: '193'
 ht-degree: 9%
-
 ---
-
 # Utilisation de l’éditeur de texte enrichi [!DNL Web Personalization] {#using-the-web-personalization-rich-text-editor}
 
 ![](assets/one.png)

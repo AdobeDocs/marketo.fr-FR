@@ -1,16 +1,22 @@
 ---
 unique-page-id: 2360401
 description: Découvrez l’efficacité de la comparaison de canaux avec l’analyseur de programmes dans Marketo Engage, y compris la comparaison de canaux. Utilisez ce guide pour passer à l’étape suivante.
-title: Comparer l’efficacité du canal avec l’analyseur de programme
+title: Comparer l’efficacité des canaux avec l’analyseur de programmes
 exl-id: bfe635a7-b077-4074-889d-fc2256102cd5
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 1%
-
 ---
-
 # Comparaison de l’efficacité des canaux avec l’[!UICONTROL analyseur de programmes] {#compare-channel-effectiveness-with-the-program-analyzer}
 
 Utilisez l’[!UICONTROL analyseur de programmes] pour comparer les coûts des canaux, l’acquisition de membres, le pipeline, le chiffre d’affaires, etc., afin d’identifier vos canaux les plus et les moins efficaces.
@@ -41,7 +47,7 @@ Utilisez l’[!UICONTROL analyseur de programmes] pour comparer les coûts des c
 
    >[!NOTE]
    >
-   >De nombreuses mesures que vous pouvez choisir dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et Multitouche (MT). Il est important de comprendre la [&#x200B; différence entre l’attribution FT et MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >De nombreuses mesures que vous pouvez choisir dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et Multitouche (MT). Il est important de comprendre la [ différence entre l’attribution FT et MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Utilisez le menu déroulant **[!UICONTROL Axe Y]** pour choisir **[!UICONTROL Pipeline MT créé]**.
 

@@ -3,21 +3,25 @@ description: Obtenez de l’aide sur les bonnes pratiques relatives aux webinair
 title: Bonnes pratiques relatives aux webinaires interactifs
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-TQID: https://experienceleague.adobe.com/P-sa7emvCQOFnBgj6Ys5xjxRMEY7RHUB3iEadNsi948
+TQID: 'https://experienceleague.adobe.com/P-sa7emvCQOFnBgj6Ys5xjxRMEY7RHUB3iEadNsi948'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 topic_v2:
   - id: e9001ce2-5245-4a8e-8601-dd958009072f
+    internal-label: Web experience
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1759
+source-wordcount: '1759'
 ht-degree: 0%
-
 ---
-
 # Bonnes pratiques relatives aux webinaires interactifs {#best-practices-for-interactive-webinars}
 
 Lors de l’exécution d’événements virtuels, qu’ils soient destinés à une petite ou à une grande audience, il est essentiel que les choses se déroulent comme prévu. Les différentes étapes nécessaires à la planification et à l’exécution d’un événement, depuis la préparation jusqu’à la promotion, la diffusion et le suivi, peuvent parfois donner l’impression d’être beaucoup.
@@ -79,13 +83,13 @@ Les bonnes pratiques suivantes peuvent vous aider à planifier, concevoir et pro
 * Activez le rappel d’enregistrement dans les Préférences de la salle si vous envisagez d’enregistrer la session. Le rappel s’affichera 5 minutes après le début de la réunion si l’enregistrement n’a pas commencé.
 
 * Activez la zone Hôte et présentateur et configurez-la avec les capsules appropriées. Cette zone est uniquement visible par les hôtes et les présentateurs et peut être utilisée pour collaborer en coulisse. Voici quelques capsules à inclure :
-   * Tableau de bord de l’engagement pour surveiller l’engagement des participants en temps réel. [Cliquez ici](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"} pour regarder une courte vidéo sur l’utilisation du tableau de bord de l’engagement.
-   * Chat Pod pour permettre des conversations privées entre les membres de l&#39;équipe de présentation.
-   * Note Capsule permettant de publier des messages de rappel, des questions pour le présentateur ou des réponses à des questions standard que vous pouvez copier et coller pour obtenir des réponses rapides aux questions courantes.
+  * Tableau de bord de l’engagement pour surveiller l’engagement des participants en temps réel. [Cliquez ici](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"} pour regarder une courte vidéo sur l’utilisation du tableau de bord de l’engagement.
+  * Chat Pod pour permettre des conversations privées entre les membres de l&#39;équipe de présentation.
+  * Note Capsule permettant de publier des messages de rappel, des questions pour le présentateur ou des réponses à des questions standard que vous pouvez copier et coller pour obtenir des réponses rapides aux questions courantes.
 
 * Les capsules personnalisées sont des applications tierces qui peuvent être utilisées pour étendre les fonctionnalités d’une salle Adobe Connect. Les pods personnalisés peuvent être téléchargés depuis `apps.adobeconnect.com` sous forme de fichiers .pod ou .zip qui peuvent ensuite être partagés dans le pod partagé.
-   * Certains pods personnalisés populaires sont Compte à rebours, Horloge, Ciseaux en papier Rock, Word Cloud, Titler.
-   * [Cliquez ici](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} pour regarder une courte vidéo sur l&#39;utilisation des capsules personnalisées.
+  * Certains pods personnalisés populaires sont Compte à rebours, Horloge, Ciseaux en papier Rock, Word Cloud, Titler.
+  * [Cliquez ici](https://www.youtube.com/watch?v=1w5nqJqEHQw){target="_blank"} pour regarder une courte vidéo sur l&#39;utilisation des capsules personnalisées.
 
 **Confidentialité : Pour préserver la confidentialité des informations du participant, vérifiez les paramètres ci-dessous :**
 
@@ -93,7 +97,7 @@ Les bonnes pratiques suivantes peuvent vous aider à planifier, concevoir et pro
 
 * **Capsule de questions-réponses** : le nom du participant qui a soumis la question et le nom de l’hôte/du présentateur qui a répondu peuvent tous deux être masqués. Pour ce faire, désélectionnez les options de confidentialité dans la section « Capsule de questions/réponses » des Préférences de la chambre.
 
-* **Panneau de conversation** : le panneau de conversation est une zone de conversation qui ne fait pas partie des enregistrements de session. Ainsi, si vous ne souhaitez pas que les conversations apparaissent dans les enregistrements, utilisez le panneau de conversation au lieu du chat Pod. [Cliquez ici](https://helpx.adobe.com/fr/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} pour en savoir plus sur l’utilisation du panneau de conversation.
+* **Panneau de conversation** : le panneau de conversation est une zone de conversation qui ne fait pas partie des enregistrements de session. Ainsi, si vous ne souhaitez pas que les conversations apparaissent dans les enregistrements, utilisez le panneau de conversation au lieu du chat Pod. [Cliquez ici](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} pour en savoir plus sur l’utilisation du panneau de conversation.
 
 * **Conversation privée** : désactivez la conversation privée pour empêcher les participants d’envoyer un ping à un autre participant. Pour ce faire, décochez la case « Autoriser les participants à discuter en privé » dans la section « Conversation » des Préférences de la salle.
 
@@ -104,8 +108,8 @@ Les bonnes pratiques suivantes peuvent vous aider à planifier, concevoir et pro
 * Effectuez quelques essais pour tester la configuration audio/vidéo et vous familiariser avec Adobe Connect si vous ne l’avez pas utilisé auparavant. Incluez également vos présentateurs et co-animateurs lors de la répétition.
 
 * Demandez aux hôtes et aux présentateurs d&#39;arriver au moins 30 minutes avant l&#39;heure de début et assurez-vous que tout fonctionne correctement.
-   * Déterminez qui animera les capsules de questions/réponses et de conversation.
-   * Remplissez les capsules Questions/Réponses et Conversation avec toutes les questions/conversations de base.
+  * Déterminez qui animera les capsules de questions/réponses et de conversation.
+  * Remplissez les capsules Questions/Réponses et Conversation avec toutes les questions/conversations de base.
 
 * Ouvrez les programmes avec partage d’écran dans la fenêtre appropriée et préparez-les à une démonstration. Évitez de lancer des programmes et de vous connecter lors du partage d’écran.
 

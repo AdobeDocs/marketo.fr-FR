@@ -3,19 +3,22 @@ description: Comprendre les limites d’utilisation du produit Sales Insight Act
 title: Limites d’utilisation du produit
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/ASD76pQAlTIlyjHmXl96mrDNJjNf-qPxdxE--NsO74w
+TQID: 'https://experienceleague.adobe.com/ASD76pQAlTIlyjHmXl96mrDNJjNf-qPxdxE--NsO74w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 244
+source-wordcount: '244'
 ht-degree: 19%
-
 ---
-
 # Limites d’utilisation du produit {#product-usage-limits}
 
 Vous trouverez ci-dessous les limites en place pour l’utilisation des fonctionnalités d’engagement des ventes étendues disponibles avec les actions Sales Insight.

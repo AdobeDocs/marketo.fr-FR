@@ -4,16 +4,18 @@ description: Découvrez comment ajouter un e-mail à Salesforce à partir du plu
 title: Ajouter un e-mail à Salesforce
 exl-id: bb2e964d-e5f8-495f-969b-9f75822a6211
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/DXp9px46y3tWezlijSWiOqFPTDJJiZmMYi-881vauXc
+TQID: 'https://experienceleague.adobe.com/DXp9px46y3tWezlijSWiOqFPTDJJiZmMYi-881vauXc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 153
+source-wordcount: '153'
 ht-degree: 2%
-
 ---
-
 # Ajouter un e-mail à [!DNL Salesforce] {#add-email-to-salesforce}
 
 Ajouter un e-mail à [!DNL Salesforce] vous permet d’envoyer tous les e-mails que vous recevez dans [!DNL Outlook] ou Gmail vers votre compte [!DNL Salesforce]. Nous effectuons la recherche en fonction de l’expéditeur de l’e-mail. Nous ne pouvons donc actuellement utiliser ce bouton que pour les e-mails que vous avez reçus, et non pour les e-mails que vous avez envoyés.

@@ -1,17 +1,23 @@
 ---
 unique-page-id: 2360411
 description: Découvrez comment créer un analyseur de chemins de réussite dans Marketo Engage à l’aide de la fonction Créer un analyseur de chemins de réussite. Utilisez ce guide pour passer à l’étape suivante.
-title: Créer un analyseur de voie du succès
+title: Créer un analyseur du parcours de réussite
 exl-id: bcf3075c-4de6-428c-aebf-8191076169c0
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 4%
-
 ---
-
-# Créer un analyseur de voie du succès {#create-a-success-path-analyzer}
+# Créer un analyseur du parcours de réussite {#create-a-success-path-analyzer}
 
 Obtenez une représentation visuelle de la vitesse et du flux dans votre modèle de cycle du chiffre d’affaires.
 

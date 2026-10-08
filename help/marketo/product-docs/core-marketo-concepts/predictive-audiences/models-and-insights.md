@@ -3,19 +3,23 @@ description: Découvrez les modèles d’audiences prédictives et les facteurs 
 title: Modèles et insights
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 feature: Predictive Audiences
-TQID: https://experienceleague.adobe.com/ikS8VQJfQ9ndHrtDY5K8GYbNYwJjk1nYkuqxnwfcWPY
+TQID: 'https://experienceleague.adobe.com/ikS8VQJfQ9ndHrtDY5K8GYbNYwJjk1nYkuqxnwfcWPY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 60e4be0b-b3ea-5f4e-8b8c-da0f5a08dacd
+    internal-label: Predictive Audiences
 topic_v2:
   - id: b4dd41a7-ccf8-4e9d-918e-acaab534a307
+    internal-label: Data quality
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 234
+source-wordcount: '234'
 ht-degree: 5%
-
 ---
-
 # Modèles et insights {#models-and-insights}
 
 Les performances de vos modèles dépendent de la qualité et de l’exhaustivité des données d’entrée. Consultez le facteur d’influence principal pour chacun de vos modèles d’IA de vraisemblance. Consultez également les principaux facteurs qui entraînent un taux d’inscription à l’événement plus élevé/plus faible, une participation à l’événement ou des désabonnements.
@@ -30,7 +34,7 @@ Accédez à la section **[!UICONTROL Modèles et intégrité des données]** sou
 
 ![Image Un](assets/models-and-insights-1.png)
 
-* **Statut de l’entraînement** : indique si votre modèle s’entraîne activement (améliorant les prédictions). L’entraînement a lieu automatiquement toutes les deux semaines. Les modèles _en cours de traitement_ peuvent prendre jusqu’à 24 heures. Pour tout modèle _Failed_, contactez l’assistance Marketo [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+* **Statut de l’entraînement** : indique si votre modèle s’entraîne activement (améliorant les prédictions). L’entraînement a lieu automatiquement toutes les deux semaines. Les modèles _en cours de traitement_ peuvent prendre jusqu’à 24 heures. Pour tout modèle _Failed_, contactez l’assistance Marketo [](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 * **Statut de notation** : indique si votre modèle calcule activement des prédictions (pourcentages de vraisemblance) pour les membres du programme.
 * **Performances** : catégorisation de l’intégrité de votre modèle en fonction de l’exhaustivité des données et de la qualité des données (voir ci-dessous).
 * **Exhaustivité des données** : pourcentage d’attributs de données présents/complets.

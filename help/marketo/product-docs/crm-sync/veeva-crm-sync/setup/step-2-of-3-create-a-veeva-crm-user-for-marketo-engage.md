@@ -3,16 +3,22 @@ description: Découvrez comment créer un utilisateur Veeva CRM pour la synchron
 title: Étape 2 sur 3 - Créer un utilisateur Veeva CRM pour Marketo Engage
 exl-id: 78945192-36b0-4e0b-830a-f37eb0b83484
 feature: Veeva CRM
-TQID: https://experienceleague.adobe.com/xBrDKmj-kFlbwaisJkDElcAI8GFlNp7EjWyISrvVJ3g
+TQID: 'https://experienceleague.adobe.com/xBrDKmj-kFlbwaisJkDElcAI8GFlNp7EjWyISrvVJ3g'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: f141b8e0-5812-4581-b47d-7322a93e7f28
+    internal-label: Veeva CRM
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
     internal-label: Accessibility
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 7480399d10794264471d53430c733147060664e0
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '636'
 ht-degree: 6%
@@ -117,11 +123,11 @@ La procédure suivante permet à l’utilisateur de la synchronisation Marketo d
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-13.png)
 
-1. Dans la section [!UICONTROL &#x200B; Autorisations d’objet standard &#x200B;], assurez-vous que les autorisations [!UICONTROL Lecture], [!UICONTROL Créer], [!UICONTROL Modifier] et [!UICONTROL Supprimer] sont cochées pour [!UICONTROL Comptes] et [!UICONTROL Contacts].
+1. Dans la section [!UICONTROL  Autorisations d’objet standard ], assurez-vous que les autorisations [!UICONTROL Lecture], [!UICONTROL Créer], [!UICONTROL Modifier] et [!UICONTROL Supprimer] sont cochées pour [!UICONTROL Comptes] et [!UICONTROL Contacts].
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-14.png)
 
-1. Sous la section [!UICONTROL &#x200B; Autorisations d’objet personnalisé &#x200B;], assurez-vous que les autorisations [!UICONTROL Lecture] sont vérifiées pour [!UICONTROL Appel], [!UICONTROL Message de clé d’appel] et tout autre objet personnalisé souhaité.
+1. Sous la section [!UICONTROL  Autorisations d’objet personnalisé ], assurez-vous que les autorisations [!UICONTROL Lecture] sont vérifiées pour [!UICONTROL Appel], [!UICONTROL Message de clé d’appel] et tout autre objet personnalisé souhaité.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-15.png)
 

@@ -1,17 +1,23 @@
 ---
 unique-page-id: 2360429
 description: Découvrez le rapport sur votre modèle de chiffre d’affaires dans Marketo Engage, y compris le rapport sur votre modèle de chiffre d’affaires. Utilisez ce guide pour passer à l’étape suivante.
-title: Créer un rapport sur votre modèle de revenu
+title: Créer un rapport sur votre modèle de revenus
 exl-id: a9abbfcb-b4ee-402c-9092-c2e0d388f7a4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 6%
-
 ---
-
-# Créer un rapport sur votre modèle de revenu {#report-on-your-revenue-model}
+# Créer un rapport sur votre modèle de revenus {#report-on-your-revenue-model}
 
 Pour chaque modèle de cycle de chiffre d’affaires, vous pouvez générer un rapport sur le nombre de prospects à chaque étape.
 

@@ -1,37 +1,60 @@
 ---
-title: "2022"
+title: '2022'
 description: 2022 - Documents Marketo - Documentation Du Produit
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 subfeature_v2:
   - id: ad89fb33-8541-4339-afe7-bb13d1633714
+    internal-label: Flow Step
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: babcd0bfb6c16165488cabd075a9d75d2952016b
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 4311
+source-wordcount: '4311'
 ht-degree: 7%
-
 ---
-
 # 2022
 
 ## Janvier 2022 {#january}
@@ -109,7 +132,7 @@ Les clients Marketo Engage qui utilisent également Adobe Experience Platform (A
 
 * **Connexion à la boîte de dialogue d’invitation d’utilisateur** : en mars, la fonctionnalité facultative existante « Connexion à la boîte de dialogue d’invitation d’utilisateur » sera abandonnée. La fonctionnalité « [!UICONTROL Se connecter dans la boîte de dialogue d’invitation d’utilisateur] » est remplacée par la fonctionnalité d’ID universel, requise pour la prochaine intégration du système Adobe Identity Management et activée en août 2021 sur tous les abonnements. Suite à l’obsolescence, Marketo Engage n’obligera qu’un seul utilisateur à être associé par adresse e-mail dans un abonnement.
 
-**Domaines Marketo Engage - Configuration [!DNL Sales Insight]** : pour les domaines Marketo Engage pour lesquels le certificat SSL n&#39;est pas configuré et pour https://, les appels échouent avec une erreur de négociation SSL. Par conséquent, ces domaines vont disparaître. Par conséquent, les utilisateurs [!DNL Sales Insight] disposant d’une configuration plus ancienne pointant vers l’un de ces domaines peuvent rencontrer des erreurs de légende système sur leur page Lead, Contact, Compte, Panneaux d’opportunité ou Page globale Marketo. Nous vous recommandons de mettre à jour votre configuration [&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) dans [!DNL Salesforce] si vous rencontrez cette erreur. Il vous suffit de mettre à jour les informations d’identification Marketo Engage mises en surbrillance dans la section « Configuration [!DNL Marketo Sales Insight] » du document.
+**Domaines Marketo Engage - Configuration [!DNL Sales Insight]** : pour les domaines Marketo Engage pour lesquels le certificat SSL n&#39;est pas configuré et pour https://, les appels échouent avec une erreur de négociation SSL. Par conséquent, ces domaines vont disparaître. Par conséquent, les utilisateurs [!DNL Sales Insight] disposant d’une configuration plus ancienne pointant vers l’un de ces domaines peuvent rencontrer des erreurs de légende système sur leur page Lead, Contact, Compte, Panneaux d’opportunité ou Page globale Marketo. Nous vous recommandons de mettre à jour votre configuration [](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) dans [!DNL Salesforce] si vous rencontrez cette erreur. Il vous suffit de mettre à jour les informations d’identification Marketo Engage mises en surbrillance dans la section « Configuration [!DNL Marketo Sales Insight] » du document.
 
 **_Webinaire de mise à jour du produit_**
 
@@ -129,7 +152,7 @@ Les fonctionnalités suivantes seront publiées le **11 mars 2022**, avec un dé
 
 ## Orchestration cross-canal
 
-* **[!DNL Dynamic Chat]** : maximisez chaque opportunité sur votre site web en ciblant les prospects et les comptes avec des conversations proactives, attrayantes et personnalisées 1:1. [&#128279;](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} permet aux utilisateurs de Marketo Engage de commencer à utiliser le chat comme élément clé des expériences cross-canal intégrées pour les cas d’utilisation de marketing et de ventes B2B. Les fonctionnalités incluent : la possibilité de réserver des réunions directement dans le chat, le routage des prospects, les modèles de démarrage, la création de conversations par glisser-déposer, et bien plus encore. Dynamic Chat est inclus dans tous les packages Marketo Engage et sera déployé auprès de tous les utilisateurs Marketo Engage cette année.
+* **[!DNL Dynamic Chat]** : maximisez chaque opportunité sur votre site web en ciblant les prospects et les comptes avec des conversations proactives, attrayantes et personnalisées 1:1. [](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} permet aux utilisateurs de Marketo Engage de commencer à utiliser le chat comme élément clé des expériences cross-canal intégrées pour les cas d’utilisation de marketing et de ventes B2B. Les fonctionnalités incluent : la possibilité de réserver des réunions directement dans le chat, le routage des prospects, les modèles de démarrage, la création de conversations par glisser-déposer, et bien plus encore. Dynamic Chat est inclus dans tous les packages Marketo Engage et sera déployé auprès de tous les utilisateurs Marketo Engage cette année.
 
 * **Amélioration du filtrage des activités de robots d’e-mail** : en complément de la fonctionnalité [Filtrage des activités de robots d’e-mail](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} publiée précédemment, vous pouvez désormais vous inscrire aux activités de journalisation identifiées comme des robots. Vous pouvez ensuite filtrer et déclencher des actions en fonction des activités identifiées comme étant exécutées par des robots.
 
@@ -253,7 +276,7 @@ Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version d
 
 >[!AVAILABILITY]
 >
->Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.
+>Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.&#x200B;
 
 Les fonctionnalités suivantes seront publiées le **24 juin 2022**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes (sauf indication contraire).
 
@@ -391,7 +414,7 @@ Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version d
 >
 >Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.
 
-## Fonctionnalités du cycle de publication de la version standard {#standard-release-cycle-features}
+## Fonctionnalités du cycle de publication standard&#x200B; {#standard-release-cycle-features}
 
 Les fonctionnalités suivantes font partie du cycle de publication de la version standard et commenceront à être publiées le **samedi 14 octobre 2022**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication sont susceptibles d’être modifiées. Veuillez vérifier ci-dessous chaque fonctionnalité pour connaître son statut.
 

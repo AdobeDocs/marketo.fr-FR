@@ -7,23 +7,31 @@ level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
 hide: true
-TQID: https://experienceleague.adobe.com/2F6SP0sUvcScw0Y86X10nRTfL2b45krGTLeSi-td7Uc
+TQID: 'https://experienceleague.adobe.com/2F6SP0sUvcScw0Y86X10nRTfL2b45krGTLeSi-td7Uc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 263
+source-wordcount: '263'
 ht-degree: 1%
-
 ---
-
 # Jetons de personnalisation {#personalization-tokens}
 
 Le Concepteur d’email a un format différent de celui de l’éditeur d’email classique en ce qui concerne les jetons de personnalisation d’email. La modification a été mise en œuvre pour améliorer la compatibilité avec les scripts Handlebar et rationaliser votre processus de création d’e-mail.
@@ -34,7 +42,7 @@ Le Concepteur d’email a un format différent de celui de l’éditeur d’emai
 
 ## Cas d’utilisation du Principal {#primary-use-case}
 
-Cette amélioration bénéficie principalement aux personnes qui passent du [script Velocity](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/email-scripting){target="_blank"} au script Handlebar. Le nouveau concepteur d’e-mail ne prend en charge que le nouveau format de jeton. Le format mis à jour élimine les espaces et introduit une structure de texte par défaut révisée, assurant ainsi une expérience de script plus fluide et plus efficace.
+Cette amélioration bénéficie principalement aux personnes qui passent du [script Velocity](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"} au script Handlebar. Le nouveau concepteur d’e-mail ne prend en charge que le nouveau format de jeton. Le format mis à jour élimine les espaces et introduit une structure de texte par défaut révisée, assurant ainsi une expérience de script plus fluide et plus efficace.
 
 ## Expérience de jeton {#token-experience}
 
@@ -56,7 +64,7 @@ Dans le concepteur d’e-mail, vous devez utiliser [casse mixte](https://develop
 
 * L’éditeur de personnalisation propose également les fonctions suivantes pour faciliter la création :
 
-   * Annuler/rétablir
-   * Rechercher/Rechercher et remplacer
+  * Annuler/rétablir
+  * Rechercher/Rechercher et remplacer
 
 * **Tous** les jetons précédemment pris en charge dans Marketo Engage sont pris en charge dans le nouvel éditeur de personnalisation.

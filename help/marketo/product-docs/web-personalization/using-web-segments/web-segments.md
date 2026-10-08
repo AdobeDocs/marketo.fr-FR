@@ -4,23 +4,28 @@ description: Découvrez les segments web dans Marketo Engage, y compris le fait 
 title: Segments web
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/rMjE1DOlcGdvg8QQkXcth5kJtO074hoZqAsoD-lmBFQ
+TQID: 'https://experienceleague.adobe.com/rMjE1DOlcGdvg8QQkXcth5kJtO074hoZqAsoD-lmBFQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 2104
+source-wordcount: '2104'
 ht-degree: 5%
-
 ---
-
 # Segments web {#web-segments}
 
 ## Afficher le segment {#view-segment}
@@ -86,7 +91,7 @@ Ces informations incluent :
 
 ![](assets/image2014-11-12-10-3a48-3a9.png)
 
-Pour activer ou désactiver un segment, cochez la case correspondant à ce segment dans le tableau, puis dans la liste déroulante « [!UICONTROL &#x200B; Choisir une action &#x200B;] » au bas du tableau, sélectionnez l’action « [!UICONTROL &#x200B; Activer &#x200B;] » ou « [!UICONTROL &#x200B; Désactiver &#x200B;]. Lorsqu’un segment est désactivé, le mot « désactiver » s’affiche sous la colonne [!UICONTROL État].
+Pour activer ou désactiver un segment, cochez la case correspondant à ce segment dans le tableau, puis dans la liste déroulante « [!UICONTROL  Choisir une action ] » au bas du tableau, sélectionnez l’action « [!UICONTROL  Activer ] » ou « [!UICONTROL  Désactiver ]. Lorsqu’un segment est désactivé, le mot « désactiver » s’affiche sous la colonne [!UICONTROL État].
 
 ## Création de segments {#create-segments}
 
@@ -106,8 +111,8 @@ Définissez des paramètres généraux pour votre segment :
 * **Logique de règle de segment :** sélectionnez une logique AND / OR pour créer chaque attribut de segmentation
 * **Planning :** définissez le niveau d’engagement des visiteurs souhaité dans votre campagne.
 
-   * **À l’entrée** : l’engagement du visiteur arrive sur le site web
-   * **Après le 1er - 9e clic** : engagez le visiteur après un nombre spécifique de clics sur le site web
+  * **À l’entrée** : l’engagement du visiteur arrive sur le site web
+  * **Après le 1er - 9e clic** : engagez le visiteur après un nombre spécifique de clics sur le site web
 
 >[!TIP]
 >
@@ -119,7 +124,7 @@ Définissez des paramètres généraux pour votre segment :
 >1. Utiliser n’importe quel filtre (1, 2 ou 3...)
 >1. Filtres avancés (à l’aide des expressions et / ou )
 >
->    Les filtres avancés vous permettent de contrôler la condition du segment. Saisir les numéros de filtres séparés par « et » et « ou ».
+>    Les filtres avancés vous permettent de contrôler la condition du segment. Saisissez les numéros de filtres séparés par « et » et « ou ».
 >
 >    * 1 et 2 et 3
 >    * 1 ou 2 ou 3
@@ -148,8 +153,8 @@ Effectuez un glisser-déposer de **[!UICONTROL Emplacement]** dans l’éditeur 
 
 * Faites votre choix parmi les paramètres suivants :
 
-   * **[!UICONTROL Inclure]** - Indiquez si vous souhaitez que la campagne inclue ou exclue un emplacement.
-   * **[!UICONTROL Sélectionner le pays à ajouter]** - Dans la liste déroulante, sélectionnez le pays que vous souhaitez inclure dans le segment. Le nom du pays s’affiche à droite. Vous pouvez choisir plusieurs pays.
+  * **[!UICONTROL Inclure]** - Indiquez si vous souhaitez que la campagne inclue ou exclue un emplacement.
+  * **[!UICONTROL Sélectionner le pays à ajouter]** - Dans la liste déroulante, sélectionnez le pays que vous souhaitez inclure dans le segment. Le nom du pays s’affiche à droite. Vous pouvez choisir plusieurs pays.
 
 Une fois le pays ajouté, vous pouvez également spécifier l’État, la ville et le code postal du segment.
 
@@ -165,8 +170,8 @@ Une fois le pays ajouté, vous pouvez également spécifier l’État, la ville 
 
 * Faites votre choix parmi les paramètres suivants :
 
-   * **[!UICONTROL Inclut]** - Indiquez si vous souhaitez que le segment inclue ou exclue un secteur d’activité.
-   * **[!UICONTROL Sélectionner les secteurs à ajouter]** - Sélectionnez le secteur que vous souhaitez inclure dans le segment. Le secteur apparaît sous la liste déroulante. Vous pouvez choisir plusieurs secteurs d’activité.
+  * **[!UICONTROL Inclut]** - Indiquez si vous souhaitez que le segment inclue ou exclue un secteur d’activité.
+  * **[!UICONTROL Sélectionner les secteurs à ajouter]** - Sélectionnez le secteur que vous souhaitez inclure dans le segment. Le secteur apparaît sous la liste déroulante. Vous pouvez choisir plusieurs secteurs d’activité.
 
 **Groupe d’organisations**
 
@@ -174,11 +179,11 @@ Dans la section **[!UICONTROL Segmentation de profil]**, cochez la case en regar
 
 * Dans la liste déroulante, sélectionnez l’une des options suivantes :
 
-   * Fortune 500 - Inclut uniquement les entreprises Fortune 500 de ce segment
-   * Fortune 1000 - Inclut uniquement les entreprises Fortune 1000 de ce segment
-   * Global 2000 - Inclut les entreprises Global 2000 de ce segment
-   * Entreprise - Inclut les organisations comptant plus de 1 000 employés et dont le chiffre d’affaires dépasse 250 millions de dollars
-   * PME - Inclut uniquement les petites et moyennes entreprises de ce segment
+  * Fortune 500 - Inclut uniquement les entreprises Fortune 500 de ce segment
+  * Fortune 1000 - Inclut uniquement les entreprises Fortune 1000 de ce segment
+  * Global 2000 - Inclut les entreprises Global 2000 de ce segment
+  * Entreprise - Inclut les organisations comptant plus de 1 000 employés et dont le chiffre d’affaires dépasse 250 millions de dollars
+  * PME - Inclut uniquement les petites et moyennes entreprises de ce segment
 
 **-Named Accounts-**
 
@@ -186,8 +191,8 @@ Dans la section **[!UICONTROL Segmentation de profil]**, cochez la case en regar
 
 * **Provient de ces sociétés (noms spécifiques)**
 
-   * Sélectionnez la société à cibler dans le menu déroulant « Sélectionner la société à ajouter ».
-   * Vous pouvez saisir le nom exact de l’organisation que vous souhaitez cibler. *Il est* toujours* recommandé d’utiliser les listes de comptes nommés au lieu de saisir les noms manuellement pour de meilleures correspondances (voir ci-dessous).
+  * Sélectionnez la société à cibler dans le menu déroulant « Sélectionner la société à ajouter ».
+  * Vous pouvez saisir le nom exact de l’organisation que vous souhaitez cibler. *Il est* toujours* recommandé d’utiliser les listes de comptes nommés au lieu de saisir les noms manuellement pour de meilleures correspondances (voir ci-dessous).
 
 **Liste des comptes nommés**
 
@@ -197,7 +202,7 @@ Effectuez une sélection dans une [Liste de comptes nommés](/help/marketo/produ
 
 >[!NOTE]
 >
->Le nombre entre crochets en regard du nom de la liste des comptes nommés est utilisé comme référence d’index pour la liste de Web Personalization [API de lecture](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/web-personalization).
+>Le nombre entre crochets en regard du nom de la liste des comptes nommés est utilisé comme référence d’index pour la liste de Web Personalization [API de lecture](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **Exclure le FAI**
 
@@ -240,11 +245,11 @@ Définissez votre segment en fonction du statut d’un prospect : connu ou anony
 
 * Nombre de visites - Sélectionnez cette option dans la liste déroulante pour spécifier le nombre de visites des prospects du site web.
 
-   * Sélectionnez Est égal à, Est égal à ou Supérieur à, ou Est égal à ou Inférieur à dans la liste déroulante.
+  * Sélectionnez Est égal à, Est égal à ou Supérieur à, ou Est égal à ou Inférieur à dans la liste déroulante.
 
 * Visites spécifiques - Sélectionnez cette option dans la liste déroulante pour spécifier un visiteur spécifique.
 
-   * Dans la zone de texte de droite, saisissez le nombre de visiteurs que vous souhaitez suivre. Le numéro d’identification unique du visiteur [!DNL Web Personalization] se trouve lorsque vous cliquez sur un visiteur (dans la page des visiteurs) et sur la visionneuse de campagnes dans le panneau latéral droit. L’identifiant visiteur se trouve dans la section Paramètres avancés . L’identifiant visiteur se trouve également dans l’URL (par exemple VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
+  * Dans la zone de texte de droite, saisissez le nombre de visiteurs que vous souhaitez suivre. Le numéro d’identification unique du visiteur [!DNL Web Personalization] se trouve lorsque vous cliquez sur un visiteur (dans la page des visiteurs) et sur la visionneuse de campagnes dans le panneau latéral droit. L’identifiant visiteur se trouve dans la section Paramètres avancés . L’identifiant visiteur se trouve également dans l’URL (par exemple VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
 
 **Termes de recherche** - Définissez un segment en fonction des termes de recherche d’un prospect.
 
@@ -275,9 +280,9 @@ Faites glisser et déposez le [!UICONTROL système d’exploitation mobile] dans
 * **Type de visiteur**<br />
   **[!UICONTROL Mobile OS]** : dans la liste déroulante, sélectionnez un ou plusieurs systèmes d’exploitation mobiles répertoriés. Le système d’exploitation mobile sélectionné s’affiche ci-dessous.
 
-   * Le visiteur utilise un appareil mobile
-   * Le visiteur utilise ce périphérique/système d’exploitation spécifique
-   * Le visiteur n’utilise aucun appareil mobile
+  * Le visiteur utilise un appareil mobile
+  * Le visiteur utilise ce périphérique/système d’exploitation spécifique
+  * Le visiteur n’utilise aucun appareil mobile
 
 * **[!UICONTROL Appareil]** - Dans la liste déroulante, choisissez un ou plusieurs appareils (Apple, Samsung, LG, HTC, Nexus, Blackberry etc...). Les appareils sélectionnés s’affichent ci-dessous.
 
@@ -296,7 +301,7 @@ Ajoutez la valeur d’événement à cibler. E.g. à partir de sources de donné
 
 **API de contexte utilisateur**
 
-Appel API Web Personalization [en savoir plus ici.](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Appel API Web Personalization [en savoir plus ici.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

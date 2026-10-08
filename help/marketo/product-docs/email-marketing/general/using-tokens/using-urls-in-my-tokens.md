@@ -1,20 +1,22 @@
 ---
 unique-page-id: 11382535
 description: Découvrez comment utiliser des URL dans Mes jetons. Stocker et référencer des URL dans des jetons pour les liens et les landing pages dans les emails.
-title: Utilisation d’URL dans Mes jetons
+title: Utilisation d’URL dans « Mes jetons »
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-TQID: https://experienceleague.adobe.com/d7nzJcfEeJutTNuo95NXcT1eTQXBdNZJoEq5-BdTxs0
+TQID: 'https://experienceleague.adobe.com/d7nzJcfEeJutTNuo95NXcT1eTQXBdNZJoEq5-BdTxs0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a6d52c76-712f-5f64-a879-9c65c1499322
+    internal-label: Tokens
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 267
+source-wordcount: '267'
 ht-degree: 4%
-
 ---
-
-# Utilisation d’URL dans Mes jetons {#using-urls-in-my-tokens}
+# Utilisation d’URL dans « Mes jetons » {#using-urls-in-my-tokens}
 
 Suivez les étapes ci-dessous pour utiliser [!UICONTROL Mes jetons] afin d’insérer des URL dans vos e-mails.
 

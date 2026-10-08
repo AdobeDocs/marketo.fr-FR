@@ -4,20 +4,23 @@ description: Découvrez le rapport Performance des e-mails de Sales Insight dans
 title: E-mail du rapport de performance concernant les Informations sur les ventes
 exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/kuMKUZCy3kzbgGvMdq0TQhJyazKAs-epl8U7zR8glOI
+TQID: 'https://experienceleague.adobe.com/kuMKUZCy3kzbgGvMdq0TQhJyazKAs-epl8U7zR8glOI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 163
+source-wordcount: '163'
 ht-degree: 15%
-
 ---
-
 # E-mail du rapport de performance concernant les Informations sur les ventes {#sales-insight-email-performance-report}
 
 Affichez les performances des e-mails envoyés par le biais de [!DNL Salesforce], [!DNL Microsoft Dynamics] ou d’un plug-in Gmail ou [!DNL Outlook].
@@ -48,7 +51,7 @@ Affichez les performances des e-mails envoyés par le biais de [!DNL Salesforce]
 
 >[!TIP]
 >
->Cliquez sur le nom d’un e-mail pour l’ouvrir dans le Prévisualiseur d’e-mail.
+>Cliquez sur le nom d’un e-mail pour l’ouvrir dans l’aperçu des e-mails.&#x200B;
 
 ## Regrouper par [!UICONTROL représentant commercial] {#group-by-sales-rep}
 

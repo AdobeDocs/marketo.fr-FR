@@ -4,16 +4,18 @@ description: Découvrez comment tester votre intégration d’événement ON24 a
 title: Tester votre intégration d’événement ON24
 exl-id: 8326b81e-abf7-4615-9a0b-b0a579be8bb8
 feature: Events
-TQID: https://experienceleague.adobe.com/u5RzlTajaIZk5-9ESOX2LPYAj9bmbmMdJdraLwFlFqM
+TQID: 'https://experienceleague.adobe.com/u5RzlTajaIZk5-9ESOX2LPYAj9bmbmMdJdraLwFlFqM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 201
+source-wordcount: '201'
 ht-degree: 4%
-
 ---
-
 # Tester votre intégration d’événement ON24 {#test-your-on-event-integration}
 
 Testez minutieusement l’intégration de votre événement.

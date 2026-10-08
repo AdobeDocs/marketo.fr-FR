@@ -1,34 +1,56 @@
 ---
-title: "2017"
+title: '2017'
 description: 2017 - Documents Marketo - Documentation Du Produit
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+    internal-label: Dynamic content
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
+    internal-label: Data integration
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: ca5ce3f901525a7ad1d08a7c4a4d8d5f61786cf4
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 2440
+source-wordcount: '2440'
 ht-degree: 4%
-
 ---
-
 # 2017
 
 ## Hiver 2017 {#winter}
@@ -99,7 +121,7 @@ Filtrez [!UICONTROL Contenu prédictif] l’analyse de sources spécifiques — 
 
 **[!UICONTROL Contenu prédictif] éditeur**
 
-[!UICONTROL &#x200B; L’expérience de modification et la mise en page ont été améliorées et la préparation du contenu est fractionnée par source (e-mail], [!UICONTROL médias riches] ou [!UICONTROL barre de recommandations].
+[!UICONTROL  L’expérience de modification et la mise en page ont été améliorées et la préparation du contenu est fractionnée par source (e-mail], [!UICONTROL médias riches] ou [!UICONTROL barre de recommandations].
 
 ![](assets/predictive-content-editor.png)
 
@@ -370,11 +392,11 @@ Gagnez du temps en réutilisant des ressources créatives et des images sur plus
 
 ## Intégration  {#integration}
 
-**[API de prévisualisation d’e-mail](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/email-scripting)**
+**[API de prévisualisation d’e-mail](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Vous pouvez désormais prévisualiser à distance les e-mails en dehors de Marketo, ce qui simplifie le processus de localisation du contenu des e-mails et réduit les erreurs.
 
-**[Remplacer l’API HTML](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/email-scripting)**
+**[Remplacer l’API HTML](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Les développeurs peuvent mettre à jour à distance le contenu des ressources d’e-mail d’HTML, ce qui leur permet de travailler dans un seul système pour gérer les ressources.
 

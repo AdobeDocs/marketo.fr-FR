@@ -4,18 +4,23 @@ description: Découvrez les programmes d’engagement, les flux, le contenu, les
 title: Présentation des programmes d’engagement
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/miGzcAIMh0IHswARcX7HBevGHcIfAlMTagF-nF9RznE
+TQID: 'https://experienceleague.adobe.com/miGzcAIMh0IHswARcX7HBevGHcIfAlMTagF-nF9RznE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 296
+source-wordcount: '296'
 ht-degree: 88%
-
 ---
-
 # Présentation des programmes d’engagement {#understanding-engagement-programs}
 
 Les programmes d’engagement sont conçus pour être commercialisés auprès de nouvelles personnes en leur présentant du contenu de manière systématique.
@@ -47,7 +52,7 @@ Un **stream** est un pool de contenu prioritaire que le programme d’engagement
 
 ## Contenu {#content}
 
-Il existe deux types de **contenu** que vous pouvez ajouter aux streams des programmes d’engagement : les e-mails et les programmes. Les e-mails seront envoyés aux personnes au moment de la conversion.
+Il existe deux types de **contenu** que vous pouvez ajouter aux streams des programmes d’engagement : les e-mails et les programmes. Les e-mails seront envoyés aux personnes au moment de la diffusion.
 
 ![](assets/image2014-9-15-15-3a25-3a18.png)
 
@@ -69,7 +74,7 @@ Une **conversion** est l’événement d’envoi d’e-mails provenant d’un p
 
 ## Rythme du stream {#stream-cadence}
 
-Vous décidez du moment où une conversion se produit en configurant le **rythme du stream**. C’est ainsi que vous planifiez la sortie du contenu à intervalles réguliers.
+Vous décidez du moment où une conversion se produit en configurant le **rythme du stream**. C’est de cette manière que vous planifiez l’envoi du contenu à intervalles réguliers.
 
 ![](assets/image2014-9-15-15-3a25-3a27.png)
 

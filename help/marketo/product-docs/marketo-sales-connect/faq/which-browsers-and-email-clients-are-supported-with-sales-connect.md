@@ -1,20 +1,22 @@
 ---
 unique-page-id: 14352422
 description: Découvrez quels navigateurs et clients de messagerie sont pris en charge avec Sales Connect. Vérifiez la compatibilité avant d’installer le plug-in Gmail ou Outlook.
-title: Quels navigateurs et clients de messagerie sont pris en charge par Sales Connect ?
+title: Quels sont les navigateurs et clients de messagerie pris en charge par Sales Connect ?
 exl-id: 00f3537e-358d-4540-b569-085674c360a4
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/ts8jXpXtBIJmlsXkeBMxPEWtF4lkrmyDec6SVKx92U0
+TQID: 'https://experienceleague.adobe.com/ts8jXpXtBIJmlsXkeBMxPEWtF4lkrmyDec6SVKx92U0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 120
+source-wordcount: '120'
 ht-degree: 30%
-
 ---
-
-# Quels navigateurs et clients de messagerie sont pris en charge par Sales Connect ? {#which-browsers-and-email-clients-are-supported-with-sales-connect}
+# Quels sont les navigateurs et clients de messagerie pris en charge par Sales Connect ? {#which-browsers-and-email-clients-are-supported-with-sales-connect}
 
 Marketo Sales Connect prend actuellement en charge les navigateurs suivants :
 

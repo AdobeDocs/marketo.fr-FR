@@ -4,16 +4,21 @@ description: Découvrez comment créer un fichier d’événement de calendrier 
 title: Créer un fichier d’événement de calendrier (.ics)
 exl-id: 17b5d99d-94ce-4122-8928-4290cc253d11
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/aFIknZh6lYrZKFnwmzk57wduoMMTly6xkNsysOWzahQ
+TQID: 'https://experienceleague.adobe.com/aFIknZh6lYrZKFnwmzk57wduoMMTly6xkNsysOWzahQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 107
+source-wordcount: '107'
 ht-degree: 11%
-
 ---
-
 # Créer un fichier d’événement de calendrier (.ics) {#create-a-calendar-event-ics-file}
 
 Un jeton de fichier de calendrier vous permet d’ajouter un lien d’événement de calendrier (.ics) à vos e-mails et landing pages Marketo.

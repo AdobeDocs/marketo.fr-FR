@@ -4,16 +4,18 @@ description: Découvrez comment ajouter une identité d’e-mail dans Sales Conn
 title: Ajouter une identité
 exl-id: 6656b852-1c72-4a0a-b641-7ef1925f22a7
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/uLOd4gisccc14zCnYMSHdtUTM4TLzRvkqNgtQPOHjBM
+TQID: 'https://experienceleague.adobe.com/uLOd4gisccc14zCnYMSHdtUTM4TLzRvkqNgtQPOHjBM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 185
+source-wordcount: '185'
 ht-degree: 2%
-
 ---
-
 # Ajouter une identité {#add-identity}
 
 Ajoutez une identité lorsque vous disposez de plusieurs adresses e-mail à partir desquelles envoyer.

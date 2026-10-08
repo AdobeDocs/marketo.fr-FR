@@ -3,40 +3,61 @@ description: Liste de contrôle d’administration d’instance héritée - Docu
 title: Liste de contrôle d’administration d’instance héritée
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-TQID: https://experienceleague.adobe.com/FCMSgPqv3eJh4Etqe3J7305tnfQbVrghY8nc2Im6Ww8
+TQID: 'https://experienceleague.adobe.com/FCMSgPqv3eJh4Etqe3J7305tnfQbVrghY8nc2Im6Ww8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 subfeature_v2:
   - id: a8c137b3-8aa5-433e-bdc9-0a216c2a11c1
+    internal-label: Custom activities
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
   - id: e5d29014-8a81-4c0c-845b-2adc7a5d6258
+    internal-label: Campaign Inspector
   - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+    internal-label: Custom objects
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
   - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
   - id: f7d2c504-7d5f-4a94-b77e-7fce7ef46c22
+    internal-label: Audit trail
   - id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+    internal-label: Users and roles
   - id: fc9b09fe-b844-4544-887b-e420c3b82065
+    internal-label: Webhooks
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1943
+source-wordcount: '2030'
 ht-degree: 4%
-
 ---
-
-# Instance héritée : liste de contrôle de la section Admin {#inherited-instance-admin-section-checklist}
+# Instance héritée : liste de contrôle de la section d’administration {#inherited-instance-admin-section-checklist}
 
 Les listes de contrôle ci-dessous (les listes de contrôle suivantes mentionnées au bas de chaque article) ont été créées par Adobe Professional Services avec la contribution de Marketo Champions pour vous aider à vous mettre rapidement à niveau. Vous pouvez également [télécharger les listes de contrôle](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) et suivre votre progression.
 
@@ -319,7 +340,7 @@ Les listes de contrôle ci-dessous (les listes de contrôle suivantes mentionné
   </tr>
   <tr>
    <td>Adobe Dynamic Chat (le cas échéant)</td>
-<td>Vous devrez accéder à <a href="https://adminconsole.adobe.com/" target="_blank"></a> en suivant les étapes ci-dessous. Si vous n’avez pas encore configuré d’Adobe ID, <a href="https://helpx.adobe.com/fr/manage-account/using/create-update-adobe-id.html" target="_blank">découvrez comment faire ici</a>.
+<td>Vous devrez accéder à <a href="https://adminconsole.adobe.com/" target="_blank"></a> en suivant les étapes ci-dessous. Si vous n’avez pas encore configuré d’Adobe ID, <a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank">découvrez comment faire ici</a>.
 <br/>
 <li>Avez-vous accepté l’invitation <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">Administrateur de produit </a> ? L’e-mail est envoyé lorsque Dynamic Chat est activé dans votre instance Marketo Engage et que vous êtes désigné comme administrateur système.
 <br/> Dans le cas contraire, recherchez l’e-mail de bienvenue dans votre boîte de réception et acceptez l’invitation à configurer votre Adobe ID.</li>

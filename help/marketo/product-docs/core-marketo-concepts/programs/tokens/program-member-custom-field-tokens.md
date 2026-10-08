@@ -1,22 +1,24 @@
 ---
 unique-page-id: 1147114
 description: Découvrez les jetons de champ personnalisé des membres de programme. Utilisez des jetons pour insérer des données de membre dans les e-mails et les landing pages.
-title: Jetons de champs personnalisés de personnes membres du programme
+title: Jetons des champs personnalisés des membres du programme
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-TQID: https://experienceleague.adobe.com/B2oY6BKJdd92AAsMPHZV8Ffyc-9jKGRpATqles6TUos
+TQID: 'https://experienceleague.adobe.com/B2oY6BKJdd92AAsMPHZV8Ffyc-9jKGRpATqles6TUos'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: a6d52c76-712f-5f64-a879-9c65c1499322
+    internal-label: Tokens
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 445
+source-wordcount: '445'
 ht-degree: 5%
-
 ---
-
-# Jetons de champs personnalisés de personnes membres du programme {#program-member-custom-field-tokens}
+# Jetons des champs personnalisés des membres du programme {#program-member-custom-field-tokens}
 
 ## Prise en charge des jetons pour les champs personnalisés des membres de programme {#token-support-for-program-member-custom-fields}
 

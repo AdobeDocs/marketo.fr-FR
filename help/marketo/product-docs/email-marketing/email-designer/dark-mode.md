@@ -4,28 +4,36 @@ title: Mode sombre
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 9dc1bce2-c363-46ca-83ef-ee4695ee647f
-TQID: https://experienceleague.adobe.com/zGeCSfSKkyTkteiTaPmkiirkOXxEP1YVdWmHMvSWnR0
+TQID: 'https://experienceleague.adobe.com/zGeCSfSKkyTkteiTaPmkiirkOXxEP1YVdWmHMvSWnR0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Accessibility
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1236
+source-wordcount: '1236'
 ht-degree: 42%
-
 ---
-
 # Mode sombre {#dark-mode}
 
 Lors de la conception de vos e-mails, le Designer d’e-mail vous permet de passer à la vue **[!UICONTROL Mode sombre]**.
 
 En **[!UICONTROL mode sombre]**, vous pouvez définir des paramètres personnalisés spécifiques à afficher par la prise en charge des clients de messagerie lorsque leur mode sombre est activé.
 
-## Présentation du mode sombre {#what-is-dark-mode}
+## Qu’est-ce que le mode sombre ? {#what-is-dark-mode}
 
 Le mode sombre permet aux clients de messagerie et aux applications de messagerie de s’afficher avec des arrière-plans plus sombres et des couleurs plus claires pour le texte, les boutons et d’autres éléments de l’interface utilisateur. Cela permet de réduire la fatigue visuelle, d’économiser l’autonomie de la batterie et d’améliorer la lisibilité dans les environnements peu éclairés pour une expérience de visionnage plus confortable.
 
@@ -46,11 +54,11 @@ Que vous définissiez ou non des paramètres personnalisés de mode sombre, ces 
 
 ### Clients qui appliquent leur propre mode sombre. {#default-support}
 
-Certains clients de messagerie appliquent uniquement leur propre mode sombre par défaut pour tous les e-mails reçus. Les couleurs, les arrière-plans, les images, etc., sont automatiquement ajustés avec les paramètres de mode sombre spécifiques à ce client de messagerie. Aucune modification externe n’est possible.
+Certains clients de messagerie appliquent systématiquement leur propre mode sombre par défaut à tous les e-mails reçus. Les couleurs, les arrière-plans, les images, etc., sont automatiquement ajustés avec les paramètres de mode sombre spécifiques à ce client de messagerie. Aucune modification externe n’est possible.
 
 Voici quelques exemples :
 
-* Gmail (client de messagerie web de bureau, iOS, Android, client de messagerie web mobile)
+* Gmail (Webmail pour ordinateur de bureau, iOS, Android, Webmail mobile)
 * Outlook Windows
 * Outlook Windows Mail
 

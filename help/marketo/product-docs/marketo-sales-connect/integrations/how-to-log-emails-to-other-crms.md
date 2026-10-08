@@ -1,23 +1,26 @@
 ---
 unique-page-id: 14352430
 description: Découvrez comment consigner des e-mails Sales Connect dans des systèmes CRM autres que Salesforce. Obtenez des options pour consigner l’activité dans votre CRM.
-title: Comment consigner des e-mails dans d’autres CRM
+title: Comment enregistrer les e-mails dans d’autres systèmes de gestion de la relation client (GRC)
 exl-id: 29b34be0-685f-4c80-920d-d33ff7d02f5d
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/n5lXuin4JrmOG0WHKpVd9MkumYCvjrEpzNun5RaZERw
+TQID: 'https://experienceleague.adobe.com/n5lXuin4JrmOG0WHKpVd9MkumYCvjrEpzNun5RaZERw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Configuration
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 167
-ht-degree: 9%
-
+source-wordcount: '169'
+ht-degree: 10%
 ---
-
-# Comment consigner des e-mails dans d’autres CRM {#how-to-log-emails-to-other-crms}
+# Comment enregistrer les e-mails dans d’autres systèmes de gestion de la relation client (GRC) {#how-to-log-emails-to-other-crms}
 
 Si votre CRM vous fournit une adresse en Cci, vous pouvez utiliser la section « Autre » CRM pour configurer la journalisation des e-mails. Une fois la configuration effectuée, les e-mails que vous envoyez sont automatiquement consignés dans votre CRM.
 

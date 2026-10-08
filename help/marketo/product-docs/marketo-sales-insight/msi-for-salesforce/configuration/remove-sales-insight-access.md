@@ -3,20 +3,23 @@ description: Découvrez comment supprimer l’accès à Sales Insight des utilis
 title: Supprimer l’accès à Informations sur les ventes
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/KkpOo6sg-kURyX5ncltrYry0JdLWYMzj-CzDP7F-Zp8
+TQID: 'https://experienceleague.adobe.com/KkpOo6sg-kURyX5ncltrYry0JdLWYMzj-CzDP7F-Zp8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 387
+source-wordcount: '387'
 ht-degree: 5%
-
 ---
-
 # Supprimer l’accès [!DNL Sales Insight] {#remove-sales-insight-access}
 
 Procédez comme suit pour supprimer l’accès aux fonctionnalités [!DNL Sales Insight] dans [!DNL Salesforce]. Applicable à [!DNL Salesforce] Classic et Lightning.
@@ -100,7 +103,7 @@ L’autorisation des objets mentionnés ci-dessous, des classes apex et des page
 
    ![](assets/remove-sales-insight-access-3.png)
 
-1. Faites défiler jusqu’à « [!UICONTROL &#x200B; Autorisations d’objet personnalisé &#x200B;] ».
+1. Faites défiler jusqu’à « [!UICONTROL  Autorisations d’objet personnalisé ] ».
 
 1. Supprimez l’accès « Lire, Créer, Modifier et Supprimer » des objets suivants :
 

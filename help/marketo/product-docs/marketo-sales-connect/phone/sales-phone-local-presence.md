@@ -1,20 +1,22 @@
 ---
 unique-page-id: 14352436
 description: Découvrez la présence locale du téléphone commercial dans Sales Connect. Afficher un identifiant d'appelant local lors des appels sortants pour améliorer les taux de réponse.
-title: Option de numéro local dans Sales Phone
+title: Présence locale pour les appels commerciaux
 exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/-Mw7ww1YsyO-2ejnBdsfAGszUbSNErQdpOMXYPBa7CU
+TQID: 'https://experienceleague.adobe.com/-Mw7ww1YsyO-2ejnBdsfAGszUbSNErQdpOMXYPBa7CU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 153
+source-wordcount: '153'
 ht-degree: 5%
-
 ---
-
-# Option de numéro local dans Sales Phone {#sales-phone-local-presence}
+# Présence locale pour les appels commerciaux {#sales-phone-local-presence}
 
 Si vous souhaitez avoir l’impression d’appeler depuis le même indicatif régional, cochez simplement la case **[!UICONTROL Présence locale]** avant de passer l’appel.
 

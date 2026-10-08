@@ -4,18 +4,24 @@ description: Découvrez comment créer un utilisateur Salesforce pour Marketo av
 title: 'Étape 2 sur 3 : création d’un utilisateur Salesforce pour Marketo (professionnel)'
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/BrxRg4uQfMHXiQYXbIyBL4OkP9-HCJLSXVPEKMHD7C4
+TQID: 'https://experienceleague.adobe.com/BrxRg4uQfMHXiQYXbIyBL4OkP9-HCJLSXVPEKMHD7C4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Accessibility
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 436
+source-wordcount: '436'
 ht-degree: 0%
-
 ---
-
 # Étape 2 sur 3 : création d’un utilisateur [!DNL Salesforce] pour Marketo (professionnel) {#step-of-create-a-salesforce-user-for-marketo-professional}
 
 >[!NOTE]
@@ -57,14 +63,14 @@ Dans cet article, vous allez personnaliser les autorisations de champ avec une m
    * [!UICONTROL Programme d’acquisition]
    * [!UICONTROL ID du programme d’acquisition]
    * [!UICONTROL Désinscription Aux E-Mails]
-   * [!UICONTROL &#x200B; Ville déduite &#x200B;]
+   * [!UICONTROL  Ville déduite ]
    * [!UICONTROL Société déduite]
    * [!UICONTROL Pays déduit]
    * [!UICONTROL Région métropolitaine déduite]
    * [!UICONTROL Indicatif téléphonique déduit]
    * [!UICONTROL Code postal déduit]
    * [!UICONTROL Région d’État déduite]
-   * [!UICONTROL &#x200B; Score du lead &#x200B;]
+   * [!UICONTROL  Score du lead ]
    * [!UICONTROL Référent original]
    * [!UICONTROL Moteur de recherche original]
    * [!UICONTROL Expression de recherche originale]

@@ -4,20 +4,23 @@ description: Découvrez les fonctionnalités de Marketo Sales Insight dans Sales
 title: Vue d’ensemble des fonctionnalités de MSI
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/UrYSPhY-9gQPzMHZIMHDIdrAJbZQt8lzNbEO4D-OE8g
+TQID: 'https://experienceleague.adobe.com/UrYSPhY-9gQPzMHZIMHDIdrAJbZQt8lzNbEO4D-OE8g'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 946
+source-wordcount: '946'
 ht-degree: 13%
-
 ---
-
 # Vue d’ensemble des fonctionnalités de MSI {#msi-feature-overview}
 
 MSI offre les fonctionnalités suivantes dans [!DNL Salesforce] Lightning et Classic.
@@ -32,17 +35,17 @@ Le panneau Visualforce de MSI comprend les fonctionnalités suivantes :
 
 * Onglets
 
-   * [Tableau de bord des informations](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
-   * Moments intéressants
-   * Activité Web
-   * E-mail
-   * Score
+  * [Tableau de bord des informations](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
+  * Moments intéressants
+  * Activité Web
+  * E-mail
+  * Score
 
 * Actions
 
-   * Ajouter à la campagne Marketo
-   * Envoyer l&#39;e-mail Marketo
-   * Ajouter/Supprimer de la liste de surveillance
+  * Ajouter à la campagne Marketo
+  * Envoyer l&#39;e-mail Marketo
+  * Ajouter/Supprimer de la liste de surveillance
 
 * Étoiles et flammes
 
@@ -151,37 +154,37 @@ Les fonctionnalités suivantes ne sont **pas disponibles** dans la page Mise en 
 
 * [!DNL Best Bets]
 
-   * Permet de créer et de modifier des vues. Possibilité de masquer les meilleurs résultats selon la configuration de l’option « Masquer par défaut » dans la page de configuration de Marketo
-   * Colonnes : nom, compte, dernier moment intéressant, en-tête de statut, engagement (étoiles et flammes), masquer
+  * Permet de créer et de modifier des vues. Possibilité de masquer les meilleurs résultats selon la configuration de l’option « Masquer par défaut » dans la page de configuration de Marketo
+  * Colonnes : nom, compte, dernier moment intéressant, en-tête de statut, engagement (étoiles et flammes), masquer
 
 * Ma liste de surveillance
 
-   * Possibilité de créer et de modifier des vues
-   * Colonnes : nom, compte, dernier moment intéressant, en-tête de statut, engagement (étoiles et flammes), supprimer
+  * Possibilité de créer et de modifier des vues
+  * Colonnes : nom, compte, dernier moment intéressant, en-tête de statut, engagement (étoiles et flammes), supprimer
 
 * Activité Web
 
-   * Inclut la possibilité de créer et de modifier des vues, la fonctionnalité de filtre de période
-   * Colonne - Page vue, Nom, Compte, Dernière visite
+  * Inclut la possibilité de créer et de modifier des vues, la fonctionnalité de filtre de période
+  * Colonne - Page vue, Nom, Compte, Dernière visite
 
 * Activité Web anonyme
 
-   * Inclut la possibilité de créer et de modifier des vues, la fonctionnalité de filtre de période
-   * Colonnes - Page vue, Société, Dernière visite, Recherche (ouvre la page LinkedIn de la société)
+  * Inclut la possibilité de créer et de modifier des vues, la fonctionnalité de filtre de période
+  * Colonnes - Page vue, Société, Dernière visite, Recherche (ouvre la page LinkedIn de la société)
 
 * Mes e-mails
 
-   * Possibilité de créer et de modifier des vues
-   * Colonnes - Nom, Compte, Objet, Date, Ouverture, Clic
+  * Possibilité de créer et de modifier des vues
+  * Colonnes - Nom, Compte, Objet, Date, Ouverture, Clic
 
 * Flux de lead - Inclut la possibilité de s’abonner à des moments intéressants. Le flux RSS sur la page de configuration doit être activé pour utiliser cette fonctionnalité.
 
-   * Lead/Contact ayant vécu ce moment intéressant
-   * Type de moment intéressant (web, e-mail ou jalon) et description
-   * Nom de compte
-   * Heure à laquelle ce moment intéressant s’est produit
-   * Option d’abonnement permettant de recevoir une notification par e-mail pour ce type d’événement
-   * Icône Haute priorité pour afficher cette personne est un meilleur résultat
+  * Lead/Contact ayant vécu ce moment intéressant
+  * Type de moment intéressant (web, e-mail ou jalon) et description
+  * Nom de compte
+  * Heure à laquelle ce moment intéressant s’est produit
+  * Option d’abonnement permettant de recevoir une notification par e-mail pour ce type d’événement
+  * Icône Haute priorité pour afficher cette personne est un meilleur résultat
 
 ## Onglet Configuration [!DNL Marketo Sales Insight] {#marketo-sales-insight-configuration-tab}
 

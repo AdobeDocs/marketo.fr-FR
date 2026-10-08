@@ -1,14 +1,15 @@
 ---
 unique-page-id: 557076
-description: Marketing par e-mail - Documents Marketo - Documentation du produit
+description: Marketing par e-mail - Marketo Docs - Documentation du produit
 title: Marketing par e-mail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 49%
-
 ---
-
 
 # Marketing par e-mail {#email-marketing}
 

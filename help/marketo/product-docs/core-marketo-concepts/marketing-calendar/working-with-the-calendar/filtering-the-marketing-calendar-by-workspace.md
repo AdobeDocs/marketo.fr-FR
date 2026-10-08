@@ -4,16 +4,21 @@ description: Découvrez comment filtrer le calendrier marketing par espace de tr
 title: Filtrage du calendrier marketing par espace de travail
 exl-id: 3f1259dd-a42d-4d9b-b2ba-1f1060f8dae6
 feature: Marketing Calendar
-TQID: https://experienceleague.adobe.com/kitTh-V5W5gqQqXgzNQ3MuEa-H4x9s2k98lm6yaOO00
+TQID: 'https://experienceleague.adobe.com/kitTh-V5W5gqQqXgzNQ3MuEa-H4x9s2k98lm6yaOO00'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: a572083b-9238-40c5-8a10-cf294c415aab
+    internal-label: marketing calendar
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 79
+source-wordcount: '79'
 ht-degree: 15%
-
 ---
-
 # Filtrage du calendrier marketing par espace de travail {#filtering-the-marketing-calendar-by-workspace}
 
 Le calendrier marketing peut être filtré par objets dans des espaces de travail spécifiques.
@@ -22,7 +27,7 @@ Le calendrier marketing peut être filtré par objets dans des espaces de travai
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. Dans le panneau de filtrage, sélectionnez la liste déroulante **&#x200B;**. Choisissez l’espace de travail de votre choix.
+1. Dans le panneau de filtrage, sélectionnez la liste déroulante ****. Choisissez l’espace de travail de votre choix.
 
    ![](assets/image2014-9-24-11-3a34-3a6.png)
 

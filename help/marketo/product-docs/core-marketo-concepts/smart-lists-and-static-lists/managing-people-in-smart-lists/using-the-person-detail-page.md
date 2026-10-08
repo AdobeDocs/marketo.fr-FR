@@ -4,21 +4,28 @@ description: Découvrez comment utiliser la page des détails de la personne. Af
 title: Utilisation de la page Détails d’une personne
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/ANLA7fu7O3m6mBjiY1b2z3UQH-PqWf6cAn5nQ5S3Yrk
+TQID: 'https://experienceleague.adobe.com/ANLA7fu7O3m6mBjiY1b2z3UQH-PqWf6cAn5nQ5S3Yrk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 552
+source-wordcount: '552'
 ht-degree: 33%
-
 ---
-
 # Utilisation de la page Détails d’une personne {#using-the-person-detail-page}
 
 La page des détails d’une personne contient toutes les informations que Marketo connaît sur cette personne. Vous pouvez modifier les données directement depuis cette page.
@@ -68,7 +75,7 @@ Les informations sur les personnes sont classées dans les onglets suivants :
 
 >[!NOTE]
 >
->Vous pouvez également consulter les informations sur les opportunités [insérées via l’API](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/lead-database/opportunities) pour les instances qui ne sont pas synchronisées avec un CRM.
+>Vous pouvez également consulter les informations sur les opportunités [insérées via l’API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) pour les instances qui ne sont pas synchronisées avec un CRM.
 
 ## Modification d’un champ {#editing-a-field}
 
@@ -83,16 +90,16 @@ De nombreux champs sont modifiables. Pour mettre à jour les informations d’un
 | Adresse | Chiffre d&#39;affaires annuel | IP anonyme | Adresse de facturation | Ville de facturation |
 | Pays de facturation | Code postal de facturation | État de facturation | Ville | Nom de la société |
 | Pays | Créé à | Date de naissance | Service | Ne pas appeler |
-| Cause Ne pas appeler | Raison Ne pas appeler | Adresse e-mail | E-mail non valide | Cause e-mail non valide |
+| Cause de l’interdiction d’appel | Motif de l’interdiction d’appel | Adresse e-mail | E-mail non valide | Cause e-mail non valide |
 | ID de la société externe | ID du commercial externe | Numéro de fax | Prénom | Nom complet |
 | Secteur industriel | Ville déduite | Société déduite | Pays déduit | Aire métropolitaine déduite |
 | Indicatif téléphonique local déduit | Code postal déduit | Région déduite | Est anonyme | Est client |
 | Est partenaire | Intitulé du poste | Nom | Évaluation | Score |
 | Source de personne | Statut | Téléphone principal | Nom d’affichage du [!DNL Facebook] social Marketo | Identifiant du [!DNL Facebook] social Marketo |
 | URL de la photo du [!DNL Facebook] social Marketo | URL du profil de [!DNL Facebook] social Marketo | Marketo Social [!DNL Facebook] Reach | Marketo Social [!DNL Facebook] Enrollment Référencées | Visites référencées du [!DNL Facebook] social Marketo |
-| Sexe Marketo pour réseaux sociaux | Dernière inscription Marketo sur recommandation via réseaux sociaux | Dernière visite Marketo sur recommandation via réseaux sociaux | Nom d’affichage du [!DNL LinkedIn] social Marketo | Identifiant du [!DNL LinkedIn] social Marketo |
+| Sexe Marketo pour réseaux sociaux | Dernière inscription Marketo sur recommandation via les réseaux sociaux | Dernière visite Marketo sur recommandation via les réseaux sociaux | Nom d’affichage du [!DNL LinkedIn] social Marketo | Identifiant du [!DNL LinkedIn] social Marketo |
 | URL de la photo du [!DNL LinkedIn] social Marketo | URL du profil de [!DNL LinkedIn] social Marketo | Marketo Social [!DNL LinkedIn] Reach | Marketo Social [!DNL LinkedIn] Enrollment Référencées | Visites référencées du [!DNL LinkedIn] social Marketo |
-| ID association sociale Marketo | Total des inscriptions Marketo sur recommandation via LinkedIn | Total des visites Marketo sur recommandation via LinkedIn | Nom d’affichage du [!DNL Twitter] social Marketo | Identifiant du [!DNL Twitter] social Marketo |
+| ID de syndication Marketo via les réseaux sociaux | Total des inscriptions Marketo sur recommandation via les réseaux sociaux | Total des visites Marketo sur recommandation via les réseaux sociaux&#x200B; | Nom d’affichage du [!DNL Twitter] social Marketo | Identifiant du [!DNL Twitter] social Marketo |
 | URL de la photo du [!DNL Twitter] social Marketo | URL du profil de [!DNL Twitter] social Marketo | Marketo Social [!DNL Twitter] Reach | Marketo Social [!DNL Twitter] Enrollment Référencées | Visites référencées du [!DNL Twitter] social Marketo |
 | Deuxième prénom | Numéro téléphone mobile | Nombre d&#39;employés | Numéro de téléphone | Code postal |
 | Priorité | Évaluation relative | Rôle | Titre | Code SIC |

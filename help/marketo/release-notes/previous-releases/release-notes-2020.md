@@ -1,45 +1,76 @@
 ---
-title: "2020"
+title: '2020'
 description: 2020 - Documents Marketo - Documentation Du Produit
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 subfeature_v2:
   - id: a8c137b3-8aa5-433e-bdc9-0a216c2a11c1
+    internal-label: Custom activities
   - id: d1956f52-ecfd-4e01-8941-47af238acb0d
+    internal-label: Help center
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
   - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+    internal-label: Custom objects
   - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
   - id: f7d2c504-7d5f-4a94-b77e-7fce7ef46c22
+    internal-label: Audit trail
   - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+    internal-label: Email marketing
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 4150
+source-wordcount: '4154'
 ht-degree: 2%
-
 ---
-
 # 2020
 
 ## Janvier 2020 {#january}
@@ -48,7 +79,7 @@ Les fonctionnalités suivantes sont incluses dans la version de janvier 2020. V�
 
 >[!AVAILABILITY]
 >
->Les fonctionnalités signalées par une étoile ( ![(étoile)](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.
+>Les fonctionnalités signalées par une étoile ( ![(étoile)](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.&#x200B;
 
 **_Versions trimestrielles_**
 
@@ -56,7 +87,7 @@ Les fonctionnalités suivantes seront publiées le **17 janvier 2020**.
 
 ## Application Marketo Engage Adobe principale {#core-marketo-engage-adobe-application}
 
-* [Sélecteur de ressources Adobe Experience Manager &#x200B;](/help/marketo/product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md) : accédez rapidement aux ressources alignées sur votre marque et aux ressources AEM disponibles directement dans Marketo Engage. Remarque : bien que cette fonctionnalité soit disponible dans nos expériences Marketo Sky et Classic, les fonctionnalités administratives se trouvent dans notre expérience Classic. Vous devez être client d’AEM Assets et disposer de la version 6.5 ou ultérieure.
+* [Sélecteur de ressources Adobe Experience Manager ](/help/marketo/product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md) : accédez rapidement aux ressources alignées sur votre marque et aux ressources AEM disponibles directement dans Marketo Engage. Remarque : bien que cette fonctionnalité soit disponible dans nos expériences Marketo Sky et Classic, les fonctionnalités administratives se trouvent dans notre expérience Classic. Vous devez être client d’AEM Assets et disposer de la version 6.5 ou ultérieure.
 
 >[!NOTE]
 >
@@ -88,7 +119,7 @@ Les fonctionnalités suivantes font l’objet d’un cycle non trimestriel et se
 
 ## [!DNL Marketo Sky] {#marketo-sky}
 
-* [Modification d’images](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=fr#design-studio) : accédez aux fonctionnalités d’édition d’Adobe sans avoir à quitter Marketo Engage. Cette nouvelle fonctionnalité vous permet d’améliorer, de recadrer et d’ajouter facilement du texte aux images directement dans [!UICONTROL Design Studio].
+* [Modification d’images](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio) : accédez aux fonctionnalités d’édition d’Adobe sans avoir à quitter Marketo Engage. Cette nouvelle fonctionnalité vous permet d’améliorer, de recadrer et d’ajouter facilement du texte aux images directement dans [!UICONTROL Design Studio].
 
 ## [!DNL Sales Insight]
 
@@ -107,7 +138,7 @@ Les fonctionnalités suivantes font l’objet d’un cycle non trimestriel et se
 >
 >* **ITP 2.1+ [!DNL Munchkin] Update** : en raison des modifications apportées à la politique des cookies pour [!DNL Safari], la capacité de [!DNL Munchkin] à effectuer le suivi des utilisateurs entre les sessions sur le même domaine sera limitée par ITP à 1 ou 7 jours en fonction du navigateur et de la version du navigateur utilisés par le visiteur. Pour en tenir compte, nous mettons en œuvre un nouveau service web pour permettre la définition des cookies Munchkin avec un en-tête Set-Cookie via une réponse HTTP. Vous trouverez plus d’informations sur la mise en œuvre de ce nouveau service [ici](https://nation.marketo.com/docs/DOC-7351).
 
-**_Webinaire de mise à jour du produit_** [Rejoignez-nous](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) le 3 mars à 11 :00AM PT/2 :00PM ET pour un webinaire en direct hébergé par notre équipe produit et découvrez en détail les fonctionnalités incluses dans cette version.
+**_Webinaire de mise à jour du produit_** [Rejoignez-nous](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) le 3 mars à 11 h 00 (heure de Paris) / 14 h 00 (heure de Paris) pour un webinaire en direct hébergé par notre équipe produit et découvrez en détail les fonctionnalités incluses dans cette version.
 
 ## Février 2020 {#february}
 
@@ -115,7 +146,7 @@ Les fonctionnalités suivantes sont incluses dans la version de février 2020. V
 
 >[!AVAILABILITY]
 >
->Les fonctionnalités signalées par une étoile ( ![(étoile)](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.
+>Les fonctionnalités signalées par une étoile ( ![(étoile)](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.&#x200B;
 
 **_Versions trimestrielles_** Les fonctionnalités suivantes ont été publiées le **21 février 2020**.
 
@@ -157,7 +188,7 @@ Les fonctionnalités suivantes font l’objet d’un cycle non trimestriel et se
 * **Paramètre « _method » de l’API de ressources** : après septembre 2020, les points d’entrée de l’API de ressources n’accepteront plus « _method » pour transmettre des paramètres de requête dans un corps POST afin de contourner les limites de longueur d’URI. Pour répondre aux requêtes qui nécessitaient ce paramètre, la limite d’URI pour les API de ressources passera de 6 Ko à 65 Ko, de sorte que les URI de requête longues puissent être envoyés.
 * **Obsolescence de la prise en charge d’Internet Explorer** : à compter de la version de juillet du 31 juillet 2020, l’interface utilisateur de Marketo Engage ne sera plus prise en charge dans Internet Explorer.
 
-**_Webinaire de mise à jour du produit_** [Rejoignez-nous](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) le 3 mars à 11 :00AM PT/2 :00PM ET pour un webinaire en direct hébergé par notre équipe produit et découvrez en détail les fonctionnalités incluses dans cette version.
+**_Webinaire de mise à jour du produit_** [Rejoignez-nous](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) le 3 mars à 11 h 00 (heure de Paris) / 14 h 00 (heure de Paris) pour un webinaire en direct hébergé par notre équipe produit et découvrez en détail les fonctionnalités incluses dans cette version.
 
 ## Juin 2020 {#june}
 
@@ -165,13 +196,13 @@ Les fonctionnalités suivantes sont incluses dans la version du 20 juin. Vérifi
 
 >[!AVAILABILITY]
 >
->Les fonctionnalités signalées par une étoile (![](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.
+>Les fonctionnalités signalées par une étoile (![](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.&#x200B;
 
 **_Versions trimestrielles_** Les fonctionnalités suivantes seront publiées le **5 juin 2020**.
 
 ## Engagement Marketo de base
 
-* **[Audiences prédictives](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=fr#predictive-audiences)** ![(étoile)](assets/yellow-star.png) : les nouveaux filtres de liste dynamique et de campagne dynamique optimisés par Adobe AI vous permettent de créer des segments d’audience optimisés par l’IA pour les programmes marketing d’e-mail, d’événement et de webinaire. Utilisez l’IA pour segmenter les audiences en fonction de la probabilité de prospect de vous inscrire à un événement, d’y assister ou de vous désinscrire. Créez des audiences semblables en fonction de programmes précédents afin de répliquer efficacement les succès précédents. Atteignez les objectifs de conversion avec un suivi des objectifs prédictif et obtenez des recommandations sur la manière d’affiner vos segments d’audience pour les programmes d’événement.
+* **[Audiences prédictives](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![(étoile)](assets/yellow-star.png) : les nouveaux filtres de liste dynamique et de campagne dynamique optimisés par Adobe AI vous permettent de créer des segments d’audience optimisés par l’IA pour les programmes marketing d’e-mail, d’événement et de webinaire. Utilisez l’IA pour segmenter les audiences en fonction de la probabilité de prospect de vous inscrire à un événement, d’y assister ou de vous désinscrire. Créez des audiences semblables en fonction de programmes précédents afin de répliquer efficacement les succès précédents. Atteignez les objectifs de conversion avec un suivi des objectifs prédictif et obtenez des recommandations sur la manière d’affiner vos segments d’audience pour les programmes d’événement.
 * **Boost d’e-mail par lots** ![(étoile)](assets/yellow-star.png) : amélioration de notre fonctionnalité de marketing par e-mail qui vous permet d’envoyer jusqu’à 3 millions d’e-mails par lot et par heure. Nous avons repensé le traitement des campagnes par lots et des rapports par e-mail afin d’améliorer les performances des programmes de messagerie et des campagnes par e-mail par lots. Le délai d’envoi est ainsi réduit et le temps d’achèvement amélioré. Configurez vos envois d’e-mail comme vous le feriez normalement, cela n’ajoute aucune complexité. Cette amélioration est disponible sous la forme d’un module complémentaire de produit qui comprend également un pack de lancement des services de diffusion, des outils de diffusion par e-mail et plusieurs adresses IP dédiées.
 * **[Intégration d’audience à Adobe Experience Cloud (AEC)](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)** : nouvelle intégration d’Adobe Experience Cloud (AEC) qui vous permet de synchroniser les listes statiques de prospects connus de Marketo Engage avec plusieurs applications AEC afin d’améliorer les programmes existants, de déverrouiller de nouveaux cas d’utilisation et d’orchestrer des campagnes multicanal. Cette intégration inclut Adobe Analytics, Adobe Target, Adobe Experience Manager, Adobe Audience Manager et Adobe Advertising Cloud.
 * **[Champs personnalisés du membre de programme](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)** : capturez et utilisez les champs personnalisés relatifs à un membre de programme. Utilisez ces nouveaux champs dans vos formulaires Marketo Engage, affichez-les dans la liste des membres d’un programme, exploitez-les dans les filtres et les déclencheurs de liste dynamique et incluez-les dans une nouvelle action de flux de campagne dynamique pour une automatisation améliorée et une personnalisation plus granulaire. Ils peuvent également être importés et exportés via l’interface utilisateur et les API. Amélioration de notre fonctionnalité d’objets et de champs de données personnalisés.
@@ -187,7 +218,7 @@ Les fonctionnalités suivantes sont incluses dans la version du 20 juin. Vérifi
 
 * **Nouvelle découverte de compte généralement disponible**
 
-   * La détection de nouveaux comptes est une amélioration de notre fonctionnalité de profilage des comptes qui vous permet de découvrir de nouveaux comptes cibles pour votre stratégie ABM en fonction de votre modèle de profil client idéal optimisé par l’IA. Affichez, sélectionnez et importez les nouveaux comptes recommandés, ainsi que leurs indicateurs de données d’ajustement et d’intention basés sur l’IA.
+  * La détection de nouveaux comptes est une amélioration de notre fonctionnalité de profilage des comptes qui vous permet de découvrir de nouveaux comptes cibles pour votre stratégie ABM en fonction de votre modèle de profil client idéal optimisé par l’IA. Affichez, sélectionnez et importez les nouveaux comptes recommandés, ainsi que leurs indicateurs de données d’ajustement et d’intention basés sur l’IA.
 
 <br> 
 
@@ -231,7 +262,7 @@ Les fonctionnalités suivantes sont incluses dans la version du 20 juillet. Vér
 
 >[!AVAILABILITY]
 >
->Veuillez noter que, selon votre forfait actuel, les articles avec une étoile ( ![(étoile)](assets/yellow-star.png)) peuvent nécessiter l&#39;achat d&#39;un complément de valeur. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.
+>Veuillez noter que, selon votre forfait actuel, les articles avec une étoile ( ![(étoile)](assets/yellow-star.png)) peuvent nécessiter l&#39;achat d&#39;un complément de valeur. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.&#x200B;
 
 **_Versions trimestrielles_** Les fonctionnalités suivantes seront publiées le **31 juillet 2020**.
 
@@ -277,7 +308,7 @@ Les fonctionnalités suivantes font l’objet d’un cycle non trimestriel et se
 
 * **Suppression du paramètre « _method » de l’API de ressources** : après septembre 2020, les points d’entrée de l’API de ressources n’accepteront plus « _method » pour transmettre des paramètres de requête dans un corps POST afin de contourner les limites de longueur d’URI. Pour répondre aux requêtes qui nécessitaient ce paramètre, les limites d’URI pour les API de ressources passeront de 8 Ko à 65 Ko.
 * **[[!DNL Munchkin] Associer le prospect](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)** : avec cette version du client Munchkin JavaScript, version 159, nous allons commencer à abandonner la méthode [!DNL Munchkin] Associer le prospect. Si cette option est appelée, vous recevez un avertissement indiquant que la méthode sera supprimée dans une version ultérieure. Une fois supprimée, la méthode ne sera plus fonctionnelle et les tentatives pour l’utiliser échoueront. Les clients Marketo Engage qui ont récemment utilisé cette méthode seront avertis individuellement de leur utilisation.
-* **Prise en charge d’Internet Explorer** : comme annoncé précédemment, la prise en charge de Marketo Engage pour Internet Explorer 11 prend fin le **31 juillet 2020**. Nous continuerons d&#39;appuyer [!DNL Google Chrome], [!DNL Mozilla Firefox], [!DNL &#x200B; Apple Safari] et [!DNL Microsoft Edge].
+* **Prise en charge d’Internet Explorer** : comme annoncé précédemment, la prise en charge de Marketo Engage pour Internet Explorer 11 prend fin le **31 juillet 2020**. Nous continuerons d&#39;appuyer [!DNL Google Chrome], [!DNL Mozilla Firefox], [!DNL  Apple Safari] et [!DNL Microsoft Edge].
 * **Expérience Sky par défaut** : l’option permettant aux administrateurs ou aux utilisateurs de définir [!DNL Marketo Sky] comme expérience par défaut sera supprimée dans cette version en vue d’une mise à jour de l’expérience utilisateur principale. Plus de détails sur la mise à jour de l’expérience principale, prévue pour plus tard dans l’année, seront disponibles en juillet. Les utilisateurs qui ont défini [!DNL Marketo Sky] comme expérience par défaut, ou à qui l’accès à [!DNL Marketo Sky] a été accordé, peuvent continuer à accéder aux [!DNL Marketo Sky] à partir d’une mosaïque de la page d’accueil Mon Marketo.
 * **Prise en charge du [!DNL Microsoft Edge] EdgeHTML (autre que Chromium)** : Marketo Engage ne prendra plus en charge les versions EdgeHTML de Microsoft Edge fin 2020. À compter du 1er janvier 2021, nous ne prendrons en charge que la dernière version Chromium de Microsoft Edge.
 
@@ -287,7 +318,7 @@ Les fonctionnalités suivantes sont incluses dans la version d’octobre 2020. V
 
 >[!AVAILABILITY]
 >
->Les fonctionnalités signalées par une étoile (![](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.
+>Les fonctionnalités signalées par une étoile (![](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.&#x200B;
 
 **_Versions trimestrielles_** Les fonctionnalités suivantes seront publiées le **16 octobre 2020**.
 

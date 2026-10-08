@@ -4,18 +4,23 @@ description: Découvrez comment définir une audience de programme d’e-mail av
 title: Définir une audience avec une liste intelligente
 exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/sGFMl-NIr1URbKsPhRb-ze6h2c1k72W-E28f-8p--sE
+TQID: 'https://experienceleague.adobe.com/sGFMl-NIr1URbKsPhRb-ze6h2c1k72W-E28f-8p--sE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 276
+source-wordcount: '276'
 ht-degree: 8%
-
 ---
-
 # Définir une audience avec une liste intelligente {#define-an-audience-with-a-smart-list}
 
 Une fois que vous avez [créé un programme de messagerie](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), vous souhaiterez lui indiquer à qui envoyer l’e-mail. Vous pouvez le faire en [important une liste de personnes](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) ou avec une liste dynamique. Voici comment y parvenir avec une liste dynamique.

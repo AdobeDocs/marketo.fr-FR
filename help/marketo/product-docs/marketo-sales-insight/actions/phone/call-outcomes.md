@@ -3,18 +3,21 @@ description: Découvrez les résultats des appels dans les actions Sales Insight
 title: Résultats des appels
 exl-id: 0166c6fa-70d3-45ea-9138-f2d2c4c28b41
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/o0-Z6U6RQpZgtSLT9OfO-oPL5VxTIdCtulvomn7VT2s
+TQID: 'https://experienceleague.adobe.com/o0-Z6U6RQpZgtSLT9OfO-oPL5VxTIdCtulvomn7VT2s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 topic_v2:
   - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Customer engagement
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 197
+source-wordcount: '197'
 ht-degree: 2%
-
 ---
-
 # Résultats des appels {#call-outcomes}
 
 Autorisez vos équipes de vente à sélectionner les résultats des appels lors des appels afin que votre équipe puisse comprendre l’impact de vos efforts d’engagement client.

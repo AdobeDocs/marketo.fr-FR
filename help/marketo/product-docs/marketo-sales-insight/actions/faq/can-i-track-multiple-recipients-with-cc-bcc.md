@@ -3,17 +3,19 @@ description: Découvrez si vous pouvez effectuer le suivi de plusieurs destinata
 title: Puis-je suivre plusieurs destinataires avec CC/Cci ?
 exl-id: cc14cbb5-6c1f-470c-9836-dd853ef7befc
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/IrCQgggwZlh9qC0j3dAAniEBt60oRfJtaOt3C6qclYk
+TQID: 'https://experienceleague.adobe.com/IrCQgggwZlh9qC0j3dAAniEBt60oRfJtaOt3C6qclYk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 94
+source-wordcount: '94'
 ht-degree: 8%
-
 ---
-
-# Puis-je suivre plusieurs personnes destinataires avec les champs Cc/Cci ? {#can-i-track-multiple-recipients-with-cc-bcc}
+# Puis-je suivre plusieurs destinataires en CC ou en CCI ? {#can-i-track-multiple-recipients-with-cc-bcc}
 
 Vous pouvez envoyer des individus en Cci et Cci comme vous le feriez normalement sur vos e-mails.
 

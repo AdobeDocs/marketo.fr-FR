@@ -1,20 +1,25 @@
 ---
 unique-page-id: 557318
 description: Découvrez comment actualiser une liste ou une liste dynamique. Mettez à jour les personnes de la liste pour refléter les résultats actuels du filtre ou l’appartenance.
-title: Actualiser une liste ou une liste intelligente
+title: Actualiser une liste ou une liste intelligente​
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/9mDk82MHRwR7qY0or3iOXMJbsJb5Frqd3a3doWa0sfM
+TQID: 'https://experienceleague.adobe.com/9mDk82MHRwR7qY0or3iOXMJbsJb5Frqd3a3doWa0sfM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 149
+source-wordcount: '149'
 ht-degree: 8%
-
 ---
-
-# Actualiser une liste ou une liste intelligente {#refresh-a-list-or-smart-list}
+# Actualiser une liste ou une liste intelligente&#x200B; {#refresh-a-list-or-smart-list}
 
 Si vous avez exécuté une liste dynamique et que quelques minutes se sont écoulées, les résultats peuvent être différents maintenant. Actualisez pour le découvrir.
 

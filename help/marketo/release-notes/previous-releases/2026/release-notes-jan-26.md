@@ -3,13 +3,20 @@ description: Notes De Mise À Jour - Janvier 2026 - Documents Marketo - Document
 title: Notes De Mise À Jour - Janvier 2026
 feature: Release Information
 exl-id: 82773c7e-7c25-4407-8283-b1ae21e470f5
-source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 25%
-
 ---
-
 # Notes de mise à jour : janvier 2026 {#release-notes-jan-26}
 
 Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 26 janvier. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
@@ -88,13 +95,13 @@ Les fonctionnalités suivantes ont été publiées en dehors du cycle de publica
 
 * **Amélioration de l’expérience de l’interface de la salle** : profitez d’une interface de salle actualisée et plus moderne, reposant sur le dernier framework de conception Spectrum 2 d’Adobe, en harmonie avec le langage visuel utilisé dans d’autres produits Adobe tels que Creative Cloud et Experience Cloud.
 
-Consultez [cette page](https://helpx.adobe.com/fr/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"} pour plus de détails.
+Consultez [cette page](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"} pour plus de détails.
 
 ## Annonces {#announcements}
 
-* **Obsolescence des fonctionnalités d’optimisation du moteur de recherche** : le mardi 31 mars 2026, Marketo Engage abandonnera la fonctionnalité d’optimisation du moteur de recherche (SEO). Si vous n&#39;utilisez pas activement l&#39;optimisation du moteur de recherche, vous n&#39;avez rien à faire. Si vous avez récemment utilisé l’optimisation du moteur de recherche, vous avez la possibilité d’exporter vos données. [En savoir plus](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=fr){target="_blank"}.
+* **Obsolescence des fonctionnalités d’optimisation du moteur de recherche** : le mardi 31 mars 2026, Marketo Engage abandonnera la fonctionnalité d’optimisation du moteur de recherche (SEO). Si vous n&#39;utilisez pas activement l&#39;optimisation du moteur de recherche, vous n&#39;avez rien à faire. Si vous avez récemment utilisé l’optimisation du moteur de recherche, vous avez la possibilité d’exporter vos données. [En savoir plus](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}.
 
-* **Migration de la communauté Marketo terminée** : la nouvelle communauté Adobe Experience League est maintenant en ligne ! [Plusieurs améliorations](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673?profile.language=fr){target="_blank"} ont été apportées pour améliorer davantage votre expérience dans la communauté Marketo. [Regarde ça](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=fr&lang=fr){target="_blank"}.
+* **Migration de la communauté Marketo terminée** : la nouvelle communauté Adobe Experience League est maintenant en ligne ! [Plusieurs améliorations](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673){target="_blank"} ont été apportées pour améliorer davantage votre expérience dans la communauté Marketo. [Regarde ça](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?lang=fr){target="_blank"}.
 
 * **Obsolescence du paramètre &#39;access_token&#39; de l’API Rest** : le paramètre de requête `access_token` utilisé pour authentifier les appels de l’API REST Marketo est en cours d’obsolescence et ne sera plus disponible après le 31 août 2026. Toutes les intégrations nouvelles et existantes doivent authentifier les appels de l’API REST à l’aide de l’en-tête « Autorisation », [comme décrit ici](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 

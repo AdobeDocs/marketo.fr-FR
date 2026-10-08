@@ -3,32 +3,37 @@ description: Référence rapide avec des liens pour configurer Marketo Engage av
 title: Guide rapide
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 feature: Marketo with Adobe Identity
-TQID: https://experienceleague.adobe.com/YBquFDEFAHi7ZVdffM9Z3UY-SC1mtsW9KRlOTq0j4HQ
+TQID: 'https://experienceleague.adobe.com/YBquFDEFAHi7ZVdffM9Z3UY-SC1mtsW9KRlOTq0j4HQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b73410f7-454c-5670-baa7-a84eae014e94
+    internal-label: Marketo with Adobe Identity
 subfeature_v2:
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 135
+source-wordcount: '135'
 ht-degree: 69%
-
 ---
-
 # Guide rapide {#quick-guide}
 
-Les articles répertoriés ci-dessous vous aideront à configurer Marketo Engage avec Adobe Identity Management et à en savoir plus à ce sujet.
+Les articles répertoriés ci-dessous vous aideront à configurer et à découvrir Marketo Engage avec Adobe Identity Management.
 
 ## Configuration de l’administrateur ou de l’administratrice système {#system-admin-setup}
 
 Création d’un profil de produit et d’un administrateur ou d’une administratrice de produit.
 
-[Création d’un profil de produits](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#create-a-product-profile){target="_blank"}
+[Créer un profil de produit&#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#create-a-product-profile){target="_blank"}
 
 [Ajouter un administrateur de produit](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-product-admin.md#add-a-product-admin){target="_blank"}
 
@@ -46,7 +51,7 @@ Les utilisateurs et utilisatrices de l’API Marketo Engage uniquement doivent 
 
 [Ajouter un utilisateur ou une utilisatrice d’API uniquement pour les abonnements activés pour Adobe IMS](/help/marketo/product-docs/administration/users-and-roles/create-api-only-user.md){target="_blank"}
 
-## Ajouter des utilisateurs et utilisatrices via CSV {#add-users-via-csv}
+## Ajouter des utilisateurs et utilisatrices via un fichier CSV (valeurs séparées par des virgules) {#add-users-via-csv}
 
 [Importer un fichier CSV](https://helpx.adobe.com/fr/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
 

@@ -3,13 +3,17 @@ description: Liste De Contrôle Des Activités Marketing Des Instances Héritée
 title: Liste de contrôle des activités marketing de l’instance héritée
 feature: Getting Started
 exl-id: 653e8081-25cd-411c-a6b4-bba269e0dac3
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: '855'
+source-wordcount: '906'
 ht-degree: 3%
-
 ---
-
 # Instance héritée : liste de contrôle des activités marketing {#inherited-instance-marketing-activities-checklist}
 
 Organisez correctement votre section Activités marketing pour aider les autres personnes à rechercher et gérer divers programmes dans votre instance Marketo Engage et vous assurer que les personnes sont traitées pour passer de Marketing à Ventes. N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) et de suivre vos progrès.
@@ -157,7 +161,7 @@ Organisez correctement votre section Activités marketing pour aider les autres 
   </tr>
   <tr>
    <td>Centre d’abonnements/de préférences</td>
-   <td><li>Avez-vous configuré un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html?lang=fr" target="_blank">Centre d’abonnements/de préférences</a> ? Fonctionne-t-il comme il se doit?</li></td>
+   <td><li>Avez-vous configuré un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html" target="_blank">Centre d’abonnements/de préférences</a> ? Fonctionne-t-il comme il se doit?</li></td>
   </tr>
   <tr>
    <td>Moments significatifs (le cas échéant)</td>

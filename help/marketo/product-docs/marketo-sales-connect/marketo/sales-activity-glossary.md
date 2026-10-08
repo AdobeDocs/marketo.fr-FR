@@ -3,18 +3,20 @@ description: En savoir plus sur les conditions de l’activité de vente Sales C
 title: Glossaire des activités de vente
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/g4y3kjwpavHDfQmjlzw-uaBEVJsCafpldUBHQKdjaLo
+TQID: 'https://experienceleague.adobe.com/g4y3kjwpavHDfQmjlzw-uaBEVJsCafpldUBHQKdjaLo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 597
+source-wordcount: '597'
 ht-degree: 8%
-
 ---
-
 # Glossaire des activités de vente {#sales-activity-glossary}
 
 Dans Sales Connect, lorsqu’un vendeur : ajoute un prospect à une cadence de vente, lui envoie un e-mail ou passe un appel dans le cadre d’une activité, il est enregistré dans l’historique des activités Marketo. En outre, lorsque le prospect consulte des e-mails, les ouvertures, les clics et les réponses sont également consignés.
@@ -49,7 +51,7 @@ Les activités ci-dessous seront consignées dans le Marketo à partir de [!DNL 
   <td>URL [!UICONTROL Sales Campaign]</td>
  </tr>
  <tr>
-  <td>Nom du modèle de vente </td>
+  <td>Nom du modèle de vente [!UICONTROL]</td>
  </tr>
  <tr>
   <td>[!UICONTROL Email Subject]</td>
@@ -164,7 +166,7 @@ Les activités ci-dessous seront consignées dans le Marketo à partir de [!DNL 
   <td>[!UICONTROL Marketo Sales Person ID]</td>
  </tr>
  <tr>
-  <th rowspan="6">Ajouter à la campagne de ventes</th>
+  <th rowspan="6">Ajouter à la campagne de ventes​</th>
   <td>[!UICONTROL Sales Campaign Name]</td>
  </tr>
  <tr>

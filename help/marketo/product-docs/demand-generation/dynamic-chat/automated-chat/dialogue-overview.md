@@ -3,19 +3,25 @@ description: Découvrez les boîtes de dialogue en tant que conversations de cha
 title: Vue d’ensemble du dialogue
 feature: Dynamic Chat
 exl-id: c5e5650f-5f34-4c04-b287-62556bc35593
-TQID: https://experienceleague.adobe.com/rO2ieaHlOARDMHbJq006NUub2UD-FTKQIj5VYXF9NqI
+TQID: 'https://experienceleague.adobe.com/rO2ieaHlOARDMHbJq006NUub2UD-FTKQIj5VYXF9NqI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Configuration
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 272
+source-wordcount: '272'
 ht-degree: 6%
-
 ---
-
 # Vue d’ensemble du dialogue {#dialogue-overview}
 
 Les boîtes de dialogue sont des conversations individuelles. Dans chaque boîte de dialogue, vous décidez où la conversation spécifique s’affiche, à qui elle sera présentée et quel sera le contenu de la conversation. Chaque boîte de dialogue comporte également sa propre page de rapport, dans laquelle vous pouvez contrôler l’efficacité.

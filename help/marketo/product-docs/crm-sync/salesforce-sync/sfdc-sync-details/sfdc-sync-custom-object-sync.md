@@ -4,20 +4,25 @@ description: Découvrez comment configurer la synchronisation d’objets personn
 title: Synchronisation de SFDC - Synchronisation d’objet personnalisé
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/JIkS3cBJD3SlUmKOJKUOuIXTbZyMTZ0LCdOgnz7SHSA
+TQID: 'https://experienceleague.adobe.com/JIkS3cBJD3SlUmKOJKUOuIXTbZyMTZ0LCdOgnz7SHSA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart lists
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 311
-ht-degree: 5%
-
+source-wordcount: '319'
+ht-degree: 8%
 ---
-
 # Synchronisation SFDC : synchronisation d’objet personnalisé {#sfdc-sync-custom-object-sync}
 
 Les objets personnalisés créés dans votre instance [!DNL Salesforce] peuvent également faire partie de Marketo.  Voici comment le configurer.
@@ -74,7 +79,7 @@ Les objets personnalisés créés dans votre instance [!DNL Salesforce] peuvent 
    >
    >N’oubliez pas de réactiver la synchronisation globale.
 
-1. Revenez à l’onglet **&#x200B;**.
+1. Revenez à l’onglet ****.
 
    ![](assets/image2015-4-22-10-3a46-3a25.png)
 

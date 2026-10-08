@@ -1,20 +1,21 @@
 ---
 description: Découvrez comment activer les autorisations Coworker for Marketo Engage, configurer les règles d’organisation et gérer les paramètres tels que les intégrations et les notifications.
 title: Paramètres et configuration
-source-git-commit: 01cad5c7d14083c0ef7127850f2488dbfd71f57b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 3%
-
 ---
-
 # Paramètres et configuration {#settings-setup}
 
 Découvrez comment activer des autorisations et utiliser la zone Paramètres pour afficher les détails de connexion, définir des règles d’organisation et configurer des intégrations et des notifications.
 
 >[!AVAILABILITY]
 >
->Cette fonctionnalité est disponible pour tous les abonnements. Si la mosaïque Collègues pour Marketo Engage ne s’affiche pas sur votre écran Mon Marketo, contactez votre gestionnaire de compte. Vous devez également accepter les termes [&#x200B; Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
+>Cette fonctionnalité est disponible pour tous les abonnements. Si la mosaïque Collègues pour Marketo Engage ne s’affiche pas sur votre écran Mon Marketo, contactez votre gestionnaire de compte. Vous devez également accepter les termes [ Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
 
 ## Autorisations et rôles {#permission-and-role}
 
@@ -75,7 +76,7 @@ Pour affecter un utilisateur spécifique au rôle _Collègue d’un utilisateur 
 
 ### Rôle personnalisé {#custom-role}
 
-Vous avez également la possibilité de [créer un nouveau rôle](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} et de personnaliser ses autorisations, en ajoutant _Accéder à un collègue pour Marketo Engage_, ainsi que tout ce que vous souhaitez, et [en attribuant ce rôle](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} à des utilisateurs spécifiques.
+Vous avez également la possibilité de [créer un nouveau rôle](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} et de personnaliser ses autorisations, en ajoutant _Accéder à un collègue pour Marketo Engage_, ainsi que tout ce que vous souhaitez, et [en attribuant ce rôle](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} à des utilisateurs spécifiques.
 
 ## Paramètres {#settings}
 

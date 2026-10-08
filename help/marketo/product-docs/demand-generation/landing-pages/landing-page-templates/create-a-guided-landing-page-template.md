@@ -4,18 +4,23 @@ description: Découvrez comment créer un modèle de page de destination guidée
 title: Créer un modèle de page de destination guidée
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/0dAw-HmJskYDA8uvu4ffMPPWwaQV3M-l8-kxLN-Vx-o
+TQID: 'https://experienceleague.adobe.com/0dAw-HmJskYDA8uvu4ffMPPWwaQV3M-l8-kxLN-Vx-o'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1132
-ht-degree: 21%
-
+source-wordcount: '1067'
+ht-degree: 22%
 ---
-
 # Créer un modèle de page de destination guidée {#create-a-guided-landing-page-template}
 
 Les modèles de landing page guidés ont une syntaxe spéciale. Utilisez cette syntaxe pour spécifier ce qui est personnalisable et où le contenu se retrouvera sur chaque page de destination créée à partir de votre modèle. Seules les régions ou variables que vous spécifiez comme modifiables seront disponibles pour personnalisation dans l’éditeur de page de destination « Guidée ».

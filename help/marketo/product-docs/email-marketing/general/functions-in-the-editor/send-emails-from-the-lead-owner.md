@@ -4,17 +4,22 @@ description: Découvrez comment envoyer des e-mails à partir de l’adresse du 
 title: Envoyer des e-mails depuis l’entité propriétaire du lead
 exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/iOBonqrup6ZV9QGhW-i1FpabLVBOKrNxz4xqThcexZ8
+TQID: 'https://experienceleague.adobe.com/iOBonqrup6ZV9QGhW-i1FpabLVBOKrNxz4xqThcexZ8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 208
+source-wordcount: '208'
 ht-degree: 6%
-
 ---
-
-# Envoyer des e-mails depuis l’entité propriétaire du lead {#send-emails-from-the-lead-owner}
+# Envoyer des e-mails depuis le propriétaire du lead {#send-emails-from-the-lead-owner}
 
 Que se passe-t-il si vous souhaitez envoyer un e-mail à un prospect au nom du propriétaire du prospect ?  Voici comment faire.
 

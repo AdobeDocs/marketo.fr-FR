@@ -4,25 +4,32 @@ description: Découvrez les tableaux de bord rtp personnalisés dans google univ
 title: Tableaux de bord RTP personnalisés dans Google Universal Analytics
 exl-id: 712c71b6-74eb-4743-9ca8-50c912278e62
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/J33gQt6txu9Dq95xAKDo5kRFqceNX1N17y9X3fTK3eY
+TQID: 'https://experienceleague.adobe.com/J33gQt6txu9Dq95xAKDo5kRFqceNX1N17y9X3fTK3eY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 787
+source-wordcount: '787'
 ht-degree: 2%
-
 ---
-
 # Tableaux de bord RTP personnalisés dans Google Universal Analytics {#custom-rtp-dashboards-in-google-universal-analytics}
 
 >[!PREREQUISITES]

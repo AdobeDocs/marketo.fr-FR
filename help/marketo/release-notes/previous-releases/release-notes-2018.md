@@ -1,40 +1,68 @@
 ---
-title: "2018"
+title: '2018'
 description: 2018 - Documents Marketo - Documentation Du Produit
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+    internal-label: Dynamic content
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
   - id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1
+    internal-label: Default programs
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b4dd41a7-ccf8-4e9d-918e-acaab534a307
+    internal-label: Data quality
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+    internal-label: Email marketing
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: ca5ce3f901525a7ad1d08a7c4a4d8d5f61786cf4
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1874
+source-wordcount: '1874'
 ht-degree: 4%
-
 ---
-
 # 2018
 
 ## Hiver 2018 {#winter}
@@ -231,16 +259,16 @@ La personnalisation Web prend maintenant en charge plusieurs espaces de travail.
 
 * **Prise en charge étendue :[!DNL Microsoft Office]**
 
-   * [!DNL Outlook] en tant que canal de diffusion : les marketeurs peuvent désormais tirer parti des [!DNL Outlook] pour les engagements par e-mail, ce qui améliore les taux de délivrabilité et le suivi des réponses.
-   * Améliorations de la prise en charge de la messagerie électronique [!DNL Office] 365 : Marketo [!DNL Sales Engage] est directement disponible dans [!DNL Outlook] pour Mac, [!DNL Outlook] pour [!DNL Windows] et l’application web [!DNL Outlook] pour les clients de messagerie [!DNL Office] 365, ce qui rend Marketo [!DNL Sales Engage] plus facilement disponible pour tous les utilisateurs [!DNL Office].
+  * [!DNL Outlook] en tant que canal de diffusion : les marketeurs peuvent désormais tirer parti des [!DNL Outlook] pour les engagements par e-mail, ce qui améliore les taux de délivrabilité et le suivi des réponses.
+  * Améliorations de la prise en charge de la messagerie électronique [!DNL Office] 365 : Marketo [!DNL Sales Engage] est directement disponible dans [!DNL Outlook] pour Mac, [!DNL Outlook] pour [!DNL Windows] et l’application web [!DNL Outlook] pour les clients de messagerie [!DNL Office] 365, ce qui rend Marketo [!DNL Sales Engage] plus facilement disponible pour tous les utilisateurs [!DNL Office].
 
 * **Amélioration de l’expérience de connexion des administrateurs et des utilisateurs**
 
-   * Workflows d’administration améliorés : les administrateurs trouveront un workflow plus efficace lors de l’activation des fonctionnalités d’équipe via les paramètres généraux d’administration.
+  * Workflows d’administration améliorés : les administrateurs trouveront un workflow plus efficace lors de l’activation des fonctionnalités d’équipe via les paramètres généraux d’administration.
 
 ## Marketo [!DNL Sky] {#marketo-sky}
 
-Pour plus d’informations et de mises à jour, consultez nos [[!DNL Sky]  notes de mise à jour &#x200B;](https://help.marketo.com).
+Pour plus d’informations et de mises à jour, consultez nos [[!DNL Sky]  notes de mise à jour ](https://help.marketo.com).
 
 * **Concevoir des mises à jour système**
 
@@ -251,7 +279,7 @@ Pour plus d’informations et de mises à jour, consultez nos [[!DNL Sky]  notes
 
 * **Page d’accueil des activités marketing** : accédez rapidement aux fonctions courantes directement à partir de la page d’accueil des activités marketing.
 
-   * Prenez des mesures spécifiques (par exemple, lancez de nouveaux programmes et des campagnes intelligentes) et consultez des informations importantes sur les programmes actuels, comme les programmes et les campagnes planifiés pour s’exécuter aujourd’hui, les programmes et ressources récemment mis à jour et le nombre total de campagnes de déclenchement actives.
+  * Prenez des mesures spécifiques (par exemple, lancez de nouveaux programmes et des campagnes intelligentes) et consultez des informations importantes sur les programmes actuels, comme les programmes et les campagnes planifiés pour s’exécuter aujourd’hui, les programmes et ressources récemment mis à jour et le nombre total de campagnes de déclenchement actives.
 
 * **Mises à jour de Design Studio** : nous avons repensé l’expérience de Design Studio pour vous aider à progresser plus rapidement et à être plus productif.
 * Page d’accueil de Design Studio : créez des ressources, faites glisser et déposez des images et des fichiers, et gérez toutes les ressources existantes.
@@ -266,24 +294,24 @@ Pour plus d’informations et de mises à jour, consultez nos [[!DNL Sky]  notes
 
 * **Réduction de la dépendance requise vis-à-vis du CRM**
 
-   * Grâce à la nouvelle option de définition des règles de Campaign dans les paramètres de [!DNL Bizible], les clients n&#39;ont plus besoin de se lancer dans l&#39;installation d&#39;un package ou d&#39;une solution dans leur CRM pour commencer à utiliser [!DNL Bizible]. Il est désormais aussi facile de configurer un compte, de configurer les connexions publicitaires et CRM, puis de passer en revue les paramètres et configurations standard. Nous nous attendons à ce que cela améliore considérablement les délais d’intégration de notre équipe d’ingénierie des ventes.
+  * Grâce à la nouvelle option de définition des règles de Campaign dans les paramètres de [!DNL Bizible], les clients n&#39;ont plus besoin de se lancer dans l&#39;installation d&#39;un package ou d&#39;une solution dans leur CRM pour commencer à utiliser [!DNL Bizible]. Il est désormais aussi facile de configurer un compte, de configurer les connexions publicitaires et CRM, puis de passer en revue les paramètres et configurations standard. Nous nous attendons à ce que cela améliore considérablement les délais d’intégration de notre équipe d’ingénierie des ventes.
 
 * **Discover GA**
 
-   * Discover n’est plus en version Beta et a commencé à être déployé auprès des nouveaux clients. Nous effectuons également la migration de notre base de clients actuelle de [!DNL Bizible] Measure vers [!DNL Bizible] Discover. Avec le passage de la version bêta à la version générale, nous avons apporté des mises à jour au schéma de base de données pour permettre des requêtes plus efficaces et plus complexes.
+  * Discover n’est plus en version Beta et a commencé à être déployé auprès des nouveaux clients. Nous effectuons également la migration de notre base de clients actuelle de [!DNL Bizible] Measure vers [!DNL Bizible] Discover. Avec le passage de la version bêta à la version générale, nous avons apporté des mises à jour au schéma de base de données pour permettre des requêtes plus efficaces et plus complexes.
 
 * **Authentification SSO**
 
-   * Les clients peuvent désormais se connecter à l’application web [!DNL Bizible] à l’aide du fournisseur d’identité et des informations d’identification de leur entreprise, conformément aux exigences de sécurité de l’entreprise.
+  * Les clients peuvent désormais se connecter à l’application web [!DNL Bizible] à l’aide du fournisseur d’identité et des informations d’identification de leur entreprise, conformément aux exigences de sécurité de l’entreprise.
 
 **[Marketo [!UICONTROL Informations sur les performances] améliorations](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
 
 * **Améliorations de la convivialité**
 
-   * Alerte de date d’acquisition manquante : pour capturer avec la plus grande précision les informations d’attribution Première touche et multipoint, les professionnels du marketing sont avertis lorsque des dates d’acquisition sont manquantes dans les enregistrements de contact afin qu’ils puissent identifier et corriger les problèmes.
-   * Améliorations de la période du graphique de tendances : les utilisateurs peuvent désormais revenir 24 mois en arrière pour comparer les performances du programme.
-   * Paramètre d’adaptation : le graphique à barres du tableau de bord principal est plus facile à lire pour vous aider à comparer les performances du programme au fil du temps.
-   * Icône Alertes : l’icône Nouvelles alertes affiche toutes les alertes actives concernant les problèmes de qualité des données et les notifications de configuration.
+  * Alerte de date d’acquisition manquante : pour capturer avec la plus grande précision les informations d’attribution Première touche et multipoint, les professionnels du marketing sont avertis lorsque des dates d’acquisition sont manquantes dans les enregistrements de contact afin qu’ils puissent identifier et corriger les problèmes.
+  * Améliorations de la période du graphique de tendances : les utilisateurs peuvent désormais revenir 24 mois en arrière pour comparer les performances du programme.
+  * Paramètre d’adaptation : le graphique à barres du tableau de bord principal est plus facile à lire pour vous aider à comparer les performances du programme au fil du temps.
+  * Icône Alertes : l’icône Nouvelles alertes affiche toutes les alertes actives concernant les problèmes de qualité des données et les notifications de configuration.
 
 * **Engagement par date d’activité** : les utilisateurs peuvent choisir d’afficher les mesures d’engagement par date d’activité ou par période de coût.
 * **Filtres de comptes nommés ABM** : filtrez les tableaux de bord du pipeline et du chiffre d’affaires par comptes nommés spécifiques.

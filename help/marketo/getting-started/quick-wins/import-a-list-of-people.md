@@ -4,28 +4,35 @@ description: Importer une liste de personnes - Documents Marketo - Documentation
 title: Importer une liste de personnes
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/5iRoY4XVNB608Y3SxMYrALr4bhHGUl8zOk0gUtAdamc
+TQID: 'https://experienceleague.adobe.com/5iRoY4XVNB608Y3SxMYrALr4bhHGUl8zOk0gUtAdamc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 subfeature_v2:
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 589
+source-wordcount: '589'
 ht-degree: 95%
-
 ---
-
 # Importer une liste de personnes {#import-a-list-of-people}
 
-## Mission : importer une liste sous forme de feuille de calcul de participantes et participants à un salon professionnel dans votre base de données {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
+## Mission : Importer une liste de participants à un salon professionnel au format feuille de calcul dans votre base de données {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
 
 >[!PREREQUISITES]
 >
@@ -79,7 +86,7 @@ Dans ce tutoriel, vous allez apprendre à importer des personnes dans Marketo à
 
 >[!NOTE]
 >
->Les programmes d’événement se produisent à des dates spécifiques. En savoir plus sur les [**Événements**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target="_blank"}.
+>Les programmes d’évènements ont lieu à des dates spécifiques. En savoir plus sur les [**Événements**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target="_blank"}.
 
 ## Étape 3 : importer votre feuille de calcul dans Marketo {#step-import-your-spreadsheet-into-marketo}
 
@@ -116,7 +123,7 @@ Dans ce tutoriel, vous allez apprendre à importer des personnes dans Marketo à
    >En mode d’import de liste, choisir **[!UICONTROL Ignorer les nouvelles personnes et les mises à jour]** signifie que vous n’affecterez pas les enregistrements de personnes existants et que vous ne consignerez aucune activité. Utilisez ce mode si vous souhaitez obtenir une liste statique rapide et préfiltrée des personnes existantes à utiliser dans vos activités marketing. La sélection de ce mode aura les effets suivants :
    >
    > * Ignorer la création de personnes
-   > * Ignorer les mises à jour du champ de personne
+   > * Ignorer les mises à jour des champs de personnes
    > * Ignorer la journalisation d’activité
 
 1. Mappez vos champs [!UICONTROL Colonne de liste] à leur champ Marketo respectif et cliquez sur **[!UICONTROL Suivant]**.
@@ -135,7 +142,7 @@ Dans ce tutoriel, vous allez apprendre à importer des personnes dans Marketo à
 
    ![](assets/import-a-list-of-people-13.png)
 
-1. Attendez que les personnes procèdent à l’import, puis fermez la fenêtre pop-up de progression de l’import.
+1. Attendez que l’importation des personnes soit terminée, puis fermez la fenêtre pop-up de progression de l’importation.
 
    ![](assets/import-a-list-of-people-14.png)
 
@@ -145,11 +152,11 @@ Dans ce tutoriel, vous allez apprendre à importer des personnes dans Marketo à
 
 >[!NOTE]
 >
->Vous pouvez analyser le succès de votre programme en effectuant le suivi de l’abonnement au programme. En savoir plus sur les [**Programmes**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}.
+>Vous pouvez analyser le succès de votre programme en effectuant le suivi de l’appartenance au programme. En savoir plus sur les [**Programmes**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}.
 
 ## Mission accomplie {#mission-complete}
 
-Les participants au salon sont désormais membres de votre programme Marketo !
+Les personnes qui participent au salon sont désormais membres de votre programme Marketo !
 
 <br> 
 

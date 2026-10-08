@@ -4,16 +4,18 @@ description: Découvrez comment configurer le bouton de message in-app. Configur
 title: Configurer le bouton Message In-App
 exl-id: de03da9d-241e-4d6e-8eb5-3096ddf294ce
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/IWEak1rsLUCoSnX6pwQfknDeUN6stmdsrHAloqwtTXs
+TQID: 'https://experienceleague.adobe.com/IWEak1rsLUCoSnX6pwQfknDeUN6stmdsrHAloqwtTXs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 283
+source-wordcount: '283'
 ht-degree: 0%
-
 ---
-
 # Configurer le bouton Message In-App {#set-up-the-in-app-message-button}
 
 Vous pouvez utiliser la conception de bouton par défaut, la modifier ou charger votre propre image de bouton personnalisée.

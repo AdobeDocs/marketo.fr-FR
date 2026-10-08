@@ -3,25 +3,34 @@ description: Notes De Mise À Jour - Septembre 2023 - Documents Marketo - Docume
 title: Notes de mise à jour - Septembre 2023
 feature: Release Information
 exl-id: c1197141-3822-404d-b9d4-3e37fc5330b6
-TQID: https://experienceleague.adobe.com/AVJDA8DHsX7M8HjUu-M7fol948cadcYu5JHgwlC2NFM
+TQID: 'https://experienceleague.adobe.com/AVJDA8DHsX7M8HjUu-M7fol948cadcYu5JHgwlC2NFM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: ad89fb33-8541-4339-afe7-bb13d1633714
+    internal-label: Flow Step
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Implementation
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 406
+source-wordcount: '406'
 ht-degree: 24%
-
 ---
-
 # Notes de mise à jour : octobre 2023 {#release-notes-oct-23}
 
 Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 23 octobre. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.

@@ -5,14 +5,28 @@ title: Suivi conditionnel des ouvertures d’e-mails
 description: Découvrez comment configurer le suivi des ouvertures d’e-mails conditionnels à l’aide d’un champ booléen personnalisé pour acheminer le suivi des ouvertures d’e-mails en fonction du statut de consentement de chaque personne.
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '426'
 ht-degree: 0%
 ---
 # Tracking conditionnel de l&#39;ouverture d&#39;un email {#conditional-open-tracking}
 
-Découvrez comment configurer Marketo Engage pour honorer le consentement de l’utilisateur final pour le suivi de l’ouverture de l’e-mail (en pixels), en accord avec [diverses instructions](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/understanding-guidance-on-email-tracking-pixels-251632?profile.language=fr){target="_blank"}. L’approche utilise un champ booléen personnalisé pour déterminer la variante d’e-mail qu’une personne reçoit, une dont le suivi des ouvertures est activé ou une dont le suivi est désactivé.
+Découvrez comment configurer Marketo Engage pour honorer le consentement de l’utilisateur final pour le suivi de l’ouverture de l’e-mail (en pixels), en accord avec [diverses instructions](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/understanding-guidance-on-email-tracking-pixels-251632){target="_blank"}. L’approche utilise un champ booléen personnalisé pour déterminer la variante d’e-mail qu’une personne reçoit, une dont le suivi des ouvertures est activé ou une dont le suivi est désactivé.
 
 ## Étape 1 : créer un champ booléen personnalisé {#custom-field}
 
@@ -26,7 +40,7 @@ Découvrez comment configurer Marketo Engage pour honorer le consentement de l�
 
 ## Étape 2 : remplir le champ de consentement {#populate}
 
-1. Définissez la valeur du champ Suivi des pixels d’e-mail pour chaque personne via l’importation de données (synchronisation des API ou [chargement CSV](https://experienceleague.adobe.com/fr/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}).
+1. Définissez la valeur du champ Suivi des pixels d’e-mail pour chaque personne via l’importation de données (synchronisation des API ou [chargement CSV](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}).
 
    ![](assets/open-tracking-3.png)
 
@@ -60,7 +74,7 @@ Dans le Designer d’e-mail, la case à cocher **Désactiver le suivi des ouvert
 
 ## Étape 4 : configuration de votre campagne intelligente {#smart-campaign}
 
-[Créez une campagne intelligente](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"} pour déterminer l’e-mail que chaque personne reçoit.
+[Créez une campagne intelligente](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"} pour déterminer l’e-mail que chaque personne reçoit.
 
 1. Dans l’onglet _Flux_ de votre campagne dynamique, insérez l’étape de flux **Envoyer un e-mail**.
 

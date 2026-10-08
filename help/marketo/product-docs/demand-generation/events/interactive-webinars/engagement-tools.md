@@ -2,15 +2,19 @@
 description: Découvrez les outils d’engagement dans les webinaires interactifs. Utilisez les sondages, les questions/réponses et d’autres fonctionnalités pour améliorer l’interaction des participants lors des webinaires.
 title: Outils d’engagement dans les webinaires interactifs
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Interactive Webinars
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '1285'
 ht-degree: 0%
-
 ---
-
 # Outils d’engagement dans les webinaires interactifs {#engagement-tools-in-interactive-webinars}
 
 Fonctionnalité de diffusion des capsules dans une salle Adobe Connect. Pour ajouter une capsule à une mise en page, cliquez sur le menu Capsules et sélectionnez la capsule à ajouter.

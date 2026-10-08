@@ -3,16 +3,21 @@ description: Découvrez comment gérer la bibliothèque de réponse pour l’IA 
 title: Bibliothèque de réponses
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
-TQID: https://experienceleague.adobe.com/huqmL3JA7BaWaekIcKm2HjeqYCW6pALsp7fNyhTO1XU
+TQID: 'https://experienceleague.adobe.com/huqmL3JA7BaWaekIcKm2HjeqYCW6pALsp7fNyhTO1XU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 385
+source-wordcount: '385'
 ht-degree: 3%
-
 ---
-
 # Bibliothèque de réponses {#response-library}
 
 Au même endroit, affichez toutes vos questions, leur statut d’approbation et le ou les noms/rubriques de tâche qui leur sont affectés.
@@ -47,7 +52,7 @@ Au même endroit, affichez toutes vos questions, leur statut d’approbation et 
 
 >[!NOTE]
 >
->Par défaut, toutes les questions et réponses générées se voient attribuer le statut « [!UICONTROL à réviser] ». Seules les questions et réponses « [!UICONTROL &#x200B; approuvées &#x200B;] sont mises à la disposition des visiteurs du chat.
+>Par défaut, toutes les questions et réponses générées se voient attribuer le statut « [!UICONTROL à réviser] ». Seules les questions et réponses « [!UICONTROL  approuvées ] sont mises à la disposition des visiteurs du chat.
 
 1. Dans la **[!UICONTROL bibliothèque de réponses]**, cliquez sur la question souhaitée.
 

@@ -1,28 +1,32 @@
 ---
 unique-page-id: 2949467
-description: Qu’est-ce qu’Adobe Marketo Engage ? - Documents Marketo - Documentation sur le produit
-title: Qu’est-ce qu’Adobe Marketo Engage ?
+description: Qu’est-ce qu’Adobe Marketo Engage ? - Documents Marketo - Documentation sur le produit
+title: Qu’est-ce qu’Adobe Marketo Engage ?
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/zc1UYz8yZ8vfMcIWzXfHcBv6qYrrjqO-ryTxqDDdtno
+TQID: 'https://experienceleague.adobe.com/zc1UYz8yZ8vfMcIWzXfHcBv6qYrrjqO-ryTxqDDdtno'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: c954475c-8548-4e33-a0b8-6b550d956115
+    internal-label: Marketing automation
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 314
+source-wordcount: '314'
 ht-degree: 95%
-
 ---
-
-# Qu’est-ce qu’Adobe Marketo Engage ? {#what-is-adobe-marketo-engage}
+# Qu’est-ce qu’Adobe Marketo Engage ? {#what-is-adobe-marketo-engage}
 
 Adobe Marketo Engage est un logiciel d’automatisation du marketing. L’automatisation du marketing vous permet de rationaliser, d’automatiser et de mesurer les tâches et les workflows marketing afin d’améliorer l’efficacité opérationnelle et d’augmenter plus rapidement votre chiffre d’affaires.
 
-## Que puis-je faire dans Marketo Engage ? {#what-can-i-do-in-marketo-engage}
+## Que puis-je faire dans Marketo Engage ? {#what-can-i-do-in-marketo-engage}
 
 Marketo Engage offre une multitude de fonctionnalités exceptionnelles pour vous aider à atteindre vos objectifs marketing. Des choses comme…
 
@@ -38,7 +42,7 @@ Marketo Engage offre une multitude de fonctionnalités exceptionnelles pour vou
 * Contenu prédictif
 * Intégration de webinaires tiers
 * Marketing mobile
-* Synchronisation avec votre CRM (Salesforce ou Dynamics)
+* Synchronisation avec votre GRC (Salesforce ou Dynamics)
 * Intégration de site web
 * Moteur de workflow
 * Score de personne
@@ -62,7 +66,7 @@ Non. Nous avons créé toute une série de tutoriels faciles à suivre. [Commenc
 
 ## Existe-t-il une liste des limites, comme le nombre total d’e-mails que je peux envoyer par semaine ? {#list-of-limits}
 
-Oui, il y en a une. Les limites statiques (et autres paramètres) sont décrites [dans cet article](https://helpx.adobe.com/fr/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
+Oui, il y en a une. Les limites statiques (et autres paramètres) sont décrites [dans cet article](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
 
 ## Combien de temps Marketo conserve-t-il mes données ? {#data-retention-policy}
 

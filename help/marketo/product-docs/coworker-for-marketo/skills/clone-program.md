@@ -3,7 +3,10 @@ description: Le programme de clonage duplique un programme Marketo existant dans
 title: Cloner le programme
 badge: Beta
 hide: true
-source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '487'
 ht-degree: 1%
@@ -14,7 +17,7 @@ L’agent de programme Clone copie un programme opérationnel, y compris ses cam
 
 >[!PREREQUISITES]
 >
->* Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [&#x200B; Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
+>* Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [ Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
 >
 >* Vous devez disposer des autorisations nécessaires pour créer des programmes dans le dossier de destination.
 >

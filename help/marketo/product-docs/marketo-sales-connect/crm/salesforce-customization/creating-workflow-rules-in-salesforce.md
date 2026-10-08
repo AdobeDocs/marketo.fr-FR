@@ -4,16 +4,18 @@ description: Découvrez comment créer des règles de workflow dans Salesforce p
 title: Création de règles de workflow dans Salesforce
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/NmHKAzpBUKL4-vpcpxNpXv9TPamdy5iFCxdYTfCC1S0
+TQID: 'https://experienceleague.adobe.com/NmHKAzpBUKL4-vpcpxNpXv9TPamdy5iFCxdYTfCC1S0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 482
+source-wordcount: '482'
 ht-degree: 3%
-
 ---
-
 # Création de règles de workflow dans Salesforce {#creating-workflow-rules-in-salesforce}
 
 Lorsque vous utilisez Marketo Sales Insight (MSI) et Marketo Sales Connect (MSC) en parallèle, la fonctionnalité Meilleurs résultats MSI de [!DNL Salesforce] n’est pas mise à jour. Toutes les autres fonctionnalités MSI fonctionnent comme d&#39;habitude (affichage des moments intéressants dans l&#39;iFrame, envoi d&#39;e-mails, ajout aux campagnes, etc.). Cet article offre une solution pour que les meilleurs résultats fonctionnent à nouveau.
@@ -67,7 +69,7 @@ Vous trouverez ci-dessous les noms recommandés des règles de workflow et leur 
 
    ![](assets/three-1.png)
 
-1. Saisissez « Mettre à jour le champ de description du moment intéressant » comme [!UICONTROL &#x200B; Nom de la règle &#x200B;]. Sélectionnez le bouton radio **[!UICONTROL créé, puis chaque fois qu’il est modifié]**. Dans le menu déroulant [!UICONTROL Critères de règle], sélectionnez **[!UICONTROL la formule est évaluée sur true]**. Recherchez et sélectionnez la fonction ISCHANGED. Ensuite, mettez en surbrillance la valeur de champ par défaut et cliquez sur **[!UICONTROL Insérer un champ]**.
+1. Saisissez « Mettre à jour le champ de description du moment intéressant » comme [!UICONTROL  Nom de la règle ]. Sélectionnez le bouton radio **[!UICONTROL créé, puis chaque fois qu’il est modifié]**. Dans le menu déroulant [!UICONTROL Critères de règle], sélectionnez **[!UICONTROL la formule est évaluée sur true]**. Recherchez et sélectionnez la fonction ISCHANGED. Ensuite, mettez en surbrillance la valeur de champ par défaut et cliquez sur **[!UICONTROL Insérer un champ]**.
 
    ![](assets/four-1.png)
 
@@ -79,7 +81,7 @@ Vous trouverez ci-dessous les noms recommandés des règles de workflow et leur 
 
    ![](assets/6.png)
 
-1. Dans la liste déroulante [!UICONTROL &#x200B; Ajouter une action de workflow &#x200B;], sélectionnez **[!UICONTROL Nouvelle mise à jour de champ]**.
+1. Dans la liste déroulante [!UICONTROL  Ajouter une action de workflow ], sélectionnez **[!UICONTROL Nouvelle mise à jour de champ]**.
 
    ![](assets/seven.png)
 

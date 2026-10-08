@@ -4,21 +4,28 @@ description: Découvrez comment créer un utilisateur Salesforce pour Marketo en
 title: Étape 2 sur 3 - Création d’un utilisateur Salesforce pour Marketo (Entreprise/Illimité)
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/QFFzCkj2oeYkcK36qKjLXDhit4XhWrSX4iMJDQOnor0
+TQID: 'https://experienceleague.adobe.com/QFFzCkj2oeYkcK36qKjLXDhit4XhWrSX4iMJDQOnor0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+    internal-label: Accessibility
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 433
+source-wordcount: '433'
 ht-degree: 4%
-
 ---
-
 # Étape 2 sur 3 : création d’un utilisateur [!DNL Salesforce] pour Marketo (Entreprise/Illimité) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
 
 >[!NOTE]
@@ -68,7 +75,7 @@ Dans cet article, vous allez configurer des autorisations d’utilisateur dans [
    >
    >Cochez la case **[!UICONTROL Le mot de passe n’expire jamais]**.
 
-1. Dans la section [!UICONTROL &#x200B; Autorisations générales des utilisateurs &#x200B;] , vérifiez que les cases suivantes sont cochées :
+1. Dans la section [!UICONTROL  Autorisations générales des utilisateurs ] , vérifiez que les cases suivantes sont cochées :
 
    * [!UICONTROL Convertir les leads]
    * [!UICONTROL Modifier les événements]
@@ -76,7 +83,7 @@ Dans cet article, vous allez configurer des autorisations d’utilisateur dans [
 
    ![](assets/image2014-12-9-9-3a19-3a47.png)
 
-1. Dans la section [!UICONTROL &#x200B; Autorisations d’objet standard &#x200B;], vérifiez que les autorisations [!UICONTROL Lecture, Création, Modification et Suppression] sont cochées pour :
+1. Dans la section [!UICONTROL  Autorisations d’objet standard ], vérifiez que les autorisations [!UICONTROL Lecture, Création, Modification et Suppression] sont cochées pour :
 
    * [!UICONTROL Comptes]
    * [!UICONTROL Campagnes]

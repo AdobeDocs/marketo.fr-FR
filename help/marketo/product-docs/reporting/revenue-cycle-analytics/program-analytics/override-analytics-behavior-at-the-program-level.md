@@ -1,17 +1,23 @@
 ---
 unique-page-id: 2360421
 description: Découvrez le comportement de remplacement des analyses au niveau du programme dans Marketo Engage, y compris le comportement de remplacement des analyses. Passez à l’étape suivante en toute confiance.
-title: Remplacer le comportement d’analyse au niveau du programme
+title: Remplacer le comportement d’analyse au niveau du programme​
 exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 10%
-
 ---
-
-# Remplacer le comportement d’analyse au niveau du programme {#override-analytics-behavior-at-the-program-level}
+# Remplacer le comportement d’analyse au niveau du programme&#x200B; {#override-analytics-behavior-at-the-program-level}
 
 Vous pouvez définir le comportement d’[analyse au niveau administrateur sur les canaux](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) mais vous pouvez également le remplacer au niveau du programme. Voici comment procéder :
 

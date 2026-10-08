@@ -3,16 +3,18 @@ description: Découvrez les actions rapides dans le centre de commande pour les 
 title: Actions rapides dans le centre de contrôle
 exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/ROXBWnNBGYavdHADhZZzh6A8yrmEpSJ2mfiPtxR33NQ
+TQID: 'https://experienceleague.adobe.com/ROXBWnNBGYavdHADhZZzh6A8yrmEpSJ2mfiPtxR33NQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 336
+source-wordcount: '336'
 ht-degree: 5%
-
 ---
-
 # Actions rapides dans le [!UICONTROL centre de commande] {#quick-actions-in-the-command-center}
 
 La grille d’e-mail comporte deux types de colonnes d’action rapide. les actions E-mail, qui vous permettent d’agir sur l’e-mail, et les actions de suivi, qui vous permettent d’agir sur l’engagement en quelques clics.

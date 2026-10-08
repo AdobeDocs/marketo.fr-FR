@@ -4,23 +4,29 @@ description: Découvrez le rapport de synthèse qui fournit une vue mensuelle de
 title: Présentation du rapport Résumé
 exl-id: 972fb518-bb0d-4c7e-b190-0fe12b2367a7
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/wWcxWt1Q3sQHtUhMh1OaFNkLsB-c3MuUfxhwoWbE-to
+TQID: 'https://experienceleague.adobe.com/wWcxWt1Q3sQHtUhMh1OaFNkLsB-c3MuUfxhwoWbE-to'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 438
+source-wordcount: '438'
 ht-degree: 0%
-
 ---
-
 # Comprendre le [!UICONTROL rapport récapitulatif] {#understanding-the-summary-report}
 
 Le [!UICONTROL rapport récapitulatif] est une vue mensuelle de toutes les campagnes et des performances de contenu recommandées. Elle est basée sur le nombre de clics et le nombre de leads (directs ou assistés) qui ont interagi avec la campagne personnalisée ou le contenu recommandé, puis sont devenus un lead connu. Le rapport compare les résultats au mois précédent.

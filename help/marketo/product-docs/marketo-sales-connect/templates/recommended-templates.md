@@ -4,18 +4,20 @@ description: Découvrez les modèles recommandés dans Sales Connect. Identifiez
 title: Modèles recommandés
 exl-id: 77356b26-ac9d-47c3-8547-1ab1009f6ca6
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/TxLC97egMJj4jLyy-mnucWb2kV3vDbq0zqVK37jN3tM
+TQID: 'https://experienceleague.adobe.com/TxLC97egMJj4jLyy-mnucWb2kV3vDbq0zqVK37jN3tM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 336
+source-wordcount: '336'
 ht-degree: 1%
-
 ---
-
 # Modèles recommandés {#recommended-templates}
 
 Les modèles recommandés par [!DNL Sales Connect] vous aident à obtenir les bons messages tout en vous faisant gagner du temps. Vous bénéficiez ainsi d’un plus grand flux lors de l’envoi d’e-mails et réduisez l’incertitude lors de la recherche de l’e-mail approprié pour la bonne personne.

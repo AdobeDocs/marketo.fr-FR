@@ -4,21 +4,23 @@ description: Configurer et ajouter une personne - Documents Marketo - Documentat
 title: Préparer sa configuration et ajouter une personne
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/rRqzAz5PfuToNYobPd16xS8kPKeEyiymlN0Bs-YuA5c
+TQID: 'https://experienceleague.adobe.com/rRqzAz5PfuToNYobPd16xS8kPKeEyiymlN0Bs-YuA5c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 229
+source-wordcount: '229'
 ht-degree: 96%
-
 ---
-
 # Préparer sa configuration et ajouter une personne {#get-set-up-and-add-a-person}
 
-Vous devez faire quelques choses avant de commencer les missions.
+Il y a quelques étapes à suivre avant de commencer les missions.
 
 ## Étape 1 : se connecter à Marketo Engage {#step-log-in-to-marketo}
 
@@ -46,9 +48,9 @@ Créons un dossier qui contiendra tout ce que vous ferez lors de vos missions.
 
    ![](assets/get-set-up-and-add-a-person-5.png)
 
-## Étape 2 : vous ajouter en tant que personne {#step-add-yourself-as-a-person}
+## Étape 3 : Vous ajouter en tant que personne {#step-add-yourself-as-a-person}
 
-Ajoutez-vous en tant que personne dans Marketo : vous pourrez ensuite vous envoyer des e-mails de test.
+Ajoutez-vous en tant que personne dans Marketo afin de pouvoir ensuite vous envoyer des e-mails de test.
 
 1. Accédez à la zone **[!UICONTROL Base de données]**.
 

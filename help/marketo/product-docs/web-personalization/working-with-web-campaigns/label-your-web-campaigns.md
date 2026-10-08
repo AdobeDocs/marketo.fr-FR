@@ -1,24 +1,27 @@
 ---
 unique-page-id: 2949154
 description: Découvrez comment étiqueter vos campagnes web dans Marketo Engage à l’aide de l’option étiqueter vos campagnes web label-your-web-campaigns. Utilisez ce guide pour passer à l’étape suivante.
-title: Étiqueter vos campagnes web
+title: Libeller vos campagnes web
 exl-id: 891772c8-dc4d-46a4-b254-4baf0a74f9de
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/Z3CLproC1wMbR1-P-1AAwu8XOJxZVizfmTZvY8Koqds
+TQID: 'https://experienceleague.adobe.com/Z3CLproC1wMbR1-P-1AAwu8XOJxZVizfmTZvY8Koqds'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 173
+source-wordcount: '173'
 ht-degree: 4%
-
 ---
-
-# Étiqueter vos campagnes web {#label-your-web-campaigns}
+# Libeller vos campagnes web {#label-your-web-campaigns}
 
 Avez-vous tellement de campagnes que le défilement devient encombrant ? Utilisez des libellés pour baliser vos campagnes afin de les trier et de les trouver rapidement.
 

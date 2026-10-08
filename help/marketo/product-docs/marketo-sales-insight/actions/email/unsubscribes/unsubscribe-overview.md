@@ -3,20 +3,23 @@ description: Découvrez la gestion des désabonnements dans les actions Sales In
 title: Vue d’ensemble du désabonnement
 exl-id: 7598efa9-9686-4dd0-840b-f8b6de4ab2be
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/cY3Vm4hAQvzV4ABOqhjFELHzaGyf0Rt7UKg-5JF-PvQ
+TQID: 'https://experienceleague.adobe.com/cY3Vm4hAQvzV4ABOqhjFELHzaGyf0Rt7UKg-5JF-PvQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 topic_v2:
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 357
+source-wordcount: '357'
 ht-degree: 3%
-
 ---
-
 # Vue d’ensemble du désabonnement {#unsubscribe-overview}
 
 Il est de plus en plus important pour les entreprises de se conformer aux lois sur la confidentialité des e-mails. Pour faciliter cette opération, nous avons apporté quelques améliorations à notre expérience de désabonnement.
@@ -51,7 +54,7 @@ Si vous êtes un administrateur, vous pouvez accéder au groupe de désabonnemen
 
 ## Vignette d’historique de désabonnement {#unsubscribe-history-card}
 
-La carte [!UICONTROL Historique de désabonnement] permet aux administrateurs et aux utilisateurs d’obtenir des informations contextuelles sur l’historique de désabonnement de leurs contacts. Accédez-y en vous rendant dans l’onglet [!UICONTROL Personnes] et en sélectionnant une personne. Elle se trouve au bas de l’onglet [!UICONTROL &#x200B; À propos &#x200B;] dans la vue Détails de la personne.
+La carte [!UICONTROL Historique de désabonnement] permet aux administrateurs et aux utilisateurs d’obtenir des informations contextuelles sur l’historique de désabonnement de leurs contacts. Accédez-y en vous rendant dans l’onglet [!UICONTROL Personnes] et en sélectionnant une personne. Elle se trouve au bas de l’onglet [!UICONTROL  À propos ] dans la vue Détails de la personne.
 
 >[!NOTE]
 >

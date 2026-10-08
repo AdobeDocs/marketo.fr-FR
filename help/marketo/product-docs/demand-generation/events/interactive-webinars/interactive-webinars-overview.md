@@ -3,34 +3,40 @@ description: Découvrez les webinaires interactifs dans Marketo pour un engageme
 title: Vue d’ensemble des webinaires interactifs
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-TQID: https://experienceleague.adobe.com/dKuuIF7FSqYxAY6eYFrXA11f6wdpfIqH7maLniM01JY
+TQID: 'https://experienceleague.adobe.com/dKuuIF7FSqYxAY6eYFrXA11f6wdpfIqH7maLniM01JY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 subfeature_v2:
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Event programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 555
+source-wordcount: '555'
 ht-degree: 87%
-
 ---
-
 # Vue d’ensemble des webinaires interactifs {#interactive-webinars-overview}
 
-La fonctionnalité de webinaires interactifs est la plateforme de webinaires intégrée à Marketo Engage. Il n’y a besoin d’aucun outil ou ni intégration supplémentaire.
+La fonctionnalité de webinaires interactifs est la plateforme de webinaires intégrée à Marketo Engage. Aucun outil ni aucune intégration supplémentaires ne sont requis.
 
 >[!IMPORTANT]
 >
->Les webinaires interactifs optimisés par Adobe Connect sont une fonctionnalité dotée d’une intégration à Adobe Connect. Votre utilisation des webinaires interactifs sera soumise à des conditions générales supplémentaires. Consultez votre contrat ou [contactez Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} pour en savoir plus sur les conditions générales supplémentaires.
+>Les webinaires interactifs sont une fonctionnalité optimisée par Adobe Connect. Ils offrent une intégration native à Adobe Connect. Votre utilisation des webinaires interactifs sera soumise à des conditions générales supplémentaires. Consultez votre contrat ou [contactez Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} pour en savoir plus sur les conditions générales supplémentaires.
 
-## Que sont les webinaires interactifs ? {#what-is-interactive-webinars}
+## Que sont les webinaires interactifs ? {#what-is-interactive-webinars}
 
-Les webinaires interactifs complètent l’expérience existante des événements et des webinaires en vous offrant une expérience native et transparente pour la création, la gestion et la diffusion d’événements dans Marketo Engage. Lorsque vous [créez un webinaire interactif](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}, plusieurs modèles de réunion préconfigurés sont disponibles. Ils sont tous personnalisables (vous pouvez également créer et utiliser des modèles personnalisés). Les participantes et participants peuvent partager leurs écrans, mais aussi des fichiers, discuter entre eux, diffuser des vidéos et de l’audio, et participer à des activités interactives en ligne.
+Les webinaires interactifs complètent l’expérience existante des événements et des webinaires en vous offrant une expérience native et transparente pour la création, la gestion et la diffusion d’événements dans Marketo Engage. Lorsque vous [créez un webinaire interactif](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}, plusieurs modèles de réunion préconfigurés sont disponibles. Ils sont tous personnalisables (vous pouvez également créer et utiliser des modèles personnalisés). Les participants peuvent partager leur écran d’ordinateur et des fichiers, discuter entre eux, diffuser du contenu audio et vidéo, et prendre part à des activités interactives en ligne.
 
 Les webinaires interactifs offrent [trois licences distinctes](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"}, chacune avec des fonctions et des capacités différentes.
 
@@ -40,7 +46,7 @@ Après le webinaire, accédez à l’[analyse des performances des événements]
 
 **Ai-je besoin d’un abonnement distinct pour utiliser les webinaires interactifs ?**
 
-Non. Seul un abonnement Marketo Engage actif est requis pour utiliser les webinaires interactifs.
+Non. L’utilisation des webinaires interactifs nécessite uniquement un abonnement actif à Marketo Engage.
 
 **Quelles langues sont disponibles pour les webinaires interactifs ?**
 
@@ -64,7 +70,7 @@ Si le champ « prénom » du prospect est vide, il ne peut pas s’inscrire au
 
 **Je rencontre des problèmes audio/vidéo lors de la présentation d’un webinaire au moment de l’accès au VPN de mon entreprise. Que dois-je faire ?**
 
-Adobe Connect, la plateforme de diffusion des webinaires interactifs, utilise WebRTC pour le partage audio/vidéo/d’écran. Il est probable que le pare-feu réseau de votre entreprise bloque les adresses IP et les ports utilisés pour la communication basée sur WebRTC. Votre équipe informatique doit autoriser ces ports pour que WebRTC fonctionne. [En savoir plus](https://helpx.adobe.com/fr/in/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}.
+Adobe Connect, la plateforme de diffusion des webinaires interactifs, utilise WebRTC pour le partage d’écran, ainsi que pour la diffusion de contenu audio et vidéo. Il est probable que le pare-feu réseau de votre entreprise bloque les adresses IP et les ports utilisés pour la communication basée sur WebRTC. Votre équipe informatique doit autoriser ces ports pour que WebRTC fonctionne. [En savoir plus](https://helpx.adobe.com/fr/in/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}.
 
 **Mes webinaires interactifs sont-ils enregistrés automatiquement ?**
 

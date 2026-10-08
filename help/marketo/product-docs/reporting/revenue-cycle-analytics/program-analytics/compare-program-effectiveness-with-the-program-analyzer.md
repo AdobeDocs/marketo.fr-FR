@@ -1,16 +1,22 @@
 ---
 unique-page-id: 2360403
 description: Découvrez comment comparer l’efficacité des programmes avec l’analyseur de programmes dans Marketo Engage, y compris comparer des programmes. Utilisez ce guide pour passer à l’étape suivante.
-title: Comparer l’efficacité du programme avec l’analyseur de programme
+title: Comparer l’efficacité des programmes avec l’analyseur de programmes
 exl-id: 6e54d0a4-3cff-46cf-be0d-1992a39d8c03
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '478'
 ht-degree: 1%
-
 ---
-
 # Comparer l’efficacité des programmes avec l’[!UICONTROL analyseur de programmes] {#compare-program-effectiveness-with-the-program-analyzer}
 
 Utilisez l’[!UICONTROL analyseur de programmes] pour identifier vos programmes les plus efficaces et les moins efficaces, en comparant les coûts du programme, l’acquisition des membres, le pipeline et les recettes.
@@ -67,7 +73,7 @@ Utilisez l’[!UICONTROL analyseur de programmes] pour identifier vos programmes
 
    >[!NOTE]
    >
-   >De nombreuses mesures que vous pouvez choisir dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et Multitouche (MT). Il est important de comprendre la [&#x200B; différence entre l’attribution FT et MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >De nombreuses mesures que vous pouvez choisir dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et Multitouche (MT). Il est important de comprendre la [ différence entre l’attribution FT et MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Observez les bulles changer de taille dans votre graphique.
 

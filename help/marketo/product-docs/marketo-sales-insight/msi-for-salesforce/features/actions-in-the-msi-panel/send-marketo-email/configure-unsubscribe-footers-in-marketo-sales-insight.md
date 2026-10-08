@@ -1,21 +1,24 @@
 ---
 unique-page-id: 2953373
 description: Découvrez comment configurer les pieds de page de désabonnement dans Marketo Sales Insight. Configurez les liens de désabonnement et la conformité pour les e-mails de vente.
-title: Configurer les pieds de page de désabonnement dans Informations sur les ventes Marketo
+title: Configurer les pieds de page de désinscription dans Marketo Sales Insight
 exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/9HUCspCSN2LZQzpNJhCI3yiMVzwOYMxyp06UDJQyT2Y
+TQID: 'https://experienceleague.adobe.com/9HUCspCSN2LZQzpNJhCI3yiMVzwOYMxyp06UDJQyT2Y'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 210
+source-wordcount: '210'
 ht-degree: 4%
-
 ---
-
 # Configurer les pieds de page de désabonnement dans [!DNL Marketo Sales Insight] {#configure-unsubscribe-footers-in-marketo-sales-insight}
 
 Les e-mails de ventes placent automatiquement le pied de page de désabonnement en bas. Cependant, vous pouvez ajuster les paramètres en fonction de vos besoins.

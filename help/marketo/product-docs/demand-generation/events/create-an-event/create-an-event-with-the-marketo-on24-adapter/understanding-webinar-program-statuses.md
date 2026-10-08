@@ -1,20 +1,22 @@
 ---
 unique-page-id: 10096681
 description: Découvrez les statuts du programme de webinaire dans la section Intégration d’ON24 et de Marketo . Comprenez les valeurs d’état enregistrées, suivies et autres.
-title: Présentation des statuts du programme de webinaire
+title: Présentation des statuts des programmes de webinaire
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
 feature: Events
-TQID: https://experienceleague.adobe.com/7TgAEyZElmSgML0nz-FWdw-nTB9WJZMcM-X4PzFJLq4
+TQID: 'https://experienceleague.adobe.com/7TgAEyZElmSgML0nz-FWdw-nTB9WJZMcM-X4PzFJLq4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 426
+source-wordcount: '426'
 ht-degree: 1%
-
 ---
-
-# Présentation des statuts du programme de webinaire {#understanding-webinar-program-statuses}
+# Présentation des statuts des programmes de webinaire {#understanding-webinar-program-statuses}
 
 Les statuts de programme représentent les différents statuts d&#39;un événement par lequel une personne passe en tant que membre de l&#39;événement. Ils sont associés à un type de canal. Marketo intègre un type de canal appelé **webinaire**. Les statuts peuvent être utilisés dans les campagnes par lots et de déclenchement.
 

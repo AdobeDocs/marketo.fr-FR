@@ -4,18 +4,23 @@ description: Découvrez comment récupérer des images d’une page web dans Mar
 title: Récupérer les images d’une page web
 exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
 feature: Image Editor
-TQID: https://experienceleague.adobe.com/7QJj1DvaBOQ-ZC5JrpFZ3lchV1t2t-2GpRX4uEmC-s0
+TQID: 'https://experienceleague.adobe.com/7QJj1DvaBOQ-ZC5JrpFZ3lchV1t2t-2GpRX4uEmC-s0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Design Studio
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: ecf3b0de-0d29-4cb7-bed7-bf29ea2e2f77
+    internal-label: Image editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 177
+source-wordcount: '177'
 ht-degree: 7%
-
 ---
-
 # Récupérer les images d’une page web {#grab-the-images-from-a-web-page}
 
 Pour ajouter des images à partir d’une page web, copiez l’adresse web (URL) de la page qui contient les images souhaitées, puis procédez comme suit.

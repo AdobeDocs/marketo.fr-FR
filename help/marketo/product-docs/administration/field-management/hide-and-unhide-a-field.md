@@ -4,21 +4,28 @@ description: Masquez les champs de l’interface utilisateur de Marketo lorsque 
 title: Masquer et afficher un champ
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-TQID: https://experienceleague.adobe.com/eqaWiLR0hUwkqJbayqZEzw8o5oI4ejP6NKJnrPiCq6I
+TQID: 'https://experienceleague.adobe.com/eqaWiLR0hUwkqJbayqZEzw8o5oI4ejP6NKJnrPiCq6I'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 176
+source-wordcount: '176'
 ht-degree: 7%
-
 ---
-
 # Masquer et afficher un champ {#hide-and-unhide-a-field}
 
 Si vous n’avez plus besoin d’un champ dans Marketo Engage, vous pouvez le masquer dans l’interface utilisateur afin qu’il ne s’affiche plus dans l’application.
@@ -65,7 +72,7 @@ Si vous n’avez plus besoin d’un champ dans Marketo Engage, vous pouvez le ma
 
    ![](assets/hide-and-unhide-a-field-7.png)
 
-1. Recherchez et sélectionnez le champ . Dans la liste déroulante [!UICONTROL &#x200B; Actions de champ &#x200B;], cliquez sur **[!UICONTROL Afficher le champ]**.
+1. Recherchez et sélectionnez le champ . Dans la liste déroulante [!UICONTROL  Actions de champ ], cliquez sur **[!UICONTROL Afficher le champ]**.
 
    ![](assets/hide-and-unhide-a-field-8.png)
 

@@ -4,16 +4,18 @@ description: Découvrez les appels internationaux de Sales Phone dans Sales Conn
 title: Appels internationaux via Sales Phone
 exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/IYUuKHJBRfSrVMWH-jxgAFkgyDZo2GbIfvd4tNW-Krc
+TQID: 'https://experienceleague.adobe.com/IYUuKHJBRfSrVMWH-jxgAFkgyDZo2GbIfvd4tNW-Krc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 409
+source-wordcount: '409'
 ht-degree: 29%
-
 ---
-
 # Appels internationaux via Sales Phone {#sales-phone-international-calling}
 
 Le téléphone commercial vous permet de communiquer facilement à l’international. Pour les clients qui appellent depuis les États-Unis, le numéro de téléphone commercial peut être utilisé pour les appels sortants vers des pays étrangers. Pour les clients en dehors des États-Unis, nous prenons en charge les appels en provenance de pays internationaux.

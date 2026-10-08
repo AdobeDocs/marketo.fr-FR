@@ -2,15 +2,22 @@
 description: Découvrez comment incorporer un flux de conversation dans une page de destination Marketo. Permet aux visiteurs de planifier des réunions via Dynamic Chat sans remplir de formulaire.
 title: Utiliser une page de destination de flux de conversation
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Dynamic Chat
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 2%
-
 ---
-
 # Utiliser une page de destination de flux de conversation{#use-a-conversational-flow-landing-page}
 
 L’incorporation d’un flux de conversation Dynamic Chat directement dans une page de destination Marketo Engage permet aux visiteurs de planifier une réunion via Dynamic Chat sans avoir à remplir un formulaire ou interagir avec un bot conversationnel.

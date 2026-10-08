@@ -4,16 +4,18 @@ description: Découvrez comment effectuer le suivi de vos pièces jointes à un 
 title: Comment effectuer le suivi des pièces jointes de vos e-mails
 exl-id: 88c97309-13d4-46ef-a375-4afe4401fd94
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/-g1avRZcATkOU-nT6GhdcqTPi4mA4N58D2-1d6qKYbo
+TQID: 'https://experienceleague.adobe.com/-g1avRZcATkOU-nT6GhdcqTPi4mA4N58D2-1d6qKYbo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 170
+source-wordcount: '170'
 ht-degree: 7%
-
 ---
-
 # Comment effectuer le suivi des pièces jointes de vos e-mails {#how-to-track-your-email-attachments}
 
 [!DNL Sales Connect] offre un suivi de vos pièces jointes (.doc, .ppt, .pdf) afin que vous puissiez voir quand elles ont été ouvertes/téléchargées et quelles pages votre destinataire consulte. Nous vous permettrons d&#39;utiliser notre fonctionnalité de pièces jointes traçables à partir de l&#39;[application web](https://toutapp.com/login) et de Gmail (ou des applications Google).

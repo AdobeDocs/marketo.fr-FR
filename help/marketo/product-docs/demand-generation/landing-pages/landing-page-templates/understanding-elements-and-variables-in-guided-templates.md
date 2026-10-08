@@ -4,18 +4,23 @@ description: Découvrez les éléments et les variables dans les modèles de pag
 title: Présentation des éléments et des variables dans les modèles guidés
 exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/WnAKFAB8moOFv7cS97E8cplgledGbhioPReda27p4uo
+TQID: 'https://experienceleague.adobe.com/WnAKFAB8moOFv7cS97E8cplgledGbhioPReda27p4uo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 199
+source-wordcount: '199'
 ht-degree: 9%
-
 ---
-
 # Présentation des éléments et des variables dans les modèles guidés {#understanding-elements-and-variables-in-guided-templates}
 
 Les modèles de landing page guidés comportent deux types de sections modifiables : les éléments et les variables.
@@ -28,7 +33,7 @@ Les éléments sont les différents éléments de contenu qui constituent une pa
 
 Lorsque vous modifiez une page de destination guidée, les éléments s’affichent s’ils ont été marqués comme étant modifiables dans le modèle. Les éléments présenteront les icônes suivantes :
 
-* ![&#x200B; : image &#x200B;](assets/image2015-5-20-12-3a30-3a48.png)
+* ![ : image ](assets/image2015-5-20-12-3a30-3a48.png)
 * ![—](assets/image2015-5-20-12-3a31-3a33.png)Formulaire Marketo
 * ![—](assets/image2015-5-20-12-3a41-3a21.png)Texte
 * ![—](assets/image2015-5-20-12-3a42-3a47.png)Vidéo

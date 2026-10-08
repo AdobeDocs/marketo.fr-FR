@@ -1,19 +1,24 @@
 ---
 description: Découvrez comment accorder le consentement pour l’ID client et l’enregistrement de l’application utilisés pour la synchronisation Dynamics. Créez l’URI d’autorisation et accordez les autorisations d’utilisateur délégué à l’utilisateur de synchronisation.
-title: Accorder le consentement pour l’enregistrement de l’ID client et de l’application
+title: Accorder le consentement pour l’ID client et l’enregistrement de l’application
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/HOqR2iJ4eN5091PyTeOLtCeYkVrj9TMs5MuKK8tEeYo
+TQID: 'https://experienceleague.adobe.com/HOqR2iJ4eN5091PyTeOLtCeYkVrj9TMs5MuKK8tEeYo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 293
+source-wordcount: '293'
 ht-degree: 5%
-
 ---
-
-# Accorder le consentement pour l’enregistrement de l’ID client et de l’application {#grant-consent-for-client-id-and-app-registration}
+# Accorder le consentement pour l’ID client et l’enregistrement de l’application {#grant-consent-for-client-id-and-app-registration}
 
 Suivez les étapes ci-dessous pour savoir comment accorder le consentement et les autorisations nécessaires.
 

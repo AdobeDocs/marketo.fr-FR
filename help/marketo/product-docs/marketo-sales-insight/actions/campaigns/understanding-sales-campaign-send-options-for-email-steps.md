@@ -1,19 +1,21 @@
 ---
 description: Découvrez les options d’envoi des étapes des e-mails de la campagne commerciale. Choisissez quand envoyer, planifiez l’heure d’envoi ou créez une tâche à envoyer vous-même pour les premières étapes et les étapes suivantes.
-title: Présentation des options d’envoi de campagne de vente pour les étapes d’e-mails
+title: Présentation des options d’envoi des campagnes de vente pour les étapes d’e-mail
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-TQID: https://experienceleague.adobe.com/dd4l3DH5i6E-zpjJk-cpQTMgZy-3a90JcrkeAFGl4PM
+TQID: 'https://experienceleague.adobe.com/dd4l3DH5i6E-zpjJk-cpQTMgZy-3a90JcrkeAFGl4PM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 758
+source-wordcount: '772'
 ht-degree: 5%
-
 ---
-
-# Présentation des options d’envoi de campagne de vente pour les étapes d’e-mails {#understanding-sales-campaign-send-options-for-email-steps}
+# Présentation des options d’envoi des campagnes de vente pour les étapes d’e-mail {#understanding-sales-campaign-send-options-for-email-steps}
 
 Lorsque vous créez une campagne de ventes, vous disposez de plusieurs options sur la manière dont les étapes d’e-mail sont créées dans [!DNL Sales Insight Actions]. De plus, selon l’emplacement de votre e-mail dans votre campagne de vente, vos options diffèrent également.
 
@@ -37,8 +39,8 @@ S’il s’agit de votre première étape et du premier jour de votre campagne d
 * Cette option crée une tâche d’e-mail (et la synchronise sur [!DNL Salesforce]) que vous pouvez envoyer à votre convenance.
 * Une fois cette sélection effectuée, lorsque vous lancez votre campagne de vente, ces tâches sont mises en file d’attente pour vous dans le centre de commande et le flux en direct. Vous pouvez ensuite personnaliser et envoyer (ou planifier) chaque e-mail avant qu’il ne soit envoyé.
 
-   * Si vous ouvrez cette tâche dans notre application web, une fenêtre de composition s’ouvre avec l’adresse e-mail de votre contact, l’objet de votre e-mail et le modèle que vous avez choisi.
-   * Si vous ouvrez cette tâche dans Gmail ou [!DNL Outlook], une fenêtre de composition native s’ouvre et l’adresse e-mail du contact, l’objet de l’e-mail et le modèle que vous avez choisi sont renseignés dynamiquement.
+  * Si vous ouvrez cette tâche dans notre application web, une fenêtre de composition s’ouvre avec l’adresse e-mail de votre contact, l’objet de votre e-mail et le modèle que vous avez choisi.
+  * Si vous ouvrez cette tâche dans Gmail ou [!DNL Outlook], une fenêtre de composition native s’ouvre et l’adresse e-mail du contact, l’objet de l’e-mail et le modèle que vous avez choisi sont renseignés dynamiquement.
 
 ## Options d’envoi de l’étape suivante {#subsequent-step-send-options}
 
@@ -63,8 +65,8 @@ Pour les jours/étapes suivants de votre campagne de ventes, vous disposez des o
 * Cette option crée une tâche d’e-mail (et la synchronise sur [!DNL Salesforce]) que vous pouvez envoyer à votre convenance.
 * Une fois cette sélection effectuée, lorsque vous lancez votre campagne de vente, [!DNL Sales Insight Actions] met ces tâches en file d’attente pour vous dans le centre de commande et le flux en direct. Vous pouvez ensuite personnaliser et envoyer (ou planifier) chaque e-mail avant qu’il ne soit envoyé.
 
-   * Si vous ouvrez cette tâche dans notre application web, une fenêtre de composition s’ouvre avec l’adresse e-mail de votre contact, l’objet de votre e-mail et le modèle que vous avez choisi.
-   * Si vous ouvrez cette tâche dans Gmail ou [!DNL Outlook], une fenêtre de composition native s’ouvre et l’adresse e-mail du contact, l’objet de l’e-mail et le modèle que vous avez choisi sont renseignés dynamiquement.
+  * Si vous ouvrez cette tâche dans notre application web, une fenêtre de composition s’ouvre avec l’adresse e-mail de votre contact, l’objet de votre e-mail et le modèle que vous avez choisi.
+  * Si vous ouvrez cette tâche dans Gmail ou [!DNL Outlook], une fenêtre de composition native s’ouvre et l’adresse e-mail du contact, l’objet de l’e-mail et le modèle que vous avez choisi sont renseignés dynamiquement.
 
 ### Créez cet e-mail en guise de suivi à l’e-mail précédent dans cette campagne {#subsequent-create-this-email}
 

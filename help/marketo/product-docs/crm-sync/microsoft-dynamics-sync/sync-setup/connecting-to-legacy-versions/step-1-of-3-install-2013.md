@@ -4,16 +4,21 @@ description: Découvrez comment installer la solution Marketo dans Dynamics 2013
 title: Étape 1 sur 3 - Installer la solution Marketo dans Dynamics (2013 On-Premise)
 exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/4WajWj-c4TYpq3cU3QRu1C-TbsYwCo2lDuvsrGLOwGo
+TQID: 'https://experienceleague.adobe.com/4WajWj-c4TYpq3cU3QRu1C-TbsYwCo2lDuvsrGLOwGo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 308
+source-wordcount: '308'
 ht-degree: 0%
-
 ---
-
 # Étape 1 sur 3 : installation de la solution Marketo en [!DNL Dynamics] (2013 On-Premise) {#step-of-install-the-marketo-solution-in-dynamics-on-premises}
 
 Avant de pouvoir synchroniser [!DNL Microsoft Dynamics] On-Premise et Marketo, vous devez d’abord installer la solution Marketo dans [!DNL Dynamics].
@@ -58,7 +63,7 @@ Avant de pouvoir synchroniser [!DNL Microsoft Dynamics] On-Premise et Marketo, v
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
-1. De retour sur la page [!UICONTROL &#x200B; Informations sur la solution &#x200B;], cliquez sur **[!UICONTROL Suivant]**.
+1. De retour sur la page [!UICONTROL  Informations sur la solution ], cliquez sur **[!UICONTROL Suivant]**.
 
    ![](assets/image2015-3-26-9-3a55-3a17.png)
 

@@ -4,18 +4,23 @@ description: Découvrez comment ajouter SSL à vos pages de destination Marketo.
 title: Ajouter SSL à vos pages de destination
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/BqMzRWEHpZjd1Ju-o0xCzNKIXpfUYyifWYGKHNqfs0o
+TQID: 'https://experienceleague.adobe.com/BqMzRWEHpZjd1Ju-o0xCzNKIXpfUYyifWYGKHNqfs0o'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Configuration
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 875
+source-wordcount: '875'
 ht-degree: 14%
-
 ---
-
 # Ajouter SSL à vos pages de destination {#add-ssl-to-your-landing-pages}
 
 Le chiffrement SSL (Secure Socket Layer) vous permet de sécuriser toutes vos pages de destination pour une instance Marketo Engage.
@@ -124,10 +129,10 @@ Vous trouverez ci-dessous les messages d’erreur que vous pouvez recevoir, ains
 
 ## Éléments à noter {#things-to-note}
 
-* **Mappage DNS du domaine vers Marketo Engage** : avant d’ajouter des domaines dans l’interface utilisateur, vous devez [mapper des CNAME à un domaine fourni par Marketo](https://experienceleague.adobe.com/fr/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **Mappage DNS du domaine vers Marketo Engage** : avant d’ajouter des domaines dans l’interface utilisateur, vous devez [mapper des CNAME à un domaine fourni par Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
 * **SSL personnalisés** : si vous avez besoin d’un SSL personnalisé, envoyez un ticket [Support technique](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. N’utilisez pas la case à cocher en libre-service pour la création SSL.
 
 * **SSL préexistants** : lors de l’ajout d’un domaine, le système recherche les SSL préexistants, qui peuvent avoir été créés manuellement au préalable. Si vous rencontrez cette validation, créez votre domaine sans sélectionner la création SSL, et nous les connecterons pour vous. [Contactez l’assistance](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} pour plus d’informations ou d’options.
 
-* **Suppression de domaines** : la suppression automatique d’un domaine **ne supprime pas** le certificat SSL. Ce mécanisme de sécurisation empêche les erreurs utilisateur qui entraînent la suppression des certificats SSL d’un site web. Si vous souhaitez supprimer les certificats SSL, [contactez l’assistance &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+* **Suppression de domaines** : la suppression automatique d’un domaine **ne supprime pas** le certificat SSL. Ce mécanisme de sécurisation empêche les erreurs des utilisateurs pouvant entraîner l’absence de certificats SSL sur un site web. Si vous souhaitez supprimer les certificats SSL, [contactez l’assistance ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.

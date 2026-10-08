@@ -3,16 +3,21 @@ description: Notes De Mise À Jour - Mars 2023 - Documents Marketo - Documentati
 title: Notes de mise à jour - Mars 2023
 exl-id: f07abfef-5740-4380-9ca9-069a323486eb
 feature: Release Information
-TQID: https://experienceleague.adobe.com/Sisp6sUlykUIMGVZjQlLgTarYQBgz-2QP5-3JW5d0t0
+TQID: 'https://experienceleague.adobe.com/Sisp6sUlykUIMGVZjQlLgTarYQBgz-2QP5-3JW5d0t0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 587
+source-wordcount: '587'
 ht-degree: 22%
-
 ---
-
 # Notes de mise à jour : mars 2023 {#release-notes-mar-23}
 
 Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version de mars 2023. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.

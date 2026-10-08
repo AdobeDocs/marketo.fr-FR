@@ -4,18 +4,23 @@ description: Découvrez comment définir une audience de programme de messagerie
 title: Définir une audience en important une liste
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/Q5z9emcEDyLDUB2ZDF9LIMZTX1jvEQ8W5-bKFgMMFuc
+TQID: 'https://experienceleague.adobe.com/Q5z9emcEDyLDUB2ZDF9LIMZTX1jvEQ8W5-bKFgMMFuc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 387
+source-wordcount: '387'
 ht-degree: 15%
-
 ---
-
 # Définir une audience en important une liste {#define-an-audience-by-importing-a-list}
 
 >[!PREREQUISITES]
@@ -28,7 +33,7 @@ Une fois que vous avez créé un programme de messagerie, vous pouvez lui indiqu
 >
 >La définition de votre audience ne fonctionne que lorsque le programme de messagerie n’est pas approuvé.
 >
->Tous les champs de date et d’heure importés sont traités comme des champs d’heure du Centre. Si vous avez des champs de date/heure dans un autre fuseau horaire, vous pouvez utiliser une formule Excel pour les transformer en heure du Centre (Amérique/Chicago).
+>Tous les champs de date/heure importés sont traités comme étant à l’heure du Centre (fuseau horaire Central Time). Si vos champs de type date/heure utilisent un autre fuseau horaire, vous pouvez utiliser une formule Excel pour les convertir au fuseau horaire Central Time (Amérique/Chicago).
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 

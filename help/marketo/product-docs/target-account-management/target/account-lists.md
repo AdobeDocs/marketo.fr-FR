@@ -4,21 +4,28 @@ description: Découvrez les listes de comptes et comment elles regroupent les co
 title: '[!UICONTROL Listes de comptes]'
 exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/fNIkaF84ELk9RJAxA9PK9rFlaEkNwia9sbgqsHOBOMI
+TQID: 'https://experienceleague.adobe.com/fNIkaF84ELk9RJAxA9PK9rFlaEkNwia9sbgqsHOBOMI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 364
+source-wordcount: '364'
 ht-degree: 2%
-
 ---
-
 # [!UICONTROL Listes de comptes] {#account-lists}
 
 Une liste de comptes est un ensemble de comptes nommés qui peuvent être ciblés ensemble. Les listes de comptes vous permettent de cibler des comptes nommés par secteur d’activité, emplacement ou taille de l’entreprise.
@@ -31,7 +38,7 @@ Outre les listes de comptes, vous pouvez également créer des listes de comptes
 >
 >Les listes de comptes créées dans Marketo [!UICONTROL Gestion des comptes Target] sont automatiquement disponibles lors de la création de listes intelligentes et de campagnes web dans [Web Personalization](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
 
-## Créer une liste de comptes {#create-a-new-account-list}
+## Créer une nouvelle liste de comptes {#create-a-new-account-list}
 
 1. Cliquez sur le menu déroulant **[!UICONTROL Nouveau]** et sélectionnez **[!UICONTROL Créer une liste de comptes]**.
 

@@ -1,26 +1,32 @@
 ---
 unique-page-id: 8783322
 description: Découvrez comment exécuter l’outil de validation de la synchronisation pour vérifier votre configuration Microsoft Dynamics et Marketo. Vérifiez la liste de contrôle en sept étapes dans Admin avant d’établir la connexion finale.
-title: Valider [!DNL Microsoft Dynamics] Sync
+title: Valider [!DNL Microsoft Dynamics] synchronisation
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/np-8Y0EGZYlWX-hKe64kP-iEDVN4tDR-gmMdX4jmBdU
+TQID: 'https://experienceleague.adobe.com/np-8Y0EGZYlWX-hKe64kP-iEDVN4tDR-gmMdX4jmBdU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Customer experience
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 266
-ht-degree: 3%
-
+source-wordcount: '267'
+ht-degree: 2%
 ---
-
 # Valider [!DNL Microsoft Dynamics] synchronisation {#validate-microsoft-dynamics-sync}
 
 >[!CAUTION]
 >
->Si Multi-Factor Authentication (MFA) est activé pour votre synchronisation [!DNL Dynamics], vous devez la désactiver pour que [!DNL Dynamics] puissiez effectuer correctement la synchronisation avec Marketo. Pour plus d’informations, contactez l’assistance technique de [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Si Multi-Factor Authentication (MFA) est activé pour votre synchronisation [!DNL Dynamics], vous devez la désactiver pour que [!DNL Dynamics] puissiez effectuer correctement la synchronisation avec Marketo. Pour plus d’informations, contactez l’assistance technique de [](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 ## Exécuter la synchronisation de validation dans Marketo {#run-validate-sync-in-marketo}
 
@@ -50,7 +56,7 @@ Il est très important d’exécuter l’outil Valider la synchronisation pour v
 
    ![](assets/image2015-9-22-15-3a58-3a12.png)
 
-1. Si vous voyez une ![&#x200B; — &#x200B;](assets/delete.png), alors cette étape pose un problème. Voir [Correction [!DNL Dynamics] des problèmes de synchronisation de validation](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) pour identifier et résoudre le problème. Réexécutez ensuite les étapes de validation de la synchronisation jusqu’à ce que le résultat ressemble à l’image ci-dessus.
+1. Si vous voyez une ![ — ](assets/delete.png), alors cette étape pose un problème. Voir [Correction [!DNL Dynamics] des problèmes de synchronisation de validation](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) pour identifier et résoudre le problème. Réexécutez ensuite les étapes de validation de la synchronisation jusqu’à ce que le résultat ressemble à l’image ci-dessus.
 
    >[!CAUTION]
    >

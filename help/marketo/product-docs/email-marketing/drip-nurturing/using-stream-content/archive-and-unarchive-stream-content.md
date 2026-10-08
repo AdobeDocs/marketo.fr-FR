@@ -1,22 +1,27 @@
 ---
 unique-page-id: 2359930
 description: Découvrez comment archiver ou désarchiver du contenu de flux pour conserver l’historique.
-title: Archiver et désarchiver du contenu en flux
+title: Archiver et désarchiver le contenu d’un flux
 exl-id: 45a7fec2-a98d-4a3f-8033-543cc88c499f
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/-MFre6oYxQ1kDi3jHv18YDHHXKtuV-CvZicTT5bMuvA
+TQID: 'https://experienceleague.adobe.com/-MFre6oYxQ1kDi3jHv18YDHHXKtuV-CvZicTT5bMuvA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 151
+source-wordcount: '151'
 ht-degree: 6%
-
 ---
-
-# Archiver et désarchiver du contenu en flux {#archive-and-unarchive-stream-content}
+# Archiver et désarchiver le contenu d’un flux {#archive-and-unarchive-stream-content}
 
 Si vous ne souhaitez plus utiliser un élément de contenu dans un flux, vous pouvez le [supprimer](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) ou l’archiver. Voici comment archiver du contenu.
 

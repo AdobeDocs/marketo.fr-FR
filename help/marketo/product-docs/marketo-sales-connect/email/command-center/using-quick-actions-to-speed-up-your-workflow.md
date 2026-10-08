@@ -1,20 +1,22 @@
 ---
 unique-page-id: 37357306
 description: Découvrez comment utiliser des actions rapides dans Sales Connect pour accélérer votre workflow. Effectuez les tâches courantes du centre de commande en un seul clic.
-title: Utilisation des actions rapides pour accélérer votre workflow
+title: Utilisation des actions rapides pour accélérer votre workflow​
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/wPFSzvwWQOQXO5fa69BeMxrOEm0--T6gKoyhmky2JJk
+TQID: 'https://experienceleague.adobe.com/wPFSzvwWQOQXO5fa69BeMxrOEm0--T6gKoyhmky2JJk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 341
+source-wordcount: '341'
 ht-degree: 8%
-
 ---
-
-# Utilisation des actions rapides pour accélérer votre workflow {#using-quick-actions-to-speed-up-your-workflow}
+# Utilisation des actions rapides pour accélérer votre workflow&#x200B; {#using-quick-actions-to-speed-up-your-workflow}
 
 La grille d’e-mail comporte deux types de colonnes d’action rapide. les actions E-mail, qui vous permettent d’agir sur l’e-mail, et les actions de suivi, qui vous permettent d’agir sur l’engagement en quelques clics.
 

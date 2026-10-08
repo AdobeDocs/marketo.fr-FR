@@ -3,18 +3,20 @@ description: Découvrez comment ajouter des pièces jointes ou du contenu pouvan
 title: Ajouter une pièce jointe ou du contenu pouvant être suivi à votre e-mail
 exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/yPBxpWnkT0FsrMRlwUQ1bGLB6oeCuEW9IUHMUeqA7EM
+TQID: 'https://experienceleague.adobe.com/yPBxpWnkT0FsrMRlwUQ1bGLB6oeCuEW9IUHMUeqA7EM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 427
+source-wordcount: '427'
 ht-degree: 4%
-
 ---
-
 # Ajouter une pièce jointe ou du contenu pouvant être suivi à votre e-mail {#add-an-attachment-or-trackable-content-to-your-email}
 
 Lors de l’envoi d’un e-mail par l’intermédiaire de [!DNL Marketo Sales], vous avez la possibilité d’ajouter un fichier en pièce jointe ou de faire d’un fichier un lien téléchargeable (et traçable).

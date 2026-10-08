@@ -4,16 +4,18 @@ description: Personnaliser un e-mail - Documents Marketo - Documentation du prod
 title: Personnaliser un e-mail
 exl-id: 1562796e-da47-4305-b950-3bed1d36d339
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/T2rqqrkxA5tScMDEnJ4oEXSwuJKnb36bscUKg5aRXhc
+TQID: 'https://experienceleague.adobe.com/T2rqqrkxA5tScMDEnJ4oEXSwuJKnb36bscUKg5aRXhc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 337
+source-wordcount: '337'
 ht-degree: 100%
-
 ---
-
 # Personnaliser un e-mail {#personalize-an-email}
 
 ## Mission : rendre vos e-mails personnels en ajoutant des jetons de données {#mission-make-your-emails-personal-by-adding-data-tokens}
@@ -32,7 +34,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >Une copie de cet e-mail sera créée en tant que brouillon. N’oubliez pas d’approuver le brouillon pour que les changements prennent effet.
+   >Une copie de cet e-mail sera créée en tant que brouillon. N’oubliez pas d’approuver le brouillon pour que les modifications soient appliquées.
 
 Si vous n’avez pas activé de bloqueur de fenêtres contextuelles, l’éditeur d’e-mail s’ouvre dans un nouvel onglet/une nouvelle fenêtre. Sinon, cliquez deux fois sur **[!UICONTROL Créer un brouillon]**.
 

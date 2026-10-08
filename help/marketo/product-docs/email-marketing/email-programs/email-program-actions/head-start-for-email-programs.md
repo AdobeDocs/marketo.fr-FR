@@ -4,18 +4,23 @@ description: Découvrez le programme Bon départ pour les programmes de messager
 title: Démarrage rapide des programmes d’e-mail
 exl-id: f7c8b082-4d83-4e3b-8aa4-7b252e3dacd3
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/DHsakR9O7XMJMAG2q7kfJFUUc2eFnkdslbowaA85IC4
+TQID: 'https://experienceleague.adobe.com/DHsakR9O7XMJMAG2q7kfJFUUc2eFnkdslbowaA85IC4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 430
+source-wordcount: '432'
 ht-degree: 2%
-
 ---
-
 # Démarrage rapide des programmes d’e-mail {#head-start-for-email-programs}
 
 >[!PREREQUISITES]
@@ -38,7 +43,7 @@ Lorsque vous choisissez une date/heure pour un programme d’e-mail, il détermi
    >
    >Le démarrage anticipé ne peut pas être utilisé avec les tests A/B.
 
-1. Dans la mosaïque [!UICONTROL &#x200B; Planifier &#x200B;], planifiez votre e-mail, puis sélectionnez la zone **[!UICONTROL Démarrage rapide]**.
+1. Dans la mosaïque [!UICONTROL  Planifier ], planifiez votre e-mail, puis sélectionnez la zone **[!UICONTROL Démarrage rapide]**.
 
    ![](assets/three-1.png)
 
@@ -69,7 +74,7 @@ Lorsque vous choisissez une date/heure pour un programme d’e-mail, il détermi
 
 ## Prise en main du fuseau horaire du destinataire {#head-start-with-recipient-time-zone}
 
-Notre fonctionnalité Bon départ exige que le programme soit planifié au moins 12 heures à l&#39;avance. Qu’est-ce que cela signifie pour le fuseau horaire du destinataire ? Rappelez-vous que lorsque le fuseau horaire du destinataire est actif, nous commençons à exécuter le programme d’e-mail à minuit dans le premier fuseau horaire (UTC +14:00). Ainsi, pour activer **à la fois** le démarrage rapide et le fuseau horaire du destinataire, les programmes doivent être planifiés **au moins 12 heures avant le fuseau horaire le plus proche (UTC +14:00**).
+Notre fonctionnalité Bon départ exige que le programme soit planifié au moins 12 heures à l&#39;avance. Qu’est-ce que cela signifie pour le fuseau horaire du destinataire ? Rappelez-vous que lorsque le fuseau horaire du destinataire est actif, nous commençons à exécuter le programme d’e-mail à minuit dans le premier fuseau horaire (UTC +14:00). Ainsi, pour activer **à la fois** le démarrage rapide et le fuseau horaire du destinataire, les programmes doivent être planifiés **au moins 12 heures avant le fuseau horaire le plus proche (UTC +14:00**.)
 
 Cela signifie que si vous êtes en Amérique/Los Angeles et que vous souhaitez activer les fuseaux horaires Head Start et Recipient, vous devez planifier le programme **34 heures** à l&#39;avance. Comment en sommes-nous arrivés à ce chiffre ?
 

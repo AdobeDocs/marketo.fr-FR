@@ -4,24 +4,32 @@ description: Découvrez le tableau de bord des comptes nommés et sa vue à 360 
 title: Informations sur le compte nommé
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/AFf4miCMLQKRhYC-gIn-q8KinQD8NZ8-8FxsxC1hxMg
+TQID: 'https://experienceleague.adobe.com/AFf4miCMLQKRhYC-gIn-q8KinQD8NZ8-8FxsxC1hxMg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 444
+source-wordcount: '444'
 ht-degree: 2%
-
 ---
-
 # Informations sur le compte nommé {#named-account-insights}
 
 Le tableau de bord des comptes nommés offre une vue à 360 degrés d’un compte cible.
@@ -69,7 +77,7 @@ Disponible pour les utilisateurs de [!DNL Marketo Sales Insight], consultez les 
 
 **Principales personnes**
 
-Ces personnes sont calculées en fonction des priorités basées sur la récence ou l’urgence affichée par des personnes de comptes nommés (identique aux [&#x200B; Meilleurs résultats &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) dans Sales Insight), ou sur les scores définis par l’utilisateur. **[!UICONTROL Priorité]** n’est disponible que pour les utilisateurs et utilisatrices de [!DNL Marketo Sales Insight].
+Ces personnes sont calculées en fonction des priorités basées sur la récence ou l’urgence affichée par des personnes de comptes nommés (identique aux [ Meilleurs résultats ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) dans Sales Insight), ou sur les scores définis par l’utilisateur. **[!UICONTROL Priorité]** n’est disponible que pour les utilisateurs et utilisatrices de [!DNL Marketo Sales Insight].
 
 ![](assets/top-ten.png)
 

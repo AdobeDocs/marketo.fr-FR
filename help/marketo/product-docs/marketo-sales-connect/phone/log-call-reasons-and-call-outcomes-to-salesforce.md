@@ -3,22 +3,27 @@ description: Découvrez comment consigner les raisons des appels et les résulta
 title: Consigner les raisons des appels et les résultats des appels dans Salesforce
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/s1WtxUjizmyoubCK1SfFAfivTRcfuQeESWDYyNVO6k4
+TQID: 'https://experienceleague.adobe.com/s1WtxUjizmyoubCK1SfFAfivTRcfuQeESWDYyNVO6k4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 462
+source-wordcount: '462'
 ht-degree: 4%
-
 ---
-
 # Consigner les raisons et les résultats des appels à [!DNL Salesforce] {#log-call-reasons-and-call-outcomes-to-salesforce}
 
 Si vous souhaitez consigner les résultats des appels et les raisons des appels à [!DNL Salesforce] à des fins de création de rapports ou de visibilité, vous pouvez créer un champ d’activité personnalisé pour chaque appel. Chaque champ doit utiliser un nom d’API spécifique (appelé « Nom de champ » dans [!DNL Salesforce]).

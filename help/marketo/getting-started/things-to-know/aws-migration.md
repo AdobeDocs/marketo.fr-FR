@@ -3,7 +3,13 @@ description: Migration AWS - Documents Marketo Engage - Documentation du produit
 title: Migration d’AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: a02e4782a1c320ec1baa8c304d50c7e1807ab445
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '1227'
 ht-degree: 4%
@@ -41,7 +47,7 @@ Les impacts ci-dessous ne nécessitent aucune action de votre part.
 
 >[!IMPORTANT]
 >
->Si vous utilisez [formulaires externes](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} et souhaitez éviter de perdre les données d’envoi de formulaire collectées alors que Marketo Engage n’est pas disponible pendant votre période de migration, contactez [l’assistance Adobe](https://experienceleague.adobe.com/fr/support){target="_blank"} **au moins deux jours ouvrables** à l’avance et fournissez l’ID de formulaire et l’ID de Munchkin de votre abonnement.
+>Si vous utilisez [formulaires externes](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} et souhaitez éviter de perdre les données d’envoi de formulaire collectées alors que Marketo Engage n’est pas disponible pendant votre période de migration, contactez [l’assistance Adobe](https://experienceleague.adobe.com/en/support){target="_blank"} **au moins deux jours ouvrables** à l’avance et fournissez l’ID de formulaire et l’ID de Munchkin de votre abonnement.
 
 ## Identifier votre datacenter/pod {#identify}
 
@@ -341,9 +347,9 @@ En fonction de votre centre de données, collaborez avec votre service informati
 
 Pour obtenir les dernières informations, mettez un signet sur cette page.
 
-Pour les mises à jour de statut, vous pouvez vous [abonner pour les recevoir](https://experienceleague.adobe.com/fr/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} au début et à la fin de la migration. Vous pouvez également consulter [status.adobe.com](https://status.adobe.com/fr){target="_blank"} pendant la période de migration.
+Pour les mises à jour de statut, vous pouvez vous [abonner pour les recevoir](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} au début et à la fin de la migration. Vous pouvez également consulter [status.adobe.com](https://status.adobe.com/fr){target="_blank"} pendant la période de migration.
 
-Pour toute question, contactez l’assistance Adobe via le portail d’assistance d’Admin Console ou [Experience League](https://experienceleague.adobe.com/fr/support){target="_blank"}.
+Pour toute question, contactez l’assistance Adobe via le portail d’assistance d’Admin Console ou [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
 
 ## Questions fréquentes {#faq}
 
@@ -369,6 +375,6 @@ Les désabonnements standard et de liste (clients de messagerie) sont toujours r
 **Existe-t-il des alternatives à la suspension des campagnes ?**
 Oui. Si vous souhaitez empêcher les utilisateurs d’avancer sans perdre les données entrantes, tenez compte des options suivantes :
 
-* Ajouter une étape de choix : au lieu de désactiver votre campagne, laissez-la active, mais ajoutez une [étape de flux d’attente](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview){target="_blank"} ou une étape « Ne rien faire » immédiate tout en haut du flux. Définissez une [règle de choix](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step){target="_blank"} qui dirige vos personnes vers cet état en pause, puis mettez à jour les règles de choix lorsque vous êtes prêt.
-* Supprimer du flux : si des personnes ont déjà rejoint la campagne, mais que vous devez arrêter leur progression, utilisez l’action [Supprimer du flux](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow){target="_blank"} pour les extraire sans désactiver définitivement le déclencheur de la campagne.
+* Ajouter une étape de choix : au lieu de désactiver votre campagne, laissez-la active, mais ajoutez une [étape de flux d’attente](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview){target="_blank"} ou une étape « Ne rien faire » immédiate tout en haut du flux. Définissez une [règle de choix](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step){target="_blank"} qui dirige vos personnes vers cet état en pause, puis mettez à jour les règles de choix lorsque vous êtes prêt.
+* Supprimer du flux : si des personnes ont déjà rejoint la campagne, mais que vous devez arrêter leur progression, utilisez l’action [Supprimer du flux](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow){target="_blank"} pour les extraire sans désactiver définitivement le déclencheur de la campagne.
 * Alternative par lots : envisagez de convertir les campagnes par déclencheurs en campagnes par lots si vous n’avez pas besoin de routage instantané ou de réponses et que vous souhaitez simplement traiter les personnes du jour au lendemain ou à des intervalles planifiés.

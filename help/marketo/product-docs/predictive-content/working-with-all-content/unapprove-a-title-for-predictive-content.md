@@ -4,16 +4,18 @@ description: Découvrez comment annuler l’approbation d’un titre pour le con
 title: Annuler l’approbation d’un titre pour le contenu prédictif
 exl-id: 63540339-fbed-436b-8cb3-abf2e181e010
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/qYunPafNSSAeWKtT5CTFKbJIkv7I6CIgCsFqhCf5Ikw
+TQID: 'https://experienceleague.adobe.com/qYunPafNSSAeWKtT5CTFKbJIkv7I6CIgCsFqhCf5Ikw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 159
+source-wordcount: '159'
 ht-degree: 3%
-
 ---
-
 # Désapprobation d’un titre pour [!UICONTROL contenu prédictif] {#unapprove-a-title-for-predictive-content}
 
 Vous pouvez annuler l’approbation de n’importe quel titre pour le contenu prédictif sur votre page [!UICONTROL Tout le contenu] ou sur le pop-up [!UICONTROL Modifier le contenu].

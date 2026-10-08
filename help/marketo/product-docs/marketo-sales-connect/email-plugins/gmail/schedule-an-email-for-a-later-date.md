@@ -4,16 +4,18 @@ description: Découvrez comment planifier un e-mail à une date ultérieure à p
 title: Planifier un e-mail pour une date ultérieure
 exl-id: a3948f7d-c505-4e56-bf19-69d660c61740
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/0rYSj6xircNr9N8FsRxSzcN47KOeX3GF17ZNAi-sToI
+TQID: 'https://experienceleague.adobe.com/0rYSj6xircNr9N8FsRxSzcN47KOeX3GF17ZNAi-sToI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 157
+source-wordcount: '157'
 ht-degree: 8%
-
 ---
-
 # Planifier un e-mail pour une date ultérieure {#schedule-an-email-for-a-later-date}
 
 Pour planifier un e-mail à partir de Gmail, procédez comme suit.

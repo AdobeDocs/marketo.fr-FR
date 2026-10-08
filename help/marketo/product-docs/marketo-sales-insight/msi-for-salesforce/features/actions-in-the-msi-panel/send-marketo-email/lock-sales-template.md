@@ -4,20 +4,23 @@ description: Découvrez comment verrouiller un modèle de vente dans Marketo Sal
 title: Verrouiller un modèle de vente
 exl-id: 005dde5d-ed60-444b-b7a3-b91be72a0151
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/PNWQ3RaspZ-Vf3LHoCqPRH3cVlV2grC8iDPo1s1sbvg
+TQID: 'https://experienceleague.adobe.com/PNWQ3RaspZ-Vf3LHoCqPRH3cVlV2grC8iDPo1s1sbvg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 227
+source-wordcount: '227'
 ht-degree: 5%
-
 ---
-
 # Verrouiller un modèle de vente {#lock-sales-template}
 
 Pour empêcher les utilisateurs CRM de modifier les modèles de vente, les administrateurs peuvent verrouiller les modèles, ce qui permet aux utilisateurs de verrouiller les modèles individuellement à partir de l’éditeur d’e-mail.

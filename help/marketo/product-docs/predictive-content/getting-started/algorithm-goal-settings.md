@@ -4,18 +4,21 @@ description: Découvrez comment définir l’objectif de l’algorithme de conte
 title: Paramètres d’objectif d’algorithme
 exl-id: b07a5b71-c6f3-47e8-bc31-10ba64483ad0
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/AWWzwAwRxqy6w-NDGCJX4X-KNAGFWGCQnawyRGpKjG8
+TQID: 'https://experienceleague.adobe.com/AWWzwAwRxqy6w-NDGCJX4X-KNAGFWGCQnawyRGpKjG8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 topic_v2:
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Artificial intelligence
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 126
+source-wordcount: '126'
 ht-degree: 32%
-
 ---
-
 # Paramètres d’objectif d’algorithme {#algorithm-goal-settings}
 
 Les paramètres d’objectif de l’algorithme vous permettent de définir l’objectif final de l’algorithme d’intelligence artificielle Contenu prédictif en fonction des objectifs de votre entreprise.
@@ -32,9 +35,9 @@ Les paramètres d’objectif de l’algorithme vous permettent de définir l’o
 
    ![](assets/three-new.png)
 
-   | **[!UICONTROL Clics]** | Affichez le contenu le plus susceptible de donner à la personne qui le consulte l’envie de cliquer dessus |
+   | **[!UICONTROL Clics]** | Afficher le contenu le plus susceptible d’inciter la personne qui le consulte à cliquer dessus |
    |---|---|
-   | **[!UICONTROL Conversions]** | Affichez le contenu le plus susceptible de donner à la personne qui le consulte l’envie de soumettre un formulaire |
+   | **[!UICONTROL Conversions]** | Afficher le contenu le plus susceptible d’inciter la personne qui le consulte à envoyer un formulaire |
 
 1. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé.
 

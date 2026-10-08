@@ -2,13 +2,20 @@
 description: Notes De Mise À Jour - Mars 2026 - Documents Marketo - Documentation Du Produit
 title: Notes De Mise À Jour - Mars 2026
 feature: Release Information
-source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: '468'
-ht-degree: 21%
-
+source-wordcount: '533'
+ht-degree: 18%
 ---
-
 # Notes De Mise À Jour : Mars 2026 {#release-notes-mar-26}
 
 Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version de mars 2026. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
@@ -40,7 +47,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <td><strong>Email Designer - Composants HTML modifiables dans les fragments</strong> : dans les fragments visuels, les champs modifiables sont pris en charge sur les composants image, texte et bouton via le panneau des propriétés du composant. Pour les composants HTML, les champs modifiables sont configurés différemment, à l’aide d’une syntaxe basée sur des variables dans le code source du composant HTML lui-même.
    </td>
    <td>Libéré</i></td>
-   <td><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments#editable-html" target="_blank">Composants HTML modifiables dans les fragments</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments#editable-html" target="_blank">Composants HTML modifiables dans les fragments</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -91,7 +98,7 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
 
 ## Annonces {#announcements}
 
-* **Obsolescence des fonctionnalités d’optimisation du moteur de recherche** : le mardi 31 mars 2026, Marketo Engage abandonnera la fonctionnalité d’optimisation du moteur de recherche (SEO). Si vous n&#39;utilisez pas activement l&#39;optimisation du moteur de recherche, vous n&#39;avez rien à faire. Si vous avez récemment utilisé l’optimisation du moteur de recherche, vous avez la possibilité d’exporter vos données. [En savoir plus](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=fr){target="_blank"}.
+* **Obsolescence des fonctionnalités d’optimisation du moteur de recherche** : le mardi 31 mars 2026, Marketo Engage abandonnera la fonctionnalité d’optimisation du moteur de recherche (SEO). Si vous n&#39;utilisez pas activement l&#39;optimisation du moteur de recherche, vous n&#39;avez rien à faire. Si vous avez récemment utilisé l’optimisation du moteur de recherche, vous avez la possibilité d’exporter vos données. [En savoir plus](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}.
 
 * **Limite de leads de fusion de l’API REST** : à compter du 31 juillet 2026, les appels qui incluent plus de 25 identifiants dans le paramètre leadIds d’un appel de l’API Merge Leads entraîneront un code d’erreur 1080 et l’appel sera ignoré. Les tâches nécessitant la fusion de plus de 25 enregistrements en un seul doivent être divisées en plusieurs tâches pour assurer le succès de ces appels.
 

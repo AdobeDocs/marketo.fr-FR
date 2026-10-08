@@ -3,16 +3,18 @@ description: Découvrez la présence locale pour les appels de ventes. Affichez 
 title: Numéro local
 exl-id: 719fd3e8-1586-4aa1-940f-931dd3b99bd4
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/8dUNLiNd7c0-GSslKWva4LBrmEFExuk22aLXamF-oBk
+TQID: 'https://experienceleague.adobe.com/8dUNLiNd7c0-GSslKWva4LBrmEFExuk22aLXamF-oBk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 162
+source-wordcount: '162'
 ht-degree: 3%
-
 ---
-
 # Numéro local {#local-presence}
 
 La présence locale vous donne la possibilité de faire croire que vous appelez à partir du même indicatif régional de votre destinataire.

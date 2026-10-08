@@ -4,16 +4,18 @@ description: Obtenez de l’aide lorsque vous voyez que la campagne s’est term
 title: La campagne est terminée.
 exl-id: a4307ce0-39bc-4971-b60a-1284af95a7a1
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/IYhkCIkfzC7fF5o-lYoH4uGMkVWUI1gGKOADFePAeUA
+TQID: 'https://experienceleague.adobe.com/IYhkCIkfzC7fF5o-lYoH4uGMkVWUI1gGKOADFePAeUA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 93
+source-wordcount: '93'
 ht-degree: 6%
-
 ---
-
 # La campagne est terminée. {#campaign-has-ended}
 
 Si vous voyez un e-mail dans votre dossier [!UICONTROL Diffusion en échec] indiquant « La campagne est terminée », cela signifie que cet e-mail en particulier était un e-mail planifié dans votre campagne.

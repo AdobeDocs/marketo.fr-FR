@@ -3,18 +3,21 @@ description: Découvrez comment rendre une campagne marketing Marketo visible da
 title: Rendre une campagne marketing visible dans les actions Sales Insight
 exl-id: 223baca3-159e-4f0d-b26f-f4c924a39fc3
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/hIuHfnPyopakqjUeEmBc-EZ4sRrNnM-TptIOiqa1TEY
+TQID: 'https://experienceleague.adobe.com/hIuHfnPyopakqjUeEmBc-EZ4sRrNnM-TptIOiqa1TEY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 311
+source-wordcount: '311'
 ht-degree: 0%
-
 ---
-
 # Rendre une campagne marketing visible dans les actions Sales Insight {#make-a-marketing-campaign-visible-in-sales-insight-actions}
 
 Les campagnes ne peuvent être partagées que si elles sont rendues visibles.

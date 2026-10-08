@@ -3,16 +3,18 @@ description: Découvrez comment gérer des groupes de contacts dans les actions 
 title: Gérer les groupes
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/yN7o-BB4oNeM-x78M5-CH3WDctyqoO-mlZriZGGRn8A
+TQID: 'https://experienceleague.adobe.com/yN7o-BB4oNeM-x78M5-CH3WDctyqoO-mlZriZGGRn8A'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 349
+source-wordcount: '349'
 ht-degree: 2%
-
 ---
-
 # Gérer les groupes {#manage-groups}
 
 Découvrez comment gérer vos groupes dans [!DNL Sales Insight Actions].

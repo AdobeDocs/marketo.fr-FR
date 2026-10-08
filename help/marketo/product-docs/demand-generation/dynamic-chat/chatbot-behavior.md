@@ -3,20 +3,26 @@ description: Découvrez le comportement du bot conversationnel Dynamic Chat dans
 title: Comportement du chatbot
 feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-TQID: https://experienceleague.adobe.com/chj5dD8Nrim8XWAnetHEOZbhi8y-q2bivL52y771tdc
+TQID: 'https://experienceleague.adobe.com/chj5dD8Nrim8XWAnetHEOZbhi8y-q2bivL52y771tdc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1700
+source-wordcount: '1700'
 ht-degree: 1%
-
 ---
-
 # Comportement du chatbot {#chatbot-behavior}
 
 Voici différents scénarios possibles décrivant le comportement attendu du bot conversationnel avec le visiteur dans chacun d’eux.
@@ -416,4 +422,4 @@ Voici différents scénarios possibles décrivant le comportement attendu du bot
 
 ## Résolution des leads en temps réel {#real-time-lead-resolution}
 
-Lors d’une conversation avec un prospect anonyme et qu’un ID d’e-mail est fourni, Dynamic Chat détermine si un enregistrement de prospect connu existe avec cet ID d’e-mail et utilise cet enregistrement pour la personnalisation en temps réel. Si plusieurs enregistrements sont trouvés, ils sont fusionnés en temps réel. Ce comportement est implémenté pour les boîtes de dialogue et les flux conversationnels.
+Lors d’une conversation avec un prospect anonyme et qu’un ID d’e-mail est fourni, Dynamic Chat détermine si un enregistrement de prospect connu existe avec cet ID d’e-mail et utilise cet enregistrement pour la personnalisation en temps réel. Si plusieurs enregistrements sont trouvés, ils sont fusionnés en temps réel. Ce comportement est mis en œuvre à la fois pour les dialogues et les flux conversationnels.

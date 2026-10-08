@@ -4,17 +4,19 @@ title: Définition d’une limite d’événement
 hide: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
 feature: Events
-TQID: https://experienceleague.adobe.com/8vtaffm-YDrTB2m33b55Oqcxe02WGW5Dqu2oD7CXXYA
+TQID: 'https://experienceleague.adobe.com/8vtaffm-YDrTB2m33b55Oqcxe02WGW5Dqu2oD7CXXYA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 213
+source-wordcount: '213'
 ht-degree: 3%
-
 ---
-
-# Définition d’une limite d’événement {#setting-an-event-cap}
+# Définition d’une limite pour un évènement {#setting-an-event-cap}
 
 Limitez le nombre de personnes pouvant s’inscrire à votre événement avec une limite d’événement.
 

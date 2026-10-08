@@ -6,32 +6,47 @@ product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 529e82aa-c00b-49ce-b561-c2448f6a7a9b
-TQID: https://experienceleague.adobe.com/4Xwvf1XMyNOj9RYDQEyEifBN3Iva3bc2SE94f5VIWtk
+TQID: 'https://experienceleague.adobe.com/4Xwvf1XMyNOj9RYDQEyEifBN3Iva3bc2SE94f5VIWtk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
 subfeature_v2:
   - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+    internal-label: Dynamic content
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+    internal-label: Email marketing
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+    internal-label: Accessibility
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1341
-ht-degree: 40%
-
+source-wordcount: '1341'
+ht-degree: 49%
 ---
-
 # Convertir des images en modèles HTML {#image-to-html}
 
 ## Vue d’ensemble {#overview}
@@ -43,7 +58,7 @@ Grâce à la technologie d’IA générative, le convertisseur image en HTML ana
 >[!PREREQUISITES]
 >
 >* Vous devez d’abord accepter les conditions générales [Core Gen-AI et les conditions supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} relatives à l’utilisation de la fonctionnalité Gen-AI dans le Designer d’e-mail. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
->* Votre rôle Marketo doit disposer des autorisations _Accéder au modèle d’e-mail_ et _Modifier/générer le modèle d’e-mail_ activées [&#128279;](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
+>* Votre rôle Marketo doit disposer des autorisations _Accéder au modèle d’e-mail_ et _Modifier/générer le modèle d’e-mail_ activées [](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
 
 ## Convertir une image {#convert-an-image}
 
@@ -80,8 +95,8 @@ Pour convertir une image en modèle d’e-mail HTML entièrement personnalisable
 1. Le modèle converti s’ouvre dans le concepteur d’e-mail avec des fonctionnalités de modification complètes. Vous pouvez maintenant :
 
    * modifier le contenu textuel et appliquer une personnalisation ;
-   * modifier des images et ajouter des liens ;
-   * ajuster les couleurs, les polices et le style ;
+   * Modifier des images et ajouter des liens
+   * Ajuster les couleurs, les polices et le style
    * ajouter, supprimer ou réorganiser des composants de contenu.
    * tirer profit de toutes les fonctionnalités du concepteur d’e-mail comme pour tout autre modèle.
 
@@ -111,28 +126,28 @@ Le convertisseur d’images en HTML est idéal pour :
 
 **Préparation des images**
 
-* **Résolution** : utilisez des images haute résolution pour une meilleure reconnaissance du texte et une meilleure détection des éléments.
+* **Résolution** : utilisez des images de haute résolution pour une meilleure reconnaissance du texte et une meilleure détection des éléments.
 * **Clarté** : assurez-vous que le texte est clairement lisible et que les éléments visuels sont bien définis.
-* **Largeur** : concevez des images aux largeurs d’e-mail standard (600 à 800 px) pour répondre aux exigences standard des clients de messagerie.
-* **Format de fichier** : utilisez le format JPEG ou PNG pour éviter les images compressées ou de faible qualité.
-* **Conception complète** : incluez la conception complète d’e-mail dans une seule image, de l’en-tête au pied de page.
+* **Largeur** : concevez des images aux largeurs d’e-mail standard (600 à 800 px) pour répondre aux exigences courantes des clients de messagerie.
+* **Format de fichier** : utilisez le format JPEG ou PNG pour éviter les images compressées ou de faible qualité.
+* **Conception complète** : incluez la conception complète d’e-mail dans une seule image, de l’en-tête au pied de page.
 
 **Éléments de conception à prendre en compte**
 
 * **Dispositions simples** : les dispositions simples et bien structurées se convertissent avec plus de précision que les conceptions très complexes.
-* **Éléments standard** : utilisez des modèles de conception d’e-mail courants (en-tête, sections de corps, CTA, pied de page).
-* **Lisibilité du texte** : assurez-vous que le contraste entre le texte et l’arrière-plan est suffisant.
-* **Polices sécurisées pour le web** : les conceptions qui utilisent des polices sécurisées pour le web courantes auront une meilleure fidélité.
-* **Évitez le chevauchement des éléments** : conservez des éléments de conception clairement séparés pour une meilleure reconnaissance de la structure.
+* **Éléments standard** : utilisez des modèles de conception d’e-mail courants (en-tête, sections de corps, CTA, pied de page).
+* **Lisibilité du texte** : assurez-vous que le contraste entre le texte et l’arrière-plan est suffisant.
+* **Polices compatibles avec le web** : les conceptions qui utilisent des polices compatibles avec le web courantes offriront une meilleure fidélité.
+* **Évitez le chevauchement des éléments** : séparez clairement les éléments de conception pour une meilleure reconnaissance de la structure.
 
 **Après la conversion**
 
 * **Vérifiez votre brouillon** : une fois la conversion terminée, votre modèle est automatiquement enregistré en tant que brouillon. Prenez le temps d’examiner attentivement l’HTML générée pour en vérifier la précision.
-* **Tester minutieusement** : tester l’e-mail sur différents clients de messagerie et appareils. Pour des résultats plus rapides, tirez parti de l’intégration [Litmus](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md).
+* **Testez minutieusement** : testez l’e-mail sur différents clients de messagerie et appareils. Pour des résultats plus rapides, tirez parti de l’intégration [Litmus](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md).
 * **Affiner manuellement** : effectuez les ajustements nécessaires à l’aide des fonctionnalités d’édition complète du Designer Email.
 * **Alignement de la marque** : vérifiez que les couleurs, les polices et le style correspondent à vos directives de marque.
-* **&#x200B;**&#x200B;: ajoutez du contenu dynamique et des jetons de personnalisation selon vos besoins.
-* **Accessibilité** : passez en revue et améliorez les fonctionnalités d’accessibilité si nécessaire.
+* **** : ajoutez du contenu dynamique et des jetons de personnalisation selon vos besoins.
+* **Accessibilité** : consultez et améliorez les fonctionnalités d’accessibilité si nécessaire.
 
 ## Limitations et considérations {#limitations}
 
@@ -160,7 +175,7 @@ Tout le contenu existant de votre e-mail est supprimé et remplacé par le modè
 
 +++
 
-+++Quels formats de fichiers sont pris en charge ?
++++Quels sont les formats de fichiers pris en charge ?
 
 Le convertisseur d’images en HTML prend en charge les formats d’images JPEG (.jpg, .jpeg) et PNG (.png).
 
@@ -172,21 +187,21 @@ La conversion peut prendre jusqu’à cinq minutes, selon la complexité et la t
 
 +++
 
-+++Puis-je modifier le modèle généré ?
++++Puis-je modifier le modèle généré ?
 
-Oui ! Le modèle HTML généré s’ouvre dans le concepteur d’e-mail avec les fonctionnalités d’édition complètes. Vous pouvez modifier tous les aspects du modèle, y compris le texte, les images, le style, la disposition et la structure.
+Oui ! Le modèle HTML généré s’ouvre dans le Concepteur d’e-mail avec l’ensemble des fonctionnalités d’édition. Vous pouvez modifier tous les aspects du modèle, y compris le texte, les images, le style, la disposition et la structure.
 
 +++
 
-+++Que se passe-t-il si la conversion ne correspond pas exactement à mon projet de conception ?
++++Que se passe-t-il si la conversion ne correspond pas exactement à ma conception ?
 
-L’IA fait de son mieux pour interpréter avec précision votre projet de conception, mais des ajustements manuels peuvent être nécessaires. Utilisez le concepteur d’e-mail pour modifier tous les éléments qui nécessitent des ajustements.
+L’IA fait de son mieux pour interpréter avec précision votre création, mais des ajustements manuels peuvent s’avérer nécessaires. Utilisez le Concepteur d’e-mail pour ajuster tous les éléments qui doivent être affinés.
 
 +++
 
 +++Puis-je utiliser cette fonctionnalité pour des pages de destination ou d’autres types de contenu ?
 
-Le convertisseur d’images en HTML est actuellement conçu spécifiquement pour les modèles d’e-mails. Pour les autres types de contenu, utilisez les options de conception et d’import standard disponibles dans le concepteur d’e-mail.
+Le convertisseur d’images en HTML est actuellement conçu spécifiquement pour les modèles d’e-mail. Pour les autres types de contenu, utilisez les options de conception et d’import standard disponibles dans le concepteur d’e-mail.
 
 +++
 

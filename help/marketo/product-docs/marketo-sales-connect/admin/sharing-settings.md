@@ -4,18 +4,20 @@ description: Découvrez comment configurer les paramètres de partage pour contr
 title: Paramètres de partage
 exl-id: fdd4e286-c417-41f1-9cbe-bd78cb597310
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/vlWqTEKdoWRJH5aPG9IO2e3Hf9j6ytTBgXxkZ5MWO-Y
+TQID: 'https://experienceleague.adobe.com/vlWqTEKdoWRJH5aPG9IO2e3Hf9j6ytTBgXxkZ5MWO-Y'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 241
+source-wordcount: '241'
 ht-degree: 1%
-
 ---
-
 # Paramètres de partage {#sharing-settings}
 
 Gérez mieux vos modèles en limitant les éléments que les utilisateurs peuvent partager et avec quelles catégories.

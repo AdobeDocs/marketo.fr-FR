@@ -1,19 +1,23 @@
 ---
-description: Glossaire Marketo Engage - Documents Marketo - Documentation du produit
-short-description: Découvrez les termes de Marketo Engage et leurs définitions pour vous aider à vous familiariser rapidement avec les concepts.
+description: Glossaire Marketo Engage - Documentation Marketo - Documentation produit
+short-description: Découvrez les termes de Marketo Engage et leurs définitions pour une prise en main rapide.
 title: Glossaire Marketo Engage
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 7b8f503aae712d9d5e468c6218207514b43d634b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '4132'
 ht-degree: 91%
-
 ---
-
 # Glossaire Marketo Engage {#marketo-engage-glossary}
 
-Vous trouverez ci-dessous des définitions pour de nombreux termes que vous pouvez rencontrer lors de l’utilisation de Marketo Engage. Pour demander l’ajout d’un terme, veuillez nous [envoyer un e-mail](mailto:GRP-Marketo-articlefeedback@adobe.com).
+Vous trouverez ci-dessous les définitions de nombreux termes que vous pouvez rencontrer dans le cadre de l’utilisation de Marketo Engage. Pour demander l’ajout d’un terme, veuillez nous [envoyer un e-mail](mailto:GRP-Marketo-articlefeedback@adobe.com).
 
 ## A {#a}
 
@@ -53,7 +57,7 @@ Vous trouverez ci-dessous des définitions pour de nombreux termes que vous pouv
   </tr>
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md" rel="nofollow"><strong>Intégrations de réseau publicitaire </strong></a></td>
-   <td colspan="1">(Anciennement Ad Bridge) Méthode de connexion des données d’audience unique de Marketo à vos systèmes médias achetés de sorte que vous puissiez exécuter des campagnes publicitaires numériques plus ciblées et plus personnalisées.</td>
+   <td colspan="1">(Anciennement Ad Bridge) Méthode permettant de connecter des données d’audience uniques de Marketo à vos systèmes paid media afin que vous puissiez exécuter des campagnes publicitaires digitales plus ciblées et plus personnalisées.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Adobe Marketo Engage</strong></td>
@@ -99,7 +103,7 @@ Vous trouverez ci-dessous des définitions pour de nombreux termes que vous pouv
   </tr>
   <tr>
    <td colspan="1"><strong>Évaluation comportementale</strong></td>
-   <td colspan="1">Valeur de point affectée à une personne en fonction de ses actions/son comportement (par exemple, visite d’une page web, clic sur un lien dans un e-mail, remplissage d’un formulaire, etc.). Généralement utilisée pour mesurer l’intérêt d’une personne pour votre produit ou votre société.</td>
+   <td colspan="1">Valeur en points attribuée à une personne en fonction de ses actions/comportements (par exemple : visite d’une page web, clic sur un lien dans un e-mail, remplissage d’un formulaire, etc.). Généralement utilisée pour mesurer l’intérêt d’une personne pour votre produit ou votre société.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Liste de blocage</strong></td>
@@ -153,7 +157,7 @@ Vous trouverez ci-dessous des définitions pour de nombreux termes que vous pouv
   </tr>
   <tr>
    <td><strong>Clics</strong></td>
-   <td>Par défaut, le tracking est intégré aux liens des e-mails. Vous pouvez ainsi voir qui a cliqué sur quel lien, combien de liens au total ont fait l’objet d’un clic, etc.</td>
+   <td>Par défaut, les liens dans les e-mails intègrent un suivi permettant de voir qui a cliqué sur quel lien, le nombre total de clics, etc.</td>
   </tr>
   <tr>
    <td><strong>Flux de clics</strong></td>
@@ -169,7 +173,7 @@ Vous trouverez ci-dessous des définitions pour de nombreux termes que vous pouv
   </tr>
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md" rel="nofollow"><strong>Rapport d’activité web de la société</strong></a></td>
-   <td colspan="1">Type de rapport qui indique les sociétés qui visitent votre site web.</td>
+   <td colspan="1">Type de rapport indiquant quelles entreprises visitent votre site web.</td>
   </tr>
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md" rel="nofollow"><strong>Contrainte</strong></a></td>
@@ -253,7 +257,7 @@ Vous trouverez ci-dessous des définitions pour de nombreux termes que vous pouv
   </tr>
   <tr>
    <td colspan="1"><strong>Évaluation démographique</strong></td>
-   <td colspan="1">Valeur de point affectée en fonction d’attributs spécifiques de la personne, tels que le poste, le chiffre d’affaires ou le secteur cible. Généralement utilisé pour mesurer l’adéquation d’une personne à votre produit ou société. </td>
+   <td colspan="1">Valeur de point attribuée en fonction d’attributs spécifiques de la personne, tels que l’intitulé du poste, les revenus ou le secteur d’activité ciblé. Généralement utilisé pour mesurer l’adéquation d’une personne à votre produit ou société. </td>
   </tr>
   <tr>
    <td colspan="1"><strong>Studio de conception</strong></td>
@@ -264,7 +268,7 @@ Vous trouverez ci-dessous des définitions pour de nombreux termes que vous pouv
    <td colspan="1">Forme abrégée de documents, les docs sont des articles d’aide permettant aux clientes et clients de mieux comprendre le produit. Marketo comporte plusieurs types de documents : documents sur le produit (le site sur lequel vous vous trouvez actuellement), documents <a href="https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/home" rel="nofollow">développeur</a> et documents <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">support</a>.</td>
   </tr>
   <tr>
-   <td colspan="1"><strong>Domain-based Message Authentication, Reporting &amp; Conformance (DMARC)</strong></td>
+   <td colspan="1"><strong>DMARC (Domain-based Message Authentication, Reporting &amp; Conformance)</strong></td>
    <td colspan="1">Politique de sécurité des e-mails basée sur le DNS qui normalise le fonctionnement et l’interprétation de <strong>SPF</strong> et <strong>DKIM</strong>, permettant aux fournisseurs de boîtes aux lettres de valider que les e-mails prétendant provenir d’un domaine proviennent de sources valides pour ce domaine. Elle permet en outre aux personnes expéditrices de spécifier comment les e-mails dont la validation a échoué doivent être traités.</td>
   </tr>
   <tr>
@@ -322,7 +326,7 @@ Vous trouverez ci-dessous des définitions pour de nombreux termes que vous pouv
     <div>
      <p><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" rel="nofollow">Programme d’engagement</a></strong></p>
     </div></td>
-   <td colspan="1">Type de programme dans Marketo. Les programmes d’engagement vous permettent de cibler de nouvelles personnes en diffusant du contenu de manière systématique (également appelé programme de fidélisation).<br></td>
+   <td colspan="1">Type de programme dans Marketo. Les programmes d’engagement vous permettent de cibler de nouvelles personnes en diffusant du contenu de manière systématique (également appelés programmes d’accompagnement).<br></td>
   </tr>
   <tr>
    <td><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md" rel="nofollow"><strong>Score d’engagement</strong></a></td>
@@ -524,7 +528,7 @@ Vous trouverez ci-dessous des définitions pour de nombreux termes que vous pouv
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md" rel="nofollow">Marketo Sales Connect</a> (MSC)</strong></td>
-   <td>Outil de ventes multidimensionnel et complémentaire qui aide les personnes professionnelles du marketing à interagir avec les leads et à suivre les performances.</td>
+   <td>Outil de vente complémentaire et multifacette qui aide les responsables marketing à interagir avec les prospects et à suivre les performances.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Informations sur les ventes Marketo (MSI)</strong></td>
@@ -536,7 +540,7 @@ Vous trouverez ci-dessous des définitions pour de nombreux termes que vous pouv
   </tr>
   <tr>
    <td><strong><a href="https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin</a></strong></td>
-   <td>Code de suivi JavaScript personnalisé de Marketo. Il suit toutes les personnes qui visitent votre site web. Cela inclut les visiteurs et visiteuses anonymes (ainsi que leurs adresses IP et d’autres informations). </td>
+   <td>Code de suivi JavaScript personnalisé de Marketo. Il suit toutes les personnes qui visitent votre site web. Cela inclut les visiteurs anonymes (ainsi que leurs adresses IP et d’autres informations). </td>
   </tr>
   <tr>
    <td colspan="1"><strong>Mon Marketo</strong></td>
@@ -620,7 +624,7 @@ Vous trouverez ci-dessous des définitions pour de nombreux termes que vous pouv
     <div>
      <p><a href="/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md" rel="nofollow"><strong> Performance Insights</strong></a></p>
     </div></td>
-   <td colspan="1">Anciennement appelé Marketo Performance Insights (MPI). Fonctionnalité d’analyse complémentaire qui utilise divers outils pour vous aider à découvrir des tendances et à identifier des stratégies gagnantes cohérentes.</td>
+   <td colspan="1">Anciennement appelé Marketo Performance Insights (MPI). Fonctionnalité d’analyse complémentaire qui utilise différents outils pour vous aider à identifier des tendances et à repérer des stratégies gagnantes récurrentes.</td>
   </tr>
   <tr>
    <td><strong>Personne</strong></td>
@@ -728,7 +732,7 @@ Vous trouverez ci-dessous des définitions pour de nombreux termes que vous pouv
   </tr>
   <tr>
    <td colspan="1"><a href="https://docs.marketo.com/x/oA8t" rel="nofollow"><strong>Campagne intelligente</strong></a></td>
-   <td colspan="1">Un des outils les plus importants dans Marketo. Elles exécutent les actions que vous désignez en fonction des critères que vous déterminez. (consulter également <strong><a href="#b">Campagne par lots</a></strong> et <strong><a href="#t">Campagne à déclencheurs</a></strong>)</td>
+   <td colspan="1">L’un des outils les plus importants dans Marketo. Elles exécutent les actions que vous désignez en fonction des critères que vous déterminez. (consulter également <strong><a href="#b">Campagne par lots</a></strong> et <strong><a href="#t">Campagne à déclencheurs</a></strong>)</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Liste intelligente</strong></td>
@@ -752,7 +756,7 @@ Vous trouverez ci-dessous des définitions pour de nombreux termes que vous pouv
   </tr>
   <tr>
    <td colspan="1"><strong>Pièges à spam</strong></td>
-   <td colspan="1">Adresses e-mail que les FAI et les fournisseurs de sécurité des e-mails surveillent plus particulièrement pour piéger les entités à l’origine du spam. Il peut s’agir d’adresses jamais utilisées, de domaines mal orthographiés et de domaines expirés. Les différents types de pièges à spam peuvent indiquer différents problèmes d’acquisition à partir de problèmes liés aux formulaires (pièges à spam de type faute d’orthographe), de gestion incorrecte d’une base de données ou de suppression d’adresses non valides (pièges à spam de type domaine expiré) ou d’acquisition d’adresses sans autorisation, généralement via l’achat de listes (pièges à spam de type intact). Tout message envoyé à ces adresses est marqué comme <strong>spam</strong>.</td>
+   <td colspan="1">Adresses e-mail que les FAI et les fournisseurs de sécurité des e-mails surveillent plus particulièrement pour piéger les entités à l’origine du spam. Il peut s’agir d’adresses jamais utilisées, de domaines mal orthographiés et de domaines expirés. Les différents types de pièges à spam peuvent indiquer différents problèmes liés à l’acquisition : problèmes de formulaires (pièges à spam de type faute de frappe), mauvaise gestion de la base de données ou absence de suppression des adresses non valides (pièges à spam liés à des domaines expirés), ou encore acquisition d’adresses sans autorisation, souvent par l’achat de listes (pièges à spam « purs »). Tout message envoyé à ces adresses est marqué comme <strong>spam</strong>.</td>
   </tr>
   <tr>
    <td><strong>Test divisé</strong></td>
@@ -783,7 +787,7 @@ Vous trouverez ci-dessous des définitions pour de nombreux termes que vous pouv
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">Gestion des comptes cibles</a> (TAM)</strong></td>
-   <td colspan="1">(Anciennement Account-Based Marketing/ABM) Fonctionnalité complémentaire qui vous permet de cibler et d’engager des comptes clés de manière hautement coordonnée.</td>
+   <td colspan="1">(Anciennement Account-Based Marketing/ABM) Fonctionnalité complémentaire qui vous permet de cibler et d’engager des comptes clés de manière hautement coordonnée.</td>
   </tr>
   <tr>
    <td><strong>Modèle</strong></td>
@@ -858,7 +862,7 @@ Vous trouverez ci-dessous des définitions pour de nombreux termes que vous pouv
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md" rel="nofollow">Web Personalization</strong></td>
-   <td>Fonctionnalité complémentaire qui fournit une plateforme de ciblage et de personnalisation, aidant les utilisateurs et utilisatrices de Marketo à interagir en temps réel avec des visiteurs et visiteuses connus et anonymes, en fonction de leur identité et de leurs activités.</td>
+   <td>Fonctionnalité de module complémentaire qui offre une plateforme de ciblage et de personnalisation, aidant les utilisateurs de Marketo à engager les visiteurs connus et anonymes en temps réel, en fonction de leur identité et de leurs actions.</td>
   </tr>
   <tr>
    <td><strong>Webinaire</strong></td>
@@ -866,10 +870,10 @@ Vous trouverez ci-dessous des définitions pour de nombreux termes que vous pouv
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md" rel="nofollow">Reciblage de site web</a></strong></td>
-   <td>Fonction complémentaire permettant aux utilisateurs et utilisatrices de Marketo de cibler des visiteurs et visiteuses connus et anonymes (via Facebook et Google) avec des publicités pertinentes basées sur le secteur, des comptes nommés et des données connues.</td>
+   <td>Fonctionnalité de module complémentaire qui aide les utilisateurs de Marketo à cibler les visiteurs connus et anonymes (via Facebook et Google) avec des publicités pertinentes basées sur le secteur d’activité, les comptes nommés et les données connues.</td>
   </tr>
   <tr>
-   <td><strong>What You See Is What You Get (WYSIWYG)</strong></td>
+   <td><strong>Éditeur WYSIWYG (What You See Is What You Get)</strong></td>
    <td>Terme courant faisant référence à une application ou à un éditeur qui vous permet de voir le résultat final de votre <strong>contenu</strong> au fur et à mesure que vous le créez. Marketo comprend un éditeur WYSIWYG.</td>
   </tr>
   <tr>
@@ -882,7 +886,7 @@ Vous trouverez ci-dessous des définitions pour de nombreux termes que vous pouv
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">Espace de travail</a></strong></td>
-   <td>Zone distincte dans Marketo qui contient les <strong>ressources</strong> marketing. Par exemple, vous pouvez avoir un espace de travail nommé « Amérique du Nord » que vous utilisez strictement à des fins de marketing dans cette région. Europe, Asie, etc.</td>
+   <td>Zone distincte dans Marketo qui contient les <strong>ressources</strong> marketing. Par exemple, vous pouvez disposer d’un espace de travail appelé « Amérique du Nord » destiné exclusivement au marketing pour cette zone géographique. Europe, Asie, etc.</td>
   </tr>
  </tbody>
 </table>

@@ -1,19 +1,24 @@
 ---
 unique-page-id: 3571809
 description: Découvrez comment connecter Microsoft Dynamics 2011 local à Marketo à l’étape finale. Saisissez les informations sur l’utilisateur synchronisé dans Marketo Admin et activez la synchronisation.
-title: Étape 3 sur 3 - Connexion  [!DNL Microsoft Dynamics]  Marketo (2011 On-Premise)
+title: Étape 3 sur 3 - Connexion de [!DNL Microsoft Dynamics] à Marketo (2011 On-Premise)
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/lXIts5epOGhGJLKvIKTOAdOABz15rNAfuSmvHuSC0SI
+TQID: 'https://experienceleague.adobe.com/lXIts5epOGhGJLKvIKTOAdOABz15rNAfuSmvHuSC0SI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 379
+source-wordcount: '380'
 ht-degree: 2%
-
 ---
-
 # Étape 3 sur 3 : Connexion de [!DNL Microsoft Dynamics] à Marketo (2011 On-Premise) {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
 
 La solution est installée et l’utilisateur de synchronisation est configuré. Ensuite, connectez Marketo et [!DNL Dynamics].
@@ -37,7 +42,7 @@ La solution est installée et l’utilisateur de synchronisation est configuré.
 
    ![](assets/image2014-12-11-11-3a53-3a59.png)
 
-1. Cliquez sur **&#x200B;**.
+1. Cliquez sur ****.
 
    ![](assets/image2014-12-11-11-3a54-3a10.png)
 
@@ -72,13 +77,13 @@ Sélectionnez les champs à synchroniser.
 
    >[!NOTE]
    >
-   >Marketo stocke une référence aux champs à synchroniser. Si vous supprimez un champ dans [!DNL Dynamics], nous vous recommandons de le faire avec la [synchronisation désactivée](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Ensuite, actualisez le schéma dans Marketo en modifiant et en enregistrant le [&#x200B; Sélectionner les champs à synchroniser &#x200B;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
+   >Marketo stocke une référence aux champs à synchroniser. Si vous supprimez un champ dans [!DNL Dynamics], nous vous recommandons de le faire avec la [synchronisation désactivée](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Ensuite, actualisez le schéma dans Marketo en modifiant et en enregistrant le [ Sélectionner les champs à synchroniser ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
 
 ## Synchroniser les champs pour un filtre personnalisé {#sync-fields-for-a-custom-filter}
 
 Si vous avez créé un filtre personnalisé, accédez à et sélectionnez les nouveaux champs à synchroniser avec Marketo.
 
-1. Accédez à Admin et sélectionnez **&#x200B;**.
+1. Accédez à Admin et sélectionnez ****.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 

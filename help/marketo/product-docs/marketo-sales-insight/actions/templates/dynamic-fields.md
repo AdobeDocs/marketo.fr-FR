@@ -3,18 +3,20 @@ description: En savoir plus sur les champs dynamiques dans les modèles d’acti
 title: Champs dynamiques
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/TSha6oGJPKxA0HNM0H-IDRC3rUE-Ld40VHWPzu6DHY4
+TQID: 'https://experienceleague.adobe.com/TSha6oGJPKxA0HNM0H-IDRC3rUE-Ld40VHWPzu6DHY4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 554
+source-wordcount: '554'
 ht-degree: 2%
-
 ---
-
 # Champs dynamiques {#dynamic-fields}
 
 Nous vous permettons de personnaliser vos modèles d’e-mail avec des attributs prédéfinis tels que `{{first_name}}` ou `{{company}}`. Ces champs vous permettent d’envoyer plusieurs e-mails à des contacts et de remplir automatiquement ces champs sans avoir à les saisir séparément pour chaque contact.

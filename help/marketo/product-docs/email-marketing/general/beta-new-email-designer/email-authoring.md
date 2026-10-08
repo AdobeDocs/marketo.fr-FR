@@ -4,28 +4,40 @@ title: Création d’e-mails
 hide: true
 feature: Email Editor
 exl-id: bfa8d9c2-93d7-494c-ac5e-f743894c58e7
-TQID: https://experienceleague.adobe.com/7T6TgUOssFcO0aVuuIMYryuRgYw0YSD7oPNUy7drlDs
+TQID: 'https://experienceleague.adobe.com/7T6TgUOssFcO0aVuuIMYryuRgYw0YSD7oPNUy7drlDs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1548
+source-wordcount: '1548'
 ht-degree: 7%
-
 ---
-
 # Création d’e-mails {#email-authoring}
 
 Découvrez comment créer, personnaliser et prévisualiser des e-mails dans le nouveau Designer d’e-mail de Marketo Engage.
@@ -40,7 +52,7 @@ Découvrez comment créer, personnaliser et prévisualiser des e-mails dans le n
 
 ## Créer un e-mail {#create-an-email}
 
-1. Connectez-vous à Marketo Engage via [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
+1. Connectez-vous à Marketo Engage via l’[ Adobe Experience Cloud ](https://experiencecloud.adobe.com/){target="_blank"}.
 
 1. Dans Mon Marketo, sélectionnez **Design Studio**.
 
@@ -204,7 +216,7 @@ L’exemple ci-dessous décrit les étapes à suivre pour ajuster la marge inté
 
 1. Dans la barre d’outils Colonne, cliquez sur l’outil _[!UICONTROL Sélectionner une colonne]_ et choisissez celle à modifier.
 
-   Vous pouvez également la sélectionner dans l&#39;arborescence. Les paramètres modifiables de cette colonne sont affichés dans les onglets _[!UICONTROL Paramètres]_ et _[!UICONTROL Styles]_ sur la droite.
+   Vous pouvez également la sélectionner dans l’arborescence. Les paramètres modifiables de cette colonne sont affichés dans les onglets _[!UICONTROL Paramètres]_ et _[!UICONTROL Styles]_ sur la droite.
 
    ![](assets/authoring-layers-settings-styles-2.png)
 
@@ -301,7 +313,7 @@ Les avertissements se rapportent aux recommandations et aux bonnes pratiques tel
 
 >[!NOTE]
 >
->L’ajout d’une option de désabonnement n’est pas nécessaire pour les [&#x200B; e-mails opérationnels &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) (non marketing).
+>L’ajout d’une option de désabonnement n’est pas nécessaire pour les [ e-mails opérationnels ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) (non marketing).
 
 * **Version texte d’HTML vide** : vous devez définir une version texte du corps de votre e-mail pour les cas où le contenu d’HTML ne peut pas être affiché.
 

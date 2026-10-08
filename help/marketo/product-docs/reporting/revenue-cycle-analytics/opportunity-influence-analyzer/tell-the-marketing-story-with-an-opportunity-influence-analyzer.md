@@ -1,16 +1,22 @@
 ---
 unique-page-id: 2360237
 description: Découvrez comment raconter l’histoire marketing avec un analyseur d’influence d’opportunité dans Marketo Engage, y compris raconter l’histoire. Utilisez ce guide pour passer à l’étape suivante.
-title: Raconter la story marketing avec un analyseur d’influence d’opportunité
+title: Démontrer le rôle du marketing à l’aide d’un analyseur d’influence sur les opportunités
 exl-id: 07a8fd25-b80e-4015-931f-f490bb5e48e5
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 2%
-
 ---
-
 # Racontez l’histoire marketing avec un [!UICONTROL analyseur d’influence d’opportunité] {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
 
 Utilisez un [!UICONTROL analyseur d’influence d’opportunité] pour illustrer le rôle du marketing dans les opportunités importantes. Montrez comment le marketing a influencé une opportunité, du premier contact à la création d’opportunités et à la réussite, et au-delà.
@@ -27,9 +33,9 @@ Utilisez un [!UICONTROL analyseur d’influence d’opportunité] pour illustrer
 
    * ![—](assets/image2014-10-3-13-3a43-3a21.png) **points orange** représentent des moments intéressants dans l&#39;opportunité (e-mails ouverts, visites de stands de salons, téléchargements de livres blancs, etc.). Des points plus grands indiquent plus d’interactions.
 
-   * ![&#x200B; : &#x200B;](assets/image2014-10-3-13-3a44-3a9.png) **icônes du classeur** indiquent les réussites du programme.
+   * ![ : ](assets/image2014-10-3-13-3a44-3a9.png) **icônes du classeur** indiquent les réussites du programme.
 
-   * ![&#x200B; : &#x200B;](assets/image2014-10-3-13-3a44-3a40.png) **icônes de calendrier** indiquent les événements réussis.
+   * ![ : ](assets/image2014-10-3-13-3a44-3a40.png) **icônes de calendrier** indiquent les événements réussis.
 
    * **Période de l’opportunité**. L’espace vert représente l’opportunité elle-même, de sa création à sa fermeture (gagnée ou perdue).
 
@@ -39,7 +45,7 @@ Utilisez un [!UICONTROL analyseur d’influence d’opportunité] pour illustrer
 
    * Le **nombre entre parenthèses** est le nombre d&#39;interactions avec ce contact.
 
-   * ![&#x200B; : &#x200B;](assets/image2014-10-3-13-3a45-3a9.png)l&#39;étoile **jaune** indique le contact principal.
+   * ![ : ](assets/image2014-10-3-13-3a45-3a9.png)l&#39;étoile **jaune** indique le contact principal.
 
 1. Passez la souris sur un nom pour afficher la fonction de cette personne et la source de son engagement dans l’opportunité.
 

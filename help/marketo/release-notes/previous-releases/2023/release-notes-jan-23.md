@@ -3,24 +3,34 @@ description: Notes De Mise À Jour - Janvier 2023 - Documents Marketo - Document
 title: Notes de mise à jour - Janvier 2023
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-TQID: https://experienceleague.adobe.com/fB2DSNQ-lP-D8y9ISOy-TCHaJ2BiwQtqcKoTNv8t-Mk
+TQID: 'https://experienceleague.adobe.com/fB2DSNQ-lP-D8y9ISOy-TCHaJ2BiwQtqcKoTNv8t-Mk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+    internal-label: Accessibility
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: babcd0bfb6c16165488cabd075a9d75d2952016b
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 663
+source-wordcount: '663'
 ht-degree: 22%
-
 ---
-
 # Notes de mise à jour : janvier 2023 {#release-notes-jan-23}
 
 Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 23 janvier. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
@@ -100,7 +110,7 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
   </tr>
   <tr>
    <td>Libéré</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=fr">Marketo Measure Ultimate</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>
@@ -203,6 +213,6 @@ Les fonctionnalités suivantes suivent un format Agile et sont publiées à diff
 
 ## Annonces {#announcements}
 
-* **Modification de l’API REST Marketo** : avec la version d’octobre 2022, nous avons introduit une modification mineure dans le message de réponse de l’API REST Marketo. Pour plus d&#39;informations[&#128279;](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} consultez cet article de la nation Marketo 
+* **Modification de l’API REST Marketo** : avec la version d’octobre 2022, nous avons introduit une modification mineure dans le message de réponse de l’API REST Marketo. Pour plus d&#39;informations](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} consultez cet article de la nation Marketo [
 
 * **_Webinaire de mise à jour du produit_** : [octobre 2022 et janvier 2023 - Webinaire de mise à jour de Marketo Engage](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}

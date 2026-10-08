@@ -3,16 +3,20 @@ unique-page-id: 2949471
 description: Liste de contrôle d’installation - Documents Marketo - Documentation du produit
 title: Liste de contrôle d'installation
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
 feature: Getting Started
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '206'
-ht-degree: 2%
-
+ht-degree: 3%
 ---
-
 # Liste de contrôle d&#39;installation {#setup-checklist}
 
 Bienvenue dans Marketo ! N’hésitez pas à utiliser la liste de contrôle suivante comme liste de tâches visuelle pour commencer. Vous trouverez plus d’informations dans [Étapes de configuration](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}.

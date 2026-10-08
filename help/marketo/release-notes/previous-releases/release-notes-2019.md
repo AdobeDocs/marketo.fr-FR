@@ -1,43 +1,74 @@
 ---
-title: "2019"
+title: '2019'
 description: 2019 - Documents Marketo - Documentation Du Produit
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
   - id: de9e3aa9-f002-4fe1-897b-09ee3c55114b
+    internal-label: Sales Connect
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
+    internal-label: Artificial intelligence
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 2528
+source-wordcount: '2530'
 ht-degree: 3%
-
 ---
-
 # 2019
 
 ## Hiver 2019 {#winter}
@@ -83,8 +114,8 @@ Ajoutez jusqu’à cinq adresses Cc par destinataire sur les e-mails envoyés vi
 * **Service de messagerie électronique** : bénéficiez d&#39;une meilleure délivrabilité ainsi que d&#39;un meilleur suivi des réponses, de fonctionnalités de messagerie planifiée et de fonctionnalités de messagerie en masse en vous connectant à [!DNL Microsoft Outlook] (soit via Office365, soit On-Prem via l&#39;onglet Connexion par e-mail).
 * **Nouveaux paramètres d’administration** : deux pages d’administration ont été ajoutées pour optimiser votre instance Sales Engage
 
-   * *Team Management* prend en charge un processus de configuration de compte transparent en permettant aux administrateurs de modifier les abonnements et les équipes.
-   * *Paramètres d’administration Salesforce* aide les équipes à configurer leur synchronisation SFDC plus rapidement et plus facilement que jamais auparavant.
+  * *Team Management* prend en charge un processus de configuration de compte transparent en permettant aux administrateurs de modifier les abonnements et les équipes.
+  * *Paramètres d’administration Salesforce* aide les équipes à configurer leur synchronisation SFDC plus rapidement et plus facilement que jamais auparavant.
 
 * **Module externe OWA pour[!DNL Windows]** : avec un seul module complémentaire, tous les clients [!DNL Windows Office365] seront pris en charge dans Sales Engage, ce qui permet d’utiliser le flux en direct dans Outlook. Le nouveau plug-in sera disponible dans la boutique Microsoft.
 * **Activités de promotion** : synchronisez Sales Engage à la plateforme Marketo de base pour tirer parti des informations marketing en temps réel.
@@ -128,7 +159,7 @@ Personnalisez vos campagnes ABM pour des personnages spécifiques dans des compt
 
 Pour gérer plus efficacement les domaines et les sous-domaines, les utilisateurs peuvent désormais ajouter des sous-domaines aux paramètres de leur compte RTP.
 
-## Engagement mobile de Marketo (EMM) {#marketo-mobile-engagement-mme}
+## Marketo Mobile Engagement (MME) {#marketo-mobile-engagement-mme}
 
 **Mise à jour du kit de développement logiciel MME (SDK) pour Android**
 
@@ -169,7 +200,7 @@ Les fonctionnalités suivantes ont été publiées le 15 mars 2019.
 
 Account-Based Marketing
 
-**[AccountAI](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)** Désormais généralement disponible. CompteAI utilise l’intelligence artificielle pour indiquer les comptes que vous devriez cibler dans le cadre de votre stratégie ABM.
+**[AccountAI](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)** Désormais généralement disponible. AccountAI utilise l’intelligence artificielle pour identifier les comptes que vous devriez cibler dans le cadre de votre stratégie ABM.
 
 <br> 
 
@@ -226,8 +257,8 @@ Les fonctionnalités suivantes devraient sortir au cours du deuxième trimestre 
 
 * **Limites d’événement** et **Objectifs d’événement** sont généralement disponibles dans [!DNL Marketo Sky] sous le module complémentaire Événements Premium .
 
-   * Limites d’événement : optimisez l’expérience client pour vos événements et webinaires avec des limites d’enregistrement, des redirections de page et une fonctionnalité de liste d’attente.
-   * Objectifs de l’événement : définissez des objectifs d’inscription et de participation à l’événement et suivez la progression en temps réel.
+  * Limites d’événement : optimisez l’expérience client pour vos événements et webinaires avec des limites d’enregistrement, des redirections de page et une fonctionnalité de liste d’attente.
+  * Objectifs de l’événement : définissez des objectifs d’inscription et de participation à l’événement et suivez la progression en temps réel.
 
 * **Liens de navigation complets** : nous avons activé la navigation vers toutes les applications autorisées, telles que Hootsuite, Calendrier, etc.
 * **Vues E-mail, Page de destination, Extrait de code, Formulaire, Image et Liste de fichiers** : affichez, recherchez et effectuez des actions en masse sur l’une de vos ressources dans Design Studio.
@@ -252,7 +283,7 @@ Les fonctionnalités suivantes devraient sortir au cours du deuxième trimestre 
 * **Intégration de Drift** : découvrez comment les conversations Drift affectent le parcours de votre client. [!DNL Bizible] extraira également les adresses e-mail des conversations pour créer un nouveau prospect ou connecter le point de contact à un prospect existant.
 * **Localisation** : [!DNL Bizible] est désormais disponible dans toutes les langues prises en charge par Marketo (anglais, japonais, allemand, espagnol, français et portugais).
 
-_&#x200B;**Webinaire de mise à jour des produits**&#x200B;_ Regardez l’enregistrement de notre webinaire sur les innovations de mise à jour du 19 juin [ici](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
+_**Webinaire de mise à jour des produits**_ Regardez l’enregistrement de notre webinaire sur les innovations de mise à jour du 19 juin [ici](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
 
 ## Août 2019 {#august}
 
@@ -268,7 +299,7 @@ Les fonctionnalités suivantes ont été publiées le 16 août 2019.
 * **Mise à jour de l’API Smart Campaign** : gérez les fonctionnalités de cycle de vie des campagnes intelligentes tout en complétant l’interface CRUD (création, lecture, mise à jour, suppression).
 * **Modification de l’API Update Email Headers** : l’API Update Email Header ne nécessite plus qu’un e-mail soit associé à un modèle pour mettre à jour les champs d’en-tête, tels que l’objet.
 
-**&#x200B;**&#x200B;![(étoile)](assets/yellow-star.png)
+**** ![(étoile)](assets/yellow-star.png)
 
 * **[!DNL LinkedIn]correspondance de compte** auparavant en version Beta, est désormais disponible pour tous.
 * **AccountAI** est officiellement rebaptisé **Profil de compte**.
@@ -293,5 +324,5 @@ Les fonctionnalités suivantes sont publiées selon un cycle non trimestriel et 
 >
 >**Pour conserver votre accès à Marketo Engage, assurez-vous que tous les systèmes clients sont conformes au protocole TLS 1.2 avant le 13 décembre 2019**. Vous trouverez de plus amples informations [ici](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
 
-**_Webinaire de mise à jour du produit_** [Rejoignez-nous](https://engage.marketo.com/August_19_Release_Webinar.html) le 28 août à 1:00PM PT / 4:00PM ET pour un webinaire en direct hébergé par notre équipe produit et découvrez en détail les fonctionnalités incluses dans cette version.
+**_Webinaire de mise à jour du produit_** [Rejoignez-nous](https://engage.marketo.com/August_19_Release_Webinar.html) le 28 août à 13 h 00 (heure de Paris) / 16 h 00 (heure de Paris) pour un webinaire en direct hébergé par notre équipe produit et découvrez en détail les fonctionnalités incluses dans cette version.
 

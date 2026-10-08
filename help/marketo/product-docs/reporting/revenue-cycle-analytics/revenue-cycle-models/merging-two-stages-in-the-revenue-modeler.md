@@ -1,17 +1,23 @@
 ---
 unique-page-id: 4718685
 description: Découvrez comment fusionner deux étapes dans Revenue Modeler dans Marketo Engage, y compris la fusion de deux étapes dans Revenue. Utilisez ce guide pour passer à l’étape suivante.
-title: Fusionner deux étapes dans Revenue Modeler
+title: Fusion de deux étapes dans Revenue Modeler
 exl-id: d4798f50-5c3e-469f-b3ae-0a7e6977a116
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 10%
-
 ---
-
-# Fusionner deux étapes dans Revenue Modeler {#merging-two-stages-in-the-revenue-modeler}
+# Fusion de deux étapes dans Revenue Modeler {#merging-two-stages-in-the-revenue-modeler}
 
 Après avoir approuvé le modèle, vous ne pouvez pas supprimer de phases lors de la modification d’un brouillon. Vous pouvez plutôt fusionner cette étape avec une autre.
 

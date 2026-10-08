@@ -1,20 +1,25 @@
 ---
 unique-page-id: 2359716
 description: Découvrez comment prévisualiser une page de destination dans Marketo. Découvrez à quoi ressemble et comment se comporte la page avant de la rendre active.
-title: Prévisualiser une page de destination
+title: Aperçu d’une page de destination
 exl-id: fa786e68-9dd6-479d-9e9b-5acd3e323cef
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/3bgFcAopW5NAzIhEbI8hWVv9BP4njL6dX-pKRbEQV4Y
+TQID: 'https://experienceleague.adobe.com/3bgFcAopW5NAzIhEbI8hWVv9BP4njL6dX-pKRbEQV4Y'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: c4c2273fffb84f37c682e730f4fc27009ebca26d
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 179
+source-wordcount: '179'
 ht-degree: 4%
-
 ---
-
-# Prévisualiser une page de destination {#preview-a-landing-page}
+# Aperçu d’une page de destination {#preview-a-landing-page}
 
 Prévisualisez votre page de destination pour voir à quoi elle ressemble avant de la mettre en ligne.
 

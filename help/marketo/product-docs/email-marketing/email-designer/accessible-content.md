@@ -6,26 +6,36 @@ role: User
 level: Beginner, Intermediate
 keywords: e-mail, conception, accessibilité
 exl-id: 6768d304-54c5-4eea-b3a7-b3a4eb3b4955
-TQID: https://experienceleague.adobe.com/kqwxM0mBZnchTEISiowpQOy7AZlKmmryK0GGkENiFdI
+TQID: 'https://experienceleague.adobe.com/kqwxM0mBZnchTEISiowpQOy7AZlKmmryK0GGkENiFdI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Accessibility
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1432
+source-wordcount: '1434'
 ht-degree: 54%
-
 ---
-
 # Concevoir du contenu accessible {#accessible-content}
 
 L’[Acte législatif européen sur l’accessibilité](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019L0882){target="_blank"} est une directive visant à renforcer le marché intérieur des produits et services accessibles en éliminant les obstacles dus aux divergences entre les règles nationales des États membres.
@@ -49,7 +59,7 @@ Pour les polices et le texte, suivez ces instructions :
 **Sélection de la police**
 
 * Utilisez des polices sans empattement telles qu’Arial, Verdana, Tahoma, Helvetica ou Open Sans.
-* Évitez les polices avec empattement, cursives ou décoratives dans le contenu du corps.
+* Évitez les polices avec empattement, cursives ou décoratives dans le corps du texte.
 * Utilisez un petit nombre de polices pour garantir la cohérence et disposer d’une solution de remplacement (par exemple : `font-family: Arial, Helvetica, sans-serif;`).
 
 **Taille de la police**
@@ -59,7 +69,7 @@ Pour les polices et le texte, suivez ces instructions :
 
 **Contraste des couleurs**
 
-* Utilisez un rapport de contraste d’au moins 4,5:1 entre le texte et l’arrière-plan.
+* Conservez un rapport de contraste d’au moins 4.5:1 entre le texte et l’arrière-plan.
 * Pour les grands textes (≥24 px ou 18 px en gras), assurez-vous d’utiliser un contraste d’au moins 3:1.
 * Évitez le texte gris clair ou pastel sur fond blanc.
 * Ne vous fiez pas uniquement à la couleur pour donner du sens. Utilisez des soulignements, des icônes, etc.
@@ -67,14 +77,14 @@ Pour les polices et le texte, suivez ces instructions :
 **Accessibilité du texte**
 
 * Évitez le texte dans les images.
-* N’utilisez pas de majuscules dans le corps du texte.
+* N’utilisez pas de texte entièrement en majuscules dans le corps du texte.
 * Assurez-vous que le texte peut être zoomé à 200 % sans interrompre la mise en page.
 
 ## Garantir l’accessibilité visuelle {#visual-accessibility}
 
 * Évitez d’utiliser des indicateurs de couleur uniquement pour les informations importantes.
 * Utilisez des libellés de texte ou des icônes pour plus de clarté.
-* Optimisez votre conception pour les mises en page mobiles et réactives en vous assurant que les boutons sont grands et suffisamment espacés.
+* Optimisez votre conception pour les appareils mobiles et les mises en page réactives, en veillant à ce que les boutons soient suffisamment grands et correctement espacés.
 * Effectuez des tests réguliers sur différents appareils et tailles d’écran pour garantir l’accessibilité.
 
 Dans Marketo Engage, la taille et l’espacement des différents éléments de votre contenu peuvent être affinés à l’aide des paramètres et attributs de style du volet Designer d’e-mail **[!UICONTROL Styles]**.
@@ -91,7 +101,7 @@ Marketo Engage Email Designer vous permet de prévisualiser et d’optimiser la 
 >
 >L’aperçu en direct est un aperçu générique conçu pour comparer le rendu du contenu sur différentes tailles d’appareil. Le rendu final peut varier en fonction du client de messagerie de la personne destinataire.
 
-## Utiliser un texte secondaire pour les images {#alt-text}
+## Utilisez du texte alternatif pour les images {#alt-text}
 
 Utilisez le composant **[!UICONTROL Image]** pour fournir un texte secondaire pour les images.
 
@@ -99,7 +109,7 @@ Utilisez le composant **[!UICONTROL Image]** pour fournir un texte secondaire po
 
 * Décrivez l’objectif de l’image de manière concise et contextuelle.
 * Évitez les expressions redondantes telles que « Image de ... ». et utilisez du texte de remplacement vide pour les images décoratives.
-* Pour les icônes significatives, fournissez des libellés significatifs. Pour les images complexes, utilisez un bref texte secondaire ainsi qu’une description plus détaillée ailleurs.
+* Pour les icônes porteuses de sens, fournissez des libellés explicites. Pour les images complexes, utilisez un bref texte alternatif ainsi qu’une description plus détaillée ailleurs.
 
 ## Utiliser un format lisible {#readable-format}
 
@@ -136,7 +146,7 @@ Pour vérifier l’accessibilité de votre contenu, vous pouvez utiliser les fon
 
 <!--![](assets/accessible-simulate.png){width="90%"}-->
 
-Pour vérifier de manière plus fiable si votre contenu est accessible, recherchez des outils externes spécifiques tels que :
+Pour vérifier de manière plus cohérente que votre contenu est accessible de façon fiable, optez pour des outils externes spécifiques tels que :
 
 * Le [vérificateur de contraste WebAim](https://webaim.org/resources/contrastchecker/){target="_blank"} et l’[outil d’évaluation de l’accessibilité web WAVE](https://wave.webaim.org/){target="_blank"} pour évaluer le contraste et la conformité ;
 
@@ -224,7 +234,7 @@ Ajoutez `role="presentation"` (ou `role="none"`) aux tableaux de mise en page po
 ```
 
 Les lecteurs d’écran lisent :
-« Bonjour le monde. Bienvenue dans notre newsletter. » _(Aucune mention de lignes, colonnes ni tableau)_
+« Bonjour le monde. « Bienvenue dans notre newsletter. » _(Aucune mention de lignes, colonnes ni tableau)_
 
 +++
 

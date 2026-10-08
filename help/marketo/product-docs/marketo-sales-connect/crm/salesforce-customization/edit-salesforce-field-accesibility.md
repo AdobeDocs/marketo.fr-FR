@@ -4,19 +4,23 @@ description: Découvrez comment modifier l’accessibilité des champs Salesforc
 title: Modifier l’accessibilité des champs Salesforce
 exl-id: e4ef29c8-f6ab-4dca-b56e-907c7d2e5263
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/eFjPJNOFm7BRh7tR-dJH1-QrbhZ7gYiVEBfvIWY1uyI
+TQID: 'https://experienceleague.adobe.com/eFjPJNOFm7BRh7tR-dJH1-QrbhZ7gYiVEBfvIWY1uyI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+    internal-label: Accessibility
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 131
+source-wordcount: '131'
 ht-degree: 6%
-
 ---
-
 # Modifier l’accessibilité des champs Salesforce {#edit-salesforce-field-accesibility}
 
 Si le journal d’activité des e-mails ne s’affiche pas sur [!DNL Salesforce], cela peut être dû à des restrictions sur l’accessibilité des champs de votre équipe.
@@ -25,4 +29,4 @@ Si le journal d’activité des e-mails ne s’affiche pas sur [!DNL Salesforce]
 
 * Contactez votre administrateur [!DNL Salesforce] pour vous assurer que ces paramètres de sécurité n’interfèrent pas avec [!DNL Sales Connect].
 
-* Si vous êtes un administrateur [!DNL Salesforce], vous pouvez voir votre accessibilité des champs sous l’onglet [!UICONTROL &#x200B; Contrôles de sécurité &#x200B;]. Les principaux champs avec lesquels [!DNL Sales Connect] interagiront sont les suivants : [!UICONTROL Compte], [!UICONTROL Contacts], [!UICONTROL Opportunité], [!UICONTROL Lead] et [!UICONTROL Tâche].
+* Si vous êtes un administrateur [!DNL Salesforce], vous pouvez voir votre accessibilité des champs sous l’onglet [!UICONTROL  Contrôles de sécurité ]. Les principaux champs avec lesquels [!DNL Sales Connect] interagiront sont les suivants : [!UICONTROL Compte], [!UICONTROL Contacts], [!UICONTROL Opportunité], [!UICONTROL Lead] et [!UICONTROL Tâche].

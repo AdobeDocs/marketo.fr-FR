@@ -4,16 +4,21 @@ description: Découvrez comment définir le nom de famille de la personne et le 
 title: Définir le nom de famille et le nom de la société par défaut d’une personne
 exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/pq4XPfiwO1UemSmg3edhJgWWmvR-mx4Q3udff9xzWt0
+TQID: 'https://experienceleague.adobe.com/pq4XPfiwO1UemSmg3edhJgWWmvR-mx4Q3udff9xzWt0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 149
+source-wordcount: '149'
 ht-degree: 10%
-
 ---
-
 # Définir le nom de famille et le nom de la société par défaut d’une personne {#set-default-person-last-name-and-company-name}
 
 [!DNL Salesforce] nécessite (au minimum) le nom et le nom de la société pour ses leads et contacts. Les enregistrements incomplets ne seront pas synchronisés avec [!DNL Salesforce]. Si vous souhaitez synchroniser les enregistrements partiels, vous devez définir les valeurs par défaut que Marketo doit utiliser avec [!DNL Salesforce].

@@ -3,19 +3,25 @@ description: Découvrez comment créer un flux de conversation dans Dynamic Chat
 title: Créer un flux conversationnel
 feature: Dynamic Chat
 exl-id: 2a4a87e4-13d8-4546-a9c0-75f36f5d83c9
-TQID: https://experienceleague.adobe.com/yA-mKEwDE9H1VIxR7RGXsYxS8YRHgkjXlYXUwLxOqYk
+TQID: 'https://experienceleague.adobe.com/yA-mKEwDE9H1VIxR7RGXsYxS8YRHgkjXlYXUwLxOqYk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 102
+source-wordcount: '102'
 ht-degree: 7%
-
 ---
-
 # Créer un flux conversationnel {#create-a-conversational-flow}
 
 Pour créer un flux de conversation, procédez comme suit.

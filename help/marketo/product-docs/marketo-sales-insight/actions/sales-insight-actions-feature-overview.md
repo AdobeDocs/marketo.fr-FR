@@ -3,23 +3,29 @@ description: Découvrez les actions de Sales Insight et les outils d’intellige
 title: Vue d’ensemble de la fonctionnalité Actions des informations sur les ventes
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/oklz4OlxLxWqtqQ4oBv3wMamrGKdfKKHppZ-P9CL23A
+TQID: 'https://experienceleague.adobe.com/oklz4OlxLxWqtqQ4oBv3wMamrGKdfKKHppZ-P9CL23A'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1390
+source-wordcount: '1390'
 ht-degree: 1%
-
 ---
-
 # Vue d’ensemble de la fonctionnalité Actions des informations sur les ventes {#msi-actions-feature-overview}
 
 Accélérez les efforts de prospection grâce à des outils d’engagement et d’intelligence basés sur le marketing réunis en un seul workflow à l’aide des actions Sales Insight.
@@ -28,7 +34,7 @@ Accélérez les efforts de prospection grâce à des outils d’engagement et d�
 >
 >Marketo Sales Insight Actions est une application web qui s’intègre exclusivement au CRM Salesforce via le package [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Il est parfois appelé « Ventes Marketo » ou simplement « Actions ».
 
-Pour un aperçu vidéo des actions Sales Insight, [cliquez ici](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html?lang=fr){target="_blank"}.
+Pour un aperçu vidéo des actions Sales Insight, [cliquez ici](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -37,31 +43,31 @@ Pour un aperçu vidéo des actions Sales Insight, [cliquez ici](https://experien
 Les actions suivantes sont disponibles à partir du menu déroulant « Choisir des actions » dans le volet de navigation supérieur :
 
 * Envoyer un e-mail de vente
-   * Les e-mails de vente ont un suivi des vues, clics et réponses (lorsque le canal de diffusion est configuré)
-   * Inclut le Personalization de messagerie électronique, la signature personnalisée et les pièces jointes
-   * Partage de modèles et rapports
-   * Partage d’équipes, e-mails de groupe et fonctionnalité CC/Cci
-   * L’activité E-mail de vente sera consignée dans l’enregistrement de personne Marketo
-   * Filtres et triggers correspondants dans les campagnes intelligentes Marketo (détails ci-dessous)
+  * Les e-mails de vente ont un suivi des vues, clics et réponses (lorsque le canal de diffusion est configuré)
+  * Inclut le Personalization de messagerie électronique, la signature personnalisée et les pièces jointes
+  * Partage de modèles et rapports
+  * Partage d’équipes, e-mails de groupe et fonctionnalité CC/Cci
+  * L’activité E-mail de vente sera consignée dans l’enregistrement de personne Marketo
+  * Filtres et triggers correspondants dans les campagnes intelligentes Marketo (détails ci-dessous)
 
-* Ajouter à la campagne de ventes
-   * Ajouter des prospects aux playbooks de vente qui sont une séquence d’e-mails et de tâches
-   * Inclut l’accès et le partage des équipes, la génération de tâches, l’omission des week-ends, l’exclusion des réponses des e-mails OOO et la fin automatique
-   * L’activité de campagne sera consignée dans l’enregistrement de personne Marketo
-   * Filtres et triggers correspondants dans les campagnes intelligentes Marketo (détails ci-dessous)
+* Ajouter à la campagne de ventes&#x200B;
+  * Ajouter des prospects aux playbooks de vente qui sont une séquence d’e-mails et de tâches
+  * Inclut l’accès et le partage des équipes, la génération de tâches, l’omission des week-ends, l’exclusion des réponses des e-mails OOO et la fin automatique
+  * L’activité de campagne sera consignée dans l’enregistrement de personne Marketo
+  * Filtres et triggers correspondants dans les campagnes intelligentes Marketo (détails ci-dessous)
 
 * Appel de vente
-   * Effectuer des appels commerciaux à l’aide du composeur dans le CRM
-   * Inclut la présence locale, pré-enregistrée
-   * Consigner le résultat de l’appel, l’enregistrement des appels dans le panneau et l’historique des activités
-   * L’activité d’appel sera consignée dans l’enregistrement de personne Marketo
-   * Filtres et triggers dans les campagnes intelligentes Marketo
+  * Effectuer des appels commerciaux à l’aide du composeur dans le CRM
+  * Inclut la présence locale, pré-enregistrée
+  * Consigner le résultat de l’appel, l’enregistrement des appels dans le panneau et l’historique des activités
+  * L’activité d’appel sera consignée dans l’enregistrement de personne Marketo
+  * Filtres et triggers dans les campagnes intelligentes Marketo
 
 * Ajouter une tâche
-   * Créer des tâches personnalisées, d’e-mail, d’appel et InMail pour vos prospects
-   * Automatiser la création de tâches avec des campagnes de vente
-   * Synchroniser les tâches avec [!DNL Salesforce]
-   * Consigner les tâches dans [!DNL Salesforce] section Historique des activités
+  * Créer des tâches personnalisées, d’e-mail, d’appel et InMail pour vos prospects
+  * Automatiser la création de tâches avec des campagnes de vente
+  * Synchroniser les tâches avec [!DNL Salesforce]
+  * Consigner les tâches dans [!DNL Salesforce] section Historique des activités
 
 Vous pouvez accéder au flux en direct en cliquant sur l’icône (0) dans le volet de navigation supérieur. Il offre la possibilité de voir les mises à jour en direct des activités de vente, ainsi que la fonctionnalité d’ancrage d’écran.
 
@@ -70,56 +76,56 @@ Vous pouvez accéder au flux en direct en cliquant sur l’icône (0) dans le vo
 Les données suivantes sont disponibles dans les onglets du panneau MSI :
 
 * Tableau de bord des informations
-   * La grille Vitesse de l’engagement comprend les activités des e-mails de vente, des actions de campagne des ventes et des appels aux ventes
-   * Campagnes de vente à venir : lorsqu’un prospect fait partie d’une campagne en cours, ces informations sont disponibles dans l’onglet Campagnes de vente à venir
-   * Tâches à venir - Lorsqu’une tâche relative à un prospect est à venir, ces informations sont disponibles dans l’onglet des tâches à venir
+  * La grille Vitesse de l’engagement comprend les activités des e-mails de vente, des actions de campagne des ventes et des appels aux ventes
+  * Campagnes de vente à venir : lorsqu’un prospect fait partie d’une campagne en cours, ces informations sont disponibles dans l’onglet Campagnes de vente à venir
+  * Tâches à venir - Lorsqu’une tâche relative à un prospect est à venir, ces informations sont disponibles dans l’onglet des tâches à venir
 
 * Onglet E-mail
-   * Tous les e-mails de vente envoyés seront consignés ici. Les activités seront également consignées dans l’enregistrement de personne Marketo
-   * Les colonnes comprennent l’objet, l’ouverture, le clic, la réponse (disponible uniquement pour les e-mails de vente avec configuration du canal de diffusion), l’expéditeur et la date
-   * Inclut la carte déroulante avec des détails supplémentaires tels que l’expéditeur, le modèle, la campagne commerciale et l’e-mail de prévisualisation
+  * Tous les e-mails de vente envoyés seront consignés ici. Les activités seront également consignées dans l’enregistrement de personne Marketo
+  * Les colonnes comprennent l’objet, l’ouverture, le clic, la réponse (disponible uniquement pour les e-mails de vente avec configuration du canal de diffusion), l’expéditeur et la date
+  * Inclut la carte déroulante avec des détails supplémentaires tels que l’expéditeur, le modèle, la campagne commerciale et l’e-mail de prévisualisation
 
 * Onglet Appel
-   * Tous les appels effectués à l&#39;aide de la fonction Numéroteur commercial seront consignés ici. Les activités seront également consignées dans l’enregistrement de personne Marketo
-   * Les colonnes comprennent le nom, le résultat, les notes, le jour de l’appel, la durée et le lien vers l’enregistrement
-   * Inclut la carte déroulante avec des détails supplémentaires tels que l’appel effectué par, l’appel répondu par, le numéro de téléphone et le statut
+  * Tous les appels effectués à l&#39;aide de la fonction Numéroteur commercial seront consignés ici. Les activités seront également consignées dans l’enregistrement de personne Marketo
+  * Les colonnes comprennent le nom, le résultat, les notes, le jour de l’appel, la durée et le lien vers l’enregistrement
+  * Inclut la carte déroulante avec des détails supplémentaires tels que l’appel effectué par, l’appel répondu par, le numéro de téléphone et le statut
 
 ## Mise en page du compte et de l’opportunité {#account-and-opportunity-layout}
 
 Les actions suivantes sont disponibles à partir du volet de navigation supérieur :
 
 * Envoyer un e-mail de vente : possibilité d’envoyer des e-mails de groupe personnalisés ou modélisés avec un suivi des affichages, des clics et des réponses à tous les contacts associés à un compte/une opportunité
-   * Les e-mails de vente ont un suivi des vues, clics et réponses (lorsque le canal de diffusion est configuré)
-   * Inclut le Personalization de messagerie électronique, la signature personnalisée et les pièces jointes
-   * Partage de modèles et rapports
-   * Partage d’équipes, e-mails de groupe et fonctionnalité CC/Cci
-   * L’activité E-mail de vente sera consignée dans l’enregistrement de personne Marketo
-   * Filtres et triggers correspondants dans les campagnes intelligentes Marketo (détails ci-dessous)
+  * Les e-mails de vente ont un suivi des vues, clics et réponses (lorsque le canal de diffusion est configuré)
+  * Inclut le Personalization de messagerie électronique, la signature personnalisée et les pièces jointes
+  * Partage de modèles et rapports
+  * Partage d’équipes, e-mails de groupe et fonctionnalité CC/Cci
+  * L’activité E-mail de vente sera consignée dans l’enregistrement de personne Marketo
+  * Filtres et triggers correspondants dans les campagnes intelligentes Marketo (détails ci-dessous)
 
 * Ajouter à la campagne de vente : ajoutez tous les contacts associés à un compte/une opportunité aux playbooks de vente qui consistent en une séquence d’e-mails et de tâches
-   * Ajouter des prospects aux playbooks de vente qui sont une séquence d’e-mails et de tâches
-   * Inclut l’accès et le partage des équipes, la génération de tâches, l’omission des week-ends, l’exclusion des réponses des e-mails OOO et la fin automatique
-   * L’activité de campagne sera consignée dans l’enregistrement de personne Marketo
-   * Filtres et triggers correspondants dans les campagnes intelligentes Marketo (détails ci-dessous)
+  * Ajouter des prospects aux playbooks de vente qui sont une séquence d’e-mails et de tâches
+  * Inclut l’accès et le partage des équipes, la génération de tâches, l’omission des week-ends, l’exclusion des réponses des e-mails OOO et la fin automatique
+  * L’activité de campagne sera consignée dans l’enregistrement de personne Marketo
+  * Filtres et triggers correspondants dans les campagnes intelligentes Marketo (détails ci-dessous)
 
 Vous pouvez accéder au flux en direct en cliquant sur l’icône (0) dans le volet de navigation supérieur. Il offre la possibilité de voir les mises à jour en direct des activités de vente, ainsi que la fonctionnalité d’ancrage d’écran.
 
 Les données disponibles dans les onglets sont les suivantes :
 
 * Tableau de bord des informations
-   * La grille Vitesse de l’engagement comprend les activités des e-mails de vente, des actions de campagne des ventes et de l’appel de ventes
-   * Campagnes de vente à venir : lorsqu’un contact du compte/de l’opportunité fait partie d’une campagne en cours, ces informations sont disponibles dans l’onglet Campagnes de vente à venir .
-   * Tâches à venir : lorsqu’une tâche relative à un contact du compte/de l’opportunité est à venir, ces informations sont disponibles dans l’onglet des tâches à venir
+  * La grille Vitesse de l’engagement comprend les activités des e-mails de vente, des actions de campagne des ventes et de l’appel de ventes
+  * Campagnes de vente à venir : lorsqu’un contact du compte/de l’opportunité fait partie d’une campagne en cours, ces informations sont disponibles dans l’onglet Campagnes de vente à venir .
+  * Tâches à venir : lorsqu’une tâche relative à un contact du compte/de l’opportunité est à venir, ces informations sont disponibles dans l’onglet des tâches à venir
 
 * Onglet E-mail
-   * Tous les e-mails de vente envoyés aux contacts du compte/de l’opportunité seront consignés ici. Les activités seront également consignées dans l’enregistrement de personne Marketo
-   * Les colonnes comprennent l’objet, l’ouverture, le clic, la réponse (disponible uniquement pour l’e-mail de vente avec configuration du canal de diffusion), l’expéditeur et la date
-   * Inclut la carte déroulante avec des détails supplémentaires tels que l’expéditeur, le modèle, la campagne commerciale et l’e-mail de prévisualisation
+  * Tous les e-mails de vente envoyés aux contacts du compte/de l’opportunité seront consignés ici. Les activités seront également consignées dans l’enregistrement de personne Marketo
+  * Les colonnes comprennent l’objet, l’ouverture, le clic, la réponse (disponible uniquement pour l’e-mail de vente avec configuration du canal de diffusion), l’expéditeur et la date
+  * Inclut la carte déroulante avec des détails supplémentaires tels que l’expéditeur, le modèle, la campagne commerciale et l’e-mail de prévisualisation
 
 * Onglet Appel
-   * Tous les appels effectués aux contacts du compte/de l’opportunité à l’aide de la fonctionnalité de numérotation des ventes seront consignés ici. Les activités seront également consignées dans l’enregistrement de personne Marketo
-   * Les colonnes comprennent le nom, le résultat, les notes, le moment de l’appel, la durée et le lien vers l’enregistrement
-   * Inclut la carte déroulante avec des détails supplémentaires tels que l’appel effectué par, l’appel répondu par, le numéro de téléphone et le statut
+  * Tous les appels effectués aux contacts du compte/de l’opportunité à l’aide de la fonctionnalité de numérotation des ventes seront consignés ici. Les activités seront également consignées dans l’enregistrement de personne Marketo
+  * Les colonnes comprennent le nom, le résultat, les notes, le moment de l’appel, la durée et le lien vers l’enregistrement
+  * Inclut la carte déroulante avec des détails supplémentaires tels que l’appel effectué par, l’appel répondu par, le numéro de téléphone et le statut
 
 ## Vue Liste des leads et des contacts (actions en bloc) {#lead-and-contact-list-view}
 
@@ -128,18 +134,18 @@ Les données disponibles dans les onglets sont les suivantes :
 
 ## Onglet global Marketo {#marketo-global-tab}
 
-**[!UICONTROL Onglet Meilleurs &#x200B;]**
+**[!UICONTROL Onglet Meilleurs ]**
 
 ![](assets/sales-insight-actions-feature-overview-3.png)
 
-Les actions en masse suivantes sont disponibles à partir de la liste déroulante de l’onglet [!UICONTROL &#x200B; Meilleurs résultats &#x200B;] :
+Les actions en masse suivantes sont disponibles à partir de la liste déroulante de l’onglet [!UICONTROL  Meilleurs résultats ] :
 
 * [!UICONTROL Envoyer un e-mail de vente] - Possibilité d’envoyer des e-mails personnalisés ou modélisés avec suivi des vues, clics et réponses
 * [!UICONTROL Ajouter à la campagne de vente] - Ajoutez des prospects aux playbooks de vente qui consistent en une séquence d’e-mails et de tâches
 
   ![](assets/sales-insight-actions-feature-overview-4.png)
 
-Les actions en ligne suivantes sont disponibles pour les leads/contacts individuels dans l’onglet [!UICONTROL &#x200B; Meilleurs résultats &#x200B;] :
+Les actions en ligne suivantes sont disponibles pour les leads/contacts individuels dans l’onglet [!UICONTROL  Meilleurs résultats ] :
 
 * [!UICONTROL Envoyer un e-mail de vente] - Possibilité d’envoyer des e-mails personnalisés ou modélisés avec suivi des vues, clics et réponses
 * [!UICONTROL Ajouter à la campagne de vente] - Ajoutez des prospects aux playbooks de vente qui consistent en une séquence d’e-mails et de tâches

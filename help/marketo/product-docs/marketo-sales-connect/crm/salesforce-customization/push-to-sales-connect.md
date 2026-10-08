@@ -1,23 +1,26 @@
 ---
 unique-page-id: 14352477
 description: Découvrez comment utiliser le bouton Push to Sales Connect dans Salesforce. Ajoutez des leads ou des contacts de Salesforce à Sales Connect en un seul clic.
-title: Envoyer à  [!DNL Sales Connect]
+title: Intégrer à [!DNL Sales Connect]
 exl-id: 8fb99d28-d6c6-47c3-b4d2-c416251aff47
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/piy3bPtiO48FQhWEmpu5qo4denlJ8v1ZU-VXBlWh0Mg
+TQID: 'https://experienceleague.adobe.com/piy3bPtiO48FQhWEmpu5qo4denlJ8v1ZU-VXBlWh0Mg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 190
+source-wordcount: '190'
 ht-degree: 0%
-
 ---
-
 # Intégrer à [!DNL Sales Connect] {#push-to-sales-connect}
 
 Notre bouton [!UICONTROL Push to Tout] prendra une liste de vos leads/contacts dans [!DNL Salesforce] et les intégrera à un groupe dans [!DNL Sales Connect]. Vous pouvez ensuite envoyer rapidement un e-mail de groupe personnalisable avec le suivi Tout joint.

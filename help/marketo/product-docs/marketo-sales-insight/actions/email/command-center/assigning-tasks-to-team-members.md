@@ -1,19 +1,21 @@
 ---
 description: Découvrez comment affecter des tâches aux membres de l’équipe à partir du centre de commande. Réaffectez l’e-mail, l’appel et d’autres tâches au bon rep.
-title: Affectation de tâches à des personnes membres de l’équipe
+title: Attribution de tâches aux membres de l’équipe
 exl-id: 8f35afb8-d1c2-4f09-8653-3309f08c991d
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/izMi9cHZRxRfGEHwUdNzkM5Y5CGnigs6EbgNWh-rI4c
+TQID: 'https://experienceleague.adobe.com/izMi9cHZRxRfGEHwUdNzkM5Y5CGnigs6EbgNWh-rI4c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 132
+source-wordcount: '132'
 ht-degree: 7%
-
 ---
-
-# Affectation de tâches à des personnes membres de l’équipe {#assigning-tasks-to-team-members}
+# Attribution de tâches aux membres de l’équipe {#assigning-tasks-to-team-members}
 
 Si vous souhaitez collaborer avec d’autres membres de l’équipe, l’affectation de tâches peut être un excellent moyen de coordonner vos efforts de prospection.
 

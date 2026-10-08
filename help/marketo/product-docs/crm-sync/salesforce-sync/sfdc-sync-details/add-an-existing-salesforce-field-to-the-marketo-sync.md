@@ -4,18 +4,24 @@ description: Découvrez comment ajouter un champ Salesforce existant à la synch
 title: Ajouter un champ Salesforce existant à la synchronisation Marketo
 exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/Vb-1DhNwUPQSPYuCkVzzSDDqWd4tvO-XoPhXn58hj6E
+TQID: 'https://experienceleague.adobe.com/Vb-1DhNwUPQSPYuCkVzzSDDqWd4tvO-XoPhXn58hj6E'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 173
+source-wordcount: '173'
 ht-degree: 8%
-
 ---
-
 # Ajout d’un champ de [!DNL Salesforce] existant à la synchronisation Marketo {#add-an-existing-salesforce-field-to-the-marketo-sync}
 
 >[!NOTE]

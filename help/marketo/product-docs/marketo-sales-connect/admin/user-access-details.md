@@ -4,18 +4,20 @@ description: Découvrez les autorisations des utilisateurs administrateurs et no
 title: Détails des accès des utilisateurs et utilisatrices
 exl-id: 6a61176c-acbd-4684-983f-1c5af0ca6187
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/R6ZtthzpNCoE7mMQX3NxjBcrpMBRPCDILsVz5-aGWRY
+TQID: 'https://experienceleague.adobe.com/R6ZtthzpNCoE7mMQX3NxjBcrpMBRPCDILsVz5-aGWRY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 248
+source-wordcount: '248'
 ht-degree: 2%
-
 ---
-
 # Détails des accès des utilisateurs et utilisatrices {#user-access-details}
 
 À quoi les administrateurs et les non-administrateurs ont-ils accès ?
@@ -48,30 +50,30 @@ Les administrateurs peuvent arrêter les campagnes au nom des utilisateurs.
 
 * Analytics :
 
-   * Les utilisateurs peuvent voir les analyses d’équipe.
-   * Les utilisateurs peuvent accéder uniquement aux équipes auxquelles ils appartiennent
-   * Les utilisateurs peuvent consulter leurs propres analyses
+  * Les utilisateurs peuvent voir les analyses d’équipe.
+  * Les utilisateurs peuvent accéder uniquement aux équipes auxquelles ils appartiennent
+  * Les utilisateurs peuvent consulter leurs propres analyses
 
 * Page Relations :
 
-   * Les utilisateurs peuvent partager des groupes avec tout le monde
-   * Les utilisateurs peuvent partager des groupes avec les équipes auxquelles ils appartiennent uniquement
-   * Lorsqu’un utilisateur est supprimé, ses contacts partagés transfèrent la propriété à l’administrateur de Principal qui a supprimé l’utilisateur
+  * Les utilisateurs peuvent partager des groupes avec tout le monde
+  * Les utilisateurs peuvent partager des groupes avec les équipes auxquelles ils appartiennent uniquement
+  * Lorsqu’un utilisateur est supprimé, ses contacts partagés transfèrent la propriété à l’administrateur de Principal qui a supprimé l’utilisateur
 
 * Sales Beat - Next and Live Feed :
 
-   * Les utilisateurs peuvent afficher la vue « Tout le monde »
-   * Les utilisateurs peuvent filtrer selon la ou les équipes auxquelles ils appartiennent
-   * L&#39;utilisateur peut partager des publications avec tout le monde
-   * Les utilisateurs peuvent partager des publications uniquement avec la ou les équipes auxquelles ils appartiennent
+  * Les utilisateurs peuvent afficher la vue « Tout le monde »
+  * Les utilisateurs peuvent filtrer selon la ou les équipes auxquelles ils appartiennent
+  * L&#39;utilisateur peut partager des publications avec tout le monde
+  * Les utilisateurs peuvent partager des publications uniquement avec la ou les équipes auxquelles ils appartiennent
 
 * Page Gestion de l&#39;équipe :
 
-   * Affichage impossible
+  * Affichage impossible
 
 * Page Modèles :
 
-   * Les utilisateurs peuvent partager des modèles avec tout le monde
-   * Les utilisateurs peuvent partager des modèles dans les catégories autorisées par leurs administrateurs
-   * Lorsque l’utilisateur est supprimé d’une équipe, ses modèles ne sont pas partagés avec cette équipe
-   * Lorsque l’utilisateur est supprimé d’une équipe, ses modèles transfèrent la propriété à l’administrateur de Principal qui l’a supprimé
+  * Les utilisateurs peuvent partager des modèles avec tout le monde
+  * Les utilisateurs peuvent partager des modèles dans les catégories autorisées par leurs administrateurs
+  * Lorsque l’utilisateur est supprimé d’une équipe, ses modèles ne sont pas partagés avec cette équipe
+  * Lorsque l’utilisateur est supprimé d’une équipe, ses modèles transfèrent la propriété à l’administrateur de Principal qui l’a supprimé

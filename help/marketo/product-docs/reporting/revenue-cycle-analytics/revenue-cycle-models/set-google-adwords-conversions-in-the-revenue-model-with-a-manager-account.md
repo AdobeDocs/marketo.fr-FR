@@ -1,16 +1,22 @@
 ---
 unique-page-id: 7504923
-description: Découvrez comment définir des conversions [ !dnl google adwords] dans le modèle de chiffre d’affaires avec un compte Manager dans Marketo Engage. Utilisez ce guide pour passer à l’étape suivante.
-title: Définition  [!DNL Google AdWords]  conversions dans le modèle de chiffre d’affaires avec un compte Manager
+description: Découvrez comment définir des conversions [!dnl google adwords] dans le modèle de chiffre d’affaires avec un compte Manager dans Marketo Engage. Utilisez ce guide pour passer à l’étape suivante.
+title: Définition des conversions [!DNL Google AdWords] dans le modèle de chiffre d’affaires avec un compte Manager
 exl-id: 8c9f50cf-0a8b-4f9a-a0bd-bb57eeac24cf
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 0%
-
 ---
-
 # Définition des conversions [!DNL Google AdWords] dans le modèle de chiffre d’affaires avec un compte Manager {#set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account}
 
 Liez votre compte [!DNL Google AdWords] à Marketo pour charger automatiquement les données de conversion hors ligne de Marketo vers [!DNL Google AdWords]. Ensuite, à partir de l’interface utilisateur de [!DNL AdWords], vous pourrez facilement voir quels clics ont généré des prospects qualifiés, des opportunités et de nouveaux clients (ou toutes les étapes de chiffre d’affaires que vous souhaitez suivre) après avoir [ajouté des colonnes personnalisées](https://support.google.com/adwords/answer/3073556) dans [!DNL AdWords].
@@ -38,7 +44,7 @@ Mappez une conversion [!DNL AdWords] sous Actions d’évaluation.
 
    ![](assets/image2015-2-26-16-3a52-3a24.png)
 
-1. Définissez une conversion de **.**&#x200B;[!DNL AdWords]
+1. Définissez une conversion de **.**[!DNL AdWords]
 
    >[!NOTE]
    >

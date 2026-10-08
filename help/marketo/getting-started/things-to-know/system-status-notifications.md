@@ -3,13 +3,17 @@ description: Abonnement aux notifications de statut du système - Documentation 
 title: Abonnement aux notifications d’état du système
 feature: Getting Started
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '360'
 ht-degree: 1%
-
 ---
-
 # Abonnement aux notifications d’état du système {#subscribe-to-system-status-notifications}
 
 Découvrez comment vous abonner à différentes notifications de statut pour rester informé des problèmes actuels.
@@ -60,7 +64,7 @@ Après [identification de votre centre de données et de votre pod/serveur](#ide
 
    ![](assets/subscribe-to-system-status-notifications-5.png)
 
-1. Cliquez sur l’icône ![icône représentant un signe plus](assets/icon-plus-sign.png) située en regard de _Experience Cloud_ pour développer le menu. Faites de même pour __.
+1. Cliquez sur l’icône ![icône représentant un signe plus](assets/icon-plus-sign.png) située en regard d’_Experience Cloud_ pour développer le menu. Faites de même pour __.
 
    ![](assets/subscribe-to-system-status-notifications-6.png){width="800"}
 
@@ -101,7 +105,7 @@ Après [identification de votre centre de données et de votre pod/serveur](#ide
 
    >[!NOTE]
    >
-   >Si vous n’avez pas trouvé l’emplacement correspondant, reportez-vous à la section [&#x200B; Identifier votre centre de données &#x200B;](#identify).
+   >Si vous n’avez pas trouvé l’emplacement correspondant, reportez-vous à la section [ Identifier votre centre de données ](#identify).
 
 1. Choisissez votre préférence d’abonnement, **E-mail** ou **Slack**, puis cliquez sur **Continuer**.
 

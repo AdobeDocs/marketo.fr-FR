@@ -1,23 +1,29 @@
 ---
 unique-page-id: 2359839
 description: Découvrez comment tester un flux d’engagement avec une personne de test. Utilisez les actions de programme et Run Cast pour envoyer du contenu et vérifier les règles de transition.
-title: Tester un flux d’engagement
+title: Tester un flux d’engagement​
 exl-id: 144d805c-7805-4b35-b25c-4a18a7c3ab87
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/idDd76zfpXOVc7RIRfubWZ1bScpjAR6rECV69EaivpI
+TQID: 'https://experienceleague.adobe.com/idDd76zfpXOVc7RIRfubWZ1bScpjAR6rECV69EaivpI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 175
+source-wordcount: '175'
 ht-degree: 6%
-
 ---
-
-# Tester un flux d’engagement {#test-an-engagement-stream}
+# Tester un flux d’engagement&#x200B; {#test-an-engagement-stream}
 
 Après avoir ajouté tout votre contenu à un flux, vous pouvez le tester un par un.
 
@@ -48,7 +54,7 @@ Après avoir ajouté tout votre contenu à un flux, vous pouvez le tester un par
    Cliquez sur **[!UICONTROL Flux initial]**, sélectionnez le flux à tester et cliquez sur **[!UICONTROL Exécuter le cast]**.
    ![](assets/five-rubiks.png)
 
-1. Une fois que la personne a passé en revue les [&#x200B; règles de transition](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) que vous avez précédemment configurées, cliquez sur l’icône Actualiser .
+1. Une fois que la personne a passé en revue les [ règles de transition](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) que vous avez précédemment configurées, cliquez sur l’icône Actualiser .
 
    ![](assets/six-rubiks.png)
 

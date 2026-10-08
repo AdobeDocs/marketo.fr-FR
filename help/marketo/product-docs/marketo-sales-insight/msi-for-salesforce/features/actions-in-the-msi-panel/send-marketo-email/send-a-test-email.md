@@ -3,14 +3,17 @@ description: Découvrez comment envoyer un e-mail de test à partir du panneau M
 title: Envoyer un e-mail de test
 exl-id: 5577460d-71e9-4ded-bcd3-07689fca4c43
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/SqRcW7-vBInte7Qbxdt-C6acYyqyA0KrBLY4TidCabQ
+TQID: 'https://experienceleague.adobe.com/SqRcW7-vBInte7Qbxdt-C6acYyqyA0KrBLY4TidCabQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 4%
@@ -39,4 +42,4 @@ Vous recevrez un e-mail avec des valeurs de jeton renseignées pour les prospect
 
 >[!NOTE]
 >
->Ne vous inquiétez pas, vous resterez sur la page « [!UICONTROL &#x200B; Envoyer un e-mail Marketo &#x200B;] » même après l’envoi de l’e-mail de test, afin de ne pas perdre l’e-mail que vous avez créé.
+>Ne vous inquiétez pas, vous resterez sur la page « [!UICONTROL  Envoyer un e-mail Marketo ] » même après l’envoi de l’e-mail de test, afin de ne pas perdre l’e-mail que vous avez créé.

@@ -1,25 +1,30 @@
 ---
 unique-page-id: 7511512
 description: Découvrez comment installer et configurer Marketo Sales Insight dans Salesforce Mobile (Salesforce1). Utilisez MSI sur les appareils mobiles.
-title: Installer et configurer Informations sur les ventes Marketo dans Salesforce1
+title: Installer et configurer Marketo Sales Insight dans Salesforce1
 exl-id: 9f26e90b-3199-4ef8-92bc-95e8bd81f1c5
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/79BKa7swATbNiThcaosQIdgH4TiW54jnlT22HDVRf0s
+TQID: 'https://experienceleague.adobe.com/79BKa7swATbNiThcaosQIdgH4TiW54jnlT22HDVRf0s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 350
+source-wordcount: '350'
 ht-degree: 3%
-
 ---
-
 # Installation et configuration d’[!DNL Marketo Sales Insight] dans [!DNL Salesforce1] {#install-and-configure-marketo-sales-insight-in-salesforce}
 
 >[!NOTE]
@@ -42,7 +47,7 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->[!DNL Marketo Sales Insight] dans [!DNL Salesforce1] comprend : [!DNL Best Bets], Flux de leads, Moments significatifs et Ajouter à la campagne Marketo.
+>[!DNL Marketo Sales Insight] dans [!DNL Salesforce1] comprend : [!DNLBest Bets], Flux de leads, Moments significatifs et Ajouter à la campagne Marketo.
 
 ## Activation de l’application mobile [!DNL Salesforce1] {#enable-the-salesforce1-mobile-app}
 
@@ -74,11 +79,11 @@ ht-degree: 3%
 
    ![](assets/image2015-4-22-11-3a13-3a10.png)
 
-1. Sélectionnez **&#x200B;**&#x200B;et **[!UICONTROL Ajouter]** dans les éléments de menu **[!UICONTROL Sélectionné]**.
+1. Sélectionnez **** et **[!UICONTROL Ajouter]** dans les éléments de menu **[!UICONTROL Sélectionné]**.
 
    ![](assets/image2015-4-22-14-3a55-3a37.png)
 
-1. Sélectionnez **&#x200B;**, déplacez-le **[!UICONTROL vers le haut]** dans la zone souhaitée, puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Sélectionnez ****, déplacez-le **[!UICONTROL vers le haut]** dans la zone souhaitée, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/image2015-4-22-17-3a20-3a56.png)
 
@@ -122,11 +127,11 @@ ht-degree: 3%
 
    ![](assets/image2015-4-22-17-3a16-3a22.png)
 
-1. Sélectionnez **&#x200B;**&#x200B;et **[!UICONTROL Ajouter]** dans les onglets sélectionnés.
+1. Sélectionnez **** et **[!UICONTROL Ajouter]** dans les onglets sélectionnés.
 
    ![](assets/image2015-4-22-17-3a17-3a15.png)
 
-1. Sélectionnez **&#x200B;**, déplacez-le **[!UICONTROL vers le haut]** dans la zone souhaitée, puis cliquez sur **[!UICONTROL Enregistrer]**.
+1. Sélectionnez ****, déplacez-le **[!UICONTROL vers le haut]** dans la zone souhaitée, puis cliquez sur **[!UICONTROL Enregistrer]**.
 
    ![](assets/image2015-4-22-18-3a29-3a47.png)
 

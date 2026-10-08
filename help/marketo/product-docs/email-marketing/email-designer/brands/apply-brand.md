@@ -8,18 +8,33 @@ role: User
 level: Beginner, Intermediate
 hide: true
 exl-id: 349ee021-7341-40e0-8d8c-d041f1a8f343
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '746'
 ht-degree: 73%
-
 ---
-
 # Appliquer des thèmes au contenu de votre e-mail {#apply-email-themes}
 
 >[!AVAILABILITY]
 >
->Cette fonctionnalité est actuellement en version Beta et disponible uniquement pour les clientes et clients Beta. Pour rejoindre le programme Beta, contactez votre représentant ou représentante Adobe.
+>Cette fonctionnalité est actuellement en version Beta et disponible uniquement pour les clients participant au programme Beta. Pour rejoindre le programme Beta, contactez votre représentant ou représentante Adobe.
 
 Grâce aux thèmes, les utilisateurs et les utilisatrices non techniques ont la possibilité de créer du contenu réutilisable adapté à une marque et une langue de conception spécifiques en ajoutant un style personnalisé aux modèles standard<!-- to achieve brand specific results-->.
 
@@ -44,7 +59,7 @@ Key Benefits:
 
 ## Mécanismes de sécurisation et limitations {#themes-guardrails}
 
-* Lors de la création d’un e-mail en partant de zéro, vous pouvez choisir de commencer à créer votre contenu à l’aide d’un thème afin d’appliquer rapidement un style spécifique adapté à votre marque et à votre conception.
+* Lors de la création d’un e-mail à partir de zéro, vous pouvez choisir de commencer à créer votre contenu à l’aide d’un thème afin d’appliquer rapidement un style spécifique adapté à votre marque et à votre identité visuelle.
 
   Si vous choisissez le mode _Style manuel_, vous ne pourrez appliquer aucun thème, sauf si vous réinitialisez l’e-mail.
 
@@ -94,11 +109,11 @@ Pour définir un thème que vous pouvez utiliser dans les futurs contenus d’e-
 
      `![](assets/theme-colors-variant.png)`
 
-   * Pour chaque variante, cliquez sur l’icône Modifier pour modifier un élément individuel. Vous pouvez utiliser la palette par défaut que vous avez créée ou n’importe quelle couleur personnalisée.
+   * Pour chaque variante, cliquez sur l’icône Modifier pour modifier chaque élément séparément. Vous pouvez utiliser la palette par défaut que vous avez créée ou n’importe quelle couleur personnalisée.
 
      `![](assets/theme-colors-edit-variant.gif)`
 
-1. Dans les **[!UICONTROL Paramètres de texte]**, vous pouvez définir la police globale que vous souhaitez utiliser pour l’ensemble du thème. Pour un contrôle plus granulaire, vous pouvez également modifier chaque en-tête et type de paragraphe pour ajuster la police, la taille, le style, etc.
+1. Dans les **[!UICONTROL Paramètres de texte]**, vous pouvez définir la police globale que vous souhaitez utiliser pour l’ensemble du thème. Pour un contrôle plus précis, vous pouvez également modifier chaque type d’en-tête et de paragraphe afin d’ajuster la police, la taille, le style, etc.
 
    `![](assets/theme-text.png)`
 
@@ -150,7 +165,7 @@ Pour appliquer des thèmes de style par défaut ou personnalisés à un e-mail, 
 
    `![](assets/theme-unlock-style.png)`
 
-Vous pouvez baculer entre les thèmes à tout moment. Le contenu de l’e-mail reste inchangé, mais les styles sont mis à jour pour refléter le nouveau thème.
+Vous pouvez basculer entre les thèmes à tout moment. Le contenu de l’e-mail reste inchangé, mais les styles sont mis à jour pour refléter le nouveau thème.
 
 <!--
 >[!NOTE]

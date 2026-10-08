@@ -1,26 +1,31 @@
 ---
 unique-page-id: 12983390
 description: Découvrez comment enregistrer une application auprès d’Azure pour obtenir votre identifiant client et votre identifiant d’application pour la synchronisation Dynamics. Utilisez Azure Active Directory et les enregistrements d’applications pour l’authentification.
-title: Enregistrez une application sur Azure pour obtenir votre identifiant client ou identifiant d’application
+title: Enregistrer une application dans Azure pour obtenir votre ID client/ID d’application
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/d3mD6KvWIa2q6EWknuPJvnn5oLO-P6hd1zaDxDYuVJg
+TQID: 'https://experienceleague.adobe.com/d3mD6KvWIa2q6EWknuPJvnn5oLO-P6hd1zaDxDYuVJg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 355
+source-wordcount: '355'
 ht-degree: 6%
-
 ---
-
 # Enregistrez une application sur Azure pour obtenir votre identifiant client ou identifiant d’application {#register-an-app-with-azure-to-acquire-your-client-id-app-id}
 
 Azure Active Directory étend vos répertoires locaux dans le cloud, fournissant ainsi la prise en charge de [!DNL MS Dynamics 365] CRM avec authentification ADFS on-premise.
 
 ## Enregistrement d’une nouvelle application {#registering-a-new-app}
 
-1. [&#x200B; Connectez-vous &#x200B;](https://login.microsoftonline.com/){target="_blank"} portail de gestion Microsoft Azure à l’aide d’un compte disposant d’autorisations d’administrateur. Vous pouvez également accéder au portail Microsoft Azure via le Centre d’administration Office 365 en développant l’élément **[!UICONTROL Admin]** dans le volet de navigation de gauche et en sélectionnant **[!UICONTROL Azure AD]**.
+1. [ Connectez-vous ](https://login.microsoftonline.com/){target="_blank"} portail de gestion Microsoft Azure à l’aide d’un compte disposant d’autorisations d’administrateur. Vous pouvez également accéder au portail Microsoft Azure via le Centre d’administration Office 365 en développant l’élément **[!UICONTROL Admin]** dans le volet de navigation de gauche et en sélectionnant **[!UICONTROL Azure AD]**.
 
    >[!CAUTION]
    >

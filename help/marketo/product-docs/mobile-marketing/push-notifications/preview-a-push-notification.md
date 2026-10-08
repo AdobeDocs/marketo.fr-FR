@@ -1,20 +1,22 @@
 ---
 unique-page-id: 10092730
 description: Découvrez comment prévisualiser une notification push sur Android et iOS. Affichez les informations affichées sur l’écran d’accueil, l’écran de verrouillage et le Centre de notifications.
-title: Prévisualiser une notification push
+title: Aperçu d’une notification push
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/NhCFj8K9wVU4-fDLt8s3vYsccElm2NcHQ9VV19cD5lU
+TQID: 'https://experienceleague.adobe.com/NhCFj8K9wVU4-fDLt8s3vYsccElm2NcHQ9VV19cD5lU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 266
+source-wordcount: '266'
 ht-degree: 3%
-
 ---
-
-# Prévisualiser une notification push {#preview-a-push-notification}
+# Aperçu d’une notification push {#preview-a-push-notification}
 
 Il est facile de prévisualiser à quoi ressemblera votre notification push, pour Android ou iOS. Il y a quatre façons de le faire.
 

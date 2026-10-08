@@ -4,20 +4,26 @@ description: Découvrez comment créer un objectif personnalisé dans le calendr
 title: Créer un objectif personnalisé
 exl-id: 5e97fb4c-c779-46c7-83ed-de07d27770c7
 feature: Marketing Calendar
-TQID: https://experienceleague.adobe.com/GMwuLe6peoJWPR30vno6Ik3BIxxcVGez-BNg9WRrm60
+TQID: 'https://experienceleague.adobe.com/GMwuLe6peoJWPR30vno6Ik3BIxxcVGez-BNg9WRrm60'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: a572083b-9238-40c5-8a10-cf294c415aab
+    internal-label: marketing calendar
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 123
+source-wordcount: '123'
 ht-degree: 6%
-
 ---
-
 # Créer un objectif personnalisé {#create-a-custom-goal}
 
 Les objectifs sont des moyens de suivre les progrès et de motiver votre équipe. Une fois créées, elles doivent être mises à jour manuellement.

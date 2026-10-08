@@ -1,20 +1,22 @@
 ---
 unique-page-id: 7512463
 description: Découvrez comment supprimer une notification push mobile et la supprimer lorsqu’elle n’est pas utilisée par d’autres ressources.
-title: Supprimer la notification Push pour mobile
+title: Supprimer une notification push mobile
 exl-id: 1f9d523e-b7aa-4880-8249-48cce92751aa
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/xxppdk2knxCEkS--l7LyrgoDPl-i5RUvFMZPDmB8boc
+TQID: 'https://experienceleague.adobe.com/xxppdk2knxCEkS--l7LyrgoDPl-i5RUvFMZPDmB8boc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 78
+source-wordcount: '78'
 ht-degree: 17%
-
 ---
-
-# Supprimer la notification Push pour mobile {#delete-mobile-push-notification}
+# Supprimer une notification push mobile {#delete-mobile-push-notification}
 
 1. Accédez à la zone **[!UICONTROL Activités marketing]**.
 

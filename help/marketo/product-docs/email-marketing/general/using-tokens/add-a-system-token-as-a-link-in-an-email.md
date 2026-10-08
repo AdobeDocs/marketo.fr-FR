@@ -4,16 +4,18 @@ description: Découvrez comment ajouter un jeton système sous la forme d’un l
 title: Ajouter un jeton système en tant que lien dans un e-mail
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
 feature: Tokens
-TQID: https://experienceleague.adobe.com/UjNwoeeRWyGrPUCMV--3StSZcbY-fxSj3a5wrm60oL4
+TQID: 'https://experienceleague.adobe.com/UjNwoeeRWyGrPUCMV--3StSZcbY-fxSj3a5wrm60oL4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a6d52c76-712f-5f64-a879-9c65c1499322
+    internal-label: Tokens
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 224
+source-wordcount: '224'
 ht-degree: 9%
-
 ---
-
 # Ajouter un jeton système en tant que lien dans un e-mail {#add-a-system-token-as-a-link-in-an-email}
 
 Vous pouvez utiliser ces jetons système pour personnaliser la position des liens spéciaux dans vos e-mails.

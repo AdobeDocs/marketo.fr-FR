@@ -3,14 +3,18 @@ description: Liste de contrôle de conception d’instance héritée - Documents
 title: Liste de contrôle de Design Studio d’instance héritée
 feature: Getting Started
 exl-id: 41e89120-4ac0-4e70-bed0-da4e5c5542ff
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '656'
 ht-degree: 5%
-
 ---
-
-# Instance héritée : liste de contrôle du studio de conception {#inherited-instance-design-studio-checklist}
+# Instance héritée : liste de contrôle de Design Studio {#inherited-instance-design-studio-checklist}
 
 La structuration des modèles et la création de formulaires globaux, de fragments de code et d’images et de fichiers permettent de minimiser les erreurs de données et de rationaliser le workflow de la création de votre programme. N’oubliez pas de [télécharger les listes de contrôle](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) et de suivre vos progrès.
 
@@ -25,7 +29,7 @@ La structuration des modèles et la création de formulaires globaux, de fragmen
   <tr>
    <td>Pages de destination internationales</td>
    <td><li>Combien de <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">landing pages</a> globales avez-vous ? Sont-ils utilisés par les programmes?</li>
-   <li>Avez-vous un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html?lang=fr" target="_blank">centre d’abonnement</a> configuré ?
+   <li>Avez-vous un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">centre d’abonnement</a> configuré ?
    <br/> Dans le cas contraire, envisagez d’en créer un.</li></td>
   </tr>
   <tr>

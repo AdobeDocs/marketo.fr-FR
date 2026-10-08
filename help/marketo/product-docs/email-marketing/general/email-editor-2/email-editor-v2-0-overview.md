@@ -4,25 +4,30 @@ description: Découvrez Email Editor v2.0 et ses fonctionnalités. Créez et mod
 title: Vue d’ensemble de l’éditeur d’e-mail v2.0
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/FKo7NwPSrEVbNBlfo1Jpd88yXyIH-NVfdpYiVmrRSLM
+TQID: 'https://experienceleague.adobe.com/FKo7NwPSrEVbNBlfo1Jpd88yXyIH-NVfdpYiVmrRSLM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: 5935e1cef334c7c5fd40864dd2a677b4cb9d46d4
+    internal-label: Design Studio
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 479
+source-wordcount: '479'
 ht-degree: 72%
-
 ---
-
 # Vue d’ensemble de l’éditeur d’e-mail v2.0 {#email-editor-v2-overview}
 
 Vue d’ensemble de l’éditeur d’e-mail classique.
 
 >[!IMPORTANT]
 >
->Bien qu’il n’y ait pas de date exacte, l’éditeur d’e-mail classique finira par être obsolète (nous annoncerons une date exacte lorsque nous en aurons une). Il est vivement recommandé de commencer à adopter le Designer d’e-mail[&#128279;](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"} avancé, car il dispose de nombreuses fonctionnalités qui ne sont pas disponibles dans l’éditeur classique.
+>Bien qu’il n’y ait pas de date exacte, l’éditeur d’e-mail classique finira par être obsolète (nous annoncerons une date exacte lorsque nous en aurons une). Il est vivement recommandé de commencer à adopter le Designer d’e-mail](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"} avancé, car il dispose de nombreuses fonctionnalités qui ne sont pas disponibles dans l’éditeur classique.[
 
 ## Sélecteur de modèle d’e-mail {#email-template-picker}
 
@@ -50,7 +55,7 @@ L’option permettant de basculer entre les versions HTML et Texte de votre e-ma
 
 ### En-tête de l’e-mail {#email-header}
 
-Vous souhaitez plus d’espace de conception ? L’en-tête de l’e-mail peut être masqué une fois que vous avez terminé [&#x200B; le modifier](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Il vous suffit de cliquer sur cette icône…
+Vous souhaitez plus d’espace de conception ? L’en-tête de l’e-mail peut être masqué une fois que vous avez terminé [ le modifier](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Il vous suffit de cliquer sur cette icône…
 
 ![](assets/email-editor-v2-overview-5.png)
 
@@ -72,7 +77,7 @@ Pour un aperçu plus grand, cliquez sur **[!UICONTROL Aperçu]** dans le coin su
 
 ![](assets/email-editor-v2-overview-9.png)
 
-La vue par défaut est « Ordinateur »…
+La vue affichée par défaut est la vue Bureau…
 
 ![](assets/email-editor-v2-overview-10.png)
 

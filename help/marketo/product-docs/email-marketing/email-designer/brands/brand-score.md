@@ -7,13 +7,28 @@ feature: Email Designer
 role: User
 level: Beginner, Intermediate
 exl-id: 719686f7-16f5-423f-a4b1-f0a35005d222
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '570'
-ht-degree: 10%
-
+ht-degree: 35%
 ---
-
 # Score de la marque {#brand-score}
 
 La révision de votre score de marque garantit la cohérence du ton, des messages et de l’identité visuelle de vos campagnes par e-mail et sert de contrôle qualité avant la mise en ligne de votre contenu.
@@ -32,11 +47,11 @@ Une fois votre marque [configurée et publiée](/help/marketo/product-docs/email
 
    ![](assets/brand-score-1.png){width="800" zoomable="yes"}
 
-1. Pour évaluer l’utilisation d’une autre marque, sélectionnez-la dans le menu déroulant **[!UICONTROL Marque]** et cliquez sur **[!UICONTROL Évaluer le score]**.
+1. Pour effectuer une évaluation avec une autre marque, sélectionnez-la dans le menu déroulant **[!UICONTROL Marque]** et cliquez sur **[!UICONTROL Évaluer le score]**.
 
    ![](assets/brand-score-2.png){width="800" zoomable="yes"}
 
-1. Parcourez le **[!UICONTROL Style d’écriture]** ou **[!UICONTROL Contenu visuel]** pour obtenir plus d’informations sur votre score.
+1. Parcourez le **[!UICONTROL Style d’écriture]** ou le **[!UICONTROL Contenu visuel]** pour obtenir plus d’informations sur votre score.
 
    ![](assets/brand-score-3.png){width="800" zoomable="yes"}
 
@@ -44,18 +59,18 @@ Une fois votre marque [configurée et publiée](/help/marketo/product-docs/email
 
    ![](assets/brand-score-5.png){width="800" zoomable="yes"}
 
-1. Sélectionnez une directive marquée pour afficher les commentaires et suggestions spécifiques. L’alignement des marques évalue les catégories suivantes :
+1. Sélectionnez une consigne signalée pour afficher des commentaires et suggestions spécifiques. L’alignement sur la marque évalue les catégories suivantes :
 
-   * **[!UICONTROL Style d&#39;écriture]** :
-      * **[!UICONTROL Style de communication de la marque]** : définit la personnalité et le ton émotionnel pour garantir une voix de marque cohérente sur tous les canaux.
-      * **[!UICONTROL Normes de message de marque]** : règles structurelles et de mise en forme pour un texte marketing et promotionnel efficace.
-      * **[!UICONTROL Normes de conformité juridique]** : vérifie que toutes les communications sont conformes aux exigences légales, y compris les listes de contrôle de conformité et l’emplacement des textes.
+   * **[!UICONTROL Style d’écriture]** :
+     * **[!UICONTROL Style de communication de la marque]** : définit la personnalité et le ton émotionnel pour garantir une voix de marque cohérente sur tous les canaux.
+     * **[!UICONTROL Normes pour les messages de la marque]** : règles structurelles et de mise en forme pour un texte marketing et promotionnel efficace.
+     * **[!UICONTROL Normes de conformité juridique]** : vérifie que toutes les communications sont conformes aux exigences légales, y compris les listes de contrôle de conformité et l’emplacement des textes.
 
-   * **[!UICONTROL Contenu visuel]** :
-      * **[!UICONTROL Normes relatives à la photographie]** : exigences relatives au contenu photographique, notamment la résolution, la composition, l’éclairage et les formats de fichiers.
-      * **[!UICONTROL Normes relatives aux illustrations]** : paramètres de style, épaisseur des lignes, utilisation des couleurs et exigences en matière de format de fichier pour les illustrations.
-      * **[!UICONTROL Normes relatives aux icônes]** : spécifications de conception des icônes, y compris les systèmes de grille, les épaisseurs de trait et le dimensionnement pour l’uniformité.
-      * **[!UICONTROL Instructions d’utilisation]** : bonnes pratiques relatives à la sélection, à l’emplacement et au contexte des images pour conserver l’identité de la marque.
+   * **[!UICONTROL Contenu visuel]** :
+     * **[!UICONTROL Normes relatives aux photos]** : exigences relatives au contenu photographique, notamment la résolution, la composition, l’éclairage et les formats de fichiers.
+     * **[!UICONTROL Normes relatives aux illustrations]** : paramètres de style, épaisseur des lignes, utilisation des couleurs et exigences en matière de format de fichier pour les illustrations.
+     * **[!UICONTROL Normes relatives aux icônes]** : spécifications de conception des icônes, y compris les systèmes de grille, les épaisseurs de trait et la taille pour garantir l’uniformité.
+     * **[!UICONTROL Instructions d’utilisation]** : bonnes pratiques relatives à la sélection, au placement et au contexte des images pour conserver l’identité de la marque.
 
    ![](assets/brand-score-4.png){width="800" zoomable="yes"}
 

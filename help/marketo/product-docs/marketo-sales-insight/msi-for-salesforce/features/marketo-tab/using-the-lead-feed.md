@@ -1,24 +1,27 @@
 ---
 unique-page-id: 7512979
 description: Découvrez comment utiliser le flux de leads dans l’onglet Marketo de Salesforce. Voir l’activité des prospects en temps réel et l’engagement dans le flux.
-title: Utilisation du flux de leads
+title: Utilisation du flux de lead
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/J0UVkCJE1b00Z0rj5Uuh-72NcReV0voMyH7-5-T-tcI
+TQID: 'https://experienceleague.adobe.com/J0UVkCJE1b00Z0rj5Uuh-72NcReV0voMyH7-5-T-tcI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 351
+source-wordcount: '351'
 ht-degree: 4%
-
 ---
-
-# Utilisation du flux de leads {#using-the-lead-feed}
+# Utilisation du flux de lead {#using-the-lead-feed}
 
 Le flux de leads est une liste à la minute près d’événements intéressants réalisés par vos leads. Vous le trouverez sur le côté droit lorsque vous cliquerez sur l&#39;onglet Marketo . Comme un flux RSS ou [!DNL Twitter], les mises à jour les plus récentes sont en haut de la liste. Utilisez ceci pour sauter sur les pistes pendant que vous êtes encore frais dans leur esprit.
 
@@ -56,7 +59,7 @@ Lors de son affichage dans [!DNL Salesforce], chaque élément comporte :
   </tr>
   <tr>
    <td><p>C. Nom du compte</p></td>
-   <td><p>Nom de l’entreprise</p></td>
+   <td><p>Nom de la société</p></td>
   </tr>
   <tr>
    <td><p>D. Heure</p></td>

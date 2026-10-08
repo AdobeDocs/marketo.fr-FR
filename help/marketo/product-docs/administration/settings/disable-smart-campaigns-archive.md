@@ -3,13 +3,17 @@ description: Découvrez comment activer la fonctionnalité Désactiver les campa
 title: Désactiver les campagnes intelligentes sur l’archive
 feature: Administration
 hide: true
-source-git-commit: 526d10bb96e059d251a76ca720ff81ab42ee9516
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '349'
 ht-degree: 0%
-
 ---
-
 # Désactiver les campagnes intelligentes sur l’archive {#disable-smart-campaigns-on-archive}
 
 Lorsque cette fonctionnalité est activée, l’archivage d’un dossier ou d’un programme désactive automatiquement ses campagnes afin d’éviter toute activité inattendue.

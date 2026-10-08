@@ -4,18 +4,20 @@ description: Découvrez la page Sales Connect Analytics et les données d’enga
 title: Vue d’ensemble de la page des analyses
 exl-id: 4d67dff8-d602-4a90-bf74-f4149017ad51
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/4OI9sdjmBSDprhWlcIuv1xyv5icTu1hOwOMMTebs8gY
+TQID: 'https://experienceleague.adobe.com/4OI9sdjmBSDprhWlcIuv1xyv5icTu1hOwOMMTebs8gY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 397
+source-wordcount: '397'
 ht-degree: 0%
-
 ---
-
 # Aperçu de la page [!UICONTROL Analytics] {#analytics-page-overview}
 
 L’onglet [!UICONTROL Analytics] vous permet d’afficher les données relatives à l’engagement de vos e-mails. Les données individuelles et d’équipe s’affichent. Les administrateurs peuvent également filtrer par utilisateur dans l’onglet [!UICONTROL Moi].

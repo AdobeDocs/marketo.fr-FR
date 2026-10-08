@@ -3,16 +3,18 @@ description: Découvrez le tracking e-mail des e-mails de vente. Découvrez comm
 title: Vue d’ensemble du suivi des e-mails
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/y1dxCUs89NkZe9B7UHrWUUchy8BXlCtvg6OxRmqaKD8
+TQID: 'https://experienceleague.adobe.com/y1dxCUs89NkZe9B7UHrWUUchy8BXlCtvg6OxRmqaKD8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 500
+source-wordcount: '500'
 ht-degree: 5%
-
 ---
-
 # Vue d’ensemble du suivi des e-mails {#email-tracking-overview}
 
 ## Fonctionnement du suivi des réponses {#how-reply-tracking-works}
@@ -60,7 +62,7 @@ Quelques conseils pour obtenir de meilleures statistiques de tracking sur vos em
 * Insérez une image dans vos e-mails (comme un logo) afin que le destinataire soit encouragé à activer les images pour voir votre message.
 * Incluez un lien en tant que call to action dans l’e-mail.
 
-## L’e-mail de test ne s’est pas affiché comme sur la prévisualisation. {#test-email-not-showed-as-viewed}
+## L’e-mail de test n’est pas affiché comme consulté {#test-email-not-showed-as-viewed}
 
 Même si vous avez envoyé votre message à une autre adresse e-mail, nous ne vous enregistrerons pas en consultant les e-mails que vous vous êtes envoyés dans le flux en direct. Notre suivi est basé sur les appareils ; tant que vous utilisez un ordinateur avec lequel vous vous êtes connecté, nous [!DNL Sales Connect] cette activité.
 

@@ -1,16 +1,22 @@
 ---
 unique-page-id: 2951877
 description: Découvrez la zone d’analyse des opportunités du programme dans Marketo Engage, notamment le . Utilisez ce guide pour passer à l’étape suivante.
-title: Présentation de la zone d’analyse de l’opportunité du programme
+title: Comprendre la zone d’analyse des opportunités de programme
 exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: e9ef2843fb7e700f1d9d1fd1f04a27fe2f6e516e
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '923'
 ht-degree: 21%
-
 ---
-
 # Présentation de la zone d’analyse de l’opportunité du programme {#understanding-the-program-opportunity-analysis-area}
 
 ## Vue d’ensemble {#overview}
@@ -79,23 +85,23 @@ Comme pour l’acquisition, la valeur de la contribution aux ventes réalisées 
   </tr>
   <tr>
    <td>Pipeline créé</td>
-   <td>La part de crédit (en valeur monétaire) reçu par le programme pour avoir influencé la création de l’opportunité. Il peut s’agir d’une fraction si plusieurs leads étaient impliqués.</td>
+   <td>La part de crédit (en valeur monétaire) attribuée au programme pour avoir influencé la création de l’opportunité. Il peut s’agir d’une fraction si plusieurs leads étaient impliqués.</td>
   </tr>
   <tr>
    <td>Pipeline créé - toujours ouvert</td>
-   <td>La part de crédit (en valeur monétaire) reçu par le programme pour avoir influencé la création de l’opportunité ouverte actuellement. Il peut s’agir d’une fraction si plusieurs leads étaient impliqués.</td>
+   <td>La part de crédit (en valeur monétaire) attribuée au programme pour avoir influencé la création de l’opportunité actuellement ouverte. Il peut s’agir d’une fraction si plusieurs leads étaient impliqués.</td>
   </tr>
   <tr>
    <td>Chiffre d’affaires attendu</td>
-   <td>La part de crédit (en valeur monétaire) reçu par le programme pour avoir influencé la création de l’opportunité. Le chiffre d’affaires attendu correspond à la probabilité d’opportunité multipliée par la valeur de l’opportunité. Il peut s’agir d’une fraction si plusieurs leads étaient impliqués.</td>
+   <td>La part de crédit (en valeur monétaire) attribuée au programme pour avoir influencé la création de l’opportunité. Le chiffre d’affaires attendu correspond à la probabilité d’opportunité multipliée par la valeur de l’opportunité. Il peut s’agir d’une fraction si plusieurs leads étaient impliqués.</td>
   </tr>
   <tr>
    <td>Recettes Vers Investissement</td>
-   <td>Il s’agit du rapport entre la part de crédit (en valeur monétaire) reçu par le programme pour avoir influencé les opportunités confirmées et le coût du programme.</td>
+   <td>Il s’agit du ratio entre la part de crédit (en valeur monétaire) attribuée au programme pour avoir influencé des opportunités gagnées et le coût de ce programme.</td>
   </tr>
   <tr>
    <td>Chiffre d’affaires confirmé</td>
-   <td>La part de crédit (en valeur monétaire) reçu par le programme pour avoir influencé l’opportunité confirmée. Il peut s’agir d’une fraction si plusieurs leads étaient impliqués.</td>
+   <td>La part de crédit (en valeur monétaire) attribuée au programme pour avoir influencé l’opportunité gagnée. Il peut s’agir d’une fraction si plusieurs leads étaient impliqués.</td>
   </tr>
  </tbody>
 </table>

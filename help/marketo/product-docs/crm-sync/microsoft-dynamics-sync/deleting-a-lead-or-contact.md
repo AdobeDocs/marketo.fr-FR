@@ -4,16 +4,21 @@ description: Découvrez comment fonctionne la suppression des prospects et des c
 title: Suppression d’un lead ou d’un contact
 exl-id: d561b424-6a2b-4abe-b9bd-81eb23f1a25b
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/4BwBuLQFJ2pRehuS8EqW-UrEcg5sVeqcstu3azh0NvQ
+TQID: 'https://experienceleague.adobe.com/4BwBuLQFJ2pRehuS8EqW-UrEcg5sVeqcstu3azh0NvQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 167
+source-wordcount: '167'
 ht-degree: 5%
-
 ---
-
 # Suppression d’un lead ou d’un contact {#deleting-a-lead-or-contact}
 
 Il y a quelques choses à savoir lorsqu’il s’agit de supprimer des prospects/contacts dans [!DNL Microsoft Dynamics].

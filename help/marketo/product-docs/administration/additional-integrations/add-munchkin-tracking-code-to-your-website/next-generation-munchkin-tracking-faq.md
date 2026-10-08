@@ -1,30 +1,38 @@
 ---
 unique-page-id: 10096583
-description: Questions fréquentes sur le déploiement du suivi  [!DNL Munchkin]  nouvelle génération et le changement de filtre Est anonyme.
-title: FAQ sur le tracking  [!DNL Munchkin]  nouvelle génération
+description: Questions fréquentes sur le déploiement du suivi des [!DNL Munchkin] de nouvelle génération et le changement de filtre Est anonyme.
+title: Questions fréquentes sur le suivi des [!DNL Munchkin] de nouvelle génération
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 hide: true
-TQID: https://experienceleague.adobe.com/2kPRUe33THDYoIiP-yUDByqcJz5GPHoBnfDzRgwApNk
+TQID: 'https://experienceleague.adobe.com/2kPRUe33THDYoIiP-yUDByqcJz5GPHoBnfDzRgwApNk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 1c1a93b2-f024-5627-9905-6faf6fcc22be
+    internal-label: Munchkin Tracking Code
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 705
+source-wordcount: '710'
 ht-degree: 0%
-
 ---
-
 # Questions fréquentes sur le suivi des [!DNL Munchkin] de nouvelle génération {#next-generation-munchkin-tracking-faq}
 
 Marketo déploie la technologie de tracking web de nouvelle génération par phases.
@@ -57,7 +65,9 @@ Si vous utilisez déjà ce filtre dans une liste dynamique (par exemple, dans un
 
 >[!NOTE]
 >
->**Déclencheur** : page Web Visites, page Web est page de tarification >**Flux** : Modifier le score de +10 et le moment intéressant >**Web** : Page Tarification affichée
+>**Déclencheur** : page Web Visites, page Web est page de tarification
+>**Flux** : Modifier le score de +10 et le moment intéressant
+>**Web** : Page Tarification affichée
 >
 >Avec [!DNL Munchkin] V2, si une personne anonyme visite la page de tarification, elle ne participe pas immédiatement à la campagne. Au moment où la personne anonyme est connue, Marketo exécute cette campagne sur elle. Ils :
 >
@@ -102,4 +112,4 @@ Consultez ces liens :
 
 ## J&#39;ai d&#39;autres questions ! Comment puis-je obtenir des réponses ? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Visitez la [Communauté &#x200B;](https://experienceleaguecommunities.adobe.com/?profile.language=fr){target="_blank"}. Vous pouvez également contacter le support technique de Marketo. Ils se feront un plaisir de répondre à vos questions.
+Visitez la [Communauté ](https://experienceleaguecommunities.adobe.com/?profile.language=fr){target="_blank"}. Vous pouvez également contacter le support technique de Marketo. Ils se feront un plaisir de répondre à vos questions.

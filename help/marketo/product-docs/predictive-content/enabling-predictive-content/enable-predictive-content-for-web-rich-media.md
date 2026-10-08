@@ -4,19 +4,22 @@ description: Découvrez comment activer le contenu prédictif pour les modèles 
 title: Activer le contenu prédictif pour les médias riches web
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/wMtEDTeYvsyktbCKcgyvlt8PauPw7Z5uKdDHQkkV7jE
+TQID: 'https://experienceleague.adobe.com/wMtEDTeYvsyktbCKcgyvlt8PauPw7Z5uKdDHQkkV7jE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 topic_v2:
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Machine learning
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 338
-ht-degree: 4%
-
+source-wordcount: '346'
+ht-degree: 6%
 ---
-
-# Activer le contenu prédictif pour les médias riches web {#enable-predictive-content-for-web-rich-media}
+# Activer le contenu prédictif pour le Rich Media web {#enable-predictive-content-for-web-rich-media}
 
 Le contenu prédictif fait participer vos visiteurs et visiteuses web au contenu le plus pertinent, optimisé par le machine learning et l’analyse prédictive. Grâce aux médias riches pour le web, vous pouvez améliorer votre contenu avec des descriptions textuelles et des images, et incorporer plusieurs recommandations de contenu prédictif sur votre site web.
 
@@ -52,7 +55,7 @@ Une fois que vous avez préparé le titre, la description et l’image du conten
 
 ## Personnaliser le code JavaScript et l’incorporer dans votre site web  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Reportez-vous à la documentation du modèle de recommandation Rich Media [sur le site des développeurs de Marketo](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Cela explique comment personnaliser le modèle pour votre site web.
+Reportez-vous à la documentation du modèle de recommandation Rich Media [sur le site des développeurs de Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Cela explique comment personnaliser le modèle pour votre site web.
 
 Collez le code JavaScript dans votre site web à l’emplacement où vous souhaitez que le modèle apparaisse.
 

@@ -1,18 +1,23 @@
 ---
 description: Découvrez comment ajouter des champs Marketo à Veeva CRM avant de vous connecter. Créez le champ Score et les champs marketing facultatifs sur les objets de contact dans Veeva.
-title: Étape 1 sur 3 - Ajout de champs Marketo à  [!DNL Veeva]  CRM
+title: Étape 1 sur 3 - Ajouter des champs Marketo à [!DNL Veeva] CRM
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-TQID: https://experienceleague.adobe.com/ZRKsO6ysIvvGNApNPAMd17fWAbr9M-meujmMRL51xPU
+TQID: 'https://experienceleague.adobe.com/ZRKsO6ysIvvGNApNPAMd17fWAbr9M-meujmMRL51xPU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: f141b8e0-5812-4581-b47d-7322a93e7f28
+    internal-label: Veeva CRM
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 526
+source-wordcount: '527'
 ht-degree: 8%
-
 ---
-
 # Étape 1 sur 3 : ajouter des champs Marketo à [!DNL Veeva] CRM {#step-1-of-3-add-marketo-fields-to-veeva-crm}
 
 >[!PREREQUISITES]
@@ -152,7 +157,7 @@ FACULTATIF : utilisez la procédure ci-dessus pour tout champ personnalisé supp
    <td>Longueur 255</td>
   </tr>
   <tr>
-   <td>Indicatif téléphonique local déduit</td>
+   <td>Indicatif régional de téléphone déduit​</td>
    <td>mkto71_Inferred_Phone_Area_Code</td>
    <td>Texte</td>
    <td>Longueur 255</td>

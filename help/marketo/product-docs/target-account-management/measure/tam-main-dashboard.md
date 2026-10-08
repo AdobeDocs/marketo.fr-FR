@@ -4,18 +4,24 @@ description: Découvrez le tableau de bord principal de la gestion des balises e
 title: Tableau de bord principal de TAM
 exl-id: f550dd99-f5b1-4d75-9e11-d9791043baea
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/PZ1Pc-6nLi2gS6RzUOe3QY7EFoFLd2LoIXa9wa8OGy4
+TQID: 'https://experienceleague.adobe.com/PZ1Pc-6nLi2gS6RzUOe3QY7EFoFLd2LoIXa9wa8OGy4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 137
+source-wordcount: '137'
 ht-degree: 4%
-
 ---
-
 # Tableau de bord principal de TAM {#tam-main-dashboard}
 
 Le tableau de bord principal présente un résumé de vos efforts [!UICONTROL Gestion de compte Target]. Vous pouvez voir les comptes cibles ou les listes de comptes qui affichent le succès, ainsi que ceux qui nécessitent plus d’attention.

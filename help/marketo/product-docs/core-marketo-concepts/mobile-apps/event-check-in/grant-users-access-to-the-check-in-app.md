@@ -1,22 +1,24 @@
 ---
 unique-page-id: 7516639
 description: Découvrez comment accorder aux utilisateurs l’accès à l’application d’enregistrement des événements. Attribuez le rôle Enregistrement de l’événement mobile pour qu’il puisse archiver les participants.
-title: Accorder à des utilisateurs et utilisatrices l’accès à l’application d’enregistrement
+title: Octroyer aux utilisateurs et utilisatrices l’accès à l’application d’enregistrement
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/GKLCTK-Wc-rwTfbcNIEzferpYBJDvpKjelUm5-89WIU
+TQID: 'https://experienceleague.adobe.com/GKLCTK-Wc-rwTfbcNIEzferpYBJDvpKjelUm5-89WIU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 308
+source-wordcount: '308'
 ht-degree: 5%
-
 ---
-
-# Accorder à des utilisateurs et utilisatrices l’accès à l’application d’enregistrement {#grant-users-access-to-the-check-in-app}
+# Octroyer aux utilisateurs et utilisatrices l’accès à l’application d’enregistrement {#grant-users-access-to-the-check-in-app}
 
 Marketo Engage dispose d’un rôle d’utilisateur spécial pour l’application d’enregistrement d’événement. Suivez les étapes ci-dessous pour créer un rôle avec l’autorisation d’utiliser l’application.
 

@@ -3,18 +3,20 @@ description: Découvrez les modèles recommandés et les bonnes pratiques. Crée
 title: Modèles recommandés
 exl-id: 079068c3-65e5-45c7-aa8e-63fadd1c5d02
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/Ir692n-hd8iW-xMIQZRnyyqutltbL3IFhiTDlrCOfzY
+TQID: 'https://experienceleague.adobe.com/Ir692n-hd8iW-xMIQZRnyyqutltbL3IFhiTDlrCOfzY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 308
+source-wordcount: '308'
 ht-degree: 1%
-
 ---
-
 # Modèles recommandés {#recommended-templates}
 
 Les modèles recommandés par [!DNL Sales Insight Action] vous aident à obtenir les bons messages tout en vous faisant gagner du temps. Vous bénéficiez ainsi d’un plus grand flux lors de l’envoi d’e-mails et réduisez l’incertitude lors de la recherche de l’e-mail approprié pour la bonne personne.
@@ -27,7 +29,7 @@ Les modèles recommandés par [!DNL Sales Insight Action] vous aident à obtenir
 
    ![](assets/recommended-templates-2.png)
 
-1. Dans la vignette [!UICONTROL &#x200B; Modèle recommandé &#x200B;], cliquez sur **[!UICONTROL Modifier]**.
+1. Dans la vignette [!UICONTROL  Modèle recommandé ], cliquez sur **[!UICONTROL Modifier]**.
 
    ![](assets/recommended-templates-3.png)
 

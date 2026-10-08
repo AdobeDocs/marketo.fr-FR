@@ -1,13 +1,14 @@
 ---
 description: Obtenez de l’aide lorsque les e-mails de vente sont marqués comme spam. Découvrez les causes et les étapes pour améliorer la délivrabilité et éviter les filtres de spam.
 title: E-mails signalés comme spam
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 3%
-
 ---
-
 # E-mails signalés comme spam {#email-marked-as-spam}
 
 En tant qu&#39;entreprise, nous travaillons dur pour nous assurer que nos taux de délivrabilité restent élevés. Néanmoins, certains comportements et paramètres utilisateur peuvent déclencher l’acheminement des e-mails envoyés vers le dossier des courriers indésirables.

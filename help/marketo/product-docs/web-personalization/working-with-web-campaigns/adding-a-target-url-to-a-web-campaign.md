@@ -4,20 +4,23 @@ description: Découvrez comment ajouter une URL cible à une campagne web dans M
 title: Ajout d’une URL cible à une campagne web
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/IrYPeEwQnyczC1KUGtKvKfmQ-gKTOqCIEVtZr9usCgk
+TQID: 'https://experienceleague.adobe.com/IrYPeEwQnyczC1KUGtKvKfmQ-gKTOqCIEVtZr9usCgk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 282
+source-wordcount: '282'
 ht-degree: 6%
-
 ---
-
 # Ajout d’une URL cible à une campagne web {#adding-a-target-url-to-a-web-campaign}
 
 L’URL de Target se trouve sous la page Définir la campagne et définit l’URL ou les URL spécifiques sur lesquelles une campagne web apparaîtra.
@@ -64,7 +67,7 @@ Cliquez sur l’icône plus (![-](assets/image2015-2-18-8-3a40-3a59.png)) pour o
 >[!NOTE]
 >
 >* Les campagnes web de boîte de dialogue et de widget peuvent utiliser les options N’importe quelle page et Caractère générique (&#42;).
->* Dans les cas d’utilisation avancés, les campagnes web Dans la zone peuvent utiliser des caractères génériques à la fin du chemin de l’URL. Exemple : [&#128279;](https://www.marketo.com/software/web-personalization/)
+>* Dans les cas d’utilisation avancés, les campagnes web Dans la zone peuvent utiliser des caractères génériques à la fin du chemin de l’URL. Exemple : [](https://www.marketo.com/software/web-personalization/)
 >* L’URL respecte la casse.
 
 ## Ajout d’une URL Target pour les campagnes web de zone {#adding-a-target-url-for-in-zone-web-campaigns}
@@ -81,7 +84,7 @@ Cliquez sur l’icône plus (![-](assets/image2015-2-18-8-3a40-3a59.png)) pour o
 
    >[!NOTE]
    >
-   >L’URL cible avec des zones d’entrée doit définir une ou plusieurs URL spécifiques. Dans les cas d’utilisation avancés, les campagnes web Dans la zone peuvent utiliser des caractères génériques à la fin du chemin de l’URL. Exemple : [&#128279;](https://www.marketo.com/software/web-personalization/)
+   >L’URL cible avec des zones d’entrée doit définir une ou plusieurs URL spécifiques. Dans les cas d’utilisation avancés, les campagnes web Dans la zone peuvent utiliser des caractères génériques à la fin du chemin de l’URL. Exemple : [](https://www.marketo.com/software/web-personalization/)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 

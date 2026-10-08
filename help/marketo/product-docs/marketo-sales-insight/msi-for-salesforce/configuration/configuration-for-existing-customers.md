@@ -1,24 +1,27 @@
 ---
 unique-page-id: 42762519
 description: Découvrez comment configurer Marketo Sales Insight pour les clients Salesforce existants. Mettez à jour à partir de packages plus anciens ou ajoutez des actions.
-title: Configuration pour les clientes et clients existants
+title: Configuration pour la clientèle existante
 exl-id: e365f6b5-a3ec-492e-9348-2d3226e6c7eb
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/kdiRnqpm3kJXIPz2QLQS-AF3f04UIPuOS6c836EXlxo
+TQID: 'https://experienceleague.adobe.com/kdiRnqpm3kJXIPz2QLQS-AF3f04UIPuOS6c836EXlxo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 180
+source-wordcount: '180'
 ht-degree: 8%
-
 ---
-
-# Configuration pour les clientes et clients existants {#configuration-for-existing-customers}
+# Configuration pour la clientèle existante {#configuration-for-existing-customers}
 
 Veuillez configurer la configuration suivante pour commencer à utiliser le nouveau tableau de bord d’Insights.
 
@@ -58,7 +61,7 @@ Veuillez configurer la configuration suivante pour commencer à utiliser le nouv
 
    ![](assets/configuration-for-existing-customers-6.png)
 
-1. Saisissez le [!UICONTROL &#x200B; Nom du site distant &#x200B;] (par exemple, « MarketoRestAPI ») et l’[!UICONTROL URL du site distant &#x200B;] (votre URL d’API à partir du panneau Configuration de l’API REST dans Marketo).
+1. Saisissez le [!UICONTROL  Nom du site distant ] (par exemple, « MarketoRestAPI ») et l’[!UICONTROL URL du site distant ] (votre URL d’API à partir du panneau Configuration de l’API REST dans Marketo).
 
    ![](assets/configuration-for-existing-customers-7.png)
 
@@ -68,10 +71,10 @@ Veuillez configurer la configuration suivante pour commencer à utiliser le nouv
 
    Vous avez maintenant créé un paramètre de site distant pour l’API REST.
 
-## Accès Sales Insight de Marketo {#access-marketo-sales-insight}
+## Accéder à Marketo Sales Insight (MSI) {#access-marketo-sales-insight}
 
 1. Copiez les informations d’identification depuis le panneau API Rest de [!DNL Marketo’s Sales Insight] page Admin . Collez-les dans la section API Rest de la page Configuration [!DNL Sales Insight] de Salesforce.
 
-1. Saisissez la [!UICONTROL &#x200B; Clé secrète API &#x200B;].
+1. Saisissez la [!UICONTROL  Clé secrète API ].
 
    ![](assets/configuration-for-existing-customers-9.png)

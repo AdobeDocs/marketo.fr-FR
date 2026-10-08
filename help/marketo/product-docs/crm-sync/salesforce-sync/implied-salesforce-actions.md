@@ -4,16 +4,21 @@ description: Identifiez les étapes de flux Salesforce qui déclenchent une sync
 title: Actions Salesforce implicites
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/lI3sRqk1if-UZ7DARSrGXXM485ZjZnlqDGb4si2wvi0
+TQID: 'https://experienceleague.adobe.com/lI3sRqk1if-UZ7DARSrGXXM485ZjZnlqDGb4si2wvi0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 163
+source-wordcount: '163'
 ht-degree: 22%
-
 ---
-
 # Actions Salesforce implicites {#implied-salesforce-actions}
 
 Lorsqu’une étape de flux spécifique à [!DNL Salesforce] s’exécute, des étapes supplémentaires sont parfois exécutées automatiquement. Voici les règles, donc vous savez :
@@ -51,6 +56,6 @@ Ces règles s&#39;appliquent lorsque la personne n&#39;est pas actuellement dans
  </tbody>
 </table>
 
-Vous pouvez filtrer les enregistrements SFDC dans une liste dynamique à l’aide du filtre **[!UICONTROL Type de SFDC]** avec l’opérateur défini sur « [!UICONTROL &#x200B; n’est pas vide »]. Tous les enregistrements SFDC ont une valeur dans ce champ.
+Vous pouvez filtrer les enregistrements SFDC dans une liste dynamique à l’aide du filtre **[!UICONTROL Type de SFDC]** avec l’opérateur défini sur « [!UICONTROL  n’est pas vide »]. Tous les enregistrements SFDC ont une valeur dans ce champ.
 
 N&#39;oubliez pas que ces actions automatiques ne se produisent que si le prospect n&#39;est pas actuellement dans [Salesforce.com](https://salesforce.com){target="_blank"}

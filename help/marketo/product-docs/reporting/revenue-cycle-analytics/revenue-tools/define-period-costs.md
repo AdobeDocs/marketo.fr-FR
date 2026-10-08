@@ -4,13 +4,19 @@ description: Découvrez comment définir des coûts de période dans Marketo Eng
 title: Définir les coûts de la période
 exl-id: e6cbefca-c7a4-4600-b276-7a5d247609ed
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 2%
-
 ---
-
 # Définir les coûts de la période {#define-period-costs}
 
 >[!NOTE]
@@ -45,7 +51,7 @@ Suivez et associez les coûts de formation et d’acquisition de leads pour un p
 
    >[!NOTE]
    >
-   >La devise (ex. : USD, EUR, etc.) est un paramètre global géré par un administrateur Marketo
+   >Devise (par exemple, USD, EUR, etc.) est un paramètre global géré par un administrateur Marketo
 
 1. Saisissez un **[!UICONTROL Note]** descriptif (facultatif) et cliquez sur **[!UICONTROL Enregistrer]**.
 

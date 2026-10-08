@@ -4,19 +4,27 @@ description: Découvrez comment ajouter un test A/B à un programme de messageri
 title: Ajouter un test A/B
 exl-id: 18397dde-496c-4809-a224-3c025c8ccc84
 feature: Email Programs, A/B Testing
-TQID: https://experienceleague.adobe.com/IiqLm2sQGgyiamqxm-QC-6gKOYIOmyMzlGvCU89-LHo
+TQID: 'https://experienceleague.adobe.com/IiqLm2sQGgyiamqxm-QC-6gKOYIOmyMzlGvCU89-LHo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: 69a7f8d6-582c-5b66-841e-32cf07fd164c
+    internal-label: A/B Testing
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 200
+source-wordcount: '200'
 ht-degree: 7%
-
 ---
-
 # Ajouter un test A/B {#add-an-a-b-test}
 
 >[!PREREQUISITES]

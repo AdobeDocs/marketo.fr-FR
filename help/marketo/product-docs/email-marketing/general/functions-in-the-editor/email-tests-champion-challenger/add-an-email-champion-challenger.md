@@ -4,18 +4,23 @@ description: Découvrez comment ajouter un test d’e-mail Champion/Challenger. 
 title: Ajouter un e-mail Champion/Challenger
 exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/SJcI4kx5bUCRuXvNoZRQjZSfdfxP24UIp5s-Hst6tks
+TQID: 'https://experienceleague.adobe.com/SJcI4kx5bUCRuXvNoZRQjZSfdfxP24UIp5s-Hst6tks'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 219
+source-wordcount: '219'
 ht-degree: 7%
-
 ---
-
 # Ajouter un e-mail Champion/Challenger {#add-an-email-champion-challenger}
 
 Il est recommandé de tester les e-mails que vous utilisez fréquemment pour vous assurer qu’ils fonctionnent. Vous pouvez par exemple comparer l’efficacité d’un e-mail à celle d’autres versions ou concurrents. Dans un test champion/challenger, vous pouvez tester l’ensemble de l’e-mail, l’objet ou l’adresse d’expédition.
@@ -31,7 +36,7 @@ Voici comment commencer.
 
 >[!CAUTION]
 >
->Les e-mails des champions et des challengers ne fonctionnent qu’avec les campagnes de déclenchement et les flux de programmes d’engagement. Pour le publipostage par lots, utilisez la fonctionnalité de test A/B du programme de messagerie [&#128279;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md).
+>Les e-mails des champions et des challengers ne fonctionnent qu’avec les campagnes de déclenchement et les flux de programmes d’engagement. Pour le publipostage par lots, utilisez la fonctionnalité de test A/B du programme de messagerie ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md).[
 
 1. Accédez à **[!UICONTROL Activités marketing]**.
 
@@ -54,5 +59,5 @@ Voici comment commencer.
    >[!MORELIKETHIS]
    >
    >* [Champion/Challenger : Whole Emails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails.md)
-   >* [Champion/Challenger : Objet &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
-   >* [Champion/Challenger : De l&#39;adresse &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)
+   >* [Champion/Challenger : Objet ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
+   >* [Champion/Challenger : De l&#39;adresse ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)

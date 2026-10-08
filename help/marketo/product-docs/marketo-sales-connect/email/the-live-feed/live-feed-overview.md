@@ -4,16 +4,18 @@ description: Découvrez les Flux en direct dans Sales Connect. Affichez l’enga
 title: Vue d’ensemble du flux en direct
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/-CrqazvM9aRb1Kctez04rwwy0BDnvE4AhrRrWxBVbkU
+TQID: 'https://experienceleague.adobe.com/-CrqazvM9aRb1Kctez04rwwy0BDnvE4AhrRrWxBVbkU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 409
+source-wordcount: '409'
 ht-degree: 1%
-
 ---
-
 # Vue d’ensemble du flux en direct {#live-feed-overview}
 
 Le flux en direct est une fenêtre flottante qui peut être lancée à partir de l’application web ou du plug-in Gmail et offre un aperçu en temps réel de l’engagement des prospects.

@@ -1,23 +1,26 @@
 ---
 unique-page-id: 2949718
 description: Découvrez comment publier un e-mail de Marketo vers Sales Insight. Mettre un modèle d’e-mail Marketo à la disposition des utilisateurs commerciaux dans le panneau MSI.
-title: Publier un e-mail vers Informations sur les ventes
+title: Publier un e-mail dans Sales Insight
 exl-id: 59b6821f-cbed-427f-942f-0a67cbd4e2df
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/7EFnNV-4RjI7nOwRnNJWtVTbxHPC2E6OEACX965cIqw
+TQID: 'https://experienceleague.adobe.com/7EFnNV-4RjI7nOwRnNJWtVTbxHPC2E6OEACX965cIqw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 215
+source-wordcount: '216'
 ht-degree: 3%
-
 ---
-
 # Publier un e-mail sur [!DNL Sales Insight] {#publish-an-email-to-sales-insight}
 
 Activez le paramètre Publier vers [!DNL Sales Insight] pour mettre un e-mail à la disposition de votre équipe des ventes dans les deux [!DNL Sales Insight], ainsi que dans le complément [!DNL Outlook] et Gmail. Vous pouvez également lui donner une date d’expiration.
@@ -40,7 +43,7 @@ Activez le paramètre Publier vers [!DNL Sales Insight] pour mettre un e-mail à
 
    >[!NOTE]
    >
-   >À 23 :59 (heure de Paris) à la date d&#39;expiration (si vous en définissez une), l&#39;e-mail que vous avez rendu disponible disparaîtra de [!DNL Sales Insight] ainsi que de tous ses compléments. Il sera bien sûr toujours accessible en Marketo.
+   >À 23 h 59 (heure du Centre), à la date d&#39;expiration (si vous en définissez une), l&#39;adresse électronique que vous avez mise à disposition disparaîtra de [!DNL Sales Insight] ainsi que de tous ses compléments. Il sera bien sûr toujours accessible en Marketo.
 
 1. Cliquez sur **[!DNL Save]**.
 

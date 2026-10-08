@@ -4,13 +4,19 @@ description: Découvrez comment explorer les détails des programmes et des cana
 title: Explorer les détails du programme et du canal avec l’analyseur de programme
 exl-id: 0d7133b6-648f-4549-ba8d-7f7abeb89a16
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 3%
-
 ---
-
 # Explorez les détails des programmes et des canaux avec l’[!UICONTROL analyseur de programmes] {#explore-program-channel-details-with-the-program-analyzer}
 
 Vous pouvez afficher les statistiques détaillées sur les programmes et les canaux dans l’[!UICONTROL Analyseur de programmes]. Vous pouvez également les ouvrir dans l’Explorateur du cycle du chiffre d’affaires.
@@ -37,7 +43,7 @@ Vous pouvez afficher les statistiques détaillées sur les programmes et les can
 
    >[!NOTE]
    >
-   >De nombreuses mesures que vous pouvez choisir dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et Multitouche (MT). Il est important de comprendre la [&#x200B; différence entre l’attribution FT et MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >De nombreuses mesures que vous pouvez choisir dans l’analyseur de programme sont disponibles avec les calculs Première touche (FT) et Multitouche (MT). Il est important de comprendre la [ différence entre l’attribution FT et MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Pour comparer tous les programmes au sein d’un seul canal, cliquez sur le nom du canal dans la boîte de dialogue pop-up.
 

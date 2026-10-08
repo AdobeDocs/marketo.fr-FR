@@ -4,19 +4,25 @@ description: Découvrez comment créer une page de destination de forme libre da
 title: Créer une page de destination à structure libre
 exl-id: fc58cb1f-8567-47ce-b724-24e6e6bc9cce
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/6aOqa1RVmKfqJ-hC2X7du6xUD2PdRJdD2WHLQQT0GaE
+TQID: 'https://experienceleague.adobe.com/6aOqa1RVmKfqJ-hC2X7du6xUD2PdRJdD2WHLQQT0GaE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 210
+source-wordcount: '210'
 ht-degree: 10%
-
 ---
-
 # Créer une page de destination à structure libre {#create-a-free-form-landing-page}
 
 Les pages de destination de forme libre peuvent être créées en tant que ressources locales d’un programme ou dans [!UICONTROL Design Studio] pour être utilisées globalement.
@@ -79,4 +85,4 @@ Les pages de destination de forme libre peuvent être créées en tant que resso
 
 >[!TIP]
 >
->Décochez « [!UICONTROL &#x200B; Ouvrir l’éditeur de page de destination pour une nouvelle page &#x200B;] » si vous ne souhaitez pas que l’éditeur s’ouvre immédiatement après avoir cliqué sur **[!UICONTROL Créer]**.
+>Décochez « [!UICONTROL  Ouvrir l’éditeur de page de destination pour une nouvelle page ] » si vous ne souhaitez pas que l’éditeur s’ouvre immédiatement après avoir cliqué sur **[!UICONTROL Créer]**.

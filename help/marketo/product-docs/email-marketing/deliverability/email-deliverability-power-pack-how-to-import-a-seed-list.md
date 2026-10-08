@@ -4,17 +4,22 @@ description: Découvrez comment importer une liste d’adresses de contrôle dan
 title: Power Pack sur la délivrabilité des e-mails - Comment importer une liste de contrôle
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-TQID: https://experienceleague.adobe.com/VKfpLEXYck1SKLiwg-d8em3BpYmaxHIuiyZZYYRgZ-0
+TQID: 'https://experienceleague.adobe.com/VKfpLEXYck1SKLiwg-d8em3BpYmaxHIuiyZZYYRgZ-0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: be80ef53-082b-4612-a88f-dfce57d36b02
+    internal-label: Deliverability
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 339
+source-wordcount: '339'
 ht-degree: 2%
-
 ---
-
-# Power Pack de délivrabilité des e-mails : comment importer une liste de contrôle {#email-deliverability-power-pack-how-to-import-a-seed-list}
+# Email Deliverability Power Pack : comment importer une liste de test {#email-deliverability-power-pack-how-to-import-a-seed-list}
 
 Une liste de contrôle est une liste de comptes de messagerie de plusieurs fournisseurs de messagerie, dont Google Apps, Hotmail, Yahoo !, etc., qui est utilisée pour estimer le taux de délivrabilité des boîtes de réception par rapport à celui des dossiers de spam. Vous trouverez ci-dessous les étapes à suivre pour intégrer cette liste à votre instance Marketo Engage.
 

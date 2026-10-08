@@ -1,25 +1,32 @@
 ---
 unique-page-id: 10099680
 description: Étapes d’importation de données d’objet personnalisées à l’aide d’un fichier CSV, notamment la sélection de l’objet personnalisé, le mode de déduplication et le mappage des champs.
-title: Importer les données de l’objet personnalisé
+title: Importer des données d’objet personnalisé
 exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
 feature: Custom Objects
-TQID: https://experienceleague.adobe.com/eWVHHONaYWOgc8s6AuB-PpEr-m3G5ixHwf5IondqZKE
+TQID: 'https://experienceleague.adobe.com/eWVHHONaYWOgc8s6AuB-PpEr-m3G5ixHwf5IondqZKE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+    internal-label: Custom objects
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 252
+source-wordcount: '252'
 ht-degree: 4%
-
 ---
-
-# Importer les données de l’objet personnalisé {#import-custom-object-data}
+# Importer des données d’objet personnalisé {#import-custom-object-data}
 
 Suivez les étapes ci-dessous pour importer des données d’objet personnalisées dans votre base de données. Si vous utilisez des objets personnalisés avec des sociétés, voir [Utilisation d’objets personnalisés avec des sociétés](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) pour plus d’informations.
 

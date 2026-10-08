@@ -1,16 +1,22 @@
 ---
 unique-page-id: 6095029
-description: Découvrez comment définir des conversions [ !dnl google adwords] dans le modèle de revenus dans Marketo Engage à l’aide de définir dnl google. Utilisez ce guide pour passer à l’étape suivante.
-title: Définition  [!DNL Google AdWords]  conversions dans le modèle de chiffre d’affaires
+description: Découvrez comment définir des conversions [!dnl google adwords] dans le modèle de chiffre d'affaires dans Marketo Engage à l'aide de set dnl google. Utilisez ce guide pour passer à l’étape suivante.
+title: Définition [!DNL Google AdWords] conversions dans le modèle de chiffre d’affaires
 exl-id: dd1259fc-d3f2-44ec-8055-f75d55263b36
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '483'
 ht-degree: 0%
-
 ---
-
 # Définition [!DNL Google AdWords] conversions dans le modèle de chiffre d’affaires {#set-google-adwords-conversions-in-the-revenue-model}
 
 Liez votre compte [!DNL Google AdWords] à Marketo pour charger automatiquement les données de conversion hors ligne de Marketo vers [!DNL Google AdWords]. Ensuite, à partir de l’interface utilisateur de [!DNL AdWords], vous pourrez facilement voir quels clics ont généré des prospects qualifiés, des opportunités et de nouveaux clients (ou toutes les étapes de chiffre d’affaires que vous souhaitez suivre) après avoir [ajouté des colonnes personnalisées](https://support.google.com/adwords/answer/3073556) dans [!DNL AdWords].
@@ -19,7 +25,7 @@ Liez votre compte [!DNL Google AdWords] à Marketo pour charger automatiquement 
 >
 >Il s’agit d’une intégration push de Marketo vers [!DNL Google AdWords]. Les données de conversion s’affichent _uniquement_ dans votre portail [!DNL Google AdWords], _pas dans l’interface utilisateur de Marketo_.
 
-En savoir plus sur la fonctionnalité d’importation de conversions hors ligne de [&#128279;](https://support.google.com/adwords/answer/2998031?hl=en). Mappez [!DNL AdWords] conversions hors ligne à une ou plusieurs étapes d’un modèle de chiffre d’affaires. Il existe trois façons d’effectuer le mappage :
+En savoir plus sur la fonctionnalité d’importation de conversions hors ligne de [](https://support.google.com/adwords/answer/2998031?hl=en). Mappez [!DNL AdWords] conversions hors ligne à une ou plusieurs étapes d’un modèle de chiffre d’affaires. Il existe trois façons d’effectuer le mappage :
 
 * Conversion [!DNL AdWords]
 * Action de l’étape

@@ -1,24 +1,29 @@
 ---
 unique-page-id: 12982909
 description: Découvrez comment planifier les diffusions du programme d’engagement avec le fuseau horaire du destinataire. Définissez le premier cast au moins 25 heures à l'avance pour la livraison globale.
-title: Planifier des programmes d’engagement avec le fuseau horaire de la personne destinataire
+title: Planifier des programmes d’engagement selon le fuseau horaire du destinataire
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/PkmvMBNzpWUNrJy9K-4TVrJMBWfKp5Vm2K-jiIeKBVg
+TQID: 'https://experienceleague.adobe.com/PkmvMBNzpWUNrJy9K-4TVrJMBWfKp5Vm2K-jiIeKBVg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 205
+source-wordcount: '206'
 ht-degree: 9%
-
 ---
+# Planifier des programmes d’engagement selon le fuseau horaire du destinataire {#schedule-engagement-programs-with-recipient-time-zone}
 
-# Planifier des programmes d’engagement avec le fuseau horaire de la personne destinataire {#schedule-engagement-programs-with-recipient-time-zone}
-
-Lorsque vous planifiez un flux de programme d’engagement et que le fuseau horaire du destinataire est actif, la diffusion du programme commence à s’exécuter à minuit dans le premier fuseau horaire (UTC +14:00). Le premier casting doit être programmé **au moins 25 heures** à l&#39;avenir car il peut y avoir des personnes qui remplissent les critères pour le cast dans tous les fuseaux horaires à travers le monde. Le fait de commencer le traitement à cette heure dans le premier fuseau horaire garantit que l’e-mail sera diffusé à la date et à l’heure planifiées pour chaque destinataire.
+Lorsque vous planifiez un flux de programme d’engagement et que le fuseau horaire du destinataire est actif, la diffusion du programme commencera à s’exécuter à minuit dans le premier fuseau horaire (UTC +14:00). Le premier casting doit être programmé **au moins 25 heures** à l&#39;avenir car il peut y avoir des personnes qui remplissent les critères pour le cast dans tous les fuseaux horaires à travers le monde. Le fait de commencer le traitement à cette heure dans le premier fuseau horaire garantit que l’e-mail sera diffusé à la date et à l’heure planifiées pour chaque destinataire.
 
 1. Dans votre programme d’engagement, accédez à l’onglet **[!UICONTROL Flux]** et cliquez sur le planning de cadence d’un flux pour le modifier.
 

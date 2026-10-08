@@ -1,21 +1,24 @@
 ---
 description: Découvrez comment synchroniser les désabonnements entre les actions Sales Insight et Salesforce. Conservez la cohérence du statut de désinscription sur l’ensemble des systèmes.
-title: Synchronisation des désabonnements avec Salesforce
+title: Synchronisation des désabonnements avec Salesforce​
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/ra-Nezm1zXZTZ5EZoCdCdYm0DRkCb5sZ0M5TKNt6nxM
+TQID: 'https://experienceleague.adobe.com/ra-Nezm1zXZTZ5EZoCdCdYm0DRkCb5sZ0M5TKNt6nxM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 488
+source-wordcount: '489'
 ht-degree: 2%
-
 ---
-
 # Synchronisation des désabonnements avec [!DNL Salesforce] {#syncing-unsubscribes-with-salesforce}
 
 Si vous souhaitez synchroniser les désabonnements avec un champ d’exclusion dans Salesforce, vous pouvez utiliser la synchronisation des désabonnements Salesforce.
@@ -32,7 +35,7 @@ Lorsqu’un désabonnement est collecté dans [!DNL Marketo Sales], nous le pous
 
 **Synchronisation du désabonnement**
 
-Lorsque vous aurez activé la synchronisation de désabonnement (étape 3 ci-dessous), vous activerez la synchronisation de nuit. La synchronisation a lieu une fois par jour vers 20 :00 PST. Elle synchronise de manière bidirectionnelle tous les désabonnements dans les ventes Marketo avec le champ Désinscription dans Salesforce.
+Lorsque vous aurez activé la synchronisation de désabonnement (étape 3 ci-dessous), vous activerez la synchronisation de nuit. La synchronisation a lieu une fois par jour vers 20 h CET. Elle synchronise de manière bidirectionnelle tous les désabonnements dans les ventes Marketo avec le champ Désinscription dans Salesforce.
 
 >[!NOTE]
 >
@@ -101,7 +104,7 @@ L’Opt-out des e-mails est un champ standard dans [!DNL Salesforce] qui peut ê
 
    ![](assets/syncing-unsubscribes-with-salesforce-12.png)
 
-## Désabonnement Marketo Sales {#marketo-sales-opt-out}
+## Opt-out Marketo Sales {#marketo-sales-opt-out}
 
 Le champ Droit d’opposition (opt-out) aux ventes Marketo est un champ personnalisé disponible pour les utilisateurs qui ont installé le package Marketo Sales Insight [à partir d’AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 

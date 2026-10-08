@@ -1,30 +1,33 @@
 ---
 unique-page-id: 2952678
 description: Découvrez comment utiliser le jeton Envoyer le jeton d’informations d’alerte dans les e-mails. Insérez dynamiquement des détails d’envoi tels que l’heure et le nom du programme.
-title: Utiliser le jeton d’envoi d’information d’alerte
+title: Utiliser le jeton Envoyer alerte info
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
-TQID: https://experienceleague.adobe.com/aGDNauucFt-af6OXYlELf-jPMbWKoWZx1VAs7rOIhRs
+TQID: 'https://experienceleague.adobe.com/aGDNauucFt-af6OXYlELf-jPMbWKoWZx1VAs7rOIhRs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: a6d52c76-712f-5f64-a879-9c65c1499322
+    internal-label: Tokens
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 270
+source-wordcount: '270'
 ht-degree: 5%
-
 ---
-
-# Utiliser le jeton d’envoi d’information d’alerte {#use-the-send-alert-info-token-sp-send-alert-info}
+# Utiliser le jeton Envoyer alerte info {#use-the-send-alert-info-token-sp-send-alert-info}
 
 Le jeton `{{SP_Send_Alert_Info}}` est un jeton spécial à utiliser lors de la création d’e-mails d’alerte pour votre équipe commerciale.
 
 >[!TIP]
 >
->Ce jeton ne fonctionne que comme prévu lors de l’envoi de l’e-mail le contenant avec l’étape de flux [&#x200B; Envoyer une alerte &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md). Elle ne fonctionne pas lorsqu’elle est utilisée dans une étape de flux Envoyer un e-mail .
+>Ce jeton ne fonctionne que comme prévu lors de l’envoi de l’e-mail le contenant avec l’étape de flux [ Envoyer une alerte ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md). Elle ne fonctionne pas lorsqu’elle est utilisée dans une étape de flux Envoyer un e-mail .
 
 Exemple d’alerte :
 

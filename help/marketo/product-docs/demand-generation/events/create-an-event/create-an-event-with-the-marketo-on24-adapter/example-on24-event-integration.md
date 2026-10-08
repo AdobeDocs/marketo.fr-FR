@@ -4,16 +4,18 @@ description: Découvrez un exemple d’intégration d’événement ON24 à Mark
 title: Exemple d’intégration d’événement ON24
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 feature: Events
-TQID: https://experienceleague.adobe.com/vFwmMz-JOZlu2yHJeDgaOyRue2WJ8MXtoyNuciY4UpY
+TQID: 'https://experienceleague.adobe.com/vFwmMz-JOZlu2yHJeDgaOyRue2WJ8MXtoyNuciY4UpY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 398
+source-wordcount: '398'
 ht-degree: 2%
-
 ---
-
 # Exemple d’intégration d’événement ON24 {#example-on-event-integration}
 
 Voici un exemple d’événement, y compris de campagnes, pour un webinaire ON24. Lorsque vous créez votre événement, testez vos campagnes avant de les exécuter.
@@ -49,8 +51,8 @@ Voici un exemple d’événement, y compris de campagnes, pour un webinaire ON24
 * **Liste dynamique** - Définissez les personnes que vous inviterez à l’événement.
 * **Flux**
 
-   * Envoyer un e-mail : s’il s’agit d’un e-mail de ressource locale, la convention de nommage sera la suivante : EventName.EmailName. Vous pouvez également utiliser des e-mails globaux.
-   * Modifier le statut en cours - Définir sur Webinaire > Invité.
+  * Envoyer un e-mail : s’il s’agit d’un e-mail de ressource locale, la convention de nommage sera la suivante : EventName.EmailName. Vous pouvez également utiliser des e-mails globaux.
+  * Modifier le statut en cours - Définir sur Webinaire > Invité.
 
 * **Planification** - Définissez la date d’envoi de l’invitation.
 
@@ -58,7 +60,7 @@ Voici un exemple d’événement, y compris de campagnes, pour un webinaire ON24
 
 * **Liste dynamique**
 
-   * Déclenchez la campagne en fonction de **[!UICONTROL Remplit le formulaire]**. Incluez la page de destination sur laquelle réside le formulaire à l’aide de l’option **[!UICONTROL Ajouter une contrainte]**, en particulier si le formulaire est utilisé sur plusieurs pages de destination.
+  * Déclenchez la campagne en fonction de **[!UICONTROL Remplit le formulaire]**. Incluez la page de destination sur laquelle réside le formulaire à l’aide de l’option **[!UICONTROL Ajouter une contrainte]**, en particulier si le formulaire est utilisé sur plusieurs pages de destination.
 
 >[!CAUTION]
 >
@@ -68,9 +70,9 @@ Voici un exemple d’événement, y compris de campagnes, pour un webinaire ON24
 
 * **Flux**
 
-   * **Modifier le statut en progression** - Définissez sur Webinaire > Enregistré. **ATTENTION** : cette étape de flux est requise lors de la configuration de votre campagne enfant. Lorsque le statut de progression d’une personne passe à **Enregistré**, Marketo transmet les informations d’enregistrement à ON24.
+  * **Modifier le statut en progression** - Définissez sur Webinaire > Enregistré. **ATTENTION** : cette étape de flux est requise lors de la configuration de votre campagne enfant. Lorsque le statut de progression d’une personne passe à **Enregistré**, Marketo transmet les informations d’enregistrement à ON24.
 
-   * **Envoyer un e-mail** - E-mail de confirmation (défini sur **Opérationnel** afin que les personnes désabonnées qui se sont inscrites le reçoivent toujours).
+  * **Envoyer un e-mail** - E-mail de confirmation (défini sur **Opérationnel** afin que les personnes désabonnées qui se sont inscrites le reçoivent toujours).
 
 ![](assets/image2015-12-22-15-3a52-3a9.png)
 

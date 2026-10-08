@@ -4,18 +4,23 @@ description: Découvrez comment Marketo Engage traite les comptes personnels Sal
 title: Utilisation de comptes de personnes
 exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/-NqSQnq-q6-McMyxsWgX5WKx1F7pwTaOIPg1Se8M1zM
+TQID: 'https://experienceleague.adobe.com/-NqSQnq-q6-McMyxsWgX5WKx1F7pwTaOIPg1Se8M1zM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Forms
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 309
+source-wordcount: '309'
 ht-degree: 1%
-
 ---
-
 # Utilisation de comptes de personnes {#using-person-accounts}
 
 Les comptes de personne peuvent être configurés dans Salesforce en fonction des besoins de votre entreprise. La section suivante décrit le traitement des comptes de personne par Marketo Engage.

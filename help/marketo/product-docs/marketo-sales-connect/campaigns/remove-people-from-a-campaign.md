@@ -4,16 +4,18 @@ description: Découvrez comment supprimer des personnes d’une campagne Sales C
 title: Supprimer des personnes d’une campagne
 exl-id: 700bf1eb-2e8d-46e6-9f93-704708b57543
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/ztlUTzx-jSFplSRg9FyEWFID4RIdEHZh6J-I6DXhte4
+TQID: 'https://experienceleague.adobe.com/ztlUTzx-jSFplSRg9FyEWFID4RIdEHZh6J-I6DXhte4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 286
+source-wordcount: '286'
 ht-degree: 3%
-
 ---
-
 # Supprimer des personnes d’une campagne {#remove-people-from-a-campaign}
 
 Vous pouvez automatiquement terminer une campagne lorsqu’un destinataire répond. Vous pouvez également choisir de marquer la campagne comme une « réussite » pour ce destinataire.
