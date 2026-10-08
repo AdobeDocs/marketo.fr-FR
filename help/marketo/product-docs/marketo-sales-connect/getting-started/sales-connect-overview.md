@@ -85,7 +85,7 @@ Découvrez comment vos prospects participent à vos efforts de vente.
 
 ## Partager des campagnes marketing {#share-marketing-campaigns}
 
-Créez une campagne intelligente simple pour donner à vos commerciaux l’accès aux données de la campagne [](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
+Créez une campagne intelligente simple pour donner à vos commerciaux l’accès aux données de la campagne [&#128279;](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
 
 ![](assets/campaign-is-requested.jpg)
 

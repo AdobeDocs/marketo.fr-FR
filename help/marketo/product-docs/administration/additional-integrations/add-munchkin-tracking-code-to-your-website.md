@@ -43,7 +43,7 @@ Le code de suivi JavaScript personnalisé de Marketo, appelé [!DNL Munchkin], p
 
    ![](assets/add-munchkin-tracking-code-to-your-website-1.png)
 
-1. Cliquez sur ****.
+1. Cliquez sur **&#x200B;**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-2.png)
 
@@ -83,7 +83,7 @@ Si vous utilisez des espaces de travail dans votre compte Marketo, il est probab
 
    ![](assets/add-munchkin-tracking-code-to-your-website-6.png)
 
-1. Cliquez sur ****.
+1. Cliquez sur **&#x200B;**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-7.png)
 
@@ -145,7 +145,7 @@ Pour vérifier que votre code [!DNL Munchkin] fonctionne après l’avoir ajout�
 
    ![](assets/add-munchkin-tracking-code-to-your-website-14.png)
 
-1. Remplacez Source d’activité] par **[!UICONTROL Visiteurs anonymes (y compris les FAI)]** puis cliquez sur **[!UICONTROL Appliquer]**.[!UICONTROL 
+1. Remplacez Source d’activité par **[!UICONTROL Visiteurs anonymes (y compris les FAI)]** puis cliquez sur **[!UICONTROL Appliquer]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-15.png)
 

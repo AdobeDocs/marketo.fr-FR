@@ -34,7 +34,7 @@ Vous pouvez ajouter des scripts personnalisés, des feuilles CSS ou d’autres H
 
    ![](assets/image2014-9-17-12-3a2-3a15.png)
 
-1. Dans l&#39;éditeur de landing page, faites glisser l&#39;élément ****.
+1. Dans l&#39;éditeur de landing page, faites glisser l&#39;élément **&#x200B;**.
 
    ![](assets/image2015-5-21-15-3a52-3a42.png)
 

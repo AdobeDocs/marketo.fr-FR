@@ -39,7 +39,7 @@ Vous pouvez filtrer le contenu selon les catégories que vous avez créées. Cli
 
 ![](assets/image2017-10-3-9-3a24-3a38.png)
 
-Source activé&#x200B;]****[!UICONTROL 
+Source activé&#x200B;**&#x200B;**
 
 Filtrez par chaque type de contenu activé : [!UICONTROL e-mail], [!UICONTROL médias riches], [!UICONTROL barre de recommandations].
 

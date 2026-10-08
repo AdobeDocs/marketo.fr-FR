@@ -51,7 +51,7 @@ Si votre utilisateur de synchronisation Marketo est défini sur une langue autre
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. Dans votre [profil de compte ](https://account.adobe.com/profile){target="_blank"}, faites défiler l’écran jusqu’à **[!UICONTROL Langues préférées]** et assurez-vous que la langue maternelle est l’anglais.
+1. Dans votre [profil de compte &#x200B;](https://account.adobe.com/profile){target="_blank"}, faites défiler l’écran jusqu’à **[!UICONTROL Langues préférées]** et assurez-vous que la langue maternelle est l’anglais.
 
    ![](assets/enable-non-english-custom-object-sync-step-6.5.png)
 

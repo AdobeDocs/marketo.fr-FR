@@ -15,9 +15,9 @@ workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 2%
 ---
-# Présentation de l’onglet [!UICONTROL  Équipe ] {#understanding-the-team-tab}
+# Présentation de l’onglet [!UICONTROL &#x200B; Équipe &#x200B;] {#understanding-the-team-tab}
 
-Dans l’onglet [!UICONTROL  Équipe ], nous mettons en évidence trois mesures importantes.
+Dans l’onglet [!UICONTROL &#x200B; Équipe &#x200B;], nous mettons en évidence trois mesures importantes.
 
 ## E-mails envoyés avec modèle {#emails-sent-with-template}
 

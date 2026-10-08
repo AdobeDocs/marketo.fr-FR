@@ -29,7 +29,7 @@ workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 3%
 ---
-# Espaces de travail dans [!UICONTROL  Web Personalization ] {#workspaces-in-web-personalization}
+# Espaces de travail dans [!UICONTROL &#x200B; Web Personalization &#x200B;] {#workspaces-in-web-personalization}
 
 [!UICONTROL Web Personalization] prend en charge plusieurs espaces de travail pour les campagnes web et les segments web.
 
@@ -45,7 +45,7 @@ Pour basculer entre les espaces de travail dans la personnalisation web, cliquez
 
    ![](assets/ss4.png)
 
-1. Sélectionnez un autre espace de travail dans la liste déroulante ****.
+1. Sélectionnez un autre espace de travail dans la liste déroulante **&#x200B;**.
 
    ![](assets/ss6.png)
 

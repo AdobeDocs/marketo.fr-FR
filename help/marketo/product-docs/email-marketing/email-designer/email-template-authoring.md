@@ -49,7 +49,7 @@ Pour accélérer et améliorer le processus de conception, vous pouvez créer de
 
 ## Création d’un modèle d’e-mail {#create-an-email-template}
 
-1. Connectez-vous à Marketo Engage via l’[ Adobe Experience Cloud ](https://experiencecloud.adobe.com/){target="_blank"}.
+1. Connectez-vous à Marketo Engage via l’[&#x200B; Adobe Experience Cloud &#x200B;](https://experiencecloud.adobe.com/){target="_blank"}.
 
 1. Dans Mon Marketo, sélectionnez **Design Studio**.
 

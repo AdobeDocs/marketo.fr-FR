@@ -44,7 +44,7 @@ ht-degree: 76%
 
 >[!CAUTION]
 >
->La configuration des espaces de travail peut être complexe. Contactez le support technique de [](https://nation.marketo.com/t5/Support/ct-p/Support) pour savoir s&#39;ils vous conviennent.
+>La configuration des espaces de travail peut être complexe. Contactez le support technique de [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support) pour savoir s&#39;ils vous conviennent.
 
 Les espaces de travail sont des zones distinctes de Marketo qui contiennent des ressources marketing telles que des programmes, des pages de destination, des e-mails, etc. Ils peuvent être utilisés par plusieurs personnes. Chaque utilisateur a accès à un ou plusieurs espaces de travail.
 
@@ -61,7 +61,7 @@ Les espaces de travail sont des zones distinctes de Marketo qui contiennent des 
 
 >[!NOTE]
 >
->Découvrez comment [ créer un espace de travail ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
+>Découvrez comment [&#x200B; créer un espace de travail &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
 
 ## Partage sur plusieurs espaces de travail {#sharing-across-workspaces}
 
@@ -136,7 +136,7 @@ Pour déplacer des ressources vers un nouvel espace de travail, placez-les dans 
 
 ## Répartitions de personnes {#person-partitions}
 
-Les répartitions de personnes se comportent comme des bases de données distinctes. Chaque partition possède ses propres personnes qui ne font l’objet d’aucune déduplication ni d’aucun mélange avec d’autres partitions. Si votre cas d’utilisation professionnel nécessite des enregistrements en double avec la même adresse e-mail, contactez l’assistance Marketo [](https://nation.marketo.com/t5/Support/ct-p/Support).
+Les répartitions de personnes se comportent comme des bases de données distinctes. Chaque partition possède ses propres personnes qui ne font l’objet d’aucune déduplication ni d’aucun mélange avec d’autres partitions. Si votre cas d’utilisation professionnel nécessite des enregistrements en double avec la même adresse e-mail, contactez l’assistance Marketo [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 Vous pouvez affecter des répartitions de personne aux [espaces de travail](create-a-new-workspace.md) dans les configurations suivantes :
 

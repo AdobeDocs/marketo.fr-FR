@@ -93,7 +93,7 @@ Mesurez vos campagnes RTP et corrélez-les avec la moyenne globale de votre site
 
 1. Sous **[!UICONTROL Paramètres du compte]**, **[!UICONTROL Domaine]** et **[!UICONTROL Analytics]**.
 
-1. Cliquez sur ****.
+1. Cliquez sur **&#x200B;**.
 
 1. Activez les **Variables personnalisées** et **Événements** appropriées pour ajouter ces données du RTP au Google Analytics.
 
@@ -105,7 +105,7 @@ Mesurez vos campagnes RTP et corrélez-les avec la moyenne globale de votre site
 
 >[!NOTE]
 >
->Pour envoyer des données de segment à GA, sous la page [[!UICONTROL Modifier le segment] ](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) de la plateforme RTP, cochez la case **[!UICONTROL Envoyer l’événement à Google Analytics lors de la correspondance de segments]**.
+>Pour envoyer des données de segment à GA, sous la page [[!UICONTROL Modifier le segment] &#x200B;](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) de la plateforme RTP, cochez la case **[!UICONTROL Envoyer l’événement à Google Analytics lors de la correspondance de segments]**.
 
 ## Configuration de rapports Google Analytics avec des données RTP {#setting-up-google-analytics-reports-with-rtp-data}
 

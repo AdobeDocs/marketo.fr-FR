@@ -22,7 +22,7 @@ ht-degree: 6%
 
 1. Copiez le code source de vos e-mails dans l’outil que vous utilisez pour créer des e-mails dans HTML (par exemple, Éditeur d’e-mail Marketo).
 
-1. Cliquez sur le bouton **** dans votre éditeur de modèles.
+1. Cliquez sur le bouton **&#x200B;**&#x200B;dans votre éditeur de modèles.
 
 1. Collez-y le code source.
 

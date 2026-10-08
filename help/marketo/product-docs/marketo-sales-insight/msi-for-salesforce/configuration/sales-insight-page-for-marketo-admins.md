@@ -76,7 +76,7 @@ Par défaut, [!DNL Marketo Sales Insight] utilise le champ Score du lead pour ca
 
    >[!MORELIKETHIS]
    >
-   >[Étoiles et flammes ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
+   >[Étoiles et flammes &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
 
 ## Paramètres {#settings}
 
@@ -101,7 +101,7 @@ Lorsque cette option est activée, les utilisateurs MSI peuvent afficher leur fl
 
 **Expiration du jeton :**
 
-L’expiration des jetons est contrôlée dans le Gestionnaire de fonctionnalités. Pour l’activer/désactiver, contactez l’assistance technique de [](https://nation.marketo.com/t5/Support/ct-p/Support). Lorsqu’ils sont activés, tous les jetons Marketo expirent dans les 10 minutes. Lorsqu’ils sont désactivés, les jetons Marketo n’expirent pas.
+L’expiration des jetons est contrôlée dans le Gestionnaire de fonctionnalités. Pour l’activer/désactiver, contactez l’assistance technique de [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support). Lorsqu’ils sont activés, tous les jetons Marketo expirent dans les 10 minutes. Lorsqu’ils sont désactivés, les jetons Marketo n’expirent pas.
 
 Les jetons générés avant l’activation de l’expiration des jetons ne disposeront pas d’un délai d’expiration en fonction duquel effectuer une validation, ils n’expireront donc pas même si la fonctionnalité est actuellement activée.
 

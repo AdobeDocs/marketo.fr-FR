@@ -54,7 +54,7 @@ Après avoir ajouté tout votre contenu à un flux, vous pouvez le tester un par
    Cliquez sur **[!UICONTROL Flux initial]**, sélectionnez le flux à tester et cliquez sur **[!UICONTROL Exécuter le cast]**.
    ![](assets/five-rubiks.png)
 
-1. Une fois que la personne a passé en revue les [ règles de transition](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) que vous avez précédemment configurées, cliquez sur l’icône Actualiser .
+1. Une fois que la personne a passé en revue les [&#x200B; règles de transition](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) que vous avez précédemment configurées, cliquez sur l’icône Actualiser .
 
    ![](assets/six-rubiks.png)
 

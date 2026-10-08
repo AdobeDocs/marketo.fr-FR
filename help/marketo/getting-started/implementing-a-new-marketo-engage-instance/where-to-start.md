@@ -69,7 +69,7 @@ Téléchargez l’instance Marketo Engage [nouvelles listes de contrôle d’adm
 
 ## Se connecter avec vos pairs {#connect-with-your-peers}
 
-Visitez la [Communauté ](https://nation.marketo.com/){target="_blank"} (également appelée Nation marketing) pour en savoir plus sur votre instance Marketo Engage auprès des employés de Marketo Engage et des autres utilisateurs.
+Visitez la [Communauté &#x200B;](https://nation.marketo.com/){target="_blank"} (également appelée Nation marketing) pour en savoir plus sur votre instance Marketo Engage auprès des employés de Marketo Engage et des autres utilisateurs.
 
 Prise en main dans la communauté :
 

@@ -17,4 +17,4 @@ ht-degree: 32%
 ---
 # Mon compte a été verrouillé. Que dois-je faire ? {#i-got-locked-out-of-my-account-what-do-i-do}
 
-Actuellement, la seule façon de déverrouiller votre compte est de contacter le support technique de [](https://nation.marketo.com/t5/Support/ct-p/Support#).
+Actuellement, la seule façon de déverrouiller votre compte est de contacter le support technique de [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support#).

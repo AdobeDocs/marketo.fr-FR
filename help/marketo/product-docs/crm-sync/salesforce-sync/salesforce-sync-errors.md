@@ -32,7 +32,7 @@ Affichez un résumé des erreurs survenues pendant le processus de synchronisati
 
    ![](assets/salesforce-sync-errors-1.png)
 
-1. Sous Intégration, cliquez sur ****, puis sur l’onglet **[!UICONTROL Erreurs de synchronisation]**.
+1. Sous Intégration, cliquez sur **&#x200B;**, puis sur l’onglet **[!UICONTROL Erreurs de synchronisation]**.
 
    ![](assets/salesforce-sync-errors-2.png)
 

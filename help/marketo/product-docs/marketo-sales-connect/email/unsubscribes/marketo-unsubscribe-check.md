@@ -40,7 +40,7 @@ La vérification de désabonnement de  utilise la connexion de votre équipe à 
 
    ![](assets/three-3.png)
 
-1. Dans la section [!UICONTROL Vérification du désabonnement de ], cliquez sur le curseur pour activer la vérification.
+1. Dans la section [!UICONTROL Vérification du désabonnement de &#x200B;], cliquez sur le curseur pour activer la vérification.
 
    ![](assets/four-2.png)
 

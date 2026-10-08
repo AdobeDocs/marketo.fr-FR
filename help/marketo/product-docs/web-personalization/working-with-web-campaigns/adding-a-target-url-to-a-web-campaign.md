@@ -67,7 +67,7 @@ Cliquez sur l’icône plus (![-](assets/image2015-2-18-8-3a40-3a59.png)) pour o
 >[!NOTE]
 >
 >* Les campagnes web de boîte de dialogue et de widget peuvent utiliser les options N’importe quelle page et Caractère générique (&#42;).
->* Dans les cas d’utilisation avancés, les campagnes web Dans la zone peuvent utiliser des caractères génériques à la fin du chemin de l’URL. Exemple : [](https://www.marketo.com/software/web-personalization/)
+>* Dans les cas d’utilisation avancés, les campagnes web Dans la zone peuvent utiliser des caractères génériques à la fin du chemin de l’URL. Exemple : [&#128279;](https://www.marketo.com/software/web-personalization/)
 >* L’URL respecte la casse.
 
 ## Ajout d’une URL Target pour les campagnes web de zone {#adding-a-target-url-for-in-zone-web-campaigns}
@@ -84,7 +84,7 @@ Cliquez sur l’icône plus (![-](assets/image2015-2-18-8-3a40-3a59.png)) pour o
 
    >[!NOTE]
    >
-   >L’URL cible avec des zones d’entrée doit définir une ou plusieurs URL spécifiques. Dans les cas d’utilisation avancés, les campagnes web Dans la zone peuvent utiliser des caractères génériques à la fin du chemin de l’URL. Exemple : [](https://www.marketo.com/software/web-personalization/)
+   >L’URL cible avec des zones d’entrée doit définir une ou plusieurs URL spécifiques. Dans les cas d’utilisation avancés, les campagnes web Dans la zone peuvent utiliser des caractères génériques à la fin du chemin de l’URL. Exemple : [&#128279;](https://www.marketo.com/software/web-personalization/)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 

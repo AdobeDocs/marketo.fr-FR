@@ -18,11 +18,11 @@ ht-degree: 10%
 
 ## Ajouter un utilisateur {#add-a-user}
 
-1. Connectez-vous à [](https://adminconsole.adobe.com/){target="_blank"}.
+1. Connectez-vous à [&#128279;](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-a-user-1.png)
 
-1. Cliquez sur ****.
+1. Cliquez sur **&#x200B;**.
 
    ![](assets/add-or-remove-a-user-2.png)
 
@@ -66,11 +66,11 @@ L’utilisateur recevra alors un e-mail pour se connecter à Marketo Engage.
 >
 >Vous devez être un administrateur système pour supprimer un utilisateur.
 
-1. Connectez-vous à [](https://adminconsole.adobe.com/){target="_blank"}.
+1. Connectez-vous à [&#128279;](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-a-user-9.png)
 
-1. Cliquez sur ****.
+1. Cliquez sur **&#x200B;**.
 
    ![](assets/add-or-remove-a-user-10.png)
 
@@ -94,5 +94,5 @@ L’utilisateur recevra alors un e-mail l’informant qu’il n’a plus accès 
 
 >[!MORELIKETHIS]
 >
->* [Utilisateurs ](https://helpx.adobe.com/fr/enterprise/using/users.html){target="_blank"}
+>* [Utilisateurs &#x200B;](https://helpx.adobe.com/fr/enterprise/using/users.html){target="_blank"}
 >* [Gérer les utilisateurs individuellement](https://helpx.adobe.com/fr/enterprise/using/manage-users-individually.html){target="_blank"}

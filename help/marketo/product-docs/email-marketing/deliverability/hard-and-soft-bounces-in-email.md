@@ -43,7 +43,7 @@ Marketo comporte 5 champs de personne liés à la diffusion d’e-mails avec des
 
 >[!PREREQUISITES]
 >
->Pour créer un rapport sur les performances des e-mails](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) qui générera des données de bounce[ procédez comme suit.
+>Pour créer un rapport sur les performances des e-mails[&#128279;](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) qui générera des données de bounce procédez comme suit.
 
 Après avoir créé votre rapport sur les performances des e-mails, l’écran doit ressembler à ceci :
 

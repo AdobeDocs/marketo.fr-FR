@@ -21,7 +21,7 @@ ht-degree: 2%
 ---
 # Installation du complément Marketo pour [!DNL Outlook] avec une clé d&#39;entreprise {#install-the-marketo-add-in-for-outlook-with-an-enterprise-key}
 
-Souvent, les représentants commerciaux ne disposent pas de privilèges d&#39;administration sur leurs ordinateurs portables et leurs équipes informatiques sont chargées d&#39;installer tous les logiciels à distance. Le complément Marketo pour Outlook peut être installé de cette manière à l&#39;aide de votre clé d&#39;entreprise, qui se trouve dans la section Insight des ventes d&#39;Admin. Si vous ne voyez pas le bouton Afficher la clé d&#39;entreprise, contactez le support technique de [](https://nation.marketo.com/t5/Support/ct-p/Support) pour l&#39;activer.
+Souvent, les représentants commerciaux ne disposent pas de privilèges d&#39;administration sur leurs ordinateurs portables et leurs équipes informatiques sont chargées d&#39;installer tous les logiciels à distance. Le complément Marketo pour Outlook peut être installé de cette manière à l&#39;aide de votre clé d&#39;entreprise, qui se trouve dans la section Insight des ventes d&#39;Admin. Si vous ne voyez pas le bouton Afficher la clé d&#39;entreprise, contactez le support technique de [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support) pour l&#39;activer.
 
 >[!PREREQUISITES]
 >
@@ -51,4 +51,4 @@ Souvent, les représentants commerciaux ne disposent pas de privilèges d&#39;ad
 
    ![](assets/image2016-7-25-14-3a39-3a9.png)
 
-   C&#39;est tout ! Ensuite, le commercial passe par le processus d’enregistrement ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md).[
+   C&#39;est tout ! Ensuite, le commercial passe par le processus d’enregistrement [&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md).

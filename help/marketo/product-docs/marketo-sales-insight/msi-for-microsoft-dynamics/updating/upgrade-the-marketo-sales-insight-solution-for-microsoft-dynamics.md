@@ -31,7 +31,7 @@ Lorsqu’une nouvelle solution [!DNL Microsoft Dynamics] est publiée pour [!DNL
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-1.png)
 
-1. Cliquez sur ****.
+1. Cliquez sur **&#x200B;**.
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-2.png)
 

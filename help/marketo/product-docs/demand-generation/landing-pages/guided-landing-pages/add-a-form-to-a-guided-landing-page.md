@@ -55,7 +55,7 @@ ht-degree: 13%
    >
    >La page de suivi est la page que les personnes verront après avoir envoyé le formulaire.
 
-1. Dans cet exemple, sélectionnez [!UICONTROL  Formulaire défini ]. Cliquez sur **[!UICONTROL Insérer]**.
+1. Dans cet exemple, sélectionnez [!UICONTROL &#x200B; Formulaire défini &#x200B;]. Cliquez sur **[!UICONTROL Insérer]**.
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 

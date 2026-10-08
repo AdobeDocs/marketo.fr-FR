@@ -44,7 +44,7 @@ Les fragments de code sont des blocs de texte enrichi et de graphiques réutilis
 
 >[!NOTE]
 >
->](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) Vous ne pouvez pas incorporer de syntaxe d&#39;e-mail [Marketo dans des fragments de code ; elle ne fonctionnera **pas** dans un e-mail. Les fragments de code doivent simplement être du contenu (HTML + TEXTE).
+>[&#128279;](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) Vous ne pouvez pas incorporer de syntaxe d&#39;e-mail Marketo dans des fragments de code ; elle ne fonctionnera **pas** dans un e-mail. Les fragments de code doivent simplement être du contenu (HTML + TEXTE).
 
 1. Recherchez votre e-mail, sélectionnez-le et cliquez sur **[!UICONTROL Modifier le brouillon]**.
 

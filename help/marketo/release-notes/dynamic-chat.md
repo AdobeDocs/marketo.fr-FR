@@ -145,7 +145,7 @@ La solution de secours du round-robin n’est prise en compte que lorsqu’aucun
 
 <p>
 
-_**Transmission du compte**_
+_&#x200B;**Transmission du compte**&#x200B;_
 
 <table><thead>
   <tr>
@@ -171,7 +171,7 @@ _**Transmission du compte**_
   </tr>
 </tbody></table>
 
-_**Transmission personnalisée**_
+_&#x200B;**Transmission personnalisée**&#x200B;_
 
 <table><thead>
   <tr>
@@ -197,7 +197,7 @@ _**Transmission personnalisée**_
   </tr>
 </tbody></table>
 
-_**Transmission d’équipe**_
+_&#x200B;**Transmission d’équipe**&#x200B;_
 
 <table><thead>
   <tr>
@@ -223,7 +223,7 @@ _**Transmission d’équipe**_
   </tr>
 </tbody></table>
 
-_**Transmission du round-robin**_
+_&#x200B;**Transmission du round-robin**&#x200B;_
 
 <table><thead>
   <tr>

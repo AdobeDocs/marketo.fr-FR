@@ -29,7 +29,7 @@ ht-degree: 3%
 
    ![](assets/using-html-2.png)
 
-1. Cliquez sur le bouton **** dans votre éditeur de modèles.
+1. Cliquez sur le bouton **&#x200B;**&#x200B;dans votre éditeur de modèles.
 
    ![](assets/using-html-3.png)
 

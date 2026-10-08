@@ -59,7 +59,7 @@ L’administrateur A (administrateur responsable à l’origine de la connexion)
 
 1. Dans l’application web, cliquez sur l’icône d’engrenage et sélectionnez **[!UICONTROL Paramètres]**.
 
-1. Cliquez sur ****.
+1. Cliquez sur **&#x200B;**.
 
 1. Cliquez sur **[!UICONTROL Accès utilisateur]**.
 
@@ -73,7 +73,7 @@ Ces étapes doivent être suivies par l’administrateur B (nouvel administrateu
 
 1. Dans l’application web, cliquez sur l’icône d’engrenage et sélectionnez **[!UICONTROL Paramètres]**.
 
-1. Cliquez sur ****.
+1. Cliquez sur **&#x200B;**.
 
 1. Cliquez sur **[!UICONTROL Déconnecter]**.
 
@@ -83,7 +83,7 @@ Ces étapes doivent être suivies par l’administrateur A (administrateur conne
 
 1. Dans l’application web, cliquez sur l’icône d’engrenage et sélectionnez **[!UICONTROL Paramètres]**.
 
-1. Cliquez sur ****.
+1. Cliquez sur **&#x200B;**.
 
 1. Cliquez sur **[!UICONTROL Déconnecter]**.
 

@@ -63,7 +63,7 @@ Pour spécifier l’emplacement des fichiers journaux, vous pouvez spécifier le
 >
 >L&#39;emplacement de stockage du fichier journal doit exister ou l&#39;installation sera abandonnée.
 
-Veuillez consulter la liste complète des commutateurs de [](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) si vous souhaitez essayer différents niveaux de journalisation ou d&#39;interface utilisateur.
+Veuillez consulter la liste complète des commutateurs de [&#128279;](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) si vous souhaitez essayer différents niveaux de journalisation ou d&#39;interface utilisateur.
 
 >[!MORELIKETHIS]
 >

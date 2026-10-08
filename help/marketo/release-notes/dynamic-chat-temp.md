@@ -47,7 +47,7 @@ Nous avons réorganisé la logique de transmission de la conversation en direct 
 
 * **Comportement spécifique à la règle de transmission**
 
-_**Transmission du compte**_
+_&#x200B;**Transmission du compte**&#x200B;_
 
 Si le domaine d’e-mail d’un visiteur ou d’une visiteuse est mappé à un compte connu, l’agent mappé ou l’agente mappée conserve toujours la priorité.
 
@@ -64,7 +64,7 @@ Au lieu de cela, il :
 
 La règle de routage au niveau de la carte (par exemple, Équipe, Personnalisé) n’est prise en compte que si le routage de compte n’est pas éligible (aucun domaine ou agent correspondant).
 
-_**Routage personnalisé/d’équipe**_
+_&#x200B;**Routage personnalisé/d’équipe**&#x200B;_
 
 Ces règles peuvent renvoyer plusieurs agents éligibles.
 
@@ -78,7 +78,7 @@ Si aucun agent ne s’engage :
 -ou-
 * Affiche le message de fallback par défaut.
 
-_**Transmission du round-robin**_
+_&#x200B;**Transmission du round-robin**&#x200B;_
 
 Lorsqu’il est utilisé comme règle de transmission principale, le système :
 
@@ -88,7 +88,7 @@ Lorsqu’il est utilisé comme règle de transmission principale, le système :
 
 Si le round-robin est utilisé comme solution de secours, il n’est activé que si aucun agent ni aucune agente ne ressort à partir de la règle principale.
 
-_**Flux d’expérience du visiteur**_
+_&#x200B;**Flux d’expérience du visiteur**&#x200B;_
 
 Le système vérifie si la transmission du compte est applicable.
 
@@ -112,7 +112,7 @@ La solution de secours du round-robin n’est prise en compte que lorsqu’aucun
 
 ##### Cas d’utilisation {#use-cases}
 
-_**Transmission du compte**_
+_&#x200B;**Transmission du compte**&#x200B;_
 
 <table><thead>
   <tr>
@@ -138,7 +138,7 @@ _**Transmission du compte**_
   </tr>
 </tbody></table>
 
-_**Transmission personnalisée**_
+_&#x200B;**Transmission personnalisée**&#x200B;_
 
 <table><thead>
   <tr>
@@ -164,7 +164,7 @@ _**Transmission personnalisée**_
   </tr>
 </tbody></table>
 
-_**Transmission d’équipe**_
+_&#x200B;**Transmission d’équipe**&#x200B;_
 
 <table><thead>
   <tr>
@@ -190,7 +190,7 @@ _**Transmission d’équipe**_
   </tr>
 </tbody></table>
 
-_**Transmission du round-robin**_
+_&#x200B;**Transmission du round-robin**&#x200B;_
 
 <table><thead>
   <tr>

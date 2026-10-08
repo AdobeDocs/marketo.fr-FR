@@ -46,7 +46,7 @@ Adobe GenStudio for Performance Marketing est une application IA générative qu
 
 >[!INFO]
 >
->En savoir plus sur [](https://experienceleague.adobe.com/fr/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"}.
+>En savoir plus sur [&#128279;](https://experienceleague.adobe.com/fr/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"}.
 
 ## Tirer parti des fonctionnalités de GenStudio dans Marketo Engage {#leverage-genstudio-capabilities}
 
@@ -80,7 +80,7 @@ Pour tirer parti des variations d’e-mail GenStudio que vous avez créées en l
 
    ![bouton Importer HTML](assets/genstudio-integration-3.png)
 
-1. Cliquez sur le bouton ****.
+1. Cliquez sur le bouton **&#x200B;**.
 
    Bouton ![](assets/genstudio-integration-4.png)
 

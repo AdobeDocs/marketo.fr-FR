@@ -33,7 +33,7 @@ La page Content Analytics affiche le contenu existant que vous avez découvert (
 
 ## Afficher Content Analytics {#view-content-analytics}
 
-Accédez à ****.
+Accédez à **&#x200B;**.
 
 ![](assets/one.png)
 
@@ -102,7 +102,7 @@ Les analyses de contenu supplémentaires comprennent :
 
 * **[!UICONTROL Vues]** : vues de cet élément de contenu pour la période sélectionnée
 * **[!UICONTROL Conversions directes]** : visiteurs et visiteuses web qui ont consulté le contenu et rempli un formulaire au cours de la même visite.
-* **[!UICONTROL Taux de conversion]**** :** taux de conversion en pourcentage calculé par les conversions directes divisées par les clics
+* **[!UICONTROL Taux de conversion]**&#x200B;**&#x200B; :** taux de conversion en pourcentage calculé par les conversions directes divisées par les clics
 
 **[!UICONTROL Tendances]**
 

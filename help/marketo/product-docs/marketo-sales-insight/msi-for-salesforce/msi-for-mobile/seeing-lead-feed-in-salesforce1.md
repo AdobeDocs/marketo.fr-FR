@@ -23,7 +23,7 @@ ht-degree: 7%
 
 Le flux de leads est une liste à la minute près d’événements intéressants réalisés par vos leads.
 
-1. Accédez à la zone **** dans [!DNL Salesforce1].
+1. Accédez à la zone **&#x200B;**&#x200B;dans [!DNL Salesforce1].
 
    ![](assets/image2015-4-20-15-3a14-3a15.png)
 

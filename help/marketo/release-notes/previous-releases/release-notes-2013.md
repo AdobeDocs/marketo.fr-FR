@@ -138,7 +138,7 @@ Un tirage au sort donne à vos prospects la chance de gagner un prix et de parle
 
 ![](assets/image2014-9-22-15-3a36-3a55.png)
 
-## Formulaire supplémentaire [!UICONTROL  Message d’erreur ] Langues {#additional-form-error-message-languages}
+## Formulaire supplémentaire [!UICONTROL &#x200B; Message d’erreur &#x200B;] Langues {#additional-form-error-message-languages}
 
 Plus d’une douzaine de langues ont été ajoutées aux messages d’erreur du formulaire.
 
@@ -204,7 +204,7 @@ Recherchez plus rapidement les actions de flux avec l’arborescence d’actions
 
 ## Actions de flux renommées {#renamed-flow-actions}
 
-Modifier le statut de progression est désormais [!UICONTROL Modifier le statut du programme]. Modifier les données du programme est désormais [!UICONTROL  Modifier la réussite du programme ].
+Modifier le statut de progression est désormais [!UICONTROL Modifier le statut du programme]. Modifier les données du programme est désormais [!UICONTROL &#x200B; Modifier la réussite du programme &#x200B;].
 
 ![](assets/image2014-9-22-16-3a4-3a17.png)
 

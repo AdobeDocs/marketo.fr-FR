@@ -22,7 +22,7 @@ ht-degree: 5%
 ---
 # Ajouter un accès [!DNL Sales Insight] aux profils {#add-sales-insight-access-to-profiles}
 
-Voici comment créer un profil ayant accès à [!DNL Sales Insight] tout en supprimant l’accès pour vos autres profils. Ceci est destiné aux utilisateurs qui ont déjà installé le package [[!DNL Sales Insight] ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
+Voici comment créer un profil ayant accès à [!DNL Sales Insight] tout en supprimant l’accès pour vos autres profils. Ceci est destiné aux utilisateurs qui ont déjà installé le package [[!DNL Sales Insight] &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 
 >[!IMPORTANT]
 >
@@ -78,7 +78,7 @@ Si vous disposez d’un profil dédié pour vos utilisateurs [!DNL Sales Insight
 
 1. Sélectionnez **[!UICONTROL Modifier l’affectation]**.
 
-1. Sélectionnez le profil de votre [!DNL Sales Insight] dans la liste, puis sélectionnez la mise en page de votre [!DNL Sales insight] dans le menu déroulant « [!UICONTROL  Sélectionner la mise en page ] ».
+1. Sélectionnez le profil de votre [!DNL Sales Insight] dans la liste, puis sélectionnez la mise en page de votre [!DNL Sales insight] dans le menu déroulant « [!UICONTROL &#x200B; Sélectionner la mise en page &#x200B;] ».
 
 1. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé.
 

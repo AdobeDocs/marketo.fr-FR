@@ -37,7 +37,7 @@ Il existe plusieurs façons de se réabonner.
 
 Dans Salesforce, effacez le champ Désinscription par e-mail de l’enregistrement du prospect/contact. Cette opération va être synchronisée avec Marketo.
 
-![Écran ](assets/durable-unsubscribe-1.png)
+![Écran &#x200B;](assets/durable-unsubscribe-1.png)
 
 Dans Marketo, désélectionnez la zone Désabonné dans l’onglet Infos de l’enregistrement de la personne.
 
