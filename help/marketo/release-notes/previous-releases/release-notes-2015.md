@@ -121,7 +121,7 @@ Les options de balise RTP sous Paramètres du compte ont été mises à jour pou
 1. Balise asynchrone sans réseau CDN
 1. Balise synchrone sans réseau CDN
 
-Pour de meilleures performances, il est recommandé de placer la balise en haut de l’en-tête de votre page web après `<head>`. Toutes les balises permettent d’utiliser l’[API RTP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Pour plus d’informations sur le déploiement de la balise RTP, voir [ici](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Pour de meilleures performances, il est recommandé de placer la balise en haut de l’en-tête de votre page web après `<head>`. Toutes les balises permettent d’utiliser l’[API RTP](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Pour plus d’informations sur le déploiement de la balise RTP, voir [ici](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)
 
@@ -191,7 +191,7 @@ Liez votre [[!DNL Google AdWords] compte à Marketo](/help/marketo/product-docs/
 
 ## Nouvelles API REST de ressources {#new-asset-rest-apis}
 
-[Nouvelles API REST de ressources](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
+[Nouvelles API REST de ressources](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/assets/assets)
 
 La création et la modification d’e-mails, de modèles, de mes jetons, de fichiers et de fragments de code sont désormais prises en charge [via l’API](https://developer.adobe.com/marketo-apis/api/asset/) !
 
