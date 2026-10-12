@@ -25,10 +25,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 96c214e74bfb7920e9a62204e8451bbc22e1e1b0
+source-git-commit: 20b0f080c35bf826a85f78f7e96d239788a9fc8a
 workflow-type: tm+mt
-source-wordcount: '619'
-ht-degree: 91%
+source-wordcount: '621'
+ht-degree: 90%
 ---
 # Importer une liste de personnes {#import-a-list-of-people}
 
@@ -138,7 +138,7 @@ Dans ce tutoriel, vous allez apprendre à importer des personnes dans Marketo à
    >
    >Si vous ne souhaitez pas importer certains champs, sélectionnez **Ignorer** dans le menu déroulant de champ Marketo.
 
-1. _Si_ avez configuré les [partitions de personne](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions#person-partitions){target="_blank"}, sélectionnez-les ici. Sélectionnez **Mon programme de salon professionnel** pour le **[!UICONTROL Programme d’acquisition]**, puis cliquez sur **[!UICONTROL Importer]**.
+1. Si des [partitions de personne](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions#person-partitions){target="_blank"} sont configurées, sélectionnez celle de votre choix ici. Sélectionnez **Mon programme de salon professionnel** pour le **[!UICONTROL Programme d’acquisition]**, puis cliquez sur **[!UICONTROL Importer]**.
 
    ![](assets/import-a-list-of-people-13-new.png)
 
