@@ -3,11 +3,9 @@ title: Création de contenu - Composants
 description: Section réutilisée sur l’utilisation de composants et d’éléments de contenu pour la création de contenu
 source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '134'
 ht-degree: 0%
-
 ---
-
 # Création de contenu - Composants
 
 1. Pour commencer à créer ou modifier du contenu, faites glisser et déposez un élément de Structures sur la zone de travail. Modifiez ses paramètres dans le volet de droite.
