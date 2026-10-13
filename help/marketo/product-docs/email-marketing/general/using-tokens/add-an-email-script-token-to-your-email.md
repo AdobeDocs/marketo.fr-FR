@@ -4,16 +4,18 @@ description: Découvrez comment ajouter un jeton de script d’e-mail à votre e
 title: Ajouter un jeton de script d’e-mail à votre e-mail
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 feature: Tokens
-TQID: https://experienceleague.adobe.com/IdBf2VW0db6TyqQvthXGcYsz5MaigEBI2c7MsJVhwSM
+TQID: 'https://experienceleague.adobe.com/IdBf2VW0db6TyqQvthXGcYsz5MaigEBI2c7MsJVhwSM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a6d52c76-712f-5f64-a879-9c65c1499322
+    internal-label: Tokens
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 171
+source-wordcount: '171'
 ht-degree: 15%
-
 ---
-
 # Ajouter un jeton de script d’e-mail à votre e-mail {#add-an-email-script-token-to-your-email}
 
 Après avoir [créé votre script d’e-mail](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md), vous souhaiterez l’ajouter à un e-mail pour le voir en action. Voici comment faire.

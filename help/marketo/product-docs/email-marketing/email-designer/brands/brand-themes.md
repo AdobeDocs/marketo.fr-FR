@@ -6,18 +6,30 @@ description: Découvrez comment créer et gérer des directives de marque dans M
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '1113'
 ht-degree: 10%
-
 ---
-
 # Thèmes de marque {#brand-themes}
 
 Grâce aux thèmes de marque, créez facilement du contenu réutilisable adapté à une marque et à un langage de conception spécifiques en ajoutant un style personnalisé à vos modèles d’e-mail.
 
-Cette fonctionnalité permet aux spécialistes du marketing d’utiliser plus rapidement et à moindre effort des e-mails visuellement attrayants et conformes à la marque, tout en fournissant des options de personnalisation avancées pour des besoins de conception uniques.
+Cette fonctionnalité permet aux responsables marketing de créer plus rapidement et avec moins d’efforts des e-mails attrayants et cohérents avec leur marque, tout en offrant des options de personnalisation avancées pour répondre à des besoins de conception spécifiques.
 
 ## Créer un thème {#create-a-theme}
 

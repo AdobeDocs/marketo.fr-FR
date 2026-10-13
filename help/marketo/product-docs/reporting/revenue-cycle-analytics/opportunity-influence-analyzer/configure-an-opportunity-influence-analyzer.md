@@ -1,17 +1,23 @@
 ---
 unique-page-id: 2360240
 description: Découvrez comment configurer un analyseur d’influence d’opportunité dans Marketo Engage à l’aide de la fonction configurer une influence d’opportunité. Utilisez ce guide pour passer à l’étape suivante.
-title: Configurer un analyseur d’influence d’opportunité
+title: Configurer un analyseur d’influence sur les opportunités
 exl-id: 9165c7ac-5b8e-48d2-bbe7-1f9074848724
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 5%
-
 ---
-
-# Configurer un analyseur d’influence d’opportunité {#configure-an-opportunity-influence-analyzer}
+# Configurer un analyseur d’influence sur les opportunités {#configure-an-opportunity-influence-analyzer}
 
 Une fois que vous avez [créé un analyseur d’influence d’opportunité](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md), vous pouvez configurer les types de [moments intéressants](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) qui sont inclus.
 

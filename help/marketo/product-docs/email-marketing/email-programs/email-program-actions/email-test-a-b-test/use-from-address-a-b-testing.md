@@ -1,21 +1,28 @@
 ---
 unique-page-id: 2359504
 description: Découvrez comment exécuter des tests A/B depuis l’adresse. Testez différentes adresses d'expéditeur et choisissez un gagnant par performance.
-title: Utiliser le test A/B « adresse de l’expéditeur ou de l’expéditrice »
+title: Utiliser les tests AB « Adresse d’expédition »
 exl-id: 83e2994b-39ec-4c88-87b0-8f2501ea2bf1
 feature: Email Programs, A/B Testing
-TQID: https://experienceleague.adobe.com/rerG-Wyn1X53QQBDXFwyg74uEOznGcYcBis9EwX4vQU
+TQID: 'https://experienceleague.adobe.com/rerG-Wyn1X53QQBDXFwyg74uEOznGcYcBis9EwX4vQU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: 69a7f8d6-582c-5b66-841e-32cf07fd164c
+    internal-label: A/B Testing
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 277
+source-wordcount: '277'
 ht-degree: 2%
-
 ---
-
 # Utiliser Le Test A/B « [!UICONTROL Adresse De L’Expéditeur] » {#use-from-address-a-b-testing}
 
 Vous pouvez facilement tester A/B vos e-mails. Un test intéressant est le test **[!UICONTROL Adresse d’origine]**. Voici comment le configurer.

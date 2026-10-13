@@ -1,17 +1,23 @@
 ---
 unique-page-id: 3571886
 description: Découvrez comment utiliser l’analyseur de chemins de succès dans Marketo Engage à l’aide de l’analyseur de chemins de succès. Utilisez ce guide pour passer à l’étape suivante.
-title: Utilisation de l’analyseur de voie du succès
+title: Utilisation de l’analyseur du parcours de réussite
 exl-id: f816b7ac-a158-46bd-9d00-09ef4cc8b381
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '390'
 ht-degree: 2%
-
 ---
-
-# Utilisation de l’analyseur de voie du succès {#using-the-success-path-analyzer}
+# Utilisation de l’analyseur du parcours de réussite {#using-the-success-path-analyzer}
 
 Utilisez un analyseur de chemin de succès pour explorer les détails spécifiques qui reflètent à la fois le flux (montant) et la vitesse (vitesse, en termes de jours) des personnes à travers les étapes de votre [modèle de cycle de chiffre d’affaires](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
 

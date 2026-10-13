@@ -4,20 +4,26 @@ description: Découvrez comment fonctionne la synchronisation des opportunités 
 title: Synchronisation de SFDC - Synchronisation des opportunités
 exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/r8JobWyGrFmN71de8J5xI-2-Ze7lPEsNRQ6V41Q4JQM
+TQID: 'https://experienceleague.adobe.com/r8JobWyGrFmN71de8J5xI-2-Ze7lPEsNRQ6V41Q4JQM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 294
+source-wordcount: '294'
 ht-degree: 11%
-
 ---
-
 # Synchronisation SFDC : synchronisation d’opportunité {#sfdc-sync-opportunity-sync}
 
 ## Comment les détails des opportunités sont-ils synchronisés entre les deux systèmes ? {#how-are-opportunity-details-kept-in-sync-between-the-two-systems}
@@ -60,7 +66,7 @@ Filtres:
 * A été supprimé de l’opportunité/Non a été supprimé de l’opportunité
 * Montant total de l&#39;opportunité
 * Nombre d&#39;opportunités
-* Total du chiffre d&#39;affaires souhaité de l&#39;opportunité
+* Revenu total attendu de l’opportunité
 
 >[!TIP]
 >

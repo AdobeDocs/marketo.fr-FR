@@ -4,21 +4,28 @@ description: Découvrez le rapport de performances des pages de destination dans
 title: Rapport de performances de la page de destination
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/ZTj9r8A5fvpeK-9EwNf8LGnsrRXz62NqOM49IK2U0b4
+TQID: 'https://experienceleague.adobe.com/ZTj9r8A5fvpeK-9EwNf8LGnsrRXz62NqOM49IK2U0b4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 216
+source-wordcount: '216'
 ht-degree: 3%
-
 ---
-
 # Rapport de performances de la page de destination {#landing-page-performance-report}
 
 Découvrez combien de personnes ont rempli les formulaires dans vos pages de destination et combien d’entre elles étaient nouvelles.

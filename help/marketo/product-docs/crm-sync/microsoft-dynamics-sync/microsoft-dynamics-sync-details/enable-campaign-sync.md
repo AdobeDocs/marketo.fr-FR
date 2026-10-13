@@ -3,16 +3,21 @@ description: Découvrez comment activer la synchronisation des campagnes entre M
 title: Activer la synchronisation de la campagne
 exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/F7okawwlQD9FlU3vvp8bfy52I98aRXlbUlte0qd-V7Y
+TQID: 'https://experienceleague.adobe.com/F7okawwlQD9FlU3vvp8bfy52I98aRXlbUlte0qd-V7Y'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 111
+source-wordcount: '111'
 ht-degree: 8%
-
 ---
-
 # Activer la synchronisation de la campagne {#enable-campaign-sync}
 
 Cette option permet à Marketo d’ajouter et de supprimer des membres d’[!DNL MS Dynamics] Campaign.

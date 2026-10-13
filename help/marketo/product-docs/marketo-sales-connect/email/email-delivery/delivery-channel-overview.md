@@ -4,16 +4,18 @@ description: Découvrez les canaux de diffusion dans Sales Connect. Découvrez c
 title: Vue d’ensemble du canal de remise
 exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/LGZU-d2-ROfNUSyzeMY8L4qB22rqqU8r2Hq3h1dXbvA
+TQID: 'https://experienceleague.adobe.com/LGZU-d2-ROfNUSyzeMY8L4qB22rqqU8r2Hq3h1dXbvA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 570
+source-wordcount: '571'
 ht-degree: 1%
-
 ---
-
 # Vue d’ensemble du canal de remise {#delivery-channel-overview}
 
 Marketo [!DNL Sales Connect] offre plusieurs options pour diffuser des e-mails. Cet article passe en revue les canaux de diffusion que vous pouvez utiliser, comment les sélectionner et quand les sélectionner les uns par rapport aux autres.

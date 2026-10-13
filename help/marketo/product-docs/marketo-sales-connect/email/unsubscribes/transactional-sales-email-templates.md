@@ -2,14 +2,18 @@
 description: Découvrez les modèles d’e-mail de vente transactionnels dans Sales Connect. Utilisez des modèles qui contournent le désabonnement pour les messages transactionnels.
 title: Modèles d’e-mail de vente transactionnelle
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 5%
-
 ---
-
-# Modèles d’e-mail de vente transactionnelle {#transactional-sales-email-templates}
+# Modèles d’e-mails de vente transactionnels {#transactional-sales-email-templates}
 
 Si votre équipe envoie des e-mails transactionnels ou non commerciaux, vous pouvez marquer un modèle d’e-mail comme non commercial afin qu’il puisse contourner les désabonnements.
 

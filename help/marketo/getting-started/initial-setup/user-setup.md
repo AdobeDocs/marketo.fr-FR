@@ -1,28 +1,35 @@
 ---
-description: Avant de vous lancer dans la création de votre nouvelle instance Marketo Engage, suivez ces quelques étapes fondamentales qui assureront la continuité de votre utilisation. Ces étapes incluent la configuration du compte d’utilisation, la configuration de l’administration de support et l’abonnement aux mises à jour du système en cours.
+description: Avant de vous lancer dans la création de votre nouvelle instance Marketo Engage, suivez ces quelques étapes fondamentales qui assureront la continuité de votre utilisation. Ces étapes comprennent la configuration du compte d’utilisateur, la configuration de l’administration d’assistance ainsi que l’abonnement aux mises à jour continues du système.
 short-description: Après avoir terminé les étapes de configuration initiales, vous apprendrez à définir les éléments fondamentaux qui assureront la fluidité et la continuité de votre utilisation.
 title: Liste de contrôle de la configuration utilisateur
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-TQID: https://experienceleague.adobe.com/LAFZ0QGdWLREK-wGSy-YMgmEMXP7dQSsaGI9MV5hTic
+TQID: 'https://experienceleague.adobe.com/LAFZ0QGdWLREK-wGSy-YMgmEMXP7dQSsaGI9MV5hTic'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 subfeature_v2:
   - id: b83de148-8847-43b0-9656-84c65c2bf6e1
+    internal-label: User setup
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1138
+source-wordcount: '1138'
 ht-degree: 6%
-
 ---
-
 # Liste de contrôle de la configuration utilisateur {#user-setup-checklist}
 
 Maintenant que vous avez terminé toutes les [étapes de configuration initiales](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}, il est temps d’établir certains éléments fondamentaux pour assurer une utilisation continue et fluide. Cela jettera les bases de votre parcours avec Marketo Engage et vous aidera à tirer le meilleur parti de ses fonctionnalités. C’est parti !

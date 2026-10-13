@@ -4,18 +4,20 @@ description: Découvrez comment personnaliser le message du lien de désabonneme
 title: Personnaliser le message du lien de désabonnement
 exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/kv6F3guF1MHkS25cr-yr3QF-DtAsoRqNaCVrCUpMiEY
+TQID: 'https://experienceleague.adobe.com/kv6F3guF1MHkS25cr-yr3QF-DtAsoRqNaCVrCUpMiEY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 219
+source-wordcount: '219'
 ht-degree: 4%
-
 ---
-
 # Personnaliser le message du lien de désabonnement {#customize-unsubscribe-link-message}
 
 Nous avons toujours permis aux équipes de personnaliser leurs messages de lien de désabonnement, mais les administrateurs peuvent désormais définir les messages de lien de désabonnement pour l’ensemble de leur équipe afin d’assurer une messagerie cohérente.

@@ -4,18 +4,23 @@ description: Découvrez comment importer des listes contenant des caractères no
 title: Importer une liste de caractères non latins
 exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/Gm8yGhCq4D4Is9dE84rHf6XUAOY08viLQNEF-VjR2VA
+TQID: 'https://experienceleague.adobe.com/Gm8yGhCq4D4Is9dE84rHf6XUAOY08viLQNEF-VjR2VA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 324
+source-wordcount: '324'
 ht-degree: 14%
-
 ---
-
 # Importer une liste de caractères non latins {#import-a-non-latin-characters-list}
 
 Vous essayez d&#39;importer un fichier qui n&#39;est pas en anglais ? La liste s’affiche parfaitement lorsque vous l’ouvrez avec Excel.

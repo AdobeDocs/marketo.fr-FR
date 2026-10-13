@@ -3,16 +3,18 @@ description: Découvrez comment activer la connexion automatique à partir de Sa
 title: Connexion automatique à partir de Salesforce
 exl-id: 3b788af5-6204-40f8-af79-74729de45744
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/q6r5vG5dwpOpfUAaJ98MGhf5PW8ppw3bYv-Yv52A5DY
+TQID: 'https://experienceleague.adobe.com/q6r5vG5dwpOpfUAaJ98MGhf5PW8ppw3bYv-Yv52A5DY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 99
+source-wordcount: '99'
 ht-degree: 0%
-
 ---
-
 # Connexion automatique à partir de [!DNL Salesforce] {#auto-login-from-salesforce}
 
 La connexion automatique permet aux utilisateurs [!DNL Sales Insight Actions] de s’authentifier automatiquement auprès de [!DNL Sales Insight Actions] lorsqu’ils travaillent depuis [!DNL Salesforce].

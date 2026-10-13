@@ -3,16 +3,21 @@ description: Découvrez comment modifier les champs à synchroniser dans Marketo
 title: Modification des champs à synchroniser avant leur suppression dans Dynamics
 exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/vM7JJUlegPvtRlqgPJSIjDeq9jMMUr2PA6OAC-CopJI
+TQID: 'https://experienceleague.adobe.com/vM7JJUlegPvtRlqgPJSIjDeq9jMMUr2PA6OAC-CopJI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 214
+source-wordcount: '214'
 ht-degree: 4%
-
 ---
-
 # Modification des champs à synchroniser avant leur suppression dans [!DNL Dynamics] {#editing-fields-to-sync-before-deleting-them-in-dynamics}
 
 Il peut arriver que vous souhaitiez supprimer des champs dans [!DNL Dynamics]. Marketo conserve la liste de champs comme référence pour la synchronisation. Si un champ est supprimé dans [!DNL Dynamics] alors que la synchronisation est activée, la synchronisation peut rencontrer des erreurs. Avant de supprimer des champs, procédez comme suit.

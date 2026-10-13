@@ -1,22 +1,27 @@
 ---
 unique-page-id: 2359862
 description: Découvrez comment rechercher des images et des fichiers chargés dans Marketo. Recherchez rapidement des ressources dans Design Studio par nom ou par filtre.
-title: Rechercher des images et fichiers chargés
+title: Rechercher des images et des fichiers chargés
 exl-id: c8eb7493-768a-4580-a76e-5b59ca9c14b1
 feature: Image Editor
-TQID: https://experienceleague.adobe.com/bHD-qDzuv37pjKNQHfRV-X3X2eo1y7rDU-0NN7Xuelw
+TQID: 'https://experienceleague.adobe.com/bHD-qDzuv37pjKNQHfRV-X3X2eo1y7rDU-0NN7Xuelw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Design Studio
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: ecf3b0de-0d29-4cb7-bed7-bf29ea2e2f77
+    internal-label: Image editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 99
+source-wordcount: '99'
 ht-degree: 10%
-
 ---
-
-# Rechercher des images et fichiers chargés {#search-uploaded-images-and-files}
+# Rechercher des images et des fichiers chargés {#search-uploaded-images-and-files}
 
 Découvrez comment rechercher une image ou un fichier.
 

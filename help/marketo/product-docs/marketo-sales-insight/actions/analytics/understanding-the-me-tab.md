@@ -3,16 +3,18 @@ description: Découvrez l’onglet Moi et le statut de votre engagement par e-ma
 title: Présentation de l’onglet Moi
 exl-id: 7663f2f3-5266-4ef0-a719-f6630cc0f427
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/sr-slN0Q4-YvQmDO1Axn1fzvSq8ePLP6sxBLKkBwkls
+TQID: 'https://experienceleague.adobe.com/sr-slN0Q4-YvQmDO1Axn1fzvSq8ePLP6sxBLKkBwkls'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 108
+source-wordcount: '108'
 ht-degree: 3%
-
 ---
-
 # Présentation de l’onglet [!UICONTROL Moi] {#understanding-the-me-tab}
 
 Dans l’onglet [!UICONTROL Moi], vous pouvez voir le nombre d’e-mails envoyés et le nombre d’e-mails envoyés à l’aide d’un modèle avec l’activité d’e-mail.

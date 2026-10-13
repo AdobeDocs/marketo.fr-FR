@@ -1,24 +1,27 @@
 ---
 unique-page-id: 4719404
 description: Découvrez un test de votre campagne web dans Marketo Engage, y compris un test de votre campagne web. Utilisez ce guide pour passer à l’étape suivante.
-title: Effectuer un test AB de votre campagne web
+title: Effectuer un test AB de votre campagne web
 exl-id: 65d61b96-d39b-4388-971d-260c9c0aff93
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/mwO5mF2HGjYZr3CPpE4uan-7bn89bie-EjSR2JP6NvM
+TQID: 'https://experienceleague.adobe.com/mwO5mF2HGjYZr3CPpE4uan-7bn89bie-EjSR2JP6NvM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 346
+source-wordcount: '346'
 ht-degree: 4%
-
 ---
-
-# Effectuer un test AB de votre campagne web {#ab-test-your-web-campaign}
+# Effectuer un test AB de votre campagne web {#ab-test-your-web-campaign}
 
 Les tests constituent un excellent moyen d’optimiser vos campagnes web pour un meilleur engagement. Voici comment commencer.
 

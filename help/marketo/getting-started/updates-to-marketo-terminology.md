@@ -2,15 +2,16 @@
 unique-page-id: 11387674
 description: Mises à jour de la terminologie Marketo - Documents Marketo - Documentation du produit
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 title: Mises à jour de la terminologie Marketo
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '359'
 ht-degree: 100%
-
 ---
-
 # Mises à jour de la terminologie Marketo {#updates-to-marketo-terminology}
 
 Nous apportons des modifications à notre plateforme, ce qui aura une incidence sur la dénomination de certains éléments. Si vous disposez d’une nouvelle instance Marketo à compter de mars 2016, ou si votre société a renouvelé son contrat après juillet 2016, il est possible que vous voyiez la nouvelle terminologie.
@@ -19,7 +20,7 @@ Bien que la terminologie puisse varier dans la documentation de Marketo, nous vo
 
 Qu’est-ce qui a donc changé ?
 
-## Le lead devient une personne. {#lead-is-now-person}
+## Remplacement du terme « Lead » par « Personne » {#lead-is-now-person}
 
 La modification la plus importante est le changement de nom de lead/leads en personne/personnes.
 
@@ -79,11 +80,11 @@ Les jetons contenant le mot lead **ne changent pas**. Nous nous excusons pour to
 
 >[!NOTE]
 >
->Il *existe* un jeton appelé « Notes de la personne », mais ce jeton a toujours été là. Il est généralement utilisé, le cas échéant, pour un champ de description dans votre CRM.
+>Il *existe* un jeton appelé « Notes de la personne », mais ce jeton a toujours été là. Le cas échéant, il est généralement utilisé pour un champ de description dans votre système de gestion de la relation client (GRC).
 
 ## Gestion des champs {#field-management}
 
-Les champs qui contenaient le terme Lead ont été remplacés par Personne ou le mot Lead a été supprimé. Une exception notable réside toutefois dans le champ « Propriétaire du lead ». Il est maintenant connu sous le nom de « Propriétaire de ventes ».
+Les champs contenant le terme « Lead » ont été remplacés par « Personne » ou le terme « Lead » a simplement été supprimé. Une exception notable réside toutefois dans le champ « Propriétaire du lead ». Il est désormais appelé « Détenteur des ventes ».
 
 <table>
  <colgroup>
@@ -112,7 +113,7 @@ Les champs qui contenaient le terme Lead ont été remplacés par Personne ou le
 >
 >Pour obtenir la liste complète des noms de champs concernés, consultez cet [article de support](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target="_blank"}.
 
-## Real-Time Personalization (RTP) est désormais Web Personalization. {#real-time-personalization-rtp-is-now-web-personalization}
+## Personnalisation en temps réel (RTP) devient Personnalisation web {#real-time-personalization-rtp-is-now-web-personalization}
 
 <table>
  <colgroup>
@@ -137,7 +138,7 @@ Les champs qui contenaient le terme Lead ont été remplacés par Personne ou le
  </tbody>
 </table>
 
-En plus du changement de nom, il se compose désormais de quatre applications distinctes :
+Outre ce changement de nom, elle se compose désormais de quatre applications distinctes :
 
 | **[Web Personalization](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | A sa propre vignette sur l’écran d’accueil. |
 |---|---|

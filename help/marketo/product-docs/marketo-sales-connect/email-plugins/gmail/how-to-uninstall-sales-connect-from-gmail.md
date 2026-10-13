@@ -4,16 +4,18 @@ description: Découvrez comment désinstaller le plug-in Sales Connect de Gmail.
 title: Comment désinstaller Sales Connect de Gmail
 exl-id: 36032005-651f-43c8-a92a-0968b52ccb86
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/HIwYaMn9Az0jbDWOG9Af-Af-xfgYUtblkFrb6hH-VIk
+TQID: 'https://experienceleague.adobe.com/HIwYaMn9Az0jbDWOG9Af-Af-xfgYUtblkFrb6hH-VIk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 81
+source-wordcount: '81'
 ht-degree: 8%
-
 ---
-
 # Comment désinstaller [!DNL Sales Connect] de Gmail {#how-to-uninstall-sales-connect-from-gmail}
 
 Le plug-in [!DNL Sales Connect] pour Gmail s’exécute via une extension de navigateur. Vous devez le supprimer pour supprimer [!DNL Sales Connect] dans Gmail.

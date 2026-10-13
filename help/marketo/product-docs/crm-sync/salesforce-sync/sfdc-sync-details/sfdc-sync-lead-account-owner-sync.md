@@ -4,17 +4,22 @@ description: Découvrez comment les champs de prospect et de propriétaire de co
 title: Synchronisation de SFDC - Synchronisation des prospects et des propriétaires de compte
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/hw4ZXOFSDBvVm45z84aQkxgKU17O-8h1NhukpGCNsos
+TQID: 'https://experienceleague.adobe.com/hw4ZXOFSDBvVm45z84aQkxgKU17O-8h1NhukpGCNsos'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 218
+source-wordcount: '218'
 ht-degree: 15%
-
 ---
-
-# Synchronisation SFDC : synchronisation du lead/de l’entité propriétaire du compte {#sfdc-sync-lead-account-owner-sync}
+# Synchronisation SFDC : synchronisation propriétaire du compte/lead {#sfdc-sync-lead-account-owner-sync}
 
 Techniquement, ils synchronisent la table « utilisateur » dans [!DNL Salesforce], mais nous l’appellerons champs de prospect/propriétaire de compte.
 
@@ -22,17 +27,17 @@ Techniquement, ils synchronisent la table « utilisateur » dans [!DNL Salesforc
 
 Pour chaque personne synchronisée dans Marketo, nous synchronisons également les champs de propriétaire suivants :
 
-* Prénom du détenteur des ventes
-* Nom du détenteur des ventes
+* Prénom du propriétaire des ventes
+* Nom du propriétaire des ventes
 * Titre du propriétaire des ventes
-* Numéro de téléphone du détenteur des ventes
-* Adresse e-mail du détenteur des ventes
+* Numéro de téléphone du propriétaire des ventes
+* Adresse e-mail du propriétaire des ventes
 
 Pour chaque contact, nous synchronisons les cinq champs de propriétaire du prospect ci-dessus, ainsi que ces champs de propriétaire de compte :
 
-* Prénom du détenteur du compte
-* Nom du détenteur du compte
-* Adresse e-mail du détenteur du compte
+* Prénom du propriétaire du compte
+* Nom du propriétaire du compte
+* Adresse e-mail du propriétaire du compte
 
 ## Puis-je changer le propriétaire du prospect dans Marketo ? {#can-i-change-the-lead-owner-in-marketo}
 

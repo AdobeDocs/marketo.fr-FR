@@ -1,34 +1,40 @@
 ---
 description: Filtrez ou enregistrez l’activité des robots d’e-mail pour éviter les ouvertures et les clics exagérés en utilisant la correspondance de liste IAB et les modèles de proximité.
-title: Filtrage de l’activité des robots dans les e-mails
+title: Filtrage de l’activité des robots d’e-mail
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-TQID: https://experienceleague.adobe.com/b7H7jXcwtzD4UHkNkDoRWumbkR35U45VuDayeaWnXho
+TQID: 'https://experienceleague.adobe.com/b7H7jXcwtzD4UHkNkDoRWumbkR35U45VuDayeaWnXho'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 496
+source-wordcount: '496'
 ht-degree: 11%
-
 ---
-
-# Filtrage de l’activité des robots dans les e-mails {#filtering-email-bot-activity}
+# Filtrage de l’activité des robots d’e-mail {#filtering-email-bot-activity}
 
 Parfois, l’activité des robots d’e-mail peut gonfler par erreur les données d’ouvertures d’e-mail et de clics. Suivez les étapes ci-dessous pour résoudre ce problème.
 
 Deux méthodes distinctes sont utilisées pour confirmer l’activité des robots :
 
 * Correspondance avec [liste de robots Interactive Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"} : les activités qui correspondent à tout ce qui figure dans la liste IAB UA/IP (agent utilisateur/adresse IP) seront marquées comme des robots.
-* Correspondance avec le modèle de proximité : lorsque plusieurs activités se produisent en même temps (en moins d’une seconde), elles sont identifiées comme des robots. Les attributs pris en compte lors de la comparaison sont les suivants :
-   * ID de lead (doit être le même)
-   * Ressource e-mail (doit être la même)
-   * Clic sur un lien ou ouverture d’un e-mail
-   * Décalage horaire (doit être inférieur à une seconde)
+* Correspondance avec le modèle de proximité : lorsque plusieurs activités se produisent en même temps (en moins d’une seconde), elles sont identifiées comme des robots. Les attributs pris en compte lors de la comparaison sont les suivants :
+  * ID de lead (doit être le même)
+  * Ressource e-mail (doit être la même)
+  * Clic sur un lien ou ouverture d’un e-mail
+  * Décalage horaire (doit être inférieur à une seconde)
 
 Par rapport aux activités clic sur les liens d’e-mail et ouverture de l’e-mail , les nouveaux attributs seront renseignés avec les valeurs ci-dessous :
 

@@ -1,20 +1,25 @@
 ---
 unique-page-id: 10095307
 description: Découvrez comment configurer des règles de filtre de synchronisation personnalisées pour les adresses e-mail dans Dynamics. Utilisez des workflows pour définir la Synchronisation sur Mkto selon que le prospect ou le contact a un e-mail.
-title: Règles de filtre personnalisé de synchronisation pour une adresse e-mail
+title: Règles de filtre de synchronisation personnalisées pour une adresse e-mail
 exl-id: d1d51310-0c59-447c-818c-b25aa281c15c
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/SPEV9J4rabu7tMrPEOW8JYg2r7ihtTzE6OmJZvkOIZ4
+TQID: 'https://experienceleague.adobe.com/SPEV9J4rabu7tMrPEOW8JYg2r7ihtTzE6OmJZvkOIZ4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 221
+source-wordcount: '221'
 ht-degree: 7%
-
 ---
-
-# Règles de filtre personnalisé de synchronisation pour une adresse e-mail {#custom-sync-filter-rules-for-an-email-address}
+# Règles de filtre de synchronisation personnalisées pour une adresse e-mail {#custom-sync-filter-rules-for-an-email-address}
 
 Pour empêcher la synchronisation des enregistrements qui n’ont pas d’adresse e-mail, suivez ces règles.
 

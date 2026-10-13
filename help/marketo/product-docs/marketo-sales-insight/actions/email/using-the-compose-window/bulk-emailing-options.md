@@ -3,16 +3,18 @@ description: Découvrez les options de publipostage en masse dans les actions Sa
 title: Options d’envoi d’e-mails en masse
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/o4PzEJ3Rh1p-8ixAC5fOg3XzUg4GM6tBjBnt6F7QEm4
+TQID: 'https://experienceleague.adobe.com/o4PzEJ3Rh1p-8ixAC5fOg3XzUg4GM6tBjBnt6F7QEm4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 272
+source-wordcount: '272'
 ht-degree: 5%
-
 ---
-
 # Options d’envoi d’e-mails en masse {#bulk-emailing-options}
 
 L’envoi d’e-mails en bloc est un excellent moyen d’accélérer votre engagement des prospects. [!DNL Marketo Sales] offre deux manières d’envoyer des e-mails en bloc : **Regrouper les e-mails** et **Sélectionner et envoyer**. Les e-mails de groupe sont un excellent moyen d’envoyer rapidement des centaines d’e-mails à un groupe ciblé. L’utilisation de Sélectionner et Envoyer réduit les limites d’e-mail, mais offre davantage d’opportunités de personnalisation à l’utilisateur ou à l’utilisatrice.

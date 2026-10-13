@@ -1,29 +1,46 @@
 ---
-description: Notes de mise à jour de Dynamic Chat - Documents Marketo - Documentation du produit
+description: Notes de mise à jour de Dynamic Chat - Marketo Docs - Documentation du produit
 title: Notes de mise à jour de Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-TQID: https://experienceleague.adobe.com/AAOfVuJRhzuwLD48wA3me91Hx6LPD9NCOGHGaXe-vyA
+TQID: 'https://experienceleague.adobe.com/AAOfVuJRhzuwLD48wA3me91Hx6LPD9NCOGHGaXe-vyA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 3551
+source-wordcount: '3551'
 ht-degree: 94%
-
 ---
-
 # Notes de mise à jour de Dynamic Chat {#dynamic-chat-release}
 
 Les mises à jour d’Adobe Dynamic Chat fonctionnent sur un modèle de diffusion continue qui permet une approche plus évolutive du déploiement des fonctionnalités. Il arrive qu’il y ait plusieurs versions par mois. N’hésitez pas à vérifier régulièrement pour obtenir les informations les plus récentes.
@@ -32,7 +49,7 @@ La page Notes de mise à jour standard de Marketo Engage [peut être consultée
 
 ## Version De Mars 2026 {#march-2026-release}
 
-### Limite de temps d’attente du visiteur {#visitor-wait-time}
+### Limite de temps d’attente du visiteur ou de la visiteuse {#visitor-wait-time}
 
 Définissez une durée maximale (entre 10 et 500 secondes) pendant laquelle un visiteur attendra d’être connecté à un agent actif avant de recevoir un message de secours. [En savoir plus](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
 
@@ -46,17 +63,17 @@ Vous pouvez désormais télécharger un fichier .txt de votre transcription de c
 
 ### Réorganisation de la logique de transmission {#routing-logic-revamp}
 
-Nous avons réorganisé la logique de transmission de la conversation en direct dans Dynamic Chat pour garantir un comportement d’engagement plus intelligent et plus prévisible pour tous les types de transmission (compte, personnalisé, équipe et round-robin). La nouvelle logique simplifie les flux de transmission et améliore la gestion de secours lorsque des agentes et agents ne sont pas disponibles.
+Nous avons réorganisé la logique de transmission de la conversation en direct dans Dynamic Chat pour garantir un comportement d’engagement plus intelligent et plus prévisible pour tous les types de transmission (compte, personnalisé, équipe et round-robin). La nouvelle logique simplifie les flux de routage et améliore la gestion du fallback lorsque les agents ne sont pas disponibles.
 
 #### Améliorations clés du comportement de la transmission
 
 * **Jusqu’à deux tentatives d’engagement par session**
 
-   * Le système tente de se connecter à un maximum de deux agentes et agents (au plus), mais strictement dans la règle de transmission principale.
+  * Le système tente de se connecter à un maximum de deux agentes et agents (au plus), mais strictement dans la règle de transmission principale.
 
-   * Si un agent ou une agente est disponible mais ne répond pas (par exemple, refuse ou manque la conversation), le système tente de se connecter à un autre agent ou une autre agente du même pool.
+  * Si un agent ou une agente est disponible mais ne répond pas (par exemple, refuse ou manque la conversation), le système tente de se connecter à un autre agent ou une autre agente du même pool.
 
-   * La logique de secours (round-robin, par exemple) n’est activée que si aucune personne éligible n’est trouvée parmi les agentes et agents lors de la résolution initiale, et non pour réessayer après un échec de l’engagement.
+  * La logique de secours (round-robin, par exemple) n’est activée que si aucune personne éligible n’est trouvée parmi les agentes et agents lors de la résolution initiale, et non pour réessayer après un échec de l’engagement.
 
 * **Comportement spécifique à la règle de transmission**
 
@@ -64,17 +81,17 @@ Nous avons réorganisé la logique de transmission de la conversation en direct 
 
 Si le domaine d’e-mail d’un visiteur ou d’une visiteuse est mappé à un compte connu, l’agent mappé ou l’agente mappée conserve toujours la priorité.
 
-Si l’agent ou l’agente est disponible, la conversation lui est directement adressée.
+Si l’agent est disponible, la conversation lui est directement adressée.
 
-Si l’agent ou l’agente n’est pas disponible, le système :
+Si l’agent n’est pas disponible, le système :
 
-* ne tente pas d’utiliser un autre agent ou une autre agente, même si le round-robin est activé comme solution de secours.
+* N’essaie pas d’utiliser un autre agent, même si le « round-robin » est activé comme solution de fallback.
 
 * Au lieu de cela, il :
 
-   * Affiche le calendrier de réunion de l&#39;agent mappé (si activé),
--ou-
-   * renvoie à un message par défaut (dans le pire des cas).
+  * Affiche le calendrier de réunion de l&#39;agent mappé (si activé),
+    -ou-
+  * renvoie à un message par défaut (dans le pire des cas).
 
 La règle de routage au niveau de la carte (par exemple Équipe, Personnalisée) n’est prise en compte que si le routage au niveau du compte n’est pas applicable (aucun domaine ou agent correspondant).
 
@@ -86,7 +103,7 @@ Si la première personne disponible ne s’engage pas, le système essaie un aut
 
 La solution de secours round-robin n’est pas déclenchée parce qu’un agent ou une agente ne répond pas.
 
-Si aucun agent ni aucune agente ne s’engage :
+Si aucun agent ne s’engage :
 
 * Le système affiche le calendrier du premier agent essayé (s&#39;il est activé),
 -ou-
@@ -104,11 +121,11 @@ Si le round-robin est utilisé comme solution de secours, il n’est activé que
 
 ##### Flux d’expérience du visiteur ou de la visiteuse
 
-Le système vérifie si la transmission du compte est applicable.
+Le système vérifie si le routage par compte est applicable.
 
 * Si oui, et si l’agent ou l’agente est disponible, il se connecte immédiatement.
 
-* Si l’agent ou l’agente n’est pas éligible ou n’est pas disponible, il passe à la règle de transmission au niveau de la carte.
+* Si l’agent n’est pas éligible ou n’est pas disponible, le système passe à la règle de routage au niveau de la carte.
 
 La règle de transmission au niveau de la carte (personnalisée, équipe, round-robin) est évaluée.
 
@@ -118,9 +135,9 @@ La règle de transmission au niveau de la carte (personnalisée, équipe, round-
 
 * Si aucun engagement ne réussit, une logique de secours est appliquée :
 
-   * Calendrier de secours (si activé),
--ou-
-   * message par défaut.
+  * Calendrier de secours (si activé),
+    -ou-
+  * message par défaut.
 
 La solution de secours du round-robin n’est prise en compte que lorsqu’aucun agent ni aucune agente éligible n’est disponible dans la règle de transmission principale, et non lorsque des agentes et agents individuels ne répondent pas.
 
@@ -144,13 +161,13 @@ _&#x200B;**Transmission du compte**&#x200B;_
   </tr>
   <tr>
     <td>Solution de secours (type round-robin)</td>
-    <td>L’agent mappé ou l’agente mappée n’est pas disponible, la solution de secours de type round-robin est activée.</td>
+    <td>L’agent mappé n’est pas disponible, la solution de fallback de type « round-robin » est activée.</td>
     <td>Le système sélectionne un agent ou une agente disponible via le round-robin et établit le contact. </td>
   </tr>
   <tr>
     <td>Aucun agent ni aucune agente de secours</td>
-    <td>L’agent mappé ou l’agente mappée n’est pas disponible, pas de solution de secours round-robin ; la réservation de réunion est activée.</td>
-    <td>Le système affiche le calendrier de l’agent mappé ou de l’agente mappée ou affiche le message de secours par défaut.</td>
+    <td>L’agent mappé n’est pas disponible, aucune solution de fallback « round-robin » n’est définie ; la réservation de réunions est activée.</td>
+    <td>Le système affiche le calendrier de l’agent mappé ou le message de fallback par défaut.</td>
   </tr>
 </tbody></table>
 
@@ -165,18 +182,18 @@ _&#x200B;**Transmission personnalisée**&#x200B;_
 <tbody>
   <tr>
     <td>Idéal</td>
-    <td>La logique personnalisée résout une liste d’agentes et d’agents ; le premier agent ou la première agente est disponible et accepte la conversation.</td>
+    <td>La logique personnalisée renvoie une liste d’agents ; le premier agent est disponible et accepte la conversation.</td>
     <td>La conversation se connecte au premier agent ou à la première agente.</td>
   </tr>
   <tr>
     <td>Solution de secours (type round-robin)</td>
-    <td>La règle personnalisée ne résout aucun agent ni aucune agente, la solution de secours round-robin est activée.</td>
+    <td>La règle personnalisée ne résout aucun agent, la solution de fallback « round-robin » est activée.</td>
     <td>Le système sélectionne un agent ou une agente disponible via le round-robin et établit le contact.</td>
   </tr>
   <tr>
     <td>Aucun agent ni aucune agente de secours</td>
     <td>Deux agentes et agents ont été résolus ; aucun n’accepte la conversation, la solution de secours est définie sur le calendrier de réunion.</td>
-    <td>Le calendrier du premier agent tenté ou de la première agente tentée ou le message de secours par défaut s’affiche.</td>
+    <td>Le calendrier du premier agent sollicité ou le message de fallback par défaut s’affiche.</td>
   </tr>
 </tbody></table>
 
@@ -191,8 +208,8 @@ _&#x200B;**Transmission d’équipe**&#x200B;_
 <tbody>
   <tr>
     <td>Idéal</td>
-    <td>L’équipe comprend des agentes et agents qui utilisent la conversation en direct ; le premier agent ou la première agente disponible accepte la conversation.</td>
-    <td>La conversation se connecte à cet agent ou à cette agente.</td>
+    <td>L’équipe comprend des agents qui utilisent la conversation en direct ; le premier agent disponible accepte la conversation.</td>
+    <td>La conversation est attribuée à cet agent.</td>
   </tr>
   <tr>
     <td>Solution de secours (type round-robin)</td>
@@ -217,7 +234,7 @@ _&#x200B;**Transmission du round-robin**&#x200B;_
 <tbody>
   <tr>
     <td>Idéal</td>
-    <td>La sélection du round-robin possède plusieurs agentes et agents ; le second agent ou la seconde agente accepte la conversation si le premier agent ou la première agente ne l’accepte pas.</td>
+    <td>Le pool « round-robin » comprend plusieurs agents ; le deuxième agent accepte la conversation après le refus du premier.</td>
     <td>La conversation se connecte au second agent ou à la seconde agente.</td>
   </tr>
   <tr>
@@ -228,13 +245,13 @@ _&#x200B;**Transmission du round-robin**&#x200B;_
   <tr>
     <td>Aucun agent ni aucune agente de secours</td>
     <td>Aucun agent ni aucune agente disponible ; la solution de secours est désactivée.</td>
-    <td>Un message de secours statique s’affiche pour le visiteur ou la visiteuse.</td>
+    <td>Un message de fallback statique est présenté au visiteur.</td>
   </tr>
 </tbody></table>
 
 ### Notification Pulse {#pulse-notification}
 
-Chaque fois qu’un visiteur ou une visiteuse demande à se connecter à un agent ou une agente, nous envoyons une notification in-app et via le navigateur à l’agent ou à l’agente. Mais parfois, les agentes et agents ne voient pas ces conversations.
+Chaque fois qu’un visiteur ou une visiteuse demande à se connecter à un agent ou une agente, nous envoyons une notification in-app et via le navigateur à l’agent ou à l’agente. Mais il arrive parfois que les agents manquent ces demandes de conversation.
 
 Avec cette version, l’agent ou l’agente en direct peut recevoir une notification e-mail, Slack, in-app ou dans son navigateur lorsqu’un nouveau visiteur ou une nouvelle visiteuse souhaite discuter.
 
@@ -262,7 +279,7 @@ Le « Poke », qui affiche la question d’origine à côté de l’icône de 
 
 ### Mise à jour de la solution de secours par défaut {#default-fallback-update}
 
-Pour toute règle personnalisée ou équipe dans une vignette de conversation en direct : si aucun agent ni aucune agente n’est disponible (ou si la conversation ne peut pas se connecter), le système utilise le round-robin pour sélectionner les agentes et agents disponibles (tous ceux disponibles à cet instant, quelle que soit la logique/règle de transmission définie dans le flux).
+Pour toute règle personnalisée ou équipe configurée comme carte de conversation en direct : si aucun agent n’est disponible (ou si la connexion à la conversation chat échoue), le système bascule vers le routage « round-robin » afin de sélectionner un agent disponible (parmi tous les agents disponibles à ce moment-là, quelle que soit la logique ou la règle de routage définie dans le flux).
 
 ### Intégration de DemandBase {#demandbase-integration}
 
@@ -280,21 +297,21 @@ Plusieurs améliorations ont été apportées au tableau de bord Analytics, nota
 
 * Nombre total de demandes de conversation en direct manquées : nombre de visiteurs et visiteuses sans assistance par rapport au total des demandes d’une « conversation avec un agent ou une agente »
 
-* Durée moyenne de conversation en minutes : analysez la « durée moyenne de conversation » entre les visiteurs et visiteuses et vos agentes et agents.
+* Durée moyenne de la conversation en minutes : analyse la « durée moyenne de conversation » entre les visiteurs et vos agents.
 
-* Temps de réponse moyen de l’agent ou de l’agente en secondes : analysez le « temps moyen nécessaire » aux agentes et agents pour répondre aux questions et réponses de leur conversation en direct.
+* Temps de réponse moyen de l’agent en secondes : analyse le « temps moyen nécessaire » aux agents pour répondre aux questions de la conversation en direct.
 
-* Tableau de bord quotidien : demandes de conversation en direct ayant abouti à une connexion, demandes de conversation en direct manquées, trier et filtrer les activités récentes des conversations en direct
+* Tableau de bord quotidien : demandes de conversation en direct connectées avec succès, demandes de conversation en direct manquées, tri et filtrage des activités récentes de conversation en direct
 
 ![](assets/dynamic-chat-sep-oct-2024-release-1.png)
 
 ### Score de conversation {#conversation-scoring}
 
-Quantifiez vos leads en fonction de la qualité de leur interaction dans la conversation et utilisez cette mesure comme déclencheur/filtre dans les campagnes intelligentes Marketo Engage. Utilisez le nouvel attribut _score de conversation_ sur les activités suivantes :
+Évaluez vos prospects en fonction de la qualité de leur interaction par conversation et utilisez cette mesure comme déclencheur/filtre dans les campagnes intelligentes Marketo Engage. Utilisez le nouvel attribut _score de conversation_ sur les activités suivantes :
 
-* A interagi avec un dialogue
+* A pris part à un dialogue
 * A interagi avec un flux de conversation
-* A interagi avec un agent ou une agente
+* A interagi avec un agent
 
 **Points à noter :**
 
@@ -304,9 +321,9 @@ Quantifiez vos leads en fonction de la qualité de leur interaction dans la conv
 
 * Définition d’un score :
 
-   * Dans la boîte de réception de l’agent ou de l’agente, au cours d’une conversation en direct, l’agent ou l’agente peut mettre à jour ou définir un score pour la conversation, qui est stocké dans l’activité de conversation.
+  * Depuis la boîte de réception des agents, pendant une conversation en direct, l’agent peut mettre à jour ou définir un score pour la conversation, qui est ensuite enregistré dans l’activité de la conversation.
 
-   * Dans le concepteur de flux, dans la vignette d’objectif, l’utilisateur ou l’utilisatrice peut mettre à jour ou définir un score pour la conversation.
+  * Dans le concepteur de flux, dans la vignette d’objectif, l’utilisateur ou l’utilisatrice peut mettre à jour ou définir un score pour la conversation.
 
 ![](assets/dynamic-chat-sep-oct-2024-release-2.png)
 
@@ -378,15 +395,15 @@ Vous pouvez désormais permettre au chatbot d’hériter directement de la polic
 
 ![](assets/dynamic-chat-sep-oct-2024-release-5.png)
 
-### Intégration de Demandbase à Dynamic Chat {#demandbase-integration-with-dynamic-chat}
+### Intégration de Demandbase à Dynamic Chat {#demandbase-integration-with-dynamic-chat}
 
-Les utilisateurs et utilisatrices de Demandbase peuvent apporter leur propre licence Demandbase et activer l’intégration. Utilisez les attributs de personne Demandbase pour le ciblage de dialogue, le branding conditionnel et la transmission personnalisée.
+Les utilisateurs et utilisatrices de Demandbase peuvent apporter leur propre licence Demandbase et activer l’intégration. Utilisez les attributs de personne Demandbase pour le ciblage des dialogues, le branding conditionnel et le routage personnalisé.
 
 La résolution de ces valeurs d’attribut sur une personne est effectuée en temps réel et est stockée dans le profil de la personne concernée.
 
 ### Optimisation du temps de chargement du flux conversationnel {#optimized-conversation-flow-load-time}
 
-Pour améliorer l’expérience d’utilisation, un chargeur « Shimmer » s’affiche désormais au lieu d’un espace vide pendant le chargement du flux conversationnel.
+Pour améliorer l’expérience client, un indicateur de chargement de type « Shimmer » s’affiche désormais au lieu d’un espace vide pendant le chargement du flux conversationnel.
 
 **Avant**
 
@@ -406,7 +423,7 @@ Les concepteurs de flux prennent désormais en charge [l’insertion d’HTML](/
 
 ![](assets/dynamic-chat-aug-2024-release-1.png)
 
-### Défilement du chat bot vers le bas {#chatbot-scroll-to-bottom}
+### Faire défiler le chatbot jusqu’au dernier message {#chatbot-scroll-to-bottom}
 
 Une icône a été ajoutée au chatbot pour permettre aux visiteurs et visiteuses web d’accéder directement au dernier message. Cela permet aux visiteurs et visiteuses de faire défiler le texte pour revenir rapidement à la conversation.
 
@@ -436,7 +453,7 @@ Lors d’une conversation avec un lead anonyme et avec un ID d’e-mail fourni, 
 
 Auparavant, lorsque la synchronisation Marketo Engage était activée, Dynamic Chat synchronisait uniquement les leads connus avec un ou plusieurs ID de cookie provenant de Marketo Engage. Désormais, tous les leads connus (ID de cookie présent ou non) seront synchronisés dans Dynamic Chat et pourront être utilisés pour la personnalisation des conversations.
 
-### Transmettre des données de visiteur ou de visiteuse supplémentaires aux flux de conversation {#pass-additional-visitor-data}
+### Transmettre des données de visiteur supplémentaires aux flux conversationnels {#pass-additional-visitor-data}
 
 Si vous capturez les informations sur les visiteurs par d’autres canaux tels que les formulaires ou les connexions, vous pouvez désormais transmettre ces informations directement à Dynamic Chat.
 
@@ -444,11 +461,11 @@ Si vous capturez les informations sur les visiteurs par d’autres canaux tels q
 
 ### Données déduites actualisées {#refreshed-inferred-data}
 
-La majorité des conversations sur un site web ont lieu avec des visiteurs et visiteuses anonymes.1 Vous pouvez toujours les cibler par le biais de données déduites, qui reposent sur les adresses IP des visiteurs et visiteuses. Nous avons mis à jour notre base de données d’adresses IP et les données déduites correspondantes, qui prend désormais en charge quatre fois plus d’adresses IP.
+La majorité des conversations sur un site web sont menées avec des visiteurs anonymes. Vous pouvez toujours les cibler par le biais de données déduites, qui reposent sur les adresses IP des visiteurs et visiteuses. Nous avons mis à jour notre base de données d’adresses IP et les données déduites correspondantes, qui prend désormais en charge quatre fois plus d’adresses IP.
 
-### Son ajouté à la notification du navigateur de l’agent ou de l’agente {#sound-added-to-agent-browser-notification}
+### Son ajouté à la notification du navigateur de l’agent {#sound-added-to-agent-browser-notification}
 
-Lorsqu’une conversation en direct est affectée à un agent ou une agente, cette personne reçoit une notification du navigateur. Mais parfois, elle ne la voit pas. Nous avons ajouté un [son de notification](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#when-a-live-chat-is-routed-to-an-agent){target="_blank"} pour éviter de manquer des notifications à l’avenir.
+Lorsqu’une conversation en direct est affectée à un agent ou une agente, cette personne reçoit une notification du navigateur. Mais parfois, ils ne la voient pas. Nous avons ajouté un [son de notification](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#when-a-live-chat-is-routed-to-an-agent){target="_blank"} pour éviter de manquer des notifications à l’avenir.
 
 ![](assets/dynamic-chat-aug-2024-release-6.png)
 
@@ -520,7 +537,7 @@ Incitez les visiteurs et visiteuses web à utiliser un appel à l’action pour 
 
 **Date de publication : 23 avril 2024**
 
-### Flux conversationnel désormais disponibles pour tous les utilisateurs et utilisatrices {#conversational-flows-available-to-all-users}
+### Flux conversationnel désormais disponible pour tout le monde {#conversational-flows-available-to-all-users}
 
 Rendez vos formulaires et vos pages de destination plus conversationnels et raccourcissez l’entonnoir de vente en permettant aux leads qualifiés de réserver une réunion ou une conversation avec le service des ventes immédiatement après un envoi de formulaire avec Conversational Forms, désormais entièrement disponible&#42; pour tous les utilisateurs et utilisatrices de Dynamic Chat.
 
@@ -530,9 +547,9 @@ _&#42;Précédemment disponible en version d’essai avec 100 engagements à vi
 
 Les [fonctions de rappel](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md){target="_blank"} vous permettent de collecter des événements d’analyse Dynamic Chat dans des systèmes externes, tels qu’Adobe Analytics ou Google Analytics, lorsque des visiteurs et visiteuses s’engagent dans des conversations Dynamic Chat. Vous activez les événements d’analyse Dynamic Chat en enregistrant un rappel avec l’API pour écouter les événements. Vous disposez ainsi d’une vue plus holistique de votre engagement Dynamic Chat par rapport à d’autres données essentielles, telles que le trafic web.
 
-### Conditions de disponibilité des agentes et agents en direct ajoutées au branchement conditionnel {#live-agent-availability-conditional-branching}
+### Ajout de conditions de disponibilité des agents en direct au branchement conditionnel {#live-agent-availability-conditional-branching}
 
-Outre les champs Marketo Engage natifs et personnalisés, vous pouvez désormais utiliser le branchement conditionnel pour créer des branches en fonction de la disponibilité de l’agent ou de l’agente. Cela s’avère utile si vous souhaitez uniquement offrir aux visiteurs et visiteuses la possibilité de parler à un agent ou une agente en direct lorsque des agentes et agents en direct sont disponibles.
+Outre les champs Marketo Engage natifs et personnalisés, vous pouvez désormais utiliser le branchement conditionnel pour créer des branches en fonction de la disponibilité des agents. Cette fonctionnalité est utile si vous souhaitez proposer aux visiteurs la possibilité de discuter avec un agent en direct uniquement lorsque celui-ci est disponible.
 
 ![](assets/dynamic-chat-release-1.png)
 
@@ -548,11 +565,11 @@ Nous avons introduit le branchement conditionnel pour les dialogues plus tôt ce
 
 ### Conversation en direct pour les flux conversationnels {#live-chat-for-conversational-flows}
 
-Nous avons introduit la fonctionnalité de conversation en direct pour les dialogues en 2023. Vous pouvez désormais ajouter des engagements de conversation en direct à vos flux conversationnels également. Si vous utilisez des flux de conversation avec vos formulaires Marketo Engage, vous pouvez désormais permettre aux visiteurs qualifiés de discuter avec un agent en direct immédiatement après l’envoi du formulaire.
+Nous avons introduit la fonctionnalité de conversation en direct pour les dialogues en 2023. Vous pouvez désormais ajouter des sessions de conversation en direct à vos flux conversationnels également. Si vous utilisez des flux de conversation avec vos formulaires Marketo Engage, vous pouvez désormais permettre aux visiteurs qualifiés de discuter avec un agent en direct immédiatement après l’envoi du formulaire.
 
-### Activités Marketo Engage récentes dans la boîte de réception de l’agent ou de l’agente {#recent-marketo-engage-activities-in-agent-inbox}
+### Activités Marketo Engage récentes dans la boîte de réception de l’agent {#recent-marketo-engage-activities-in-agent-inbox}
 
-Nous avons ajouté des activités Marketo Engage récentes à la section Activités récentes de la boîte de réception de l’agent ou de l’agente. Ainsi, lorsqu’un visiteur ou une visiteuse de site demande à discuter avec un agent ou une agente, l’agent ou l’agente peut rapidement voir si le visiteur ou la visiteuse a récemment interagi dans l’une des activités Marketo Engage suivantes (25 dernières activités) :
+Nous avons ajouté les activités récentes de Marketo Engage à la section « Activités récentes » de la boîte de réception des agents. Ainsi, lorsqu’un visiteur d’un site web demande à discuter avec un agent, celui-ci peut rapidement voir si le visiteur a récemment effectué l’une des activités Marketo Engage suivantes (25 dernières activités) :
 
 * E-mail ouvert
 * Page web visitée
@@ -567,7 +584,7 @@ Les administrateurs et administratrices peuvent désormais facilement identifier
 
 ![](assets/dynamic-chat-release-4.png)
 
-### Paramètre de préavis minimal dans la configuration du calendrier de l’agent ou de l’agente {#minimum-notice-setting-in-agent-calendar-configuration}
+### Paramètre de délai de préavis minimal dans la configuration du calendrier de l’agent {#minimum-notice-setting-in-agent-calendar-configuration}
 
 Les utilisateurs et utilisatrices ont signalé que les visiteurs et visiteuses web réservaient des réunions dans leur calendrier avec un préavis de 10 minutes seulement. Nous avons donc introduit un paramètre de préavis minimal dans la configuration du calendrier de l’agent ou de l’agente et défini le délai par défaut à 24 heures.
 
@@ -579,7 +596,7 @@ Certains utilisateurs et utilisatrices ont indiqué rencontrer des problèmes av
 
 Lorsqu’une personne est ajoutée à Admin Console avec une autorisation de conversation en direct ou de réservation de réunion, elle s’affiche immédiatement dans la liste Gestion des agentes et agents et peut être ajoutée à des dialogues, des flux conversationnels, des règles de transmission et des équipes.
 
-Lorsqu’une personne disposant d’autorisations de réservation de réunion ou de conversation en direct est supprimée d’Admin Console, elle est immédiatement supprimée de Dynamic Chat, ne sera plus disponible pour la conversation en direct ou la transmission de réunion et ne sera plus comptabilisée dans les limites de licence.
+Lorsqu’une personne disposant des autorisations de réservation de réunions ou de conversation en direct est supprimée d’Admin Console, elle est immédiatement supprimée de Dynamic Chat, n’est plus disponible pour le routage des conversations en direct ou des réunions et n’est plus prise en compte dans les limites de licence
 
 ### Amélioration des performances des rapports au niveau de la conversation {#improved-conversation-level-report-performance}
 
@@ -593,9 +610,9 @@ Nous avons simplifié la structure et la dénomination des autorisations dans Ad
 
 * La catégorie « Gestion des conversations » s’appelle désormais « Conversations ».
 * La catégorie « Réunions » s’appelle désormais « Activités ».
-* La catégorie « Paramètres d’agent ou d’agente » s’appelle désormais « Agentes et agents ».
+* La catégorie « Paramètres d’agent » s’appelle désormais « Agents ».
 * La catégorie « Paramètres d’administration » s’appelle désormais « Configuration ».
-* La catégorie « Conversation en direct » a été supprimée et toutes les autorisations de conversation en direct ont été déplacées vers la catégorie Agentes et agents.
+* La catégorie « Conversation en direct » a été supprimée et toutes les autorisations de conversation en direct ont été déplacées vers la catégorie « Agents ».
 
 ![](assets/dynamic-chat-release-7.png)
 
@@ -613,7 +630,7 @@ Nous avons changé le comportement de la touche de retour dans la boîte de réc
 
 Ne vous inquiétez pas. La transmission du round-robin est toujours pleinement fonctionnelle et fonctionne comme elle l’a toujours fait. Nous venons de supprimer la page qui affichait une liste souvent inexacte d’agentes et agents et de leur ordre dans la file d’attente de transmission du round-robin.
 
-Lorsque nous avons publié Dynamic Chat en 2022, il n’y avait aucune prise en charge de la conversation en direct, seulement de la réservation de réunion, et la page de transmission du round-robin a été conçue en tenant compte uniquement de la réservation de réunion. Avec l’introduction de la conversation en direct l’année dernière, la page du round-robin est devenue obsolète, car elle ne reflétait pas précisément la nature plus complexe de la transmission du round-robin entre les agentes et agents avec des autorisations de réservation de réunion et de conversation en direct. Nous avons exploré quelques options différentes pour résoudre ce problème, mais nous avons finalement décidé que la supprimer complètement était la meilleure option pour minimiser la confusion.
+Lorsque nous avons lancé Dynamic Chat en 2022, la conversation en direct n’était pas encore prise en charge ; seule la réservation de réunions était disponible. La page de routage « Round Robin » a donc été conçue uniquement pour la réservation de réunions. Avec l’introduction de la conversation en direct l’année dernière, la page du round-robin est devenue obsolète, car elle ne reflétait pas précisément la nature plus complexe de la transmission du round-robin entre les agentes et agents avec des autorisations de réservation de réunion et de conversation en direct. Nous avons exploré quelques options différentes pour résoudre ce problème, mais nous avons finalement décidé que la supprimer complètement était la meilleure option pour minimiser la confusion.
 
 ![](assets/dynamic-chat-release-9.png)
 
@@ -633,7 +650,7 @@ Vous l’avez demandé et nous l’avons fait. Vous pouvez désormais afficher l
 
 ### Branchement conditionnel dans les dialogues {#conditional-branching-in-dialogues}
 
-Le branchement conditionnel vous permet de créer des branches dans vos flux de dialogue en fonction de différentes conditions. Désormais, vous pouvez présenter différents contenus à différentes personnes dans le même dialogue en fonction des attributs du lead et de la société dans Marketo Engage.
+Le branchement conditionnel vous permet de créer des branches dans vos flux de dialogue en fonction de différentes conditions. Désormais, vous pouvez présenter du contenu personnalisé à différents profils au sein d’un même dialogue en fonction des attributs de lead et d’entreprise dans Marketo Engage.
 
 ## Version de janvier 2024 {#january-release}
 
@@ -641,6 +658,6 @@ Le branchement conditionnel vous permet de créer des branches dans vos flux de 
 
 ### Paramètre de limite des conversations en direct simultanées dans la gestion des agentes et agents {#Concurrent-live-chat-limit-setting}
 
-Par défaut, chaque agent ou agente de conversation en direct de votre instance peut s’engager dans un maximum de 5 sessions de conversation en direct à la fois. Nous avons introduit un nouveau paramètre dans la gestion des agentes et agents qui vous permet d’ajuster cette limite de 1 à 10.
+Par défaut, chaque agent de conversation en direct de votre instance peut participer simultanément à un maximum de cinq sessions de conversation en direct. Nous avons introduit un nouveau paramètre dans la gestion des agents qui vous permet d’ajuster cette limite entre 1 et 10.
 
 ![](assets/dynamic-chat-release-11.png)

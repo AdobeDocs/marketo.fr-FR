@@ -4,18 +4,21 @@ description: Découvrez comment mettre à niveau la solution Marketo Sales Insig
 title: Mettre à niveau la solution Informations sur les ventes Marketo pour Microsoft Dynamics
 exl-id: ddc26dc6-7552-4fac-8102-657ecd8c9445
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/z8kco6heN6FNMHz9QOecDdG-4thgtsrfrc9D-UCwbsY
+TQID: 'https://experienceleague.adobe.com/z8kco6heN6FNMHz9QOecDdG-4thgtsrfrc9D-UCwbsY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 139
+source-wordcount: '139'
 ht-degree: 8%
-
 ---
-
 # Mettre à niveau la solution [!DNL Marketo Sales Insight] pour [!DNL Microsoft Dynamics] {#upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
 Lorsqu’une nouvelle solution [!DNL Microsoft Dynamics] est publiée pour [!DNL Sales Insight], vous pouvez télécharger la mise à niveau depuis la zone [!UICONTROL Admin] de votre compte .

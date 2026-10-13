@@ -2,13 +2,17 @@
 description: Découvrez comment les politiques de conservation des données sur 25 mois et 90 jours de Marketo affectent les rapports Analytics, avec une répartition par rapport et des conseils pour conserver les données plus longtemps.
 title: Conservation des données
 feature: Reporting
-source-git-commit: 8eb9fd285e5dd055603579fbb5e7a4c4eb681172
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '1084'
 ht-degree: 5%
-
 ---
-
 # Politique de conservation des données d’activité de Marketo - Impact sur les rapports
 
 Marketo conserve les données d’activité marketing de manière progressive. Les données sur les activités et les adhésions aux campagnes sont stockées pendant 25 mois consécutifs après la date d’activité. Par défaut, les données d’activité volumineuses sont conservées pendant 90 jours consécutifs après la date d’activité, après quoi elles peuvent être ajustées par utilisateur. Au-delà de ces périodes de conservation, les données ne sont plus disponibles via l’interface utilisateur de Marketo.
@@ -38,7 +42,7 @@ Le tableau ci-dessous résume le comportement de chaque rapport, y compris les s
 | | Filtres sur les attributs de personne (par exemple : prénom) | Non |
 | | Filtres sur les activités des personnes au cours des 25 derniers mois | Non |
 | | Filtres sur les activités des personnes sans contrainte de date | Oui |
-| **Analyseur de chemin de succès** | N’inclut pas les listes dynamiques | NR |
+| **Analyseur de chemin de succès** | N’inclut pas les listes dynamiques | S/O |
 | **Rapport d’influence sociale** | Aucun filtre de liste dynamique | Oui |
 | | Filtres sur les attributs de personne (par exemple : prénom) | Oui |
 | | Filtres sur les activités des personnes au cours des 25 derniers mois | Oui |

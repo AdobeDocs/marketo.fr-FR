@@ -1,22 +1,24 @@
 ---
 unique-page-id: 11385940
 description: Découvrez comment configurer du contenu prédictif pour les médias riches avec des descriptions, des images sRVB et des catégories. Activez le contenu approuvé pour les recommandations web.
-title: Modifier le contenu prédictif des médias riches
+title: Modifier le contenu prédictif pour le rich media
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/XHMDPgftozNUSvcOrKdFcilATEmARQiBQd55jyulAyc
+TQID: 'https://experienceleague.adobe.com/XHMDPgftozNUSvcOrKdFcilATEmARQiBQd55jyulAyc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 228
+source-wordcount: '228'
 ht-degree: 6%
-
 ---
-
-# Modifier le contenu prédictif des médias riches {#edit-predictive-content-for-rich-media}
+# Modifier le contenu prédictif pour le rich media {#edit-predictive-content-for-rich-media}
 
 Voici comment configurer votre contenu prédictif pour les médias riches.
 

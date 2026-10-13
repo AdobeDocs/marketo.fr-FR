@@ -1,17 +1,23 @@
 ---
 unique-page-id: 4718668
 description: Découvrez comment utiliser les étapes du contrat de niveau de service du modèle de chiffre d’affaires dans Marketo Engage à l’aide des étapes du contrat de niveau de service. Utilisez ce guide pour passer à l’étape suivante.
-title: Utilisation d’étapes SLA du modèle de revenu
+title: Utilisation des étapes SLA du modèle de revenus
 exl-id: 48ca4be9-0e77-4065-8769-ce046d0c50ea
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 3%
-
 ---
-
-# Utilisation d’étapes SLA du modèle de revenu {#using-revenue-model-sla-stages}
+# Utilisation des étapes SLA du modèle de revenus {#using-revenue-model-sla-stages}
 
 SLA signifie « service level agreement ». Ces étapes sont utilisées lorsqu’il existe une durée maximale définie pendant laquelle un prospect doit être évalué ou traité avant d’avancer ou de quitter le processus.
 

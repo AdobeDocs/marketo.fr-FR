@@ -5,18 +5,21 @@ title: SEO - Export de résultats des mots-clés
 exl-id: cc1a2487-cdf1-4bf0-ba7a-a020483d0c6e
 hide: true
 feature: SEO
-TQID: https://experienceleague.adobe.com/V8HVfCGhMhXFAMkW5ruLIs0JAdN-JRK54uQnxXCrfmo
+TQID: 'https://experienceleague.adobe.com/V8HVfCGhMhXFAMkW5ruLIs0JAdN-JRK54uQnxXCrfmo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e7f165cf-33cc-5c68-9025-558e655fec14
+    internal-label: SEO
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Optimization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 176
+source-wordcount: '176'
 ht-degree: 4%
-
 ---
-
 # SEO - Export de résultats des mots-clés {#seo-exporting-keyword-results}
 
 Découvrez comment exporter des résultats de mots-clés pour les partager avec votre équipe ou créer un rapport.

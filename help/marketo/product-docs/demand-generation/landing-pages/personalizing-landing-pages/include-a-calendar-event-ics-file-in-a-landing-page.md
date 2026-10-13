@@ -4,16 +4,21 @@ description: Découvrez comment inclure un fichier ICS d’événement de calend
 title: Inclure un fichier ICS d’événement de calendrier dans une page de destination
 exl-id: 3975f5ba-f514-4708-b51e-bc20d1eed6b4
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/tOmjiK0qx5Tp8hnENTMdG1rQpZPfD53Tnin-mL5PMGo
+TQID: 'https://experienceleague.adobe.com/tOmjiK0qx5Tp8hnENTMdG1rQpZPfD53Tnin-mL5PMGo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 127
+source-wordcount: '127'
 ht-degree: 17%
-
 ---
-
 # Inclure un fichier ICS d’événement de calendrier dans une page de destination {#include-a-calendar-event-ics-file-in-a-landing-page}
 
 Un jeton **[!UICONTROL Fichier de calendrier]** vous permet d’ajouter un lien d’événement de calendrier (.ics) à vos pages de destination Marketo.

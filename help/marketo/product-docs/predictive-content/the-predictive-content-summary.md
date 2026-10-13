@@ -4,24 +4,29 @@ description: Découvrez le tableau de bord de synthèse du contenu prédictif et
 title: Résumé du contenu prédictif
 exl-id: 74663e07-39c6-40e5-bb49-e222c3c16034
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/1kUlHQFJIuWiLn8wZs77aBso0pfX507bh2tjsmTJwh0
+TQID: 'https://experienceleague.adobe.com/1kUlHQFJIuWiLn8wZs77aBso0pfX507bh2tjsmTJwh0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 204
+source-wordcount: '204'
 ht-degree: 3%
-
 ---
-
-# Résumé du contenu prédictif {#the-predictive-content-summary}
+# Synthèse du contenu prédictif {#the-predictive-content-summary}
 
 Le Résumé du contenu prédictif affiche d’un coup d’œil les informations dont vous avez besoin sur votre contenu prédictif, avec des tableaux, des graphiques et des chiffres actuels.
 

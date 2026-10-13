@@ -1,19 +1,21 @@
 ---
 description: Découvrez comment commencer en tant que nouvel utilisateur Sales Insight Actions. Suivez les étapes de configuration et connectez e-mail, Salesforce et Marketo.
-title: Guide d’intégration des utilisateurs et des utilisatrices pour Actions des informations sur les ventes
+title: Guide d’intégration des utilisateurs de Sales Insight Actions
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/5nQmTIYbflu3p5Tpy8gJvyK8xTxZLaxJrpQQFudo9AU
+TQID: 'https://experienceleague.adobe.com/5nQmTIYbflu3p5Tpy8gJvyK8xTxZLaxJrpQQFudo9AU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 337
+source-wordcount: '337'
 ht-degree: 5%
-
 ---
-
-# Guide d’intégration des utilisateurs et des utilisatrices pour Actions des informations sur les ventes {#sales-insight-actions-user-onboarding-guide}
+# Guide d’intégration des utilisateurs de Sales Insight Actions {#sales-insight-actions-user-onboarding-guide}
 
 >[!NOTE]
 >

@@ -1,7 +1,10 @@
 ---
 description: Examinez la portée des données, les contrôles de gouvernance et les considérations PII de CX Enterprise Coworker for Marketo Engage dans les workflows clés tels que l’importation des prospects, l’assurance qualité du programme et la normalisation des données.
 title: Fiche d’information sur CX Enterprise Coworker for Marketo Engage
-source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '1459'
 ht-degree: 0%

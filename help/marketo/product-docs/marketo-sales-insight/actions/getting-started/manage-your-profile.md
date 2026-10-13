@@ -1,13 +1,14 @@
 ---
 description: Découvrez comment gérer votre profil d’actions Sales Insight. Mettez à jour le nom, l’e-mail, la signature et les préférences de notification dans Paramètres.
 title: Gérer votre profil
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 8%
-
 ---
-
 # Gérer votre profil {#manage-your-profile}
 
 Dans la page Mon profil, vous pouvez mettre à jour votre nom, la langue/le paramètre régional/le fuseau horaire de votre compte et modifier votre mot de passe.

@@ -4,28 +4,40 @@ description: Découvrez comment les espaces de travail organisent les ressources
 title: Présentation des espaces de travail et des répartitions de personnes
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
-TQID: https://experienceleague.adobe.com/Ex-WBSNYTFvevcwryuO4CzUsg79nOmjkVx4WMUx9nqA
+TQID: 'https://experienceleague.adobe.com/Ex-WBSNYTFvevcwryuO4CzUsg79nOmjkVx4WMUx9nqA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: b4e49ca2-9149-5443-90e6-11978bb87c2f
+    internal-label: Partitions
+  - id: fffc2f21-ba05-5d98-924c-16da987a5b69
+    internal-label: Workspaces
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 551
-ht-degree: 78%
-
+source-wordcount: '553'
+ht-degree: 76%
 ---
-
 # Présentation des espaces de travail et des répartitions de personnes {#understanding-workspaces-and-person-partitions}
 
 ## Espaces de travail {#workspaces}
@@ -34,7 +46,7 @@ ht-degree: 78%
 >
 >La configuration des espaces de travail peut être complexe. Contactez le support technique de [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support) pour savoir s&#39;ils vous conviennent.
 
-Les espaces de travail sont des zones distinctes de Marketo qui contiennent des ressources marketing telles que des programmes, des pages de destination, des e-mails, etc. Ils peuvent être utilisés par plusieurs personnes. Chaque personne a accès à un ou plusieurs espaces de travail.
+Les espaces de travail sont des zones distinctes de Marketo qui contiennent des ressources marketing telles que des programmes, des pages de destination, des e-mails, etc. Ils peuvent être utilisés par plusieurs personnes. Chaque utilisateur a accès à un ou plusieurs espaces de travail.
 
 >[!NOTE]
 >
@@ -45,7 +57,7 @@ Les espaces de travail sont des zones distinctes de Marketo qui contiennent des 
 >* Géographie : les services marketing d’Europe, d’Asie et d’Amérique du Nord disposent chacun d’un espace de travail.
 >* Unité opérationnelle : [!DNL Quicken], [!DNL Quickbooks] et [!DNL TurboTax] ont chacun un espace de travail.
 >
->Dans chaque cas, la séparation est due au fait que les ressources marketing sont complètement différentes. Les espaces de travail peuvent ne pas vous convenir en cas de partage des ressources marketing.
+>Dans chaque cas, la séparation est due au fait que les ressources marketing sont complètement différents. En cas de partage de ressources marketing, les espaces de travail ne constituent peut-être pas l’outil le plus adapté.
 
 >[!NOTE]
 >
@@ -71,7 +83,7 @@ Les étapes suivantes expliquent comment partager des ressources sur plusieurs e
 
    ![](assets/understanding-workspaces-and-person-partitions-3.png)
 
-1. Déplacez la ou les ressources à partager dans le dossier.
+1. Déplacez la ou les ressources que vous souhaitez partager dans le dossier.
 
    ![](assets/understanding-workspaces-and-person-partitions-4.png)
 
@@ -79,7 +91,7 @@ Les étapes suivantes expliquent comment partager des ressources sur plusieurs e
 
    ![](assets/understanding-workspaces-and-person-partitions-5.png)
 
-1. Sélectionnez le ou les espaces de travail avec lesquels vous souhaitez partager le dossier et cliquez sur **[!UICONTROL Enregistrer]**. La boîte de dialogue Partager le dossier affiche uniquement les espaces pour lesquels vous disposez de l’autorisation d’affichage.
+1. Sélectionnez le ou les espaces de travail avec lesquels vous souhaitez partager le dossier et cliquez sur **[!UICONTROL Enregistrer]**. La boîte de dialogue « Partager le dossier » affiche uniquement les espaces de travail que vous êtes autorisé à consulter.
 
    ![](assets/understanding-workspaces-and-person-partitions-6.png)
 
@@ -112,11 +124,11 @@ Pour les ressources qui ne sont pas des modèles, il est recommandé de les clon
 
 >[!NOTE]
 >
->Lors du clonage de ressources comportant des modèles, ces modèles doivent être partagés avec l’espace de travail de destination.
+>Lors du clonage de ressources comportant des modèles, ces derniers doivent être partagés avec l’espace de travail de destination.
 
 ## Déplacement de ressources vers d’autres espaces de travail {#moving-assets-to-other-workspaces}
 
-Pour déplacer des ressources vers un nouvel espace de travail, placez-les dans un dossier et faites-le glisser vers l’autre espace de travail.
+Pour déplacer des ressources vers un nouvel espace de travail, placez-les dans un dossier et faites-le glisser vers l’autre espace de travail.&#x200B;
 
 >[!NOTE]
 >
@@ -124,20 +136,20 @@ Pour déplacer des ressources vers un nouvel espace de travail, placez-les dans 
 
 ## Répartitions de personnes {#person-partitions}
 
-Les répartitions de personnes se comportent comme des bases de données distinctes. Chaque répartition a ses propres personnes qui ne sont pas dédupliquées ni mélangées avec d’autres répartitions. Si votre cas d’utilisation professionnel nécessite des enregistrements en double avec la même adresse e-mail, contactez l’assistance Marketo [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support).
+Les répartitions de personnes se comportent comme des bases de données distinctes. Chaque partition possède ses propres personnes qui ne font l’objet d’aucune déduplication ni d’aucun mélange avec d’autres partitions. Si votre cas d’utilisation professionnel nécessite des enregistrements en double avec la même adresse e-mail, contactez l’assistance Marketo [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 Vous pouvez affecter des répartitions de personne aux [espaces de travail](create-a-new-workspace.md) dans les configurations suivantes :
 
-* Un espace de travail pour une répartition de personnes (1:1)
+* partition un espace de travail à une personne (1:1)
 * Un espace de travail pour plusieurs répartitions de personnes (1:x)
-* Plusieurs espaces de travail pour une répartition de personnes (x:1)
+* plusieurs espaces de travail pour une partition personne (x:1)
 
 >[!NOTE]
 >
->Motifs d’utilisation d’une répartition de personnes :
+>Raisons d’utiliser une partition de personnes :
 >
 >* Vos espaces de travail disposent de ressources différentes et ne partagent aucune personne
->* Vous voulez des doublons pour d’autres raisons commerciales.
+>* Vous souhaitez conserver des doublons pour d’autres raisons métier.
 
 >[!CAUTION]
 >

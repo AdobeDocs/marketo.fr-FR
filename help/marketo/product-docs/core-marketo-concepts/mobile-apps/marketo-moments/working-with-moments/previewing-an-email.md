@@ -4,16 +4,18 @@ description: Découvrez comment prévisualiser un e-mail dans les moments Market
 title: Prévisualisation d’un e-mail
 exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/ysItaSy-PuYs-J-gxKZRL6zSZrxgK6YXzCn29sSZN0k
+TQID: 'https://experienceleague.adobe.com/ysItaSy-PuYs-J-gxKZRL6zSZrxgK6YXzCn29sSZN0k'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 160
+source-wordcount: '160'
 ht-degree: 5%
-
 ---
-
 # Prévisualisation d’un e-mail {#previewing-an-email}
 
 Cliquez avec le bouton droit de la souris sur une carte d’e-mail pour la prévisualiser avant l’envoi.

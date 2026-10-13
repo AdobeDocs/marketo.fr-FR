@@ -4,18 +4,23 @@ description: Découvrez la syntaxe du modèle d’e-mail dans l’éditeur d’e
 title: Syntaxe de modèle d’e-mail
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/-evGqvMqkaIP3CDAe5bKvGchxRhIoOkUPTpnlQlb-40
+TQID: 'https://experienceleague.adobe.com/-evGqvMqkaIP3CDAe5bKvGchxRhIoOkUPTpnlQlb-40'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 2464
+source-wordcount: '2464'
 ht-degree: 83%
-
 ---
-
 # Syntaxe de modèle d’e-mail {#email-template-syntax}
 
 Dans la nouvelle expérience Marketo Email 2.0, les modèles d’e-mail sont composés de n’importe quelle combinaison d’éléments, de variables, de modules ou de conteneurs. Chaque élément est défini en ajoutant une syntaxe spécifique à Marketo à votre HTML. Les anciens modèles d’e-mail (v1.0) sont pris en charge dans l’éditeur d’e-mail 2.0. Cependant, ils n’incluront pas toutes les fonctionnalités du nouvel éditeur.
@@ -24,7 +29,7 @@ La syntaxe d’e-mail Marketo ne fonctionne que dans les modèles et les e-mails
 
 >[!NOTE]
 >
->La prise en charge de Marketo n’est pas configurée pour aider avec CSS/HTML. Si vous ne connaissez pas bien CSS/HTML, consultez votre développeur ou développeuse.
+>L’assistance Marketo n’est pas en mesure de vous aider concernant le code CSS ou HTML. Si vous ne connaissez pas bien CSS/HTML, consultez votre développeur ou développeuse.
 
 >[!CAUTION]
 >
@@ -41,11 +46,11 @@ Les éléments sont des régions de contenu que vous définissez comme modifiabl
 
 ## Texte enrichi {#rich-text}
 
-Si vous définissez une région en tant que Texte enrichi, les utilisateurs et utilisatrices pourront modifier son contenu [à l’aide de l’éditeur de texte enrichi de Marketo](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md). Il existe deux manières de définir un élément de texte enrichi dans un modèle d’e-mail : mktEditable et mktoText. Gardez à l’esprit qu’un élément de texte enrichi peut toujours être converti en extrait de code dans l’éditeur d’e-mail.
+Si vous définissez une région en tant que Texte enrichi, les utilisateurs et utilisatrices pourront modifier son contenu [à l’aide de l’éditeur de texte enrichi de Marketo](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md). Il existe deux manières de définir un élément de texte enrichi dans un modèle d’e-mail : mktEditable et mktoText. Gardez à l’esprit qu’un élément Texte enrichi peut toujours être converti en extrait de code depuis l’éditeur d’e-mails.
 
 ### Option 1 : mktEditable {#option-mkteditable}
 
-Puisque l’éditeur d’e-mail 2.0 est rétrocompatible, certains anciens modèles d’e-mail peuvent spécifier des éléments de texte enrichi en ajoutant class=&quot;mktEditable&quot; sur n’importe quel élément HTML. Cela est toujours pris en charge, et l’identifiant de l’élément est ce qui sera utilisé comme nom d’affichage dans l’éditeur d’e-mail.
+Puisque l’éditeur d’e-mails 2.0 est rétrocompatible, certains anciens modèles d’e-mail peuvent spécifier des éléments Texte enrichi en ajoutant class=&quot;mktEditable&quot; à n’importe quel élément HTML. Cela est toujours pris en charge, et l’identifiant de l’élément est ce qui sera utilisé comme nom d’affichage dans l’éditeur d’e-mail.
 
 Attributs requis
 
@@ -58,7 +63,7 @@ Attributs facultatifs
 
 Valeur par défaut
 
-Le contenu dans l’élément HTML (s’il est fourni) avec class=&quot;mktEditable&quot; sera utilisé comme valeur par défaut pour l’élément Texte enrichi.
+Le contenu de l’élément HTML (le cas échéant) dont l’attribut class=&quot;mktEditable&quot; est défini est utilisé comme valeur par défaut de l’élément Texte enrichi.
 
 Exemple :
 
@@ -76,7 +81,7 @@ Attributs requis
 
 Valeur par défaut
 
-Le contenu dans l’élément HTML (s’il est fourni) avec class=&quot;mktoText&quot; sera utilisé comme valeur par défaut pour l’élément de texte enrichi.
+Le contenu de l’élément HTML (le cas échéant) dont l’attribut class=&quot;mktoText&quot; est défini est utilisé comme valeur par défaut de l’élément Texte enrichi.
 
 Exemple :
 
@@ -133,7 +138,7 @@ Exemple :
 
 ## Extraits {#snippets}
 
-Si vous définissez une région en tant que fragment de code, les utilisateurs finaux pourront choisir le fragment de code approuvé [Fragment de code](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md) qu&#39;ils souhaitent insérer dans cette région. Bien que les éléments de texte enrichi puissent être convertis en fragments de code dans l’éditeur d’e-mail, lorsque vous définissez une région spécifiquement comme fragment de code, elle ne peut pas être convertie en texte enrichi. Vous pouvez spécifier une région de fragment de code à l’aide d’un `<div>` avec class=&quot;mktoSnippet&quot;.
+Si vous définissez une région en tant que fragment de code, les utilisateurs finaux pourront choisir le fragment de code approuvé [Fragment de code](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md) qu&#39;ils souhaitent insérer dans cette région. Bien que les éléments Texte enrichi puissent être convertis en extraits de code depuis l’éditeur d’e-mails, une région définie spécifiquement comme extrait ne peut pas être convertie en Texte enrichi. Vous pouvez spécifier une région de fragment de code à l’aide d’un `<div>` avec class=&quot;mktoSnippet&quot;.
 
 Attributs requis
 
@@ -159,7 +164,7 @@ Attributs requis
 
 Attributs facultatifs
 
-* **mktoImgClass :** chaîne. La valeur ici sera ajoutée à l’attribut de catégorie de la miniature vidéo `<img>` dans le div.
+* **mktoImgClass :** chaîne. Cette valeur sera ajoutée à l’attribut class de la miniature vidéo `<img>` dans le div.
 
 Exemple :
 
@@ -180,9 +185,9 @@ Attributs requis
 
 Attributs facultatifs
 
-* **allowHTML** : booléen. Contrôle si la valeur de la variable fait l’objet d’un échappement HTML. La valeur par défaut est False si cet attribut est omis.
+* **allowHTML** : booléen. Contrôle si la valeur de la variable fait l’objet d’un échappement HTML. La valeur par défaut est « Faux » si ce paramètre est omis.
 * **default** : valeur par défaut de la chaîne. Vide si omis.
-* **mktoModuleScope** : booléen. Contrôle si la variable est locale (true) ou globale (false) lorsqu’elle est utilisée dans un module. La valeur par défaut est False si cet attribut est omis.
+* **mktoModuleScope** : booléen. Contrôle si la variable est locale (true) ou globale (false) lorsqu’elle est utilisée dans un module. La valeur par défaut est « Faux » si ce paramètre est omis.
 
 Exemple de déclaration :
 
@@ -205,7 +210,7 @@ Attributs requis
 Attributs facultatifs
 
 * **default:** valeur par défaut de la liste déroulante de sélection. En cas d’omission, la première valeur de l’attribut « values » est utilisée.
-* **mktoModuleScope** : booléen. Contrôle si la variable est locale (true) ou globale (false) lorsqu’elle est utilisée dans un module. La valeur par défaut est False si cet attribut est omis.
+* **mktoModuleScope** : booléen. Contrôle si la variable est locale (true) ou globale (false) lorsqu’elle est utilisée dans un module. La valeur par défaut est « Faux » si ce paramètre est omis.
 
 Exemple de déclaration :
 
@@ -231,7 +236,7 @@ Attributs facultatifs
 * **max :** valeur maximale acceptée.
 * **units:** Unités à ajouter à la valeur numérique (ex : px, pt, em, etc.) lorsqu’elles sont affichées dans l’éditeur d’e-mail, ainsi que dans le code résultant.
 * **step :** nombre d’unités par lequel la variable Nombre doit augmenter/diminuer (0,1, 1, 10, etc.). Si cet attribut est omis, la valeur par défaut est 1.
-* **mktoModuleScope** : booléen. Contrôle si la variable est locale (true) ou globale (false) lorsqu’elle est utilisée dans un module. La valeur par défaut est False si cet attribut est omis.
+* **mktoModuleScope** : booléen. Contrôle si la variable est locale (true) ou globale (false) lorsqu’elle est utilisée dans un module. La valeur par défaut est « Faux » si ce paramètre est omis.
 
 Exemple de déclaration :
 
@@ -253,7 +258,7 @@ Attributs requis
 Attributs facultatifs
 
 * **default :** valeur par défaut de la couleur. Code couleur hexadécimal à 6 chiffres. Exemple : #ffffff.
-* **mktoModuleScope** : booléen. Contrôle si la variable est locale (true) ou globale (false) lorsqu’elle est utilisée dans un module. La valeur par défaut est False si cet attribut est omis.
+* **mktoModuleScope** : booléen. Contrôle si la variable est locale (true) ou globale (false) lorsqu’elle est utilisée dans un module. La valeur par défaut est « Faux » si ce paramètre est omis.
 
 Exemple de déclaration :
 
@@ -279,7 +284,7 @@ Attributs facultatifs
 * **true_value** : valeur à insérer lorsque le bouton (bascule) est en position ON. True si omis.
 * **false_value_name** : interface d’utilisation affichée lorsque le bouton (bascule) est en position OFF. False si omis.
 * **true_value_name** : interface d’utilisation affichée lorsque le bouton (bascule) est en position ON. True si omis.
-* **mktoModuleScope** : booléen. Contrôle si la variable est locale (true) ou globale (false) lorsqu’elle est utilisée dans un module. La valeur par défaut est False si cet attribut est omis.
+* **mktoModuleScope** : booléen. Contrôle si la variable est locale (true) ou globale (false) lorsqu’elle est utilisée dans un module. La valeur par défaut est « Faux » si ce paramètre est omis.
 
 Exemple de déclaration :
 
@@ -291,7 +296,7 @@ Cas d’utilisation :
 
 ## Bloc HTML {#html-block}
 
-Si vous spécifiez une variable comme bloc HTML, l’utilisateur final ou l’utilisatrice finale pourra saisir du texte HTML à partir de l’éditeur d’e-mail. Vous spécifiez une variable de bloc HTML à l’aide de `<meta>` avec class=&quot;mktoHTML&quot;.
+Si vous définissez une variable en tant que Bloc HTML, l’utilisateur final pourra saisir directement du code HTML depuis l’éditeur d’e-mails. Vous spécifiez une variable de bloc HTML à l’aide de `<meta>` avec class=&quot;mktoHTML&quot;.
 
 Attributs requis
 
@@ -301,7 +306,7 @@ Attributs requis
 Attributs facultatifs
 
 * **default** : valeur codée en HTML pour servir de contenu par défaut du bloc.
-* **mktoModuleScope** : booléen. Contrôle si la variable est locale (true) ou globale (false) lorsqu’elle est utilisée dans un module. La valeur par défaut est False si cet attribut est omis.
+* **mktoModuleScope** : booléen. Contrôle si la variable est locale (true) ou globale (false) lorsqu’elle est utilisée dans un module. La valeur par défaut est « Faux » si ce paramètre est omis.
 
 Exemple de déclaration :
 
@@ -313,7 +318,7 @@ Cas d’utilisation :
 
 ## Variable d’image {#image-variable}
 
-Si vous spécifiez une variable sous la forme d’une image, l’utilisateur final ou l’utilisatrice finale peut choisir une image dans le sélecteur d’images de l’éditeur d’e-mail. L’URL de l’image sélectionnée est la valeur de la variable. Vous spécifiez une variable d’image à l’aide de `<meta>` avec class=&quot;mktoImg&quot;.
+Si vous spécifiez une variable sous la forme d’une image, l’utilisateur final ou l’utilisatrice finale peut choisir une image dans le sélecteur d’images de l’éditeur d’e-mail. L’URL de l’image sélectionnée sera la valeur de la variable. Vous spécifiez une variable d’image à l’aide de `<meta>` avec class=&quot;mktoImg&quot;.
 
 Attributs requis
 
@@ -323,7 +328,7 @@ Attributs requis
 Attributs facultatifs
 
 * **default :** URL d&#39;image par défaut pour l’élément.
-* **mktoModuleScope** : booléen. Contrôle si la variable est locale (true) ou globale (false) lorsqu’elle est utilisée dans un module. La valeur par défaut est False si cet attribut est omis.
+* **mktoModuleScope** : booléen. Contrôle si la variable est locale (true) ou globale (false) lorsqu’elle est utilisée dans un module. La valeur par défaut est « Faux » si ce paramètre est omis.
 
 Exemple de déclaration :
 
@@ -335,7 +340,7 @@ Cas d’utilisation :
 
 ## Modules {#modules}
 
-Les modules sont des sections modélisées définies au niveau du modèle qui s’affichent pour que les utilisateurs et utilisatrices finaux les insèrent dans leur e-mail. Puisque vous avez préconfiguré ces modules, vous pouvez vous assurer qu’ils interagissent avec le reste du contenu de votre e-mail de manière élégante (et entièrement réactive). Vous pouvez uniquement placer un module dans un conteneur.
+Les modules sont des sections modélisées définies au niveau du modèle qui s’affichent pour que les utilisateurs et utilisatrices finaux les insèrent dans leur e-mail. Puisque vous avez préconfiguré ces modules, vous pouvez vous assurer qu’ils interagissent harmonieusement avec le reste du contenu de votre e-mail (dans une mise en page entièrement compatible « responsive design »). Vous pouvez uniquement placer un module dans un conteneur.
 
 >[!IMPORTANT]
 >
@@ -356,8 +361,8 @@ Attributs requis
 
 Attributs facultatifs
 
-* **mktoActive :** détermine si ce module apparaît dans la liste des modules de l’éditeur d’e-mail. La valeur par défaut est « true ». Si la valeur est « false », le module ne peut pas être ajouté par un utilisateur final ou une utilisatrice finale à un e-mail.
-* **mktoAddByDefault :** détermine si ce module sera dans la zone de travail d’un nouvel e-mail qui utilise ce modèle lors de sa création. La valeur par défaut est « true » (si mktoActive est « false », cette valeur est ignorée).
+* **mktoActive :** détermine si ce module apparaît dans la liste des modules de l’éditeur d’e-mail. La valeur par défaut est « true ». Si la valeur est « Faux », un utilisateur final ne pourra pas ajouter le module à un e-mail.
+* **mktoAddByDefault :** détermine si ce module sera dans la zone de travail d’un nouvel e-mail qui utilise ce modèle lors de sa création. La valeur par défaut est « Vrai » (si mktoActive est défini sur « Faux », cette valeur est ignorée).
 
 >[!NOTE]
 >

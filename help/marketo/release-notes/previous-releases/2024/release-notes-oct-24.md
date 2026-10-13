@@ -3,29 +3,40 @@ description: Notes De Mise À Jour - Octobre 2024 - Documents Marketo - Document
 title: Notes de mise à jour - Octobre 2024
 feature: Release Information
 exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
-TQID: https://experienceleague.adobe.com/3Qk4bF8OVxVoJYZbtedik6vRsAebYvj-ZMOfxXuzDMk
+TQID: 'https://experienceleague.adobe.com/3Qk4bF8OVxVoJYZbtedik6vRsAebYvj-ZMOfxXuzDMk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 575
+source-wordcount: '575'
 ht-degree: 20%
-
 ---
-
 # Notes de mise à jour : octobre 2024 {#release-notes-oct-24}
 
 Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 24 octobre. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
@@ -36,7 +47,7 @@ Les notes de mise à jour spécifiques à Adobe Dynamic Chat [peuvent être co
 >
 >Les fonctionnalités signalées par une étoile (![étoile](assets/yellow-star.png)) sont des modules complémentaires payants. Contactez votre représentant ou représentante Marketo Engage pour en savoir plus.
 
-## Fonctionnalités du cycle de publication de la version standard {#standard-release-cycle-features}
+## Fonctionnalités du cycle de publication standard&#x200B; {#standard-release-cycle-features}
 
 Les fonctionnalités suivantes font partie du cycle de publication de la version standard et commenceront à être publiées le **samedi 4 octobre 2024**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication sont susceptibles d’être modifiées. Vérifiez le statut en regard de chaque fonctionnalité.
 
@@ -114,6 +125,6 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
 
 * **Modifications**
 
-   * **Nouvelle version** : le 17 septembre 2024, [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 commencera à être déployé sur les instances Marketo Engage dont le paramètre « Munchkin Beta » est activé dans **Admin** > **Coffre au trésor**. Son déploiement sur toutes les autres instances est prévu pour le 29 octobre. Cette version met à jour la création du cookie Munchkin. Aucune modification n’a été apportée aux fonctionnalités.
+  * **Nouvelle version** : le 17 septembre 2024, [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 commencera à être déployé sur les instances Marketo Engage dont le paramètre « Munchkin Beta » est activé dans **Admin** > **Coffre au trésor**. Son déploiement sur toutes les autres instances est prévu pour le 29 octobre. Cette version met à jour la création du cookie Munchkin. Aucune modification n’a été apportée aux fonctionnalités.
 
-   * **Caractères de l’URL supprimés** : les activités « Page web de visites » et « Lien de clics » créées par Munchkin JS suppriment désormais les caractères de contrôle non codés par une URL de tous les champs d’URL. Cette modification a pour but d’empêcher les erreurs liées à la propagation de ces types de caractères dans des systèmes qui ne les prennent pas en charge et qui n’ont pas une utilisation valide dans Marketo Engage.
+  * **Caractères de l’URL supprimés** : les activités « Page web de visites » et « Lien de clics » créées par Munchkin JS suppriment désormais les caractères de contrôle non codés par une URL de tous les champs d’URL. Cette modification a pour but d’empêcher les erreurs liées à la propagation de ces types de caractères dans des systèmes qui ne les prennent pas en charge et qui n’ont pas une utilisation valide dans Marketo Engage.

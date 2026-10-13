@@ -3,16 +3,21 @@ description: Découvrez le mappage des champs Microsoft Dynamics par défaut ent
 title: Mappage des champs Dynamics par défaut
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/WhNHtInFZH6GDkKSCjfGpZyfuZfVB23zL80WdT-pkI0
+TQID: 'https://experienceleague.adobe.com/WhNHtInFZH6GDkKSCjfGpZyfuZfVB23zL80WdT-pkI0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1052
-ht-degree: 3%
-
+source-wordcount: '1052'
+ht-degree: 4%
 ---
-
 # Mappage des champs Dynamics par défaut {#default-dynamics-field-mapping}
 
 Lorsque vous synchronisez initialement votre compte Marketo Engage avec Microsoft, Marketo effectue automatiquement ces associations entre vos champs Dynamics et Marketo intégrés.  Marketo synchronisera également vos champs personnalisés sur vos leads, comptes, opportunités et contacts.
@@ -179,7 +184,7 @@ Lorsque vous synchronisez initialement votre compte Marketo Engage avec Microsof
     <tr>
       <td>[!UICONTROL Microsoft Topic]</td>
       <td>[!UICONTROL Topic]</td>
-      <td>sujet</td>
+      <td>subject</td>
     </tr>
     <tr>
       <td>[!UICONTROL Date du dernier moment intéressant]</td>
@@ -224,7 +229,7 @@ Lorsque vous synchronisez initialement votre compte Marketo Engage avec Microsof
     <tr>
       <td>[!UICONTROL Subject]</td>
       <td>[!UICONTROL Topic]</td>
-      <td>sujet</td>
+      <td>subject</td>
     </tr>
     <tr>
       <td>[!UICONTROL Annual Revenue]</td>

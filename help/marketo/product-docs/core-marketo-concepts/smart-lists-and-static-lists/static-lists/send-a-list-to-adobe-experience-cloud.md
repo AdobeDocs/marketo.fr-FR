@@ -4,22 +4,27 @@ description: Découvrez comment envoyer une liste à Adobe Experience Cloud. Par
 title: Envoyer une liste vers Adobe Experience Cloud
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
-TQID: https://experienceleague.adobe.com/bu62GzoQCaBSkoAbX1tU90mzPYiRnnlUkpT4TLmoN0c
+TQID: 'https://experienceleague.adobe.com/bu62GzoQCaBSkoAbX1tU90mzPYiRnnlUkpT4TLmoN0c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: c56e5f8f-221f-55c2-8170-b1a9e10687cb
+    internal-label: Static Lists
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 847
+source-wordcount: '847'
 ht-degree: 4%
-
 ---
-
 # Envoyer une liste vers Adobe Experience Cloud {#send-a-list-to-adobe-experience-cloud}
 
 >[!NOTE]
@@ -41,13 +46,13 @@ ht-degree: 4%
 
 ## Comment envoyer une liste statique {#how-to-send-a-static-list}
 
-Une liste statique est statique. Aucune modification ne sera apportée à la liste dans Adobe Experience Cloud à moins que vous ne les apportiez manuellement.
+Une liste statique est statique. Aucune modification ne sera apportée à la liste dans Adobe Experience Cloud, sauf si vous les apportez manuellement.
 
 1. Dans Marketo, recherchez la liste à exporter. Cliquez dessus avec le bouton droit et sélectionnez **[!UICONTROL Envoyer à Experience Cloud]**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-1.png)
 
-1. Cliquez sur la liste déroulante **[!UICONTROL Dossier]** et sélectionnez le dossier de destination de votre choix dans Experience Cloud.
+1. Cliquez sur la liste déroulante **[!UICONTROL Dossier]** et sélectionnez le dossier de destination souhaité dans Experience Cloud.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-2.png)
 

@@ -1,24 +1,30 @@
 ---
 unique-page-id: 15695924
 description: Découvrez comment le profilage de compte classe les entreprises en fonction de votre ICP et ajoute des données d’indicateur aux comptes nommés. Réglez votre modèle et faites la promotion des comptes.
-title: Classement et réglage d’Account Profiling
+title: Classement et réglage d’account profiling
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/nuRK415J6iR46j8ft0lShUapom3GzqWiuNf-k2-Ca5w
+TQID: 'https://experienceleague.adobe.com/nuRK415J6iR46j8ft0lShUapom3GzqWiuNf-k2-Ca5w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Customer experience
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 426
+source-wordcount: '426'
 ht-degree: 5%
-
 ---
-
-# Classement et réglage d’Account Profiling {#account-profiling-ranking-and-tuning}
+# Classement et réglage d’account profiling {#account-profiling-ranking-and-tuning}
 
 Le profilage de compte identifie votre profil client idéal, classe les sociétés de votre base de données en fonction du profil ICP et ajoute les données d&#39;indicateur ICP aux comptes promus en tant que [!UICONTROL comptes nommés].
 

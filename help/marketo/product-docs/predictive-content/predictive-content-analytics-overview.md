@@ -4,19 +4,22 @@ description: Découvrez les tableaux de bord de Content Analytics prédictive po
 title: Vue d’ensemble de l’analyse du contenu prédictif
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/dsTO6zxeynglOg3JAs-2k0Balx-bRNc3ikPpxhR5x4E
+TQID: 'https://experienceleague.adobe.com/dsTO6zxeynglOg3JAs-2k0Balx-bRNc3ikPpxhR5x4E'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 380
+source-wordcount: '380'
 ht-degree: 10%
-
 ---
-
-# Vue d’ensemble de l’analyse du contenu prédictif {#predictive-content-analytics-overview}
+# Aperçu de l’analyse prédictive du contenu {#predictive-content-analytics-overview}
 
 Utilisez l’analyse de contenu pour obtenir des informations supplémentaires sur votre contenu existant, découvrir (en fonction de l’IA et des algorithmes prédictifs) le contenu qui fonctionne pour vos audiences et augmenter le retour sur investissement de vos efforts marketing.
 
@@ -98,4 +101,4 @@ Recherchez l’élément de contenu souhaité et cliquez dessus pour afficher de
 
 >[!NOTE]
 >
->Le contenu similaire est basé sur le contenu sélectionné et est calculé par un algorithme d’association de règles. Les résultats représentent des éléments de contenu sur lesquels les visiteurs cliqueront probablement, en fonction de l’élément sélectionné et du comportement antérieur du visiteur. Il ne prend pas en compte le filtre ou la plage de dates.
+>Le contenu similaire est basé sur le contenu sélectionné et est calculé par un algorithme d’association de règles. Les résultats représentent des éléments de contenu sur lesquels les visiteurs cliqueront probablement, en fonction de l’élément sélectionné et du comportement antérieur du visiteur. Le filtre et la période ne sont pas pris en compte.

@@ -3,22 +3,26 @@ description: Étapes de configuration initiales pour les administrateurs systèm
 title: Configuration de l’administrateur ou de l’administratrice
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity
-TQID: https://experienceleague.adobe.com/S6IJubZNpCISjsgF646MLAxliBqH8KyOnRETtiVv9gI
+TQID: 'https://experienceleague.adobe.com/S6IJubZNpCISjsgF646MLAxliBqH8KyOnRETtiVv9gI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b73410f7-454c-5670-baa7-a84eae014e94
+    internal-label: Marketo with Adobe Identity
 subfeature_v2:
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 256
+source-wordcount: '256'
 ht-degree: 4%
-
 ---
-
 # Configuration de l’administrateur ou de l’administratrice {#admin-setup}
 
 Après avoir été ajouté en tant qu’administrateur système Adobe à Marketo Engage dans une organisation Adobe, quelques étapes sont nécessaires pour terminer la configuration initiale.
@@ -33,7 +37,7 @@ Après avoir été ajouté en tant qu’administrateur système Adobe à Marketo
 
    ![](assets/admin-setup-2.png)
 
-## Création d’un profil de produits {#create-a-product-profile}
+## Créer un profil de produit {#create-a-product-profile}
 
 Une fois que l’administrateur système a accédé à l’Admin Console, il est temps de créer un profil de produit. C’est ainsi que vos utilisateurs et administrateurs auront accès à Marketo Engage.
 

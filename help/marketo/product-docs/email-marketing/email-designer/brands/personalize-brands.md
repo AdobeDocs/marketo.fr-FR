@@ -7,13 +7,22 @@ role: User
 level: Beginner, Intermediate
 hide: true
 exl-id: 63d2e356-1a42-4cd2-b11f-3499f963c2dd
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '902'
 ht-degree: 84%
-
 ---
-
 # Personnaliser votre marque {#personalize}
 
 ## À propos de la marque {#about-brand}
@@ -86,7 +95,7 @@ La section **[!UICONTROL Style d’écriture]** décrit les normes d’écriture
     </tr>
     <tr>
       <td>Utilisation du slogan</td>
-      <td>Placez le slogan sous le logo sur toutes les ressources marketing numériques.</td>
+      <td>Placez le slogan sous le logo sur toutes les ressources de marketing digital.</td>
       <td>Ne modifiez ni ne traduisez le slogan.</td>
     </tr>
     <tr>
@@ -122,14 +131,14 @@ La section **[!UICONTROL Style d’écriture]** décrit les normes d’écriture
     </tr>
     <tr>
       <td>Normes linguistiques</td>
-      <td>Respectez les conventions françaises.</td>
-      <td>Faites attention à l’orthographe.</td>
+      <td>Respectez les conventions de l’anglais américain.</td>
+      <td>Ne mélangez pas les orthographes britannique et américaine.</td>
     </tr>
     <tr>
       <td rowspan="3">Normes de conformité légale</td>
       <td>Normes de marque commerciale</td>
       <td>Utilisez toujours le symbole ™ ou ®.</td>
-      <td>N’omettez pas les symboles légaux si nécessaire.</td>
+      <td>N’omettez pas les symboles légaux lorsqu’ils sont requis.</td>
     </tr>
     <tr>
       <td>Normes de copyright</td>
@@ -157,7 +166,7 @@ Pour personnaliser votre **[!UICONTROL style d’écriture]** :
 
 1. Spécifiez le contexte d’utilisation pour votre règle, votre exception ou votre exclusion :
 
-   * **[!UICONTROL Type de canal]** : choisissez où cette règle, cette exception ou cette exclusion doit s’appliquer. Par exemple, vous pouvez souhaiter qu’un style d’écriture spécifique apparaisse uniquement dans les canaux E-mail, Mobile, Impression ou d’autres canaux de communication.
+   * **[!UICONTROL Type de canal]** : choisissez où cette règle, cette exception ou cette exclusion doit s’appliquer. Par exemple, vous souhaitez peut-être qu’un style d’écriture spécifique apparaisse uniquement dans les canaux E-mail, Mobile, Impression ou d’autres canaux de communication.
 
    * **[!UICONTROL Type d’élément]** : spécifiez à quel élément de contenu la règle s’applique. Il peut s’agir d’éléments tels que des titres, des boutons, des liens ou d’autres composants de votre contenu.
 
@@ -191,7 +200,7 @@ La section **[!UICONTROL Contenu visuel]** définit les normes en matière d’i
     <tr>
       <td>Normes de photographie</td>
       <td>Utilisez l’éclairage naturel pour les prises de vue extérieures.</td>
-      <td>Évitez les images trop modifiées ou pixellisées.</td>
+      <td>Évitez les images trop retouchées ou pixellisées.</td>
     </tr>
     <tr>
       <td>Normes d’illustration</td>
@@ -201,7 +210,7 @@ La section **[!UICONTROL Contenu visuel]** définit les normes en matière d’i
     <tr>
       <td>Normes d’icône</td>
       <td>Utilisez un système de grille cohérent de 24 px.</td>
-      <td>Ne mélangez pas les dimensions des icônes, n’utilisez pas d’épaisseurs de trait incohérentes et ne vous écartez pas des règles de grille.</td>
+      <td>Ne mélangez pas les tailles d’icônes, n’utilisez pas d’épaisseurs de trait incohérentes et ne déviez pas des règles de la grille.</td>
     </tr>
     <tr>
       <td>Consignes d’utilisation</td>
@@ -224,7 +233,7 @@ Pour personnaliser votre **[!UICONTROL contenu visuel]** :
 
 1. Spécifiez le contexte d’utilisation pour votre règle ou votre exclusion :
 
-   * **[!UICONTROL Type de canal]** : choisissez où cette règle, cette exception ou cette exclusion doit s’appliquer. Par exemple, vous pouvez souhaiter qu’un style d’écriture spécifique apparaisse uniquement dans les canaux E-mail, Mobile, Impression ou d’autres canaux de communication.
+   * **[!UICONTROL Type de canal]** : choisissez où cette règle, cette exception ou cette exclusion doit s’appliquer. Par exemple, vous souhaitez peut-être qu’un style d’écriture spécifique apparaisse uniquement dans les canaux E-mail, Mobile, Impression ou d’autres canaux de communication.
 
    * **[!UICONTROL Type d’élément]** : spécifiez à quel élément de contenu la règle s’applique. Il peut s’agir d’éléments tels que des titres, des boutons, des liens ou d’autres composants de votre contenu.
 

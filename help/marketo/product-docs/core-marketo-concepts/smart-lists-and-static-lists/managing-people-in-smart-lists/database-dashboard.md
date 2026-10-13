@@ -4,21 +4,28 @@ description: Découvrez le tableau de bord de la base de données dans Marketo. 
 title: Tableau de bord de la base de données
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/gXWqzor3o5EL0r7FVnCE6eGlFggLxEttJs9IHIfQgWg
+TQID: 'https://experienceleague.adobe.com/gXWqzor3o5EL0r7FVnCE6eGlFggLxEttJs9IHIfQgWg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 183
+source-wordcount: '183'
 ht-degree: 2%
-
 ---
-
 # Tableau de bord de la base de données {#database-dashboard}
 
 Le tableau de bord de la base de données sert d’instantané pour vous aider à déterminer rapidement les attributs clés de vos personnes dans un espace de travail.

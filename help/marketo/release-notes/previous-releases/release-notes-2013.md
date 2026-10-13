@@ -1,26 +1,40 @@
 ---
-title: "2013"
+title: '2013'
 description: 2013 - Documents Marketo - Documentation Du Produit
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: fc9b09fe-b844-4544-887b-e420c3b82065
+    internal-label: Webhooks
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+    internal-label: Customer engagement
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 2516
+source-wordcount: '2516'
 ht-degree: 4%
-
 ---
-
 
 # 2013
 
@@ -344,9 +358,9 @@ Vous pouvez synchroniser le nom de la société et le titre du poste de votre fo
 
 Configurez les abonnements pour autoriser uniquement les utilisateurs de Marketo à se connecter via l’authentification unique et non via l’écran de connexion classique
 
-## Recherche des virus dans les fichiers téléchargés {#virus-scan-of-uploaded-files}
+## Recherche de virus dans les fichiers chargés {#virus-scan-of-uploaded-files}
 
-Les fichiers téléchargés dans Design Studio sont automatiquement scannés et bloqués s&#39;ils contiennent des virus.
+Désormais, les fichiers chargés dans Design Studio sont automatiquement analysés et bloqués s’ils contiennent des virus.
 
 ## Exporter l&#39;analyseur d&#39;influence sur l&#39;opportunité {#export-opportunity-influence-analyzer}
 

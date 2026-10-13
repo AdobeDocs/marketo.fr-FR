@@ -3,20 +3,24 @@ description: Découvrez comment optimiser et mettre à l’échelle une instance
 title: Par où commencer
 feature: Getting Started
 exl-id: 819bddc4-0a92-4ff0-86c6-a93fc61dffac
-TQID: https://experienceleague.adobe.com/1iZHB7gfCSO7NzNNNOAsWdWfirj6TDbkKihudpvim24
+TQID: 'https://experienceleague.adobe.com/1iZHB7gfCSO7NzNNNOAsWdWfirj6TDbkKihudpvim24'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Resources
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 593
-ht-degree: 1%
-
+source-wordcount: '593'
+ht-degree: 3%
 ---
-
 # Par où commencer {#where-to-start}
 
 Démarrez-vous un nouveau travail ou reprenez-vous une instance existante d’un autre administrateur et ne savez pas par où commencer ? Bien que la reprise d’une instance active depuis un certain temps puisse sembler un peu intimidante, nous avons rassemblé quelques ressources pour vous aider à vous mettre à niveau en un rien de temps.
@@ -25,7 +29,7 @@ Démarrez-vous un nouveau travail ou reprenez-vous une instance existante d’un
 
 Vérifiez que vous êtes correctement configuré dans la communauté Marketo Engage.
 
-* [**Configurez votre profil**](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=fr){target="_blank"} en remplissant les champs requis (société, spécialisations de solution, pays, etc.)
+* [**Configurez votre profil**](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=fr&lang=fr){target="_blank"} en remplissant les champs requis (société, spécialisations de solution, pays, etc.)
 
 * Lisez les [**Directives de la communauté Adobe Experience League**](https://experienceleaguecommunities.adobe.com/knowledge-base?profile.language=fr){target="_blank"}.
 
@@ -82,7 +86,7 @@ Besoin d&#39;aide supplémentaire ? Contactez-nous ou d’autres utilisateurs de
 
 * Pour toute assistance technique sur un problème qui ne fonctionne pas correctement, contactez le service clientèle de **[&#128279;](https://experienceleague.adobe.com/fr/support){target="_blank"}**.
 
-* Connectez-vous avec d’autres utilisateurs de Marketo Engage et apprenez-en plus grâce à la **[Communauté Adobe Marketo Engage](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=fr){target="_blank"}**.
+* Connectez-vous avec d’autres utilisateurs de Marketo Engage et apprenez-en plus grâce à la **[Communauté Adobe Marketo Engage](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=fr&lang=fr){target="_blank"}**.
 
 * Pour obtenir une aide pratique afin de tirer le meilleur parti de votre instance Marketo Engage, contactez **[Adobe Professional Services](https://business.adobe.com/fr/products/marketo/services-support.html){target="_blank"}**.
 

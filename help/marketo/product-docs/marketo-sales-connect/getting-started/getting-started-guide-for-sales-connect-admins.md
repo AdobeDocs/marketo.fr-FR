@@ -1,22 +1,25 @@
 ---
 description: Découvrez comment configurer votre nouvelle instance Sales Connect. Suivez les étapes pour accéder au compte, inviter des utilisateurs et connecter Salesforce et Marketo.
-title: 'Guide de prise en main pour les  [!DNL Sales Connect] '
+title: Guide de prise en main pour les administrateurs [!DNL Sales Connect]
 exl-id: 8c866fff-3252-4564-a229-bbe4e17190fd
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/5eAJUQpNX6UyZi-v3ADaHWbuECW7Q0yyVruqMS6upMY
+TQID: 'https://experienceleague.adobe.com/5eAJUQpNX6UyZi-v3ADaHWbuECW7Q0yyVruqMS6upMY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c954475c-8548-4e33-a0b8-6b550d956115
+    internal-label: Marketing automation
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 477
+source-wordcount: '478'
 ht-degree: 0%
-
 ---
-
 # Guide de prise en main pour les administrateurs [!DNL Sales Connect] {#getting-started-guide-for-sales-connect-admins}
 
 Ce document vous guide tout au long des étapes initiales de configuration de votre nouvelle instance [!DNL Sales Connect]. Certaines de ces étapes nécessitent un accès en tant qu’administrateur Marketo, administrateur [!DNL Salesforce] et administrateur [!DNL Sales Connect]. Suivez nos guides ci-dessous pour terminer la configuration de votre instance.

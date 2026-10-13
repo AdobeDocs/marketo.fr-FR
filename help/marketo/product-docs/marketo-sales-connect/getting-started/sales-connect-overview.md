@@ -4,16 +4,18 @@ description: Découvrez Marketo Sales Connect et comment il stimule l’engageme
 title: Vue d’ensemble de Sales Connect
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/e9-WD7YGig59MLzMMrBidiGIZ0XAqFKCnUhRvs20q8k
+TQID: 'https://experienceleague.adobe.com/e9-WD7YGig59MLzMMrBidiGIZ0XAqFKCnUhRvs20q8k'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 256
+source-wordcount: '256'
 ht-degree: 15%
-
 ---
-
 # Vue d’ensemble de Sales Connect {#sales-connect-overview}
 
 Marketo Sales Connect est une solution d’assistance commerciale multidimensionnelle offrant diverses fonctions, qui vous aide à stimuler l’engagement tout au long du cycle de vente.
@@ -51,11 +53,11 @@ Découvrez comment vos prospects participent à vos efforts de vente.
    <td><p>L’utilisateur a envoyé un e-mail de vente à partir de Sales Connect.</p></td>
   </tr>
   <tr>
-   <td><p>Ouvrir e-mail de vente</p></td>
+   <td><p>Ouvrir l’e-mail commercial</p></td>
    <td><p>Le prospect a ouvert un e-mail de vente envoyé à partir de Sales Connect.</p></td>
   </tr>
   <tr>
-   <td><p>Cliquer sur e-mail de vente</p></td>
+   <td><p>Cliquer sur l’e-mail commercial</p></td>
    <td><p>Le prospect a cliqué sur un lien dans un e-mail de vente envoyé à partir de Sales Connect.</p></td>
   </tr>
   <tr>
@@ -87,7 +89,7 @@ Créez une campagne intelligente simple pour donner à vos commerciaux l’accè
 
 ![](assets/campaign-is-requested.jpg)
 
-Vous êtes prêt à commencer ? Pour obtenir des instructions de configuration, cliquez sur le lien ci-dessous.
+Prêt à commencer ? Pour obtenir des instructions de configuration, cliquez sur le lien ci-dessous.
 
 >[!MORELIKETHIS]
 >

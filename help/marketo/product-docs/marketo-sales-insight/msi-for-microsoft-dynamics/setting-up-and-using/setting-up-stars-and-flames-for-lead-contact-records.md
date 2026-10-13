@@ -4,20 +4,23 @@ description: Découvrez comment configurer des étoiles et des flammes pour les 
 title: Configurer les étoiles et les flammes pour les enregistrements des leads/contacts
 exl-id: 696b2551-0627-4da1-a64e-d3ef91596442
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/4-YHMNYzPvbzledbjd4Q6xfBhkxJfUDgAt5W99EzksI
+TQID: 'https://experienceleague.adobe.com/4-YHMNYzPvbzledbjd4Q6xfBhkxJfUDgAt5W99EzksI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 199
+source-wordcount: '199'
 ht-degree: 9%
-
 ---
-
 # Configurer les étoiles et les flammes pour les enregistrements des leads/contacts {#setting-up-stars-and-flames-for-lead-contact-records}
 
 Les étoiles et les flammes sur les enregistrements de lead/contact dépendent des champs [!UICONTROL Score du lead], [!UICONTROL Score relatif], [!UICONTROL Urgence] et [!UICONTROL Priorité]. Ces champs sont disponibles par défaut après l’installation et la configuration de la solution MSI. Si vous n&#39;avez pas d&#39;étoiles et de flammes, une configuration/personnalisation antérieure aurait pu entraîner leur suppression. Suivez les étapes ci-dessous pour les ajouter.

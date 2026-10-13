@@ -1,25 +1,30 @@
 ---
 description: Découvrez comment configurer Sales Insight pour les intégrations MS Dynamics non natives. Configurez MSI lorsque Marketo se connecte à Dynamics via une synchronisation personnalisée.
-title: '[!DNL Sales Insight] pour les intégrations MS [!DNL Dynamics] natives'
+title: '[!DNL Sales Insight] pour les intégrations MS [!DNL Dynamics] non natives'
 exl-id: 07613ff8-b197-4a3d-88e9-720b68a6b8da
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/sfXpgdyyjCat01UktvV8p4SICKxQGot8-D2T5o11HkM
+TQID: 'https://experienceleague.adobe.com/sfXpgdyyjCat01UktvV8p4SICKxQGot8-D2T5o11HkM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 subfeature_v2:
   - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1532
+source-wordcount: '1533'
 ht-degree: 2%
-
 ---
-
 # [!DNL Sales Insight] pour les intégrations MS [!DNL Dynamics] non natives {#sales-insight-for-non-native-ms-dynamics-integrations}
 
 Si votre compte Adobe Marketo Engage est connecté à MS [!DNL Dynamics] par le biais d’une intégration personnalisée ou non native, utilisez cet article pour configurer [!DNL Sales Insight].

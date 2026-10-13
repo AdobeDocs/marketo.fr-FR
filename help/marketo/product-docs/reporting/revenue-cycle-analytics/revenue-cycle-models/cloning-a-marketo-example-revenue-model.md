@@ -4,13 +4,19 @@ description: Découvrez comment cloner un exemple de modèle de chiffre d’affa
 title: Clonage d’un modèle d’exemple de revenu Marketo
 exl-id: 121a80bc-953e-47ed-9fdf-159fbb5595a6
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 12%
-
 ---
-
 # Clonage d’un modèle d’exemple de revenu Marketo {#cloning-a-marketo-example-revenue-model}
 
 Marketo dispose d’exemples de modélisateurs de chiffre d’affaires pour vous inspirer. Clonez ces modéliseurs et créez-les les vôtres. Voici comment procéder :

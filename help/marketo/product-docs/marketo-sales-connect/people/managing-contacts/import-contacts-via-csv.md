@@ -4,18 +4,20 @@ description: Découvrez comment importer des contacts au moyen d’un fichier CS
 title: Importer des contacts via un fichier CSV
 exl-id: e1a15e9f-7978-4112-b38d-ab78a4300a5a
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/mfeuU8y5mm5zReKyaC9z5kCnRyovTMQbYbfMhDXwWLI
+TQID: 'https://experienceleague.adobe.com/mfeuU8y5mm5zReKyaC9z5kCnRyovTMQbYbfMhDXwWLI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 136
+source-wordcount: '136'
 ht-degree: 8%
-
 ---
-
 # Importer des contacts via un fichier CSV {#import-contacts-via-csv}
 
 Il est important d’avoir des contacts dans la page [!UICONTROL Personnes], car c’est de là que nous allons pour remplir automatiquement les informations personnalisées dans les champs dynamiques de vos modèles. Assurez-vous de disposer d’au moins un nom et une adresse e-mail pour chaque contact dans votre fichier CSV et de les mapper à ces champs.

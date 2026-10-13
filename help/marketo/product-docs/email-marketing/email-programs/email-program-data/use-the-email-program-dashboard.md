@@ -1,25 +1,32 @@
 ---
 unique-page-id: 2359476
 description: Découvrez comment utiliser le tableau de bord du programme de messagerie pour afficher les performances. Surveiller les ouvertures, les clics et d’autres mesures en un coup d’œil.
-title: Utiliser le tableau de bord du programme d’e-mail
+title: Utiliser le tableau de bord du programme d’e-mail​
 exl-id: 47c1925a-144b-4277-a08d-1af660ed3d50
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/CfPK3TiQRdHB01BUAPFHsM2mn3-CR-b7ELhz01gtUzo
+TQID: 'https://experienceleague.adobe.com/CfPK3TiQRdHB01BUAPFHsM2mn3-CR-b7ELhz01gtUzo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 411
+source-wordcount: '411'
 ht-degree: 2%
-
 ---
-
-# Utiliser le tableau de bord du programme d’e-mail {#use-the-email-program-dashboard}
+# Utiliser le tableau de bord du programme d’e-mail&#x200B; {#use-the-email-program-dashboard}
 
 Découvrez comment vos programmes de messagerie se comportent avec cette vue de tableau de bord.
 

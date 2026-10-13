@@ -3,16 +3,18 @@ description: Découvrez comment envoyer votre message in-app. Créez un programm
 title: Envoyer votre message in-app
 exl-id: 4ec196df-e8ef-45f8-9486-70d2b7c7ab1f
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/0dcl-alZ3vFV-by2GFlm6DZ3sL3zYDUkttFoO8k2lDw
+TQID: 'https://experienceleague.adobe.com/0dcl-alZ3vFV-by2GFlm6DZ3sL3zYDUkttFoO8k2lDw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 183
+source-wordcount: '183'
 ht-degree: 7%
-
 ---
-
 # Envoyer votre message in-app {#send-your-in-app-message}
 
 Une fois votre message in-app créé, il est temps de l’envoyer. La procédure est la suivante :

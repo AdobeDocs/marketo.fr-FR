@@ -1,17 +1,23 @@
 ---
 unique-page-id: 2360423
 description: Découvrez comment rechercher tous les prospects dans un modèle de cycle de chiffre d’affaires dans Marketo Engage à l’aide de la fonction Rechercher tous les prospects dans un cycle de chiffre d’affaires. Utilisez ce guide pour passer à l’étape suivante.
-title: Rechercher tous les leads dans un modèle de cycle de revenu
+title: Rechercher tous les leads dans un modèle de cycle de revenus
 exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 8%
-
 ---
-
-# Rechercher tous les leads dans un modèle de cycle de revenu {#find-all-leads-in-a-revenue-cycle-model}
+# Rechercher tous les leads dans un modèle de cycle de revenus {#find-all-leads-in-a-revenue-cycle-model}
 
 En utilisant des listes intelligentes, vous pouvez facilement trouver tous les membres du modèle de cycle du chiffre d’affaires.
 

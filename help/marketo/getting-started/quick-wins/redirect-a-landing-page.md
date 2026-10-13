@@ -4,16 +4,18 @@ description: Rediriger une page de destination - Documents Marketo - Documentati
 title: Rediriger une page de destination
 exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/JV2hJuE-7GE8mup6R3c8xVo6p9QkDqKkiWkWsLSJTOE
+TQID: 'https://experienceleague.adobe.com/JV2hJuE-7GE8mup6R3c8xVo6p9QkDqKkiWkWsLSJTOE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 144
+source-wordcount: '144'
 ht-degree: 13%
-
 ---
-
 # Rediriger une page de destination {#redirect-a-landing-page}
 
 ## Mission : rediriger une page de destination vers une autre page web {#mission-redirect-a-landing-page-to-a-different-web-page}

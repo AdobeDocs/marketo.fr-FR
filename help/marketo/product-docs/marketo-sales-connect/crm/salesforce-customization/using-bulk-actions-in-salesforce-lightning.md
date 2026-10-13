@@ -4,16 +4,18 @@ description: Découvrez comment utiliser des actions en bloc dans Salesforce Lig
 title: Utilisation d’actions en masse dans Salesforce Lightning
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/r5KxIMzKrnHOiFJ1QgQazTiflZJ5GDCbfxKwcX7bCuw
+TQID: 'https://experienceleague.adobe.com/r5KxIMzKrnHOiFJ1QgQazTiflZJ5GDCbfxKwcX7bCuw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 408
+source-wordcount: '408'
 ht-degree: 2%
-
 ---
-
 # Utilisation d’actions en bloc dans [!DNL Salesforce Lightning] {#using-bulk-actions-in-salesforce-lightning}
 
 Découvrez comment effectuer des actions en bloc, telles que l’ajout de prospects à une campagne, l’envoi d’un e-mail en bloc ou le transfert de prospects de [!DNL Salesforce] à [!DNL Sales Connect].
@@ -46,9 +48,9 @@ Découvrez comment effectuer des actions en bloc, telles que l’ajout de prospe
 1. Un e-mail du MSC s’affiche. Il comprend les fonctionnalités suivantes :
 
    a. Le champ « [!UICONTROL À] » affiche « Tous les règlements » ; il correspond à la liste de prospects que vous avez choisie dans la vue Liste de prospects
-b. Cette liste est visible dans le panneau de gauche sous le nom de « Composition en bloc ». Vous pouvez ajouter ou supprimer des destinataires ici
-c. Vous pouvez choisir un modèle ou créer votre propre e-mail
-d. Vous pouvez envoyer l’e-mail immédiatement ou planifier son envoi pour plus tard
+   b. Cette liste est visible dans le panneau de gauche sous le nom de « Composition en bloc ». Vous pouvez ajouter ou supprimer des destinataires ici
+   c. Vous pouvez choisir un modèle ou créer votre propre e-mail
+   d. Vous pouvez envoyer l’e-mail immédiatement ou planifier son envoi pour plus tard
 
    ![](assets/three-5.png)
 

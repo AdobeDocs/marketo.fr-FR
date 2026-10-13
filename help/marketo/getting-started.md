@@ -3,24 +3,26 @@ unique-page-id: 1147226
 description: Prise en main - Documents Marketo - Documentation du produit
 title: Prise en main
 hide: true
-hidefromtoc: yes
+hidefromtoc: 'yes'
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/ytjDUdNi2sdVbyIM-FdTYwmXztDgwJnDnX593WVpKdU
+TQID: 'https://experienceleague.adobe.com/ytjDUdNi2sdVbyIM-FdTYwmXztDgwJnDnX593WVpKdU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 136
+source-wordcount: '136'
 ht-degree: 91%
-
 ---
-
 # Prise en main {#getting-started}
 
-## Qu’est-ce qu’Adobe Marketo Engage ? {#what-is-marketo-engage}
+## Qu’est-ce qu’Adobe Marketo Engage ? {#what-is-marketo-engage}
 
-Qu’est-ce que Marketo Engage, demandez-vous ? Bonne question.
+Vous vous demandez ce qu’est Marketo Engage ? Bonne question.
 
 [Découvrir Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
 
@@ -30,7 +32,7 @@ Avec un peu d’aide de votre équipe informatique, vous pouvez le faire en un r
 
 [Démarrer la configuration](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
 
-## Obtenir des solutions rapides {#get-some-quick-wins}
+## Obtenez des résultats rapides {#get-some-quick-wins}
 
 Effectuez ces missions pour découvrir les principales fonctionnalités de Marketo Engage.
 

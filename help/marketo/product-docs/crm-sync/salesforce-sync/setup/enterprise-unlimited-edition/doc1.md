@@ -2,15 +2,22 @@
 description: Découvrez comment ajouter des champs Marketo à Salesforce Enterprise ou Unlimited edition. Créez un score, un programme d’acquisition et une date d’acquisition sur les objets de lead et de contact.
 title: Étape 1 sur 3 - Ajouter des champs Marketo à Salesforce (Entreprise/Illimité)
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Salesforce Integration
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '670'
 ht-degree: 1%
-
 ---
-
 # Étape 1 sur 3 : ajouter des champs Marketo à Salesforce (Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
 >[!PREREQUISITES]
@@ -84,7 +91,7 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés pour
    Désélectionnez la case Lecture seule pour le profil de votre utilisateur de synchronisation :
 
    Si vous avez un utilisateur avec le profil d’un administrateur système en tant qu’utilisateur de synchronisation, désélectionnez la case Lecture seule pour le profil d’administrateur système (comme illustré ci-dessous)
-Si vous avez créé un profil personnalisé pour l’utilisateur de synchronisation, décochez la case Lecture seule pour ce profil personnalisé
+   Si vous avez créé un profil personnalisé pour l’utilisateur de synchronisation, décochez la case Lecture seule pour ce profil personnalisé
 
    CAPTURE D’ÉCRAN
 

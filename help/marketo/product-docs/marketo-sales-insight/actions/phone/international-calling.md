@@ -3,16 +3,18 @@ description: Découvrez les appels internationaux dans les actions Sales Insight
 title: Appels internationaux
 exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/CuPReqeK-xV7JuX6Vlx0C7yuI3kUZ4u8fX-R8dQgyr4
+TQID: 'https://experienceleague.adobe.com/CuPReqeK-xV7JuX6Vlx0C7yuI3kUZ4u8fX-R8dQgyr4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 404
+source-wordcount: '404'
 ht-degree: 29%
-
 ---
-
 # Appels internationaux {#international-calling}
 
 Sales Dialer vous permet de communiquer facilement à l&#39;international. Pour les clients qui appellent depuis les États-Unis, le service Sales Dialer peut être utilisé pour les appels sortants vers des pays internationaux. Pour les clients en dehors des États-Unis, nous prenons en charge les appels en provenance de pays internationaux.

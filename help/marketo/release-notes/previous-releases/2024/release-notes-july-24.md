@@ -1,23 +1,29 @@
 ---
 description: Notes De Mise À Jour - Juillet 2024 - Documents Marketo - Documentation Du Produit
-title: Notes de mise à jour - Juillet 2024
+title: 'Notes de mise à jour : juillet 2024'
 feature: Release Information
 exl-id: ff63af41-2d33-40f8-abca-3fd9493e7916
-TQID: https://experienceleague.adobe.com/G66a1E1PleerglG-RMkFRmDN6XySVEKNoPkGfpimniA
+TQID: 'https://experienceleague.adobe.com/G66a1E1PleerglG-RMkFRmDN6XySVEKNoPkGfpimniA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Dynamic Chat
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 589
+source-wordcount: '589'
 ht-degree: 20%
-
 ---
-
 # Notes de mise à jour : juillet 2024 {#release-notes-july-24}
 
 Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 24 juillet. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
@@ -87,11 +93,11 @@ Les fonctionnalités suivantes font partie du cycle de publication de la version
 
 * **Obsolescence des fonctionnalités sociales** : le mercredi 31 juillet 2024, Marketo Engage commencera l’obsolescence des fonctionnalités sociales suivantes du produit :
 
-   * Sondages
-   * Bouton social
-   * Offre de parrainage
-   * Partage de vidéos
-   * Loteries
+  * Sondages
+  * Bouton social
+  * Offre de parrainage
+  * Partage de vidéos
+  * Loteries
 
 Les utilisateurs ne pourront plus créer, cloner ni incorporer ces fonctionnalités de réseaux sociaux dans Marketo Engage. Les actifs sociaux existants continueront à fonctionner jusqu’au 31 janvier 2025. [En savoir plus](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 

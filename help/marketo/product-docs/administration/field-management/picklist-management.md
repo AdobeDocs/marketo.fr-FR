@@ -3,13 +3,20 @@ description: Découvrez comment définir un ensemble fixe de valeurs pour un cha
 title: Gestion des listes de sélection
 feature: Field Management
 exl-id: 2b75edbb-0ce3-495b-a245-dac2db9c0126
-source-git-commit: db3d673399917ad24559a88931972beaf4ea40a5
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 0%
-
 ---
-
 # Gestion des listes de sélection {#picklist-management}
 
 La gestion des listes de sélection vous permet de définir un ensemble fixe de valeurs pour un champ afin de simplifier la gestion des données et des workflows dans Marketo Engage. Seuls les champs non textuels non mappés à un champ CRM avec une liste de sélection définie peuvent être gérés dans Marketo. Si un champ est mappé à un champ CRM qui possède une liste de sélection définie, les valeurs de ce champ doivent être définies dans le CRM.

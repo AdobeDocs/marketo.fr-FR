@@ -1,17 +1,23 @@
 ---
 unique-page-id: 4718656
 description: Découvrez comment créer un modèle de chiffre d’affaires dans Marketo Engage à l’aide de la commande create-a-new-revenue-model. Passez à l’étape suivante en toute confiance.
-title: Créer un modèle de revenu
+title: Créer un nouveau modèle de revenus
 exl-id: 1c2e7d2b-35f6-4bd8-9a31-6bb857a63bbc
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 7%
-
 ---
-
-# Créer un modèle de revenu {#create-a-new-revenue-model}
+# Créer un nouveau modèle de revenus {#create-a-new-revenue-model}
 
 1. Pour créer un modèle de cycle du chiffre d’affaires, cliquez sur le bouton **[!UICONTROL Analytics]** sur l’écran d’accueil de [!UICONTROL Mon Marketo].
 

@@ -4,18 +4,20 @@ description: comprendre l’engagement des modèles dans Sales Connect ; Affiche
 title: Engagement des modèles
 exl-id: 368e1dae-26bf-42a1-9525-6c0cd9e64e23
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/SanzVv6XEusZ12AyWp0Yhega7jBXMZ7vxgSjHXHKncc
+TQID: 'https://experienceleague.adobe.com/SanzVv6XEusZ12AyWp0Yhega7jBXMZ7vxgSjHXHKncc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 191
+source-wordcount: '191'
 ht-degree: 2%
-
 ---
-
 # Engagement des modèles {#template-engagement}
 
 Suivez les étapes ci-dessous pour afficher votre modèle d’engagement.

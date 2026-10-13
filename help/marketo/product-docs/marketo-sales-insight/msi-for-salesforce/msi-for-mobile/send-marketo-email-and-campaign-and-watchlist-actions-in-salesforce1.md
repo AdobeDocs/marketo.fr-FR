@@ -1,23 +1,26 @@
 ---
 unique-page-id: 7511931
 description: Découvrez comment envoyer des e-mails Marketo et utiliser les actions de campagne et de liste de contrôle dans Salesforce Mobile. Utilisez les actions MSI sur les appareils mobiles.
-title: Actions de campagne et de liste de suivi et action Envoyer un e-mail Marketo dans Salesforce1
+title: Envoyer des e-mails Marketo et effectuer des actions sur les campagnes et la liste de suivi dans Salesforce1
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/bJcrAu9z069YhqSKLMU2pAwwZmZ1t7f6Li1e2B2Bl-4
+TQID: 'https://experienceleague.adobe.com/bJcrAu9z069YhqSKLMU2pAwwZmZ1t7f6Li1e2B2Bl-4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 176
+source-wordcount: '176'
 ht-degree: 6%
-
 ---
-
 # Envoi d’e-mails Marketo et d’actions de campagne et de watchlist dans [!DNL Salesforce1] {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
 
 1. Accédez à la zone Détails du lead dans [!DNL Salesforce1] et cliquez sur l’onglet **[!UICONTROL Associé]**.

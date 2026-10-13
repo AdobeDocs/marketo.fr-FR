@@ -4,16 +4,18 @@ description: Découvrez les options d’envoi des étapes d’e-mail de campagne
 title: Présentation des options d’envoi
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/XmaPgOoq2mNfYveMwrVxL3SnTkTU-gbl5jIORKfOuZE
+TQID: 'https://experienceleague.adobe.com/XmaPgOoq2mNfYveMwrVxL3SnTkTU-gbl5jIORKfOuZE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 621
+source-wordcount: '621'
 ht-degree: 0%
-
 ---
-
 # Présentation des options d’envoi {#understanding-send-options}
 
 Lorsque vous créez une campagne, vous disposez de plusieurs options sur la manière dont les étapes d’e-mail sont créées dans [!DNL Sales Connect]. De plus, selon l’emplacement de votre e-mail dans votre campagne, vos options diffèrent également.
@@ -36,8 +38,8 @@ S’il s’agit de votre première étape et du premier jour de votre campagne, 
 * Cette option crée une [!UICONTROL Tâche d’e-mail] (et la synchronise sur [!DNL Salesforce]) que vous pouvez envoyer à votre convenance.
 * Une fois cette sélection effectuée, lorsque vous lancez votre campagne, ces tâches sont mises en file d’attente pour vous dans le centre de commande et le flux en direct. Vous pouvez ensuite personnaliser et envoyer (ou planifier) chaque e-mail avant qu’il ne soit envoyé.
 
-   * Si vous ouvrez cette tâche dans notre application web, une fenêtre de composition s’ouvre avec l’adresse e-mail de votre contact, l’objet de votre e-mail et le modèle que vous avez choisi.
-   * Si vous ouvrez cette tâche dans [!DNL Gmail] ou [!DNL Outlook], une fenêtre de composition native s’ouvre et l’adresse e-mail du contact, l’objet de l’e-mail et le modèle que vous avez choisi sont renseignés dynamiquement.
+  * Si vous ouvrez cette tâche dans notre application web, une fenêtre de composition s’ouvre avec l’adresse e-mail de votre contact, l’objet de votre e-mail et le modèle que vous avez choisi.
+  * Si vous ouvrez cette tâche dans [!DNL Gmail] ou [!DNL Outlook], une fenêtre de composition native s’ouvre et l’adresse e-mail du contact, l’objet de l’e-mail et le modèle que vous avez choisi sont renseignés dynamiquement.
 
 Pour les jours/étapes suivants de votre campagne, vous disposez des options suivantes :
 
@@ -60,8 +62,8 @@ Pour les jours/étapes suivants de votre campagne, vous disposez des options sui
 * Cette option crée une [!UICONTROL Tâche d’e-mail] (et la synchronise sur [!DNL Salesforce]) que vous pouvez envoyer à votre convenance.
 * Une fois cette sélection effectuée, lorsque vous lancez votre campagne, Tout met ces tâches en file d’attente pour vous dans le centre de commande et le flux en direct. Vous pouvez ensuite personnaliser et envoyer (ou planifier) chaque e-mail avant qu’il ne soit envoyé.
 
-   * Si vous ouvrez cette tâche dans notre application web, une fenêtre de composition s’ouvre avec l’adresse e-mail de votre contact, l’objet de votre e-mail et le modèle que vous avez choisi.
-   * Si vous ouvrez cette tâche dans [!DNL Gmail] ou [!DNL Outlook], une fenêtre de composition native s’ouvre et l’adresse e-mail du contact, l’objet de l’e-mail et le modèle que vous avez choisi sont renseignés dynamiquement.
+  * Si vous ouvrez cette tâche dans notre application web, une fenêtre de composition s’ouvre avec l’adresse e-mail de votre contact, l’objet de votre e-mail et le modèle que vous avez choisi.
+  * Si vous ouvrez cette tâche dans [!DNL Gmail] ou [!DNL Outlook], une fenêtre de composition native s’ouvre et l’adresse e-mail du contact, l’objet de l’e-mail et le modèle que vous avez choisi sont renseignés dynamiquement.
 
 **Relier cet e-mail au précédent**
 

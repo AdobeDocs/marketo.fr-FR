@@ -4,16 +4,18 @@ description: Obtenez de l’aide pour résoudre l’erreur Nous n’avons pas pu
 title: Comment corriger l’erreur « Nous n’avons pas pu authentifier votre demande » lors de la connexion à Salesforce
 exl-id: ddd49064-f584-4490-8d45-29cf61ed3ebe
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/51pd-hGwspmp6ZuOShb3z3wRdQ0PZ-pCIY-BeV4Q5ho
+TQID: 'https://experienceleague.adobe.com/51pd-hGwspmp6ZuOShb3z3wRdQ0PZ-pCIY-BeV4Q5ho'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 175
+source-wordcount: '175'
 ht-degree: 8%
-
 ---
-
 # Comment corriger « Nous n’avons pas pu authentifier votre demande » lors de la connexion à [!DNL Salesforce] {#how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
 
 Si vous recevez le message d’erreur « Nous n’avons pas pu authentifier votre requête » lors de la tentative de connexion de [!DNL Sales Connect] à [!DNL Salesforce], il se peut qu’il y ait une restriction sur votre accès à l’API de [!DNL Salesforce]. Vérifiez auprès de votre administrateur [!DNL Salesforce] que les éléments suivants sont en place.

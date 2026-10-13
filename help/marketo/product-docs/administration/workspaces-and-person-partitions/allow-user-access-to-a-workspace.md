@@ -4,21 +4,25 @@ description: Étapes pour accorder à un utilisateur l’accès à un ou plusieu
 title: Accorder l’accès à un espace de travail à un utilisateur ou à une utilisatrice
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 feature: Workspaces
-TQID: https://experienceleague.adobe.com/sQlF145nKtOVm9KF1lLu-jh-qv3xc6PQhGj19Zt59xk
+TQID: 'https://experienceleague.adobe.com/sQlF145nKtOVm9KF1lLu-jh-qv3xc6PQhGj19Zt59xk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: fffc2f21-ba05-5d98-924c-16da987a5b69
+    internal-label: Workspaces
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 108
+source-wordcount: '108'
 ht-degree: 13%
-
 ---
-
 # Accorder l’accès à un espace de travail à un utilisateur ou à une utilisatrice {#allow-user-access-to-a-workspace}
 
 Les espaces de travail peuvent être utilisés pour n’importe quelle raison (séparation d’unités commerciales ou géographique, par exemple). Ils séparent les ressources (listes dynamiques, programmes, etc.) de chaque équipe.

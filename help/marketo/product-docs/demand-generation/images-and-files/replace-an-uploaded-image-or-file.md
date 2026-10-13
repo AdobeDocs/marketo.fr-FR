@@ -1,22 +1,27 @@
 ---
 unique-page-id: 2359876
 description: Découvrez comment remplacer une image ou un fichier chargé dans Marketo. Mettez à jour la ressource tout en conservant la même URL pour les liens existants.
-title: Remplacer une image chargée ou un fichier chargé
+title: Remplacer une image ou un fichier chargé
 exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
 feature: Image Editor
-TQID: https://experienceleague.adobe.com/6poiAxaLlG-5pOmdsleecF1-f6c8r6Sl0Tl-SPwJ2UQ
+TQID: 'https://experienceleague.adobe.com/6poiAxaLlG-5pOmdsleecF1-f6c8r6Sl0Tl-SPwJ2UQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Design Studio
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: ecf3b0de-0d29-4cb7-bed7-bf29ea2e2f77
+    internal-label: Image editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 126
+source-wordcount: '126'
 ht-degree: 9%
-
 ---
-
-# Remplacer une image chargée ou un fichier chargé {#replace-an-uploaded-image-or-file}
+# Remplacer une image ou un fichier chargé {#replace-an-uploaded-image-or-file}
 
 1. Accédez au **[!UICONTROL Design Studio]**.
 

@@ -4,16 +4,18 @@ description: Découvrez le fonctionnement des tâches dans les campagnes Sales C
 title: Utilisation de tâches dans des campagnes
 exl-id: 444e7e3a-d774-40cf-82d1-40e395a79baa
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/Irny7uMXziNEfsD1pww-v1MB68eDAWKFoQgCYXYsLhA
+TQID: 'https://experienceleague.adobe.com/Irny7uMXziNEfsD1pww-v1MB68eDAWKFoQgCYXYsLhA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 209
+source-wordcount: '209'
 ht-degree: 3%
-
 ---
-
 # Utilisation de tâches dans des campagnes {#using-tasks-in-campaigns}
 
 Les tâches sont un outil puissant lors de l’envoi d’une campagne à un contact, en particulier si votre processus de vente est multicanal/tactile.

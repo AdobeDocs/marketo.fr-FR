@@ -1,17 +1,23 @@
 ---
 unique-page-id: 2360235
 description: Découvrez comment créer un analyseur d’influence d’opportunité dans Marketo Engage à l’aide de la fonction Créer une influence d’opportunité. Utilisez ce guide pour passer à l’étape suivante.
-title: Créer un analyseur d’influence d’opportunité
+title: Créer un analyseur d’influence sur les opportunités
 exl-id: a1ae4407-3668-4289-b177-fad1aee6c876
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 4%
-
 ---
-
-# Créer un analyseur d’influence d’opportunité {#create-an-opportunity-influence-analyzer}
+# Créer un analyseur d’influence sur les opportunités {#create-an-opportunity-influence-analyzer}
 
 Utilisez l’analyseur d’influence d’opportunité pour afficher la contribution du marketing à une affaire importante. Voyez vos réussites en matière de programmes et d&#39;événements, ainsi que des moments intéressants, dans la vie d&#39;une opportunité.
 

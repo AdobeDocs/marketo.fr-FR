@@ -3,20 +3,23 @@ description: Découvrez comment configurer des vues MSI dans Microsoft Dynamics.
 title: Configuration des vues MSI
 exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/PylFEW3pRnOwoIVF8hG2pKcFix5DO7ynWomXOfvy1e0
+TQID: 'https://experienceleague.adobe.com/PylFEW3pRnOwoIVF8hG2pKcFix5DO7ynWomXOfvy1e0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 264
+source-wordcount: '264'
 ht-degree: 4%
-
 ---
-
 # Configuration des vues MSI {#setting-up-msi-views}
 
 L’installation du plug-in [!DNL Sales Insight] dans Dynamics ajoute automatiquement les [!DNL Best Bets] et les tableaux de bord associés sur la carte du site. Si, pour une raison quelconque, les tableaux de bord ne sont pas ajoutés, voici comment les ajouter manuellement.
@@ -38,27 +41,27 @@ L’installation du plug-in [!DNL Sales Insight] dans Dynamics ajoute automatiqu
 1. Cliquez sur un tableau de bord pour le sélectionner. Dans la colonne de droite, saisissez les informations respectives ci-dessous pour chacun d’eux. Vous pouvez ignorer les catégories non répertoriées.
 
    **Meilleurs paris**</br>
-URL : MainviewBestbets.html</br>
-Icône : /WebResources/mkt_/_MainView/_imgs/icons/bestbets.svg</br>
-ID : marketo_best</br>
-Titre : Meilleurs résultats
+   URL : MainviewBestbets.html</br>
+   Icône : /WebResources/mkt_/_MainView/_imgs/icons/bestbets.svg</br>
+   ID : marketo_best</br>
+   Titre : Meilleurs résultats
 
    **Mon e-mail**</br>
-URL : mkt_/MainViewMyEmail.html</br>
-Icône : /WebResources/mkt_/_MainView/_imgs/icons/email.svg</br>
-ID : marketo_myemail</br>
-Titre : Mon e-mail
+   URL : mkt_/MainViewMyEmail.html</br>
+   Icône : /WebResources/mkt_/_MainView/_imgs/icons/email.svg</br>
+   ID : marketo_myemail</br>
+   Titre : Mon e-mail
 
    **Activité Web**</br>
-URL : mkt_/MainViewWebActivity.html</br>
-Icône : /WebResources/mkt_/_MainView/_imgs/icons/web_activity.svg</br>
-ID : marketo_webactivity</br>
-Titre : activité web
+   URL : mkt_/MainViewWebActivity.html</br>
+   Icône : /WebResources/mkt_/_MainView/_imgs/icons/web_activity.svg</br>
+   ID : marketo_webactivity</br>
+   Titre : activité web
 
    **Activité Web anonyme**</br>
-URL : mkt_/MainViewWebActivity.html</br>
-Icône : /WebResources/mkt_/_MainView/_imgs/icons/anonymous_web_activity.svg</br>
-ID : marketo_anonymous_webactivity</br>
-Titre : activité Web anonyme
+   URL : mkt_/MainViewWebActivity.html</br>
+   Icône : /WebResources/mkt_/_MainView/_imgs/icons/anonymous_web_activity.svg</br>
+   ID : marketo_anonymous_webactivity</br>
+   Titre : activité Web anonyme
 
 1. Cliquez sur **[!UICONTROL Enregistrer]** lorsque vous avez terminé.

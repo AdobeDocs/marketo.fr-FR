@@ -4,16 +4,21 @@ description: Découvrez comment ajouter des champs Marketo à Salesforce Enterpr
 title: Étape 1 sur 3 - Ajouter des champs Marketo à Salesforce (Entreprise/Illimité)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/YYHZHerCNZ2xlShIBOz07jphJ15S5dGclIMMtb2HD0I
+TQID: 'https://experienceleague.adobe.com/YYHZHerCNZ2xlShIBOz07jphJ15S5dGclIMMtb2HD0I'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 764
+source-wordcount: '764'
 ht-degree: 9%
-
 ---
-
 # Étape 1 sur 3 : Ajouter des champs Marketo à [!DNL Salesforce] (Entreprise/Illimité) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
 >[!PREREQUISITES]
@@ -119,8 +124,8 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés pour
 
    * Désélectionnez la case **[!UICONTROL Lecture seule]** pour le profil de l’utilisateur de synchronisation :
 
-      * Si vous avez un utilisateur avec le profil d’un _Administrateur système_ en tant qu’utilisateur de synchronisation, désélectionnez la case **[!UICONTROL Lecture seule]** pour le profil Administrateur système (comme illustré ci-dessous)
-      * Si vous avez créé un _profil personnalisé_ pour l’utilisateur de synchronisation, décochez la case **[!UICONTROL Lecture seule]** pour ce profil personnalisé
+     * Si vous avez un utilisateur avec le profil d’un _Administrateur système_ en tant qu’utilisateur de synchronisation, désélectionnez la case **[!UICONTROL Lecture seule]** pour le profil Administrateur système (comme illustré ci-dessous)
+     * Si vous avez créé un _profil personnalisé_ pour l’utilisateur de synchronisation, décochez la case **[!UICONTROL Lecture seule]** pour ce profil personnalisé
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -219,7 +224,7 @@ Effectuez les étapes suivantes pour chacun des trois champs personnalisés pour
    <td>Longueur 255</td>
   </tr>
   <tr>
-   <td>Indicatif téléphonique local déduit</td>
+   <td>Indicatif régional de téléphone déduit​</td>
    <td>mkto71_Inferred_Phone_Area_Code</td>
    <td>Texte</td>
    <td>Longueur 255</td>

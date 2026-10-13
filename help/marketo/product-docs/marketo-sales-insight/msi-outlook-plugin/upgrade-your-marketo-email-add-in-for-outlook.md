@@ -1,23 +1,26 @@
 ---
 unique-page-id: 2949279
 description: Découvrez comment mettre à niveau le complément de messagerie Marketo pour Outlook. Obtenez la dernière version pour les nouvelles fonctionnalités et les correctifs.
-title: Mettre à niveau votre complément de messagerie Marketo pour  [!DNL Outlook]
+title: Mettre à niveau votre complément de messagerie Marketo pour [!DNL Outlook]
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/NK-fGmulqGGDopDM95ZBT-e21sa-z2FrDCTi2wu3kmQ
+TQID: 'https://experienceleague.adobe.com/NK-fGmulqGGDopDM95ZBT-e21sa-z2FrDCTi2wu3kmQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 437
+source-wordcount: '437'
 ht-degree: 11%
-
 ---
-
 # Mettre à niveau votre complément de messagerie Marketo pour [!DNL Outlook] {#upgrade-your-marketo-email-add-in-for-outlook}
 
 Lorsqu’une nouvelle version du complément de messagerie Marketo pour [!DNL Outlook] est disponible, suivez ces instructions de mise à niveau.

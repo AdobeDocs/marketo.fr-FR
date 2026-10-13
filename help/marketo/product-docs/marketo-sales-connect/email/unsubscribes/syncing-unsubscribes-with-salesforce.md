@@ -1,19 +1,21 @@
 ---
 unique-page-id: 14746188
 description: Découvrez comment synchroniser les désabonnements de Sales Connect avec Salesforce. Gardez le statut d’opt-out synchronisé afin de ne pas envoyer d’e-mail aux contacts désabonnés.
-title: Synchronisation des désabonnements avec Salesforce
+title: Synchronisation des désabonnements avec Salesforce​
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/fiicWWuy3BXErVlY0s3u5kte59u8U2YFq2-rTnpuq-g
+TQID: 'https://experienceleague.adobe.com/fiicWWuy3BXErVlY0s3u5kte59u8U2YFq2-rTnpuq-g'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 435
+source-wordcount: '436'
 ht-degree: 2%
-
 ---
-
 # Synchronisation des désabonnements avec [!DNL Salesforce] {#syncing-unsubscribes-with-salesforce}
 
 ## Conditions requises pour les désabonnements à la synchronisation avec [!DNL Salesforce] {#requirements-for-unsubscribes-to-sync-to-salesforce}
@@ -28,7 +30,7 @@ Lorsqu’un désabonnement est collecté dans [!DNL Sales Connect], nous le pous
 
 **Synchronisation du désabonnement**
 
-Lorsque vous avez activé la synchronisation de désabonnement (étape 3 ci-dessous), vous activez la synchronisation de nuit. La synchronisation a lieu une fois par jour vers 20 :00 PST. Elle synchronise de manière bidirectionnelle tous les désabonnements dans les ventes Marketo avec le champ Désinscription dans Salesforce.
+Lorsque vous avez activé la synchronisation de désabonnement (étape 3 ci-dessous), vous activez la synchronisation de nuit. La synchronisation a lieu une fois par jour vers 20 h CET. Elle synchronise de manière bidirectionnelle tous les désabonnements dans les ventes Marketo avec le champ Désinscription dans Salesforce.
 
 ## Configurer la synchronisation du désabonnement sur [!DNL Salesforce] {#configure-unsubscribe-sync-to-salesforce}
 
@@ -93,7 +95,7 @@ L’Opt-out des e-mails est un champ standard dans [!DNL Salesforce] qui peut ê
 
    ![](assets/twelve.png)
 
-## Désabonnement Marketo Sales {#marketo-sales-opt-out}
+## Opt-out Marketo Sales {#marketo-sales-opt-out}
 
 Le champ Désinscription (opt-out) des ventes Marketo est un champ personnalisé disponible pour les utilisateurs qui ont installé les personnalisations de [!DNL Sales Connect] Marketo.
 

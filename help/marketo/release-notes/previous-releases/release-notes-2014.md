@@ -1,35 +1,58 @@
 ---
-title: "2014"
+title: '2014'
 description: 2014 - Documents Marketo - Documentation Du Produit
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
   - id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1
+    internal-label: Default programs
   - id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+    internal-label: Users and roles
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 3331
+source-wordcount: '3332'
 ht-degree: 5%
-
 ---
-
 
 # 2014
 
@@ -67,7 +90,7 @@ L’époque où l’on levait le code HTML des formulaires placés sur les pages
 
 ![](assets/image2014-9-22-10-3a38-3a31.png)
 
-## Champs supplémentaires dans l&#39;analyse de l&#39;adhésion au programme {#additional-fields-in-program-membership-analysis}
+## Champs supplémentaires dans l’analyse de l’appartenance aux programmes {#additional-fields-in-program-membership-analysis}
 
 Vous pouvez désormais ajouter et regrouper vos mesures d’analyse de l’appartenance à un programme par attributs de prospect et d’entreprise. Par exemple, vous pouvez ajouter le champ Secteur pour afficher la répartition des membres et des succès de votre programme.
 
@@ -143,13 +166,13 @@ Utilisez le bouton [actualiser](/help/marketo/product-docs/email-marketing/email
 
 ![](assets/image2014-9-22-11-3a35-3a40.png)
 
-## Colonnes d’état du programme dans le rapport de performance du programme {#program-status-columns-in-program-performance-report}
+## Colonnes de statut du programme dans le rapport de performances du programme {#program-status-columns-in-program-performance-report}
 
 Lorsque vous utilisez le [rapport de performance du programme](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md), vous pouvez désormais voir combien de personnes se trouvent dans chaque statut de programme.
 
 ![](assets/image2014-9-22-11-3a36-3a13.png)
 
-## Programmes opérationnels et inclusifs pour les analyses {#inclusive-and-operational-programs-for-analytics}
+## Programmes opérationnels et inclusifs pour Analytics {#inclusive-and-operational-programs-for-analytics}
 
 Vous pouvez désormais inclure des programmes sans coûts de période dans [!UICONTROL Revenue Explorer] et les analyseurs en définissant l’option de comportement d’Analytics sur « Inclusif » lorsque vous modifiez les canaux de programme. Vous pouvez également exclure les programmes opérationnels du compte rendu des performances en sélectionnant « Opérationnel ».
 
@@ -263,7 +286,7 @@ Cela nécessitera un téléchargement du nouveau plug-in. Vous pouvez le téléc
 
 ## Résolution de jeton {#token-resolution}
 
-Lorsque vous envoyez un e-mail de test à partir de [!DNL Sales Insight], les jetons présents dans l’e-mail ne sont actuellement pas résolus et la valeur par défaut est envoyée. Cette amélioration garantit que les jetons sont résolus dans les messages électroniques de test.
+Lorsque vous envoyez un e-mail de test à partir de [!DNL Sales Insight], les jetons présents dans l’e-mail ne sont actuellement pas résolus et la valeur par défaut est envoyée. Cette amélioration garantit la résolution des jetons dans les e-mails de test.
 
 ## Personnaliser les pourcentages pour les étoiles et les flammes {#customize-percentages-for-stars-and-flames}
 
@@ -275,7 +298,7 @@ Lorsque vous envoyez un e-mail de test à partir de [!DNL Sales Insight], les je
 
 Créez, lisez et mettez à jour les leads par programmation grâce à notre nouvelle API ReST. Pour commencer à utiliser ReST, vous devez [créer un service personnalisé](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) dans Marketo. Rendez-vous ensuite sur le [site des développeurs](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/rest-api) pour obtenir plus d’informations sur l’utilisation de cette API.
 
-## Mise à jour de la page de campagnes Real-Time Personalization (RTP) de Marketo {#marketo-real-time-personalization-rtp-campaigns-page-update}
+## Mise à jour de la page des campagnes de personnalisation en temps réel (RTP) de Marketo {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
 Les campagnes RTP incluent désormais une nouvelle conception avec des vues de miniatures et des performances de campagne. De plus, vous pouvez [organiser vos campagnes](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md) en fonction de la date ou des meilleures performances.
 
@@ -301,7 +324,7 @@ Afficher l’ensemble des événements, des e-mails et bien plus dans les progra
 
 La documentation relative au calendrier marketing sera disponible au moment de la publication.
 
-## Nouvelles présentation et fonctionnalités {#new-look-and-feel}
+## Nouvel aspect {#new-look-and-feel}
 
 ![](assets/image2014-9-22-14-3a22-3a47.png)
 
@@ -460,7 +483,7 @@ Vérifiez la disponibilité des fonctionnalités dans votre édition Marketo. La
 
 ![](assets/image2014-10-20-11-3a48-3a51.png)
 
-## Nouveaux appels de l’API REST {#new-rest-api-calls}
+## Nouveaux appels API REST {#new-rest-api-calls}
 
 Utilisez l’API pour extraire de nouvelles activités ou modifications vers les prospects :
 
@@ -555,7 +578,7 @@ Les liens inclus dans les scripts d’e-mail seront désormais suivis et disponi
 
 Nous avons déployé une nouvelle fonctionnalité de sécurité pour coder automatiquement les jetons HTML, qui sera activée par défaut en mars 2015. D’ici là, activez cette fonctionnalité dans Gestion des champs pour tester le comportement à l’avance. Tous les jetons de prospect et d’entreprise seront codés lorsqu’ils seront insérés dans des e-mails ou des landing pages. Des options seront également disponibles pour chaque champ.
 
-## Nouveaux appels de l’API REST {#new-rest-api-calls-december}
+## Nouveaux appels API REST {#new-rest-api-calls-december}
 
 Trois nouveaux appels pour l’API REST de lead et d’activité :
 

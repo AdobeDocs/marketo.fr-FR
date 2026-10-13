@@ -4,16 +4,21 @@ description: Découvrez comment inclure un événement de calendrier (.ics) dans
 title: Inclure un événement de calendrier (.ics) dans un e-mail
 exl-id: 077181ec-73e7-4b58-a473-46b0764d6b32
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/ZJ9XMMLrtdu%2D%2D%2Dij5DISsdhUTvJ6hjJl07STUdEgWfw
+TQID: 'https://experienceleague.adobe.com/ZJ9XMMLrtdu%2D%2D%2Dij5DISsdhUTvJ6hjJl07STUdEgWfw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: 0e20d3cd1d58a098d8419c4b10572fe85e672aa2
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 103
+source-wordcount: '103'
 ht-degree: 17%
-
 ---
-
 # Inclure un événement de calendrier (.ics) dans un e-mail {#include-a-calendar-event-ics-in-an-email}
 
 Un jeton de fichier de calendrier vous permet d’ajouter un lien d’événement de calendrier (.ics) à vos e-mails Marketo.

@@ -4,16 +4,21 @@ description: Découvrez comment exporter une liste avec des URL personnalisées 
 title: Exporter une liste avec des URL personnalisées
 exl-id: a267af34-9812-4994-b506-bba32e89e66c
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/4GUDuUUCJroLl2v1QGD8-7k9ZwmzrZtfzB2DAQBVZTs
+TQID: 'https://experienceleague.adobe.com/4GUDuUUCJroLl2v1QGD8-7k9ZwmzrZtfzB2DAQBVZTs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 170
+source-wordcount: '170'
 ht-degree: 7%
-
 ---
-
 # Exporter une liste avec des URL personnalisées {#export-a-list-with-personalized-urls}
 
 >[!PREREQUISITES]

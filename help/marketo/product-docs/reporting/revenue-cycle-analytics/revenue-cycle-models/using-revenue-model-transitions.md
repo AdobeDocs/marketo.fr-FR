@@ -1,17 +1,23 @@
 ---
 unique-page-id: 4718672
 description: Découvrez comment utiliser des transitions de modèle de chiffre d’affaires dans Marketo Engage à l’aide de transitions de modèle de chiffre d’affaires. Utilisez ce guide pour passer à l’étape suivante.
-title: Utilisation de transitions de modèle de revenu
+title: Utilisation des transitions du modèle de revenus
 exl-id: c658b631-b849-438a-b412-63ffd41e4c85
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 3%
-
 ---
-
-# Utilisation de transitions de modèle de revenu {#using-revenue-model-transitions}
+# Utilisation des transitions du modèle de revenus {#using-revenue-model-transitions}
 
 >[!PREREQUISITES]
 >

@@ -3,18 +3,20 @@ description: Découvrez les webinaires à la demande dans les webinaires interac
 title: Webinaires à la demande
 feature: Interactive Webinars
 exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
-TQID: https://experienceleague.adobe.com/Ir415cX42hhJyB3Nxg0RFt3nNyXvO155ZHH3LxVzu1E
+TQID: 'https://experienceleague.adobe.com/Ir415cX42hhJyB3Nxg0RFt3nNyXvO155ZHH3LxVzu1E'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart Campaigns
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 490
+source-wordcount: '490'
 ht-degree: 1%
-
 ---
-
 # Webinaires à la demande {#on-demand-webinars}
 
 Les webinaires à la demande capturent et affinent les prospects qui se sont inscrits à votre événement et qui n’y ont pas assisté, mais qui souhaitent obtenir des informations relatives à l’événement en regardant l’enregistrement. Des informations telles que le nom, l’ID d’e-mail et la date/durée de l’observation peuvent être capturées dans Marketo Engage et utilisées pour cibler ces prospects.
@@ -28,9 +30,9 @@ Marketo Engage fournit les statistiques de surveillance des webinaires à la dem
 * Résumé à la demande : fournit un résumé du nombre de visiteurs (sans affichage) qui regardent l’enregistrement après l’événement un jour donné
 
 * Statistiques à la demande : ce widget fournit des informations sur les éléments suivants :
-   * Jours pendant lesquels l’enregistrement à la demande peut être consulté : permet aux spécialistes marketing d’effectuer des actions, comme exécuter des campagnes par e-mail à l’issue de la durée de disponibilité de l’enregistrement de 30 jours.
-   * Nombre total de visiteurs et visiteuses pour les webinaires à la demande à ce jour : nombre de toutes les personnes inscrites à l’absence qui ont regardé l’enregistrement à la demande à ce jour.
-   * Durée moyenne de visionnage en minutes pour tous les visiteurs : donne aux marketeurs une idée de la quantité d’enregistrement visionné et des campagnes intelligentes qui peuvent être utilisées pour cibler les prospects au-dessus d’une certaine durée de visionnage.
+  * Jours pendant lesquels l’enregistrement à la demande peut être consulté : permet aux spécialistes marketing d’effectuer des actions, comme exécuter des campagnes par e-mail à l’issue de la durée de disponibilité de l’enregistrement de 30 jours.
+  * Nombre total de visiteurs et visiteuses pour les webinaires à la demande à ce jour : nombre de toutes les personnes inscrites à l’absence qui ont regardé l’enregistrement à la demande à ce jour.
+  * Durée moyenne de visionnage en minutes pour tous les visiteurs : donne aux marketeurs une idée de la quantité d’enregistrement visionné et des campagnes intelligentes qui peuvent être utilisées pour cibler les prospects au-dessus d’une certaine durée de visionnage.
 
 ![](assets/on-demand-webinars-1.png)
 

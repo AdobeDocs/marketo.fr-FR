@@ -1,19 +1,21 @@
 ---
 unique-page-id: 17727591
 description: Découvrez la connexion par e-mail pour les utilisateurs Outlook dans Sales Connect. Connectez Outlook pour envoyer les e-mails trackés et vous connecter à Salesforce.
-title: Connexion des e-mails pour les utilisateurs et les utilisatrices Outlook
+title: Connexion e-mail pour les utilisateurs d’Outlook
 exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/xS268qisPGnUKV--cpLyVKNjjCRsehNptKj9qhf93ss
+TQID: 'https://experienceleague.adobe.com/xS268qisPGnUKV--cpLyVKNjjCRsehNptKj9qhf93ss'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 321
+source-wordcount: '321'
 ht-degree: 5%
-
 ---
-
 # Connexion par e-mail pour les utilisateurs [!DNL Outlook] {#email-connection-for-outlook-users}
 
 Découvrez comment connecter votre compte [!DNL Sales Connect] à [!DNL Outlook].

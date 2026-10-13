@@ -3,19 +3,21 @@ description: Découvrez le ralentissement des connexions aux e-mails dans Sales 
 title: Limitation de la connexion des e-mails
 exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/ufnU49MGATTxUg41JNV7lziyYSAQof-3q3Bb-W-TIiM
+TQID: 'https://experienceleague.adobe.com/ufnU49MGATTxUg41JNV7lziyYSAQof-3q3Bb-W-TIiM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 408
+source-wordcount: '409'
 ht-degree: 2%
-
 ---
-
 # Limitation de la connexion des e-mails {#email-connection-throttling}
 
-L’intégration de votre compte [!DNL Sales Connect] à envoyer par l’intermédiaire de fournisseurs de messagerie [!DNL Exchange] ou Gmail offre une configuration rationalisée et optimise la délivrabilité des e-mails pour la communication commerciale 1:1. Toutefois, pour préserver la santé des systèmes et la sécurité des comptes, Gmail et Exchange appliquent des limites d’envoi d’e-mails. Ces limites peuvent être augmentées ou réduites à la discrétion des fournisseurs.
+L’intégration de votre compte [!DNL Sales Connect] pour envoyer via des fournisseurs de messagerie [!DNL Exchange] ou Gmail offre une configuration rationalisée et optimise la délivrabilité des e-mails pour une communication commerciale 1:1. Toutefois, pour préserver la santé des systèmes et la sécurité des comptes, Gmail et Exchange appliquent des limites d’envoi d’e-mails. Ces limites peuvent être augmentées ou réduites à la discrétion des fournisseurs.
 
 ## Vue d’ensemble {#overview}
 

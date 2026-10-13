@@ -4,19 +4,22 @@ description: Découvrez comment configurer l’arrière-plan du message in-app. 
 title: Configurer l’arrière-plan du message in-app
 exl-id: 0cb10432-5611-4efe-a605-9a5a57f1bc7c
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/32bKrhka2wbsBdb5cFSm5xnY0UWOsrzf-kofqRsrKz4
+TQID: 'https://experienceleague.adobe.com/32bKrhka2wbsBdb5cFSm5xnY0UWOsrzf-kofqRsrKz4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Design Studio
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 330
+source-wordcount: '330'
 ht-degree: 0%
-
 ---
-
 # Configurer l’arrière-plan du message in-app {#set-up-the-in-app-message-background}
 
 La sélection de l’arrière-plan d’un message est une étape importante pour terminer votre message in-app.

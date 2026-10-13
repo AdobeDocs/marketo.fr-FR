@@ -1,22 +1,28 @@
 ---
 unique-page-id: 2359746
 description: Découvrez comment personnaliser les URL des pages de destination avec un CNAME dans Marketo. Utilisez votre propre domaine pour les liens des pages de destination.
-title: Personnaliser vos URL de page de destination avec un CNAME
+title: Personnaliser les URL de vos pages de destination avec un CNAME
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/8G3a-7YZlycD5xXJLqlny12XL7M-T2ouYDhjBnRAMfo
+TQID: 'https://experienceleague.adobe.com/8G3a-7YZlycD5xXJLqlny12XL7M-T2ouYDhjBnRAMfo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Metadata
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 242
+source-wordcount: '242'
 ht-degree: 9%
-
 ---
-
-# Personnaliser vos URL de page de destination avec un CNAME {#customize-your-landing-page-urls-with-a-cname}
+# Personnaliser les URL de vos pages de destination avec un CNAME {#customize-your-landing-page-urls-with-a-cname}
 
 Même si Marketo héberge vos pages de destination, l’URL peut être entièrement personnalisée. À quoi cela ressemble sans CNAME :
 

@@ -4,16 +4,18 @@ description: En savoir plus sur les cartes Analytics dans les moments Marketo. A
 title: Présentation des vignettes d’analyse
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/GtluIt4erDOpwskZBf9UYX2o3u6cQfdQ5q10vMzbvFI
+TQID: 'https://experienceleague.adobe.com/GtluIt4erDOpwskZBf9UYX2o3u6cQfdQ5q10vMzbvFI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 311
+source-wordcount: '311'
 ht-degree: 2%
-
 ---
-
 # Présentation des vignettes d’analyse {#understanding-analytics-cards}
 
 Au début de chaque mois, Moments Marketo fournit trois cartes de rapports différentes : [!UICONTROL Leads acquis], [!UICONTROL Nouveaux Leads] et [!UICONTROL Désabonnements]. Chacune d’elles vous montre les performances mensuelles et la tendance sur une période de six mois.

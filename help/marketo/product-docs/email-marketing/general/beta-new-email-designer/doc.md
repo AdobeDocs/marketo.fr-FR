@@ -2,15 +2,22 @@
 description: Document temporaire pour la nouvelle version bêta de Designer Email. Ajouter des ressources et utiliser le concepteur pour les tests bêta (masquer dans la table des matières).
 title: Document temporaire
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Email Editor
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 21%
-
 ---
-
 # Document temporaire {#temp-doc}
 
 ## Copier sous cette partie {#copy}

@@ -4,13 +4,19 @@ description: Découvrez comment créer des groupes de champs personnalisés à l
 title: Créer des groupes de champs personnalisés à l’aide de l’organisateur de champs
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '1033'
 ht-degree: 4%
-
 ---
-
 # Créer des groupes de champs personnalisés à l’aide de l’organisateur de champs {#create-custom-field-groups-using-the-field-organizer}
 
 Avant de pouvoir activer des groupes de champs personnalisés pour la création de rapports dans la zone Analyse des performances du modèle (leads) de l’Explorateur du cycle du chiffre d’affaires, vous devez catégoriser les champs standard ou personnalisés en groupes pour la création de rapports via l’Organisateur de champs dans Marketo Lead Management. Cela s’applique uniquement aux attributs de prospect et d’entreprise.

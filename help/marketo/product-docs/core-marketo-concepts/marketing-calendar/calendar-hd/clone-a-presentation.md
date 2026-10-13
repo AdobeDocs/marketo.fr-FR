@@ -4,16 +4,21 @@ description: Découvrez comment cloner une présentation de calendrier marketing
 title: Cloner une présentation
 exl-id: be013e38-734c-41d7-8623-e8f267b2799c
 feature: Marketing Calendar
-TQID: https://experienceleague.adobe.com/USkrZc-m1mH1SbTfCsRA9a9qm25DVstEODFJjxOG2S8
+TQID: 'https://experienceleague.adobe.com/USkrZc-m1mH1SbTfCsRA9a9qm25DVstEODFJjxOG2S8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: a572083b-9238-40c5-8a10-cf294c415aab
+    internal-label: marketing calendar
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 65
+source-wordcount: '65'
 ht-degree: 9%
-
 ---
-
 # Cloner une présentation {#clone-a-presentation}
 
 Clonez une présentation pour la réutiliser à différents endroits.

@@ -4,23 +4,28 @@ description: Découvrez comment intégrer des personnes à votre événement à 
 title: Enregistrer des personnes dans votre événement à partir de votre tablette
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/Yv6Wi3rjG60gWp-JjafS9WKBrGbhg0dhSFGXEcPmCkk
+TQID: 'https://experienceleague.adobe.com/Yv6Wi3rjG60gWp-JjafS9WKBrGbhg0dhSFGXEcPmCkk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 subfeature_v2:
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 880
+source-wordcount: '880'
 ht-degree: 2%
-
 ---
-
 # Enregistrer des personnes dans votre événement à partir de votre tablette {#check-people-into-your-event-from-your-tablet}
 
 Lorsque les gens se présentent à votre événement, vous pouvez trouver leurs informations sur l&#39;application. Après l’enregistrement, ils sont promus au statut Participant lorsque vous effectuez une synchronisation avec Marketo.

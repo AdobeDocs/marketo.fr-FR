@@ -3,16 +3,18 @@ description: Découvrez les fonctionnalités de GenAI dans les webinaires intera
 title: Fonctionnalités de GenAI
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-TQID: https://experienceleague.adobe.com/I-PRBKSQ-sFs7MFX1uQy1-WQHV-t86tZv0cWFQzLXZE
+TQID: 'https://experienceleague.adobe.com/I-PRBKSQ-sFs7MFX1uQy1-WQHV-t86tZv0cWFQzLXZE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 694
+source-wordcount: '694'
 ht-degree: 0%
-
 ---
-
 # Fonctionnalités de GenAI {#gen-ai-features}
 
 Générez automatiquement des chapitres et des résumés pour vos webinaires enregistrés, ce qui les rend plus accessibles et plus faciles à parcourir pour votre audience.
@@ -65,9 +67,9 @@ Après avoir accepté les conditions générales d’Adobe GenAI, l’étape sui
 
    * Fusionnez deux chapitres consécutifs en les sélectionnant et en cliquant sur **[!UICONTROL Fusionner]**.
 
-      * AI génère un chapitre composite composé des deux chapitres sélectionnés
+     * AI génère un chapitre composite composé des deux chapitres sélectionnés
 
-      * Pour fusionner plusieurs chapitres, vous devez en faire deux à la fois
+     * Pour fusionner plusieurs chapitres, vous devez en faire deux à la fois
 
      ![](assets/gen-ai-features-3.png){width="800" zoomable="yes"}
 

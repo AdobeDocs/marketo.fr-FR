@@ -6,24 +6,33 @@ description: Découvrez comment verrouiller le contenu de modèles d’e-mail po
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
-TQID: https://experienceleague.adobe.com/riZ-B0-N9bYRCi6gu8ajpskmwcNri6YHnSjbe1xrIJo
+TQID: 'https://experienceleague.adobe.com/riZ-B0-N9bYRCi6gu8ajpskmwcNri6YHnSjbe1xrIJo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Governance
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 909
+source-wordcount: '909'
 ht-degree: 76%
-
 ---
-
 # Verrouillage de contenu dans les modèles d’e-mails {#lock-content-email-templates}
 
 Marketo Engage vous permet de verrouiller le contenu de modèles d’e-mail en verrouillant le modèle entier ou des structures/composants spécifiques. Cela vous permet d’éviter les modifications ou suppressions involontaires, de mieux contrôler la personnalisation des modèles et d’améliorer l’efficacité et la fiabilité de vos campagnes par e-mail.
@@ -36,21 +45,21 @@ Le verrouillage de contenu peut être appliqué au niveau **structure** ou au ni
 
 * Lorsqu’une structure est verrouillée :
 
-   * Tout le contenu de cette structure est également verrouillé.
-   * Aucun contenu ne peut être ajouté à la structure.
-   * Par défaut, vous ne pouvez pas supprimer la structure. Vous pouvez contourner cette restriction en activant l’option « Autoriser la suppression ».
-   * Les composants de contenu individuels dans la structure verrouillée peuvent être définis comme modifiables.
+  * Tout le contenu de cette structure est également verrouillé.
+  * Aucun contenu ne peut être ajouté à la structure.
+  * Par défaut, vous ne pouvez pas supprimer la structure. Vous pouvez contourner cette restriction en activant l’option « Autoriser la suppression ».
+  * Les composants de contenu individuels dans la structure verrouillée peuvent être définis comme modifiables.
 
 * Lorsqu’une structure est modifiable (structure non verrouillée) :
 
-   * Les composants de contenu individuels peuvent être verrouillés dans cette structure.
-   * Par défaut, vous ne pouvez pas supprimer un composant s’il est verrouillé ou si l’option « Verrouillage de contenu modifiable uniquement » est sélectionnée. Vous pouvez contourner cette restriction en activant l’option « Autoriser la suppression ».
+  * Les composants de contenu individuels peuvent être verrouillés dans cette structure.
+  * Par défaut, vous ne pouvez pas supprimer un composant s’il est verrouillé ou si l’option « Verrouillage de contenu modifiable uniquement » est sélectionnée. Vous pouvez contourner cette restriction en activant l’option « Autoriser la suppression ».
 
-## Verrouillage d’un modèle d’e-mail {#lock-an-email-template}
+## Verrouiller un modèle d’e-mail {#lock-an-email-template}
 
 ### Activation du verrouillage de contenu {#enable-content-locking}
 
-Vous pouvez activer le verrouillage de contenu pour un modèle d’e-mail directement dans le Concepteur d’e-mail que vous créiez un nouveau modèle ou que vous en modifiiez un existant.
+Vous pouvez activer le verrouillage de contenu pour un modèle d’e-mail directement dans le Concepteur d’e-mail, que vous créiez un nouveau modèle ou que vous en modifiiez un existant.
 
 1. Ouvrez ou créez un modèle d’e-mail et accédez à l’écran de modification du contenu dans le Concepteur d’e-mail.
 
@@ -121,7 +130,7 @@ Pour verrouiller un composant spécifique dans une structure :
    >
    >Le type de verrouillage **[!UICONTROL Modifiable]** permet aux personnes de modifier un composant, même dans une structure verrouillée. [Découvrir comment verrouiller des structures](#lock-structures)
 
-1. Par défaut, les personnes ne peuvent pas supprimer les composants verrouillés. Vous pouvez activer la suppression en activant l’option **[!UICONTROL Autoriser la suppression]**.
+1. Par défaut, les utilisateurs ne peuvent pas supprimer les composants verrouillés. Vous pouvez activer la suppression en activant l’option **[!UICONTROL Autoriser la suppression]**.
 
 ### Identification du contenu verrouillé {#identify-locked-content}
 
@@ -157,7 +166,7 @@ Voici quelques exemples d&#39;édition d&#39;emails et de la configuration de ve
     <td><img src="assets/locking-sample-read-only.png" width="92" height="34" class="modal-image"></td>
   </tr>
   <tr>
-    <td>Le contenu complet est modifiable, mais les personnes ne peuvent pas ajouter de structure ou de composant.</td>
+    <td>L’ensemble du contenu est modifiable, mais les utilisateurs ne peuvent ajouter ni structure ni composant.</td>
     <td><img src="assets/locking-sample-no-addition-conf.png" width="166" height="68" class="modal-image"></td>
     <td><img src="assets/locking-sample-no-addition.png" width="92" height="36" class="modal-image"></td>
   </tr>
@@ -167,7 +176,7 @@ Voici quelques exemples d&#39;édition d&#39;emails et de la configuration de ve
     <td><img src="assets/locking-sample-structure-locked.png" width="92" height="25" class="modal-image"></td>
   </tr>
   <tr>
-    <td>Composant avec des styles verrouillés et qui ne peut pas être supprimé. Les personnes peuvent uniquement modifier le contenu.</td>
+    <td>Composant avec des styles verrouillés et qui ne peut pas être supprimé. Les utilisateurs peuvent uniquement modifier le contenu.</td>
     <td><img src="assets/locking-sample-content-only-conf.png" width="166" height="61" class="modal-image"></td>
     <td><img src="assets/locking-sample-content-only.png" width="92" height="33" class="modal-image"></td>
   </tr>

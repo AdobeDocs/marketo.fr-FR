@@ -6,14 +6,26 @@ description: Découvrez les composants de contenu permettant de personnaliser la
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
-hidefromtoc: true
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+hidefromtoc: 'yes'
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '1317'
-ht-degree: 75%
-
+ht-degree: 82%
 ---
-
 # Composants de contenu {#content-components}
 
 Lors de la création du contenu de votre e-mail, la section **[!UICONTROL Composants de contenu]** vous permet de personnaliser davantage votre e-mail à l’aide des composants bruts que vous pouvez modifier une fois placés dans un e-mail.
@@ -76,7 +88,7 @@ Utilisez le composant **[!UICONTROL Bouton]** pour insérer un ou plusieurs bout
 
    CAPTURE D’ÉCRAN
 
-1. Vous pouvez personnaliser davantage votre bouton en modifiant les attributs de style, tels que **[!UICONTROL Bordure]**, **[!UICONTROL Taille]**, **[!UICONTROL Marge]**, etc., à partir du volet **[!UICONTROL Paramètres des composants]**.
+1. Vous pouvez personnaliser davantage le bouton en modifiant les attributs de style, tels que la **[!UICONTROL bordure]**, la **[!UICONTROL taille]**, la **[!UICONTROL marge]**, etc. dans le volet **[!UICONTROL Paramètres des composants]**.
 
 ## Texte {#text}
 
@@ -107,7 +119,7 @@ CAPTURE D’ÉCRAN
    * **[!UICONTROL Dupliquer]** : ajoutez une copie de votre composant de texte.
    * **[!UICONTROL Supprimer]** : supprimez le composant de texte sélectionné de votre e-mail.
 
-1. Ajustez les autres attributs de style, tels que la couleur du texte, la famille de polices, la bordure, la marge intérieure, la marge, etc., à partir de l’onglet **[!UICONTROL Styles]**.
+1. Ajustez les autres attributs de style, tels que la couleur du texte, la famille de polices, la bordure, la marge intérieure, la marge, etc. à partir de l’onglet **[!UICONTROL Styles]**.
 
    CAPTURE D’ÉCRAN
 
@@ -164,7 +176,7 @@ Utilisez le composant **[!UICONTROL Image]** pour insérer un fichier image de v
 
 1. Vous pouvez également choisir de **[!UICONTROL Trouver des photos Stock similaires]**. `[Learn more](../integrations/stock.md)`
 
-1. Dans l’onglet **[!UICONTROL Styles]**, ajustez les autres attributs de style, tels que la marge, la bordure, etc., ou ajoutez un lien pour rediriger votre audience vers un autre contenu à partir du volet **[!UICONTROL Paramètres des composants]**.
+1. Dans l’onglet **[!UICONTROL Styles]**, ajustez les autres attributs de style tels que la marge, la bordure etc. ou ajoutez un lien pour rediriger votre audience vers un autre contenu à partir du volet **[!UICONTROL Paramètres des composants]**.
 
 ## Social {#social}
 
@@ -184,9 +196,9 @@ Utilisez le composant **[!UICONTROL Social]** pour insérer des liens vers des p
 
    CAPTURE D’ÉCRAN
 
-1. Vous pouvez également modifier les icônes de chacun de vos médias sociaux à partir de vos ressources, le cas échéant.
+1. Si nécessaire, vous pouvez également modifier les icônes de chacun de vos réseaux sociaux à partir de vos ressources.
 
-1. Ajustez les autres attributs de style, tels que le style, la marge, la bordure, etc., à partir de l’onglet **[!UICONTROL Styles]**.
+1. Dans l’onglet **[!UICONTROL Styles]**, ajustez les autres attributs de style, tels que la marge, la bordure, etc.
 
 ## Décision d’offre {#offer-decision}
 

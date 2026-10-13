@@ -4,20 +4,23 @@ description: Découvrez l’onglet de configuration Marketo Sales Insight dans S
 title: Onglet Configuration d’Informations sur les ventes Marketo dans Salesforce
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/rFexi0KyOSWLU2b1pR4AeL71xtLNUGdWvuuf3R15WIQ
+TQID: 'https://experienceleague.adobe.com/rFexi0KyOSWLU2b1pR4AeL71xtLNUGdWvuuf3R15WIQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 626
+source-wordcount: '626'
 ht-degree: 1%
-
 ---
-
 # Onglet Configuration [!DNL Marketo Sales Insight] dans [!DNL Salesforce] {#marketo-sales-insight-configuration-tab-in-salesforce}
 
 ## Paramètres Opérationnels {#operational-settings}
@@ -38,8 +41,8 @@ Les configurations s&#39;appliquent à tous les utilisateurs de MSI et ne sont p
 **Paramètres de page Visualforce**
 
 * Liste déroulante Activer l’action :
-   * Possibilité de masquer l’e-mail Send Marketo dans la liste déroulante dans la disposition MSI du lead et du contact
-   * Possibilité de masquer les options Ajouter à Marketo Campaign dans la liste déroulante dans la disposition MSI du lead et du contact
+  * Possibilité de masquer l’e-mail Send Marketo dans la liste déroulante dans la disposition MSI du lead et du contact
+  * Possibilité de masquer les options Ajouter à Marketo Campaign dans la liste déroulante dans la disposition MSI du lead et du contact
 * Événements à venir : possibilité d’afficher les événements invités, tous les événements aux utilisateurs ou de masquer complètement cet onglet
 * Campagnes à venir : possibilité d’afficher toutes les campagnes par e-mail ou de masquer complètement cet onglet
 * Charger les campagnes et événements à venir : possibilité de réduire le nombre d’appels d’API REST effectués par les utilisateurs en plaçant l’onglet Événements et campagnes derrière un bouton « Charger les éléments à venir » à la demande
@@ -50,7 +53,7 @@ Les configurations s&#39;appliquent à tous les utilisateurs de MSI et ne sont p
 **Onglet Global**
 
 * Flux RSS activé : lorsqu’il est activé, les utilisateurs de MSI peuvent afficher leur flux de leads dans un flux RSS (en plus du flux de leads dans Salesforce). Le flux RSS ne peut fonctionner que si la fonction « Expiration du jeton » est désactivée. Ce paramètre est contrôlé dans la page Marketo Sales Insight Admin.
-* Mode de débogage des meilleurs paris
+* Mode de débogage Best Bets
 * Masquer par défaut : l&#39;option que vous choisissez ici sera le nombre de jours pendant lesquels un meilleur pari sera masqué dans l&#39;onglet Meilleurs paris de Marketo lorsque vous cliquez sur l&#39;icône « Masquer »
 * Champ Statut du contact : l’option que vous choisissez ici correspond à la valeur qui est renseignée dans la colonne En-tête du statut de l’onglet Meilleurs résultats de Marketo
 * Paramètres des flux en direct : option permettant de choisir d’afficher uniquement le flux en direct (dans les panneaux Lead, Contact, Compte et Opportunité et la page Global Marketo), uniquement le flux en direct (dans la page Global Marketo) ou les deux flux en direct et en lead

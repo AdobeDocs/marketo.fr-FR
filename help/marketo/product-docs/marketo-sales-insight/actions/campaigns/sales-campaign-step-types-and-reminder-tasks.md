@@ -3,18 +3,20 @@ description: Découvrez les types d'étapes et les tâches de rappel de la campa
 title: Types d’étapes de campagne de vente et tâches de rappel
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/QnwSipRlTnXV-LV-KG11LPZbHBjHPGsaLMPBrzqD8gM
+TQID: 'https://experienceleague.adobe.com/QnwSipRlTnXV-LV-KG11LPZbHBjHPGsaLMPBrzqD8gM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 336
+source-wordcount: '336'
 ht-degree: 5%
-
 ---
-
 # Types d’étapes de campagne de vente et tâches de rappel {#sales-campaign-step-types-and-reminder-tasks}
 
 ## Types D&#39;Étapes De Campagne De Vente {#sales-campaign-step-types}
@@ -23,7 +25,7 @@ Lorsque vous ajoutez une étape à votre campagne de ventes, vous disposez de qu
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-1.png)
 
-### Adresse e-mail {#email}
+### E-mail {#email}
 
 Composez un nouvel e-mail ou utilisez un modèle préexistant.
 

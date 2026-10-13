@@ -1,19 +1,21 @@
 ---
 description: Découvrez comment accorder l’accès Sales Connect aux utilisateurs à partir de Marketo. Utilisez l’administration Marketo pour configurer Sales Connect pour votre équipe.
-title: Octroi d’un accès à des utilisateurs et des utilisatrices
+title: Octroi de l’accès aux utilisateurs et utilisatrices
 exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/gV1fv8YXDoAZujgAfYTW54J69clrjN-p2CAKWOxsPNA
+TQID: 'https://experienceleague.adobe.com/gV1fv8YXDoAZujgAfYTW54J69clrjN-p2CAKWOxsPNA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 205
+source-wordcount: '205'
 ht-degree: 3%
-
 ---
-
-# Octroi d’un accès à des utilisateurs et des utilisatrices {#granting-access-to-users}
+# Octroi de l’accès aux utilisateurs et utilisatrices {#granting-access-to-users}
 
 Suivez les étapes de cet article pour accorder à vos utilisateurs [!DNL Sales Connect] l’accès à la connexion Marketo. Cela déverrouillera des fonctionnalités telles que les moments significatifs dans le flux en direct et l’accès aux campagnes marketing.
 

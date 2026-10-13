@@ -4,16 +4,18 @@ description: Découvrez comment créer un rapport d’appel prioritaire Salesfor
 title: Créer un rapport d’appel prioritaire Salesforce avec des données Sales Connect
 exl-id: eede4c34-d570-4dbc-beaf-6960cf80af89
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/qaJJwwTnXS5Jtqal0SPYVOJhjPPZlXngl4NzWcijbJ4
+TQID: 'https://experienceleague.adobe.com/qaJJwwTnXS5Jtqal0SPYVOJhjPPZlXngl4NzWcijbJ4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 173
+source-wordcount: '173'
 ht-degree: 11%
-
 ---
-
 # Créer un rapport d’appel prioritaire Salesforce avec des données Sales Connect {#create-a-salesforce-priority-call-report-with-sales-connect-data}
 
 Découvrez comment créer une liste de rapports/appels [!DNL Salesforce] à l’aide des données d’engagement par e-mail [!DNL Sales Connect] pour vous concentrer sur les personnes ou les opportunités ayant bénéficié d’un élan.

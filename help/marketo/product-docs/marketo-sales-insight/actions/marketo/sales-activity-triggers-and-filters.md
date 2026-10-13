@@ -3,20 +3,23 @@ description: Découvrez les déclencheurs et les filtres des activités de vente
 title: Déclencheurs et filtres des activités de vente
 exl-id: d180c1fa-d2bb-443d-ba78-59c26083acf5
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/wD8xySpus1p0Pg6JEFoaVTx04JT-H653H65QrZkpfqM
+TQID: 'https://experienceleague.adobe.com/wD8xySpus1p0Pg6JEFoaVTx04JT-H653H65QrZkpfqM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 127
+source-wordcount: '127'
 ht-degree: 7%
-
 ---
-
 # Déclencheurs et filtres des activités de vente {#sales-activity-triggers-and-filters}
 
 Si vous cherchez à mieux coordonner l&#39;engagement de votre équipe des ventes ou si vous souhaitez avoir une meilleure idée de la façon dont elle interagit avec les clients sur le parcours des acheteurs, les informations sur les activités de vente dans Marketo vous seront utiles.

@@ -1,20 +1,22 @@
 ---
 unique-page-id: 37355758
 description: Découvrez comment ajouter des membres à un programme d’événement dans Marketo. Ajoutez des personnes à votre programme pour l’enregistrement ou le suivi des présences.
-title: Ajouter des personnes membres à un programme d’événement
+title: Ajouter des membres à un programme d’événement
 exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
 feature: Events
-TQID: https://experienceleague.adobe.com/dazVH2bQ--OqwAYWwyT4mBM-hVd4CamYMBMGnPvqO2c
+TQID: 'https://experienceleague.adobe.com/dazVH2bQ--OqwAYWwyT4mBM-hVd4CamYMBMGnPvqO2c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 188
+source-wordcount: '188'
 ht-degree: 6%
-
 ---
-
-# Ajouter des personnes membres à un programme d’événement {#adding-members-to-an-event-program}
+# Ajouter des membres à un programme d’événement {#adding-members-to-an-event-program}
 
 Cet article s’applique uniquement aux utilisateurs qui utilisent la limitation d’événement ou les objectifs d’événement.
 

@@ -4,18 +4,23 @@ description: Découvrez comment rediriger une page de destination Marketo vers u
 title: Rediriger une page de destination Marketo vers une autre page
 exl-id: fe744546-d075-4686-bf42-543bb3624dbb
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/hL18plY9nu2Irs6QC8AEtjbLPzZLvJDhfRQYwDRCgls
+TQID: 'https://experienceleague.adobe.com/hL18plY9nu2Irs6QC8AEtjbLPzZLvJDhfRQYwDRCgls'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 170
+source-wordcount: '170'
 ht-degree: 12%
-
 ---
-
 # Rediriger une page de destination Marketo vers une autre page {#redirect-a-marketo-landing-page-to-another-page}
 
 Si vous mettez à jour l’URL d’une page et souhaitez que l’ancienne URL fonctionne toujours, essayez une redirection ! La configuration est facile.

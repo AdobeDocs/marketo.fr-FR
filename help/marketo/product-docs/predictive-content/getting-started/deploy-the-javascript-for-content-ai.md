@@ -1,27 +1,33 @@
 ---
 unique-page-id: 11385053
 description: Découvrez comment générer et placer la balise RTP Web Personalization pour le contenu prédictif. Copiez-le dans l’en-tête de votre page, vérifiez la couverture et confirmez que le bouton (bascule) reste activé.
-title: Déployer le JavaScript pour l’IA dédiée au contenu
+title: Déployer le code JavaScript pour l’IA dédiée au contenu
 exl-id: d48bfd1b-73e8-4013-88d6-8750e4ef532b
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/LHzl0KuIoJvZ99eFWGFE6RdDW1xRxBS4LG3XU9ujj4U
+TQID: 'https://experienceleague.adobe.com/LHzl0KuIoJvZ99eFWGFE6RdDW1xRxBS4LG3XU9ujj4U'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 162
+source-wordcount: '162'
 ht-degree: 8%
-
 ---
-
-# Déployer le JavaScript pour l’IA dédiée au contenu {#deploy-the-javascript-for-content-ai}
+# Déployer le code JavaScript pour l’IA dédiée au contenu {#deploy-the-javascript-for-content-ai}
 
 Pour utiliser le contenu prédictif, vous devez générer et configurer la balise RTP (Web Personalization).
 

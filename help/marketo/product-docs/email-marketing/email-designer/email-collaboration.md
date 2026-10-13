@@ -4,19 +4,26 @@ title: Collaboration par e-mail
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 686a6950-6ca0-412f-8f47-24974c6428af
-TQID: https://experienceleague.adobe.com/6reAug0ptdiT2k0wzEez9HmH3vEksrA8FCXXxfLQi9s
+TQID: 'https://experienceleague.adobe.com/6reAug0ptdiT2k0wzEez9HmH3vEksrA8FCXXxfLQi9s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Beginner
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 316
+source-wordcount: '316'
 ht-degree: 2%
-
 ---
-
 # Collaboration par e-mail {#email-collaboration}
 
 La collaboration et les commentaires par e-mail permettent aux équipes marketing d’examiner, de discuter et de finaliser en toute transparence les ressources d’e-mail dans le Designer de messagerie Adobe Marketo Engage. Au lieu de partager des brouillons sur des outils externes (tels que le chat, les fils de discussion d’e-mail, les feuilles de calcul, etc.), vous pouvez commenter, suggérer des modifications et résoudre les commentaires en temps réel. Cela simplifie le workflow, réduit les erreurs et garantit l’alignement des parties prenantes avant l’envoi d’une campagne par e-mail.

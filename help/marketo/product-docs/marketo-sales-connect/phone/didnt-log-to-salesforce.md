@@ -1,19 +1,21 @@
 ---
 unique-page-id: 14352490
 description: Obtenez de l’aide lorsque l’activité Sales Connect ne s’est pas connectée à Salesforce. Dépanner les raisons pour lesquelles les e-mails, les appels ou les tâches ne se synchronisent pas
-title: N’a pas été consigné dans Salesforce.
+title: Non enregistré dans Salesforce
 exl-id: 99b7d023-257d-4421-80a5-ae54bced2658
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/M1LxJEhihbKrr-4Jwj6vmZJz89kpxKaeftapkukwvnk
+TQID: 'https://experienceleague.adobe.com/M1LxJEhihbKrr-4Jwj6vmZJz89kpxKaeftapkukwvnk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 88
+source-wordcount: '88'
 ht-degree: 4%
-
 ---
-
 # N’a pas connecté à [!DNL Salesforce] {#didnt-log-to-salesforce}
 
 Si vous ne voyez pas le journal de vos appels à [!DNL Salesforce], c’est peut-être parce que nous ne parvenons pas à localiser un lead/contact dans [!DNL Salesforce].

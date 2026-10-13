@@ -4,16 +4,21 @@ description: Découvrez comment utiliser la recherche rapide dans une liste ou u
 title: Utiliser la recherche rapide dans une liste ou une liste intelligente
 exl-id: c8ec3d13-0432-400a-acd8-13df709bc29e
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/PryszoOP-ARYY3MwaOrHmMuW3VlOdssIZ8xeDdGFemA
+TQID: 'https://experienceleague.adobe.com/PryszoOP-ARYY3MwaOrHmMuW3VlOdssIZ8xeDdGFemA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 153
+source-wordcount: '153'
 ht-degree: 14%
-
 ---
-
 # Utiliser la recherche rapide dans une liste ou une liste intelligente {#use-quick-find-in-a-list-or-smart-list}
 
 Recherchez une personne à partir des résultats d’une liste ou d’une liste dynamique à l’aide de la recherche rapide.

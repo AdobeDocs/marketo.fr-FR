@@ -4,16 +4,18 @@ description: E-mail à réponse automatique - Documents Marketo - Documentation 
 title: E-mail à réponse automatique
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/4cmhAOxdpbN23Mnbd5v2oGJUkGTstv-LiRxoibF753w
+TQID: 'https://experienceleague.adobe.com/4cmhAOxdpbN23Mnbd5v2oGJUkGTstv-LiRxoibF753w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 391
+source-wordcount: '391'
 ht-degree: 97%
-
 ---
-
 # E-mail à réponse automatique {#email-auto-response}
 
 ## Mission : envoyer un e-mail de remerciements quand une personne remplit un formulaire. {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}
@@ -111,7 +113,7 @@ ht-degree: 97%
 
 >[!NOTE]
 >
->Une fois activée, cette campagne s’exécutera chaque fois qu’un lead remplit le formulaire spécifié. La campagne continue de s’exécuter jusqu’à ce qu’elle soit désactivée.
+>Une fois active, cette campagne s’exécutera chaque fois qu’une personne remplit le formulaire spécifié. La campagne continue de s’exécuter jusqu’à ce qu’elle soit désactivée.
 
 ## Étape 3 : remplir le formulaire {#step-fill-out-the-form}
 
@@ -127,7 +129,7 @@ ht-degree: 97%
 
 >[!NOTE]
 >
->Indiquez une adresse e-mail valide pour être sûr de bien recevoir l&#39;e-mail.
+>Veillez à utiliser votre adresse e-mail réelle afin de recevoir le message.
 
 ## Mission accomplie {#mission-complete}
 

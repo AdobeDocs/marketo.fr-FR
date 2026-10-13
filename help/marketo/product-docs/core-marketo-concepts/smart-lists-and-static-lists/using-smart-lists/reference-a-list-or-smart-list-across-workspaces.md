@@ -4,18 +4,23 @@ description: Découvrez comment référencer une liste ou une liste dynamique da
 title: Référencer une liste ou une liste intelligente dans plusieurs espaces de travail
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/NAWn0sS-DldDqgQcLAnrOlaWQXdYBAR9nCrU0j4HlZY
+TQID: 'https://experienceleague.adobe.com/NAWn0sS-DldDqgQcLAnrOlaWQXdYBAR9nCrU0j4HlZY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 187
+source-wordcount: '187'
 ht-degree: 11%
-
 ---
-
 # Référencer une liste ou une liste intelligente dans plusieurs espaces de travail {#reference-a-list-or-smart-list-across-workspaces}
 
 Les listes et les listes dynamiques peuvent être partagées et référencées dans les espaces de travail pour une réutilisation facile à partir de la base de données.

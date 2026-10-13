@@ -3,16 +3,18 @@ description: Découvrez comment modifier votre mot de passe de vente Marketo dan
 title: Modifier votre mot de passe Marketo Sales
 exl-id: c63c007a-8f3e-433e-8f3a-9426da303cdb
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/e991PHN9bd3khp5eHLVybW1nXmWZV0fDHbX9IbUTrx8
+TQID: 'https://experienceleague.adobe.com/e991PHN9bd3khp5eHLVybW1nXmWZV0fDHbX9IbUTrx8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 194
+source-wordcount: '194'
 ht-degree: 8%
-
 ---
-
 # Modifier votre mot de passe Marketo Sales {#change-your-marketo-sales-password}
 
 Vous souhaitez modifier votre mot de passe ? Voici comment faire.

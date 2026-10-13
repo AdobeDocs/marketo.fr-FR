@@ -1,19 +1,21 @@
 ---
 unique-page-id: 14352546
 description: Découvrez comment empêcher une adresse Gmail secondaire de s’intégrer à Sales Connect. Utilisez uniquement l’adresse e-mail principale pour le plug-in.
-title: Empêchement de l’intégration d’une adresse Gmail secondaire à Sales Connect
+title: Empêcher l’intégration d’une adresse Gmail secondaire dans Sales Connect
 exl-id: a84fe53b-0ec8-400c-8747-be496c68a8e3
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/rOA-dhKUDpXxEJ9dAna3wk05XaiB-UJKRrSaDJofnds
+TQID: 'https://experienceleague.adobe.com/rOA-dhKUDpXxEJ9dAna3wk05XaiB-UJKRrSaDJofnds'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 323
+source-wordcount: '323'
 ht-degree: 2%
-
 ---
-
 # Empêcher l’intégration d’une adresse Gmail Secondaire à [!DNL Sales Connect] {#preventing-secondary-gmail-address-from-integrating-with-sales-connect}
 
 ## Intégration de Gmail rompue (pourquoi mon profil Gmail envoie-t-il des emails) {#broken-gmail-integration-why-is-my-personal-gmail-sending-emails}

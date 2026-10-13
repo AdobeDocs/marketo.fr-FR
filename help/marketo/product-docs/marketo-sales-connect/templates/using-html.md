@@ -4,18 +4,20 @@ description: Découvrez comment utiliser HTML dans les modèles Sales Connect. A
 title: Utilisation du HTML
 exl-id: 12cd78fa-6196-4605-aadf-8f0547bf71ca
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/3F8ZGgvuBQ7cpXNpd5rIQROpYSmm-YprqA6Qzrmcbas
+TQID: 'https://experienceleague.adobe.com/3F8ZGgvuBQ7cpXNpd5rIQROpYSmm-YprqA6Qzrmcbas'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 98
+source-wordcount: '98'
 ht-degree: 6%
-
 ---
-
 # Utilisation du HTML {#using-html}
 
 1. Copiez le code source de vos e-mails dans l’outil que vous utilisez pour créer des e-mails dans HTML (par exemple, Éditeur d’e-mail Marketo).

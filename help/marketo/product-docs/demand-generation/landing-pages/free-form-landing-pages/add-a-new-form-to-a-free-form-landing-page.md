@@ -4,18 +4,23 @@ description: Découvrez comment ajouter un nouveau formulaire à une page de des
 title: Ajouter un nouveau formulaire à une page de destination à structure libre
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/FTZtA2OAveQS9d9MLetBmTb99aSH0xIWwO6LsT2T7Ic
+TQID: 'https://experienceleague.adobe.com/FTZtA2OAveQS9d9MLetBmTb99aSH0xIWwO6LsT2T7Ic'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Forms
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 150
+source-wordcount: '150'
 ht-degree: 17%
-
 ---
-
 # Ajouter un nouveau formulaire à une page de destination à structure libre {#add-a-new-form-to-a-free-form-landing-page}
 
 >[!PREREQUISITES]

@@ -4,16 +4,18 @@ description: Découvrez comment créer des règles de workflow dans Salesforce p
 title: Création de règles de workflow dans Salesforce
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/NmHKAzpBUKL4-vpcpxNpXv9TPamdy5iFCxdYTfCC1S0
+TQID: 'https://experienceleague.adobe.com/NmHKAzpBUKL4-vpcpxNpXv9TPamdy5iFCxdYTfCC1S0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 482
+source-wordcount: '482'
 ht-degree: 3%
-
 ---
-
 # Création de règles de workflow dans Salesforce {#creating-workflow-rules-in-salesforce}
 
 Lorsque vous utilisez Marketo Sales Insight (MSI) et Marketo Sales Connect (MSC) en parallèle, la fonctionnalité Meilleurs résultats MSI de [!DNL Salesforce] n’est pas mise à jour. Toutes les autres fonctionnalités MSI fonctionnent comme d&#39;habitude (affichage des moments intéressants dans l&#39;iFrame, envoi d&#39;e-mails, ajout aux campagnes, etc.). Cet article offre une solution pour que les meilleurs résultats fonctionnent à nouveau.

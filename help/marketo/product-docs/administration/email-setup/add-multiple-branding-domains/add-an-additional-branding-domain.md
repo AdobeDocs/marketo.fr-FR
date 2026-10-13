@@ -4,21 +4,26 @@ description: Ajoutez des domaines de marque supplémentaires pour plusieurs marq
 title: Ajouter un domaine de branding supplémentaire
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup
-TQID: https://experienceleague.adobe.com/sPW8Gy4nhaxQ3kx7VPMaPG1ZrmE8ZnAN65qas0Idwqw
+TQID: 'https://experienceleague.adobe.com/sPW8Gy4nhaxQ3kx7VPMaPG1ZrmE8ZnAN65qas0Idwqw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 707
+source-wordcount: '707'
 ht-degree: 20%
-
 ---
-
 # Ajouter un domaine de branding supplémentaire {#add-an-additional-branding-domain}
 
 Ajoutez un domaine de branding supplémentaire lorsque vous exécutez plusieurs marques à partir d’une seule instance Marketo et souhaitez que chacune d’elles dispose de ses propres liens de suivi de branding.
@@ -105,7 +110,7 @@ Pour activer SSL pour vos domaines existants, procédez comme suit.
 
 * **SSL préexistants** : lors de l’ajout d’un domaine, le système recherche les SSL préexistants, qui peuvent avoir été créés manuellement précédemment. Si vous rencontrez cette validation, créez votre domaine sans sélectionner la création SSL et contactez [l’assistance technique](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} pour les connecter.
 
-* **Suppression de domaines** : la suppression automatique d’un domaine **ne supprime pas** le certificat SSL. Ce mécanisme de sécurisation empêche les erreurs utilisateur qui entraînent la suppression des certificats SSL d’un site web. Si vous souhaitez supprimer les certificats SSL, [contactez l’assistance &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+* **Suppression de domaines** : la suppression automatique d’un domaine **ne supprime pas** le certificat SSL. Ce mécanisme de sécurisation empêche les erreurs des utilisateurs pouvant entraîner l’absence de certificats SSL sur un site web. Si vous souhaitez supprimer les certificats SSL, [contactez l’assistance &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
 * Si le domaine que vous ajoutez est répertorié comme autre chose qu’un CNAME, la possibilité d’ajouter d’autres domaines de suivi de marque est verrouillée. Vous devez modifier tout domaine existant et vous assurer qu’il s’agit d’un enregistrement CNAME et non, par exemple, d’un enregistrement A. Le bouton Ajouter ne recherche dynamiquement que les CNAME.
 

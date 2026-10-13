@@ -3,21 +3,25 @@ description: Document d’instance hérité Votre configuration - Documents Mark
 title: L’Instance Héritée Documente Votre Configuration
 feature: Getting Started
 exl-id: 57057a05-b05a-4451-a13f-05729d5410dc
-TQID: https://experienceleague.adobe.com/nmRkM3TVZyi9ZwXxwM-nXNg-6qJoqx-cBL4ALs2zWXI
+TQID: 'https://experienceleague.adobe.com/nmRkM3TVZyi9ZwXxwM-nXNg-6qJoqx-cBL4ALs2zWXI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 299
+source-wordcount: '301'
 ht-degree: 4%
-
 ---
-
-# Instance héritée : documenter votre configuration {#inherited-instance-document-your-setup}
+# Instance héritée : documentation de votre configuration {#inherited-instance-document-your-setup}
 
 Maintenant que vous avez appris les principales zones de produit à auditer lors de l’héritage d’une instance établie, l’étape suivante consiste à créer/mettre à jour la documentation sur la configuration de votre instance et tech stack. Que vous le créiez par le biais d’une feuille de calcul ou d’une application de gestion de projet, votre documentation sera une excellente ressource pour suivre la progression et enregistrer les détails, ainsi que pour maintenir votre instance structurée et durable.
 

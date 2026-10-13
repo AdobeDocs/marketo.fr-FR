@@ -4,16 +4,18 @@ description: Découvrez comment partager un moment dans l’application Marketo 
 title: Partage d’un Moment
 exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/23phcVfYqFTEoOApmIsIkOvekpuQsH-i545qJtxmbo8
+TQID: 'https://experienceleague.adobe.com/23phcVfYqFTEoOApmIsIkOvekpuQsH-i545qJtxmbo8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 173
+source-wordcount: '173'
 ht-degree: 4%
-
 ---
-
 # Partage d’un Moment {#sharing-a-moment}
 
 Il y a deux façons de partager un moment.

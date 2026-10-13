@@ -1,24 +1,31 @@
 ---
 unique-page-id: 7504180
 description: Découvrez comment utiliser une liste Marketo ou une liste dynamique en tant que segment d’audience LinkedIn. Envoi de listes à LinkedIn pour le ciblage publicitaire via Ad Bridge.
-title: Utiliser une liste Marketo ou une liste intelligente en tant que segments ciblés Linkedln
+title: Utiliser une liste Marketo ou une liste intelligente comme segment ciblé LinkedIn
 exl-id: 9a7943fe-b2e7-443a-87e0-da01001682de
 feature: Social
-TQID: https://experienceleague.adobe.com/n7Z4AKx6Hiu6f9cxXPpfSTJJdOLakTwy7ejQ-6LK4Bo
+TQID: 'https://experienceleague.adobe.com/n7Z4AKx6Hiu6f9cxXPpfSTJJdOLakTwy7ejQ-6LK4Bo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Database
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: e9b7b90f-6f8a-4637-a2ca-00239808918c
+    internal-label: Social
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 207
+source-wordcount: '207'
 ht-degree: 14%
-
 ---
-
-# Utiliser une liste Marketo ou une liste intelligente en tant que segments ciblés Linkedln {#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
+# Utiliser une liste Marketo ou une liste intelligente comme segment ciblé LinkedIn {#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
 
 Intégrez vos utilisateurs Marketo Engage à vos audiences LinkedIn.
 

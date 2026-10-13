@@ -4,16 +4,18 @@ description: Découvrez comment définir des modèles d’URL afin que le conten
 title: Créez des modèles de contenu
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/-RyicC-MZyiCh9huVBFDrCbuFwDybV1ulUzDNjurkZQ
+TQID: 'https://experienceleague.adobe.com/-RyicC-MZyiCh9huVBFDrCbuFwDybV1ulUzDNjurkZQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 406
+source-wordcount: '406'
 ht-degree: 2%
-
 ---
-
 # Créez des modèles de contenu {#create-content-patterns}
 
 Lorsque vous définissez des modèles de contenu, le contenu est automatiquement découvert lorsqu’un visiteur web clique sur la page web d’HTML appropriée au modèle de contenu. Il permet d’ajouter des pages HTML (articles de blog, communiqués de presse, articles de presse) en tant qu’éléments de contenu à la page Tout le contenu . Lorsque la découverte automatique est basée sur des modèles de contenu, elle détecte et suit les pages HTML associées au modèle d’URL défini lorsqu’un visiteur web affiche ou clique sur un lien vers la page. Cet élément de contenu (l’URL, le nom de la page et les métadonnées, y compris l’URL de l’image et la description) est ajouté à la page Tout le contenu pour préparer le contenu prédictif. Pour la découverte automatique d’autres contenus, tels que des fichiers PDF et des vidéos incorporées, vous devez [activer la découverte de contenu](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).

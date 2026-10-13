@@ -3,16 +3,18 @@ description: Découvrez comment bloquer les domaines dans les actions Sales Insi
 title: Domaines bloqués
 exl-id: 004ba212-485e-4412-be75-7de13505d9b0
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/rt1VTGsoWCNAELjwPto-eojaKAEsrGI4ekYHTOk4AZo
+TQID: 'https://experienceleague.adobe.com/rt1VTGsoWCNAELjwPto-eojaKAEsrGI4ekYHTOk4AZo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 104
+source-wordcount: '104'
 ht-degree: 6%
-
 ---
-
 # Domaines bloqués {#blocked-domains}
 
 Aidez votre équipe de vente à réussir en l&#39;empêchant d&#39;envoyer accidentellement des e-mails à des concurrents, des pièges à spam connus ou tout autre domaine que vous ne souhaitez pas contacter.

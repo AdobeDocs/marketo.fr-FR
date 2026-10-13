@@ -1,17 +1,23 @@
 ---
 unique-page-id: 4718666
 description: Découvrez comment utiliser les étapes d’inventaire des modèles de chiffre d’affaires dans Marketo Engage à l’aide des étapes d’inventaire. Utilisez ce guide pour passer à l’étape suivante.
-title: Utilisation d’étapes d’inventaire du modèle de revenu
+title: Utilisation des étapes d’inventaire du modèle de revenus
 exl-id: 7df10e8c-5e25-4cb4-970c-e23d92a3dfb7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 4%
-
 ---
-
-# Utilisation d’étapes d’inventaire du modèle de revenu {#using-revenue-model-inventory-stages}
+# Utilisation des étapes d’inventaire du modèle de revenus {#using-revenue-model-inventory-stages}
 
 Tous les prospects et comptes connus se trouvent initialement à l’étape d’inventaire. Ce pool de prospects est l’endroit où les prospects sont alimentés jusqu’à ce qu’ils soient prêts pour la vente. Il n’existe aucune limite de temps à une étape d’inventaire.
 
