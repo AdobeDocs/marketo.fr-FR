@@ -219,7 +219,7 @@ Les API REST Marketo prennent désormais en charge le contrôle des pages de des
 
 [LISTE AUTORISÉE d’adresses IP pour l’accès à l’API](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)
 
-Tout comme la fonction de limitation des adresses IP pour les connexions des utilisateurs de Marketo, les administrateurs de Marketo peuvent désormais configurer une place sur la liste autorisée d’adresses IP qui peut accéder aux API Marketo SOAP et REST, bloquant ainsi l’accès à partir d’adresses IP non autorisées. Cela ajoute une couche de sécurité à votre instance Marketo et garantit que l’accès à l’API ne peut se faire qu’à partir du réseau de votre entreprise. Des détails sur la configuration sont disponibles sur le site de documentation de [&#128279;](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
+Tout comme la fonction de limitation des adresses IP pour les connexions des utilisateurs de Marketo, les administrateurs de Marketo peuvent désormais configurer une place sur la liste autorisée d’adresses IP qui peut accéder aux API Marketo SOAP et REST, bloquant ainsi l’accès à partir d’adresses IP non autorisées. Cela ajoute une couche de sécurité à votre instance Marketo et garantit que l’accès à l’API ne peut se faire qu’à partir du réseau de votre entreprise. Des détails sur la configuration sont disponibles sur le site de documentation de [](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
 
 ## Nouveau Connecteur De Synchronisation Microsoft Dynamics Haute Vitesse {#new-high-speed-microsoft-dynamics-sync-connector}
 
@@ -265,7 +265,7 @@ Vous pouvez désormais afficher le nombre d’enregistrements et de champs pour 
 
 ## Activités personnalisées {#custom-activities}
 
-Les administrateurs Marketo peuvent désormais définir et gérer leurs types d’activités personnalisés via le modéliseur de définition d’activité personnalisée Marketo. De la même manière que le Modeler d’objet personnalisé Marketo (et conjointement avec lui), les administrateurs peuvent désormais étendre le modèle de données pour répondre exactement aux besoins de leur entreprise. Des informations détaillées sur l’utilisation de cette fonctionnalité sont disponibles sur le site de documentation de [&#128279;](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md).
+Les administrateurs Marketo peuvent désormais définir et gérer leurs types d’activités personnalisés via le modéliseur de définition d’activité personnalisée Marketo. De la même manière que le Modeler d’objet personnalisé Marketo (et conjointement avec lui), les administrateurs peuvent désormais étendre le modèle de données pour répondre exactement aux besoins de leur entreprise. Des informations détaillées sur l’utilisation de cette fonctionnalité sont disponibles sur le site de documentation de [](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md).
 
 ## Été 2016 {#summer}
 
@@ -434,7 +434,7 @@ Désormais, vous pouvez affecter des équipes de compte à des comptes nommés d
 
 **API REST**
 
-Cette version vous permet également de gérer les attributs de compte nommés et les scores de compte dans AEM à l’aide de l’API REST Marketo. Pour plus d’informations sur les opérations de l’API, consultez le [site web du développeur de &#x200B;](https://developers.marketo.com/rest-api/lead-database/named-accounts).
+Cette version vous permet également de gérer les attributs de compte nommés et les scores de compte dans AEM à l’aide de l’API REST Marketo. Pour plus d’informations sur les opérations de l’API, consultez le [site web du développeur de ](https://developers.marketo.com/rest-api/lead-database/named-accounts).
 
 ## Améliorations du journal d’audit {#audit-trail-enhancements}
 
@@ -487,5 +487,5 @@ Gérez les variables et les modules pour les e-mails au format v2.0 à l’aide 
 
 [Modifications apportées à la synchronisation de Marketo Salesforce](https://nation.marketo.com/docs/DOC-3840)
 
-L’intégration de Marketo [!DNL Salesforce] évolue pour améliorer la manière dont les champs Marketo sont synchronisés avec [!DNL Salesforce]. Désormais, au lieu d’avoir à synchroniser un grand groupe de champs dont vous avez besoin ou non, vous pouvez choisir les champs que vous souhaitez inclure. Consultez notre documentation ici pour plus d’informations : [&#128279;](https://nation.marketo.com/docs/DOC-3840).
+L’intégration de Marketo [!DNL Salesforce] évolue pour améliorer la manière dont les champs Marketo sont synchronisés avec [!DNL Salesforce]. Désormais, au lieu d’avoir à synchroniser un grand groupe de champs dont vous avez besoin ou non, vous pouvez choisir les champs que vous souhaitez inclure. Consultez notre documentation ici pour plus d’informations : [](https://nation.marketo.com/docs/DOC-3840).
 
