@@ -9,9 +9,9 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f071b487e66c7257b30eb7b598a487b0f088b103
 workflow-type: tm+mt
-source-wordcount: '1227'
+source-wordcount: '1222'
 ht-degree: 4%
 ---
 # Migration d’AWS {#aws-migration}
@@ -273,14 +273,8 @@ Si, pour une raison quelconque, une migration échoue, vous en serez informé et
    AB22</td>
    <td>16 h (HAP)<br>
    17 h (HAP)</td>
-   <td>Prévu<br>
-   Selon le calendrier</td>
-  </tr>
-  <tr>
-   <td>14 Octobre 2026</td>
-   <td>AB25</td>
-   <td>17 h (HAP)</td>
-   <td>Prévu</td>
+   <td>Terminé<br>
+   Terminé</td>
   </tr>
   <tr>
    <td>16 Octobre 2026</td>
@@ -311,9 +305,12 @@ Si, pour une raison quelconque, une migration échoue, vous en serez informé et
   </tr>
   <tr>
    <td>28 Octobre 2026</td>
-   <td>AB15</td>
-   <td>17 h (HAP)</td>
-   <td>Prévu</td>
+   <td>AB15<br>
+   AB25</td>
+   <td>17 h (HAP)<br>
+   18 h (HAP)</td>
+   <td>Prévu<br>
+   Selon le calendrier</td>
   </tr>
   </body>
 </table>
