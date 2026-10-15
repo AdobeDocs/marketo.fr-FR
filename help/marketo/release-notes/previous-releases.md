@@ -11,10 +11,10 @@ feature_v2:
 subfeature_v2:
   - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
     internal-label: Release information
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 9eb8c0e78a581bc9093f0f017a3ad3525d2b9667
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 35%
+source-wordcount: '110'
+ht-degree: 34%
 ---
 
 # Versions précédentes
@@ -31,6 +31,7 @@ ht-degree: 35%
 * [Mai 2026](previous-releases/2026/release-notes-may-26.md)
 * [26 juillet](previous-releases/2026/release-notes-july-26.md)
 * [26 août](previous-releases/2026/release-notes-aug-26.md)
+* [Septembre &#39;26](previous-releases/2026/release-notes-sep-26.md)
 
 ## 2025
 
