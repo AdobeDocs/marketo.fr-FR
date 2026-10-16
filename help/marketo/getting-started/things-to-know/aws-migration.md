@@ -9,9 +9,9 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: f071b487e66c7257b30eb7b598a487b0f088b103
+source-git-commit: d7d7f0d50797571fde1b3a7141b4f50668a1b2b5
 workflow-type: tm+mt
-source-wordcount: '1222'
+source-wordcount: '1235'
 ht-degree: 4%
 ---
 # Migration d’AWS {#aws-migration}
@@ -287,12 +287,9 @@ Si, pour une raison quelconque, une migration échoue, vous en serez informé et
   </tr>
    <tr>
    <td>21 Octobre 2026</td>
-   <td>AB36<br>
-   AB38</td>
-   <td>17 h (HAP)<br>
-   18 h (HAP)</td>
-   <td>Prévu<br>
-   Selon le calendrier</td>
+   <td>AB38</td>
+   <td>17 h (HAP)</td>
+   <td>Prévu</td>
   </tr>
   <tr>
    <td>22 Octobre 2026</td>
@@ -309,6 +306,15 @@ Si, pour une raison quelconque, une migration échoue, vous en serez informé et
    AB25</td>
    <td>17 h (HAP)<br>
    18 h (HAP)</td>
+   <td>Prévu<br>
+   Selon le calendrier</td>
+  </tr>
+  <tr>
+   <td>6 novembre 2026</td>
+   <td>AB18<br>
+   AB36</td>
+   <td>16 h (heure du Pacifique)<br>
+   17 h (heure du Pacifique)</td>
    <td>Prévu<br>
    Selon le calendrier</td>
   </tr>
@@ -336,6 +342,12 @@ En fonction de votre centre de données, collaborez avec votre service informati
   <td>34.247.24.245<br>
 18.200.201.81<br>
 54.220.138.65</td>
+</tr>
+<tr>
+  <td>SJ</td>
+  <td>54.212.167.17<br>
+35.165.244.220<br>
+44.235.171.179</td>
 </tr>
 </body>
 </table>

@@ -4,9 +4,9 @@ user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 6df3337e516a4d8345ee7d1362ab36e9724cc771
+source-git-commit: 9eb8c0e78a581bc9093f0f017a3ad3525d2b9667
 workflow-type: tm+mt
-source-wordcount: '8940'
+source-wordcount: '8944'
 ht-degree: 96%
 ---
 
@@ -1930,6 +1930,7 @@ ht-degree: 96%
       + [Notes De Mise À Jour : 26 Mai](release-notes/previous-releases/2026/release-notes-may-26.md)
       + [Notes De Mise À Jour : 26 Juillet](release-notes/previous-releases/2026/release-notes-july-26.md)
       + [Notes de mise à jour : 26 août](release-notes/previous-releases/2026/release-notes-aug-26.md)
+      + [Notes De Mise À Jour : Septembre 26](release-notes/previous-releases/2026/release-notes-sep-26.md)
     + 2025 {#2025}
       + [Notes de mise à jour : janvier 2025](release-notes/previous-releases/2025/release-notes-jan-25.md)
       + [Notes de mise à jour : mars 2025](release-notes/previous-releases/2025/release-notes-mar-25.md)
