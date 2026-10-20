@@ -31,7 +31,7 @@ Vérifiez que vous êtes correctement configuré dans la communauté Marketo Eng
 
 * [**Configurez votre profil**](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=fr&lang=fr){target="_blank"} en remplissant les champs requis (société, spécialisations de solution, pays, etc.)
 
-* Lisez les [**Directives de la communauté Adobe Experience League**](https://experienceleaguecommunities.adobe.com/knowledge-base?profile.language=fr){target="_blank"}.
+* Lisez les [**Directives de la communauté Adobe Experience League**](https://experienceleaguecommunities.adobe.com/knowledge-base?profile.language=fr&lang=fr){target="_blank"}.
 
 * Découvrez comment [**soumettre un cas d’assistance**](https://experienceleague.adobe.com/fr/support#home){target="_blank"} et confirmer que vous êtes bien configuré en tant qu’[administrateur d’assistance](https://experienceleague.adobe.com/fr/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}.
 

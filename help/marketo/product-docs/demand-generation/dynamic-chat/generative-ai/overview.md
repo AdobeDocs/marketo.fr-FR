@@ -85,7 +85,7 @@ Les rubriques abordées sont disponibles dans les déclencheurs de liste dynamiq
 
 >[!IMPORTANT]
 >
->Lors de l’utilisation de l’IA générative, vous devez respecter les [Directives d’utilisation de l’IA générative d’Adobe Experience Cloud](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) afin de vous assurer que les fonctionnalités d’Adobe Experience Cloud qui intègrent l’IA générative sont utilisées de manière sûre et responsable.
+>Lors de l’utilisation de l’IA générative, vous devez respecter les [Directives d’utilisation de l’IA générative d’Adobe Experience Cloud](https://www.adobe.com/fr/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) afin de vous assurer que les fonctionnalités d’Adobe Experience Cloud qui intègrent l’IA générative sont utilisées de manière sûre et responsable.
 
 ## Questions fréquentes {#faq}
 

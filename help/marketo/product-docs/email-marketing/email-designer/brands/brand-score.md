@@ -35,7 +35,7 @@ La révision de votre score de marque garantit la cohérence du ton, des message
 
 >[!AVAILABILITY]
 >
->Vous devez accepter le [contrat d’utilisation](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"}{target="_blank"} avant de pouvoir utiliser l’assistant AI dans Adobe Marketo Engage. Pour en savoir plus, contactez votre représentant Adobe.
+>Vous devez accepter le [contrat d’utilisation](https://www.adobe.com/fr/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"}{target="_blank"} avant de pouvoir utiliser l’assistant AI dans Adobe Marketo Engage. Pour en savoir plus, contactez votre représentant Adobe.
 
 ## Valider le contenu avec l’alignement sur la marque {#validate-content}
 

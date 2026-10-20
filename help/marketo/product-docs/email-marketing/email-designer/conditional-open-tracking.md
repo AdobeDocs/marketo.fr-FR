@@ -26,7 +26,7 @@ ht-degree: 0%
 ---
 # Tracking conditionnel de l&#39;ouverture d&#39;un email {#conditional-open-tracking}
 
-Découvrez comment configurer Marketo Engage pour honorer le consentement de l’utilisateur final pour le suivi de l’ouverture de l’e-mail (en pixels), en accord avec [diverses instructions](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/understanding-guidance-on-email-tracking-pixels-251632?profile.language=fr){target="_blank"}. L’approche utilise un champ booléen personnalisé pour déterminer la variante d’e-mail qu’une personne reçoit, une dont le suivi des ouvertures est activé ou une dont le suivi est désactivé.
+Découvrez comment configurer Marketo Engage pour honorer le consentement de l’utilisateur final pour le suivi de l’ouverture de l’e-mail (en pixels), en accord avec [diverses instructions](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/understanding-guidance-on-email-tracking-pixels-251632?profile.language=fr&lang=fr){target="_blank"}. L’approche utilise un champ booléen personnalisé pour déterminer la variante d’e-mail qu’une personne reçoit, une dont le suivi des ouvertures est activé ou une dont le suivi est désactivé.
 
 ## Étape 1 : créer un champ booléen personnalisé {#custom-field}
 

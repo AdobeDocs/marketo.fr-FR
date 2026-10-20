@@ -70,7 +70,7 @@ Cet outil est utilisé pour `auto-personalize your email` et vous faire gagner d
 | `{{my_signature}}` | Keith Flynn, rédacteur technique principal - Adobe |
 | `{{personal_email}}` | <keith@pickyouremail.com> |
 | `{{title}}` | Rédacteur technique principal |
-| `{{work_website}}` | <https://www.adobe.com> |
+| `{{work_website}}` | <https://www.adobe.com/fr> |
 
 **Points à noter** :
 
