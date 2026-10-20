@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 9eb8c0e78a581bc9093f0f017a3ad3525d2b9667
+source-git-commit: 29aa413a7346a79906f4021dedc79e8e48170c69
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 18%
+source-wordcount: '472'
+ht-degree: 15%
 ---
 # Notes De Mise À Jour : Octobre 2026 {#release-notes-oct-26}
 
@@ -47,6 +47,26 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <th style="width:65%">Fonctionnalité</th>
    <th style="width:10%">Statut</th>
    <th style="width:25%">Documentation</th>
+  </tr>
+  <tr>
+   <td><strong>Compétences en matière de planification de campagnes</strong> : CX Enterprise Coworker for Marketo Engage peut désormais transformer un résumé de campagne en un document de configuration de programme Marketo Engage complet. Le document comprend la structure des dossiers, les campagnes intelligentes, les configurations d’e-mail, les jetons et une liste de contrôle d’assurance qualité. Cela permet aux équipes de lancer des campagnes plus rapidement et de normaliser la configuration du programme. La compétence peut être configurée via Markdown.</td>
+   <td><i>Bientôt disponible</i></td>
+   <td><i>Bientôt disponible</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Agents appelables</strong> : créez des agents d’IA qui s’exécutent en tant qu’étape de flux dans vos campagnes intelligentes et qui agissent sur un enregistrement de prospect en fonction des instructions que vous écrivez en langage clair. Par exemple, un agent peut normaliser les données d’un prospect ou signaler des robots probables, puis réécrire le résultat dans les champs du prospect. Le traitement des prospects est ainsi basé sur le jugement et s’effectue dans vos campagnes sans code personnalisé.</td>
+   <td><i>Bientôt disponible</i></td>
+   <td><i>Bientôt disponible</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
   </tr>
   <tr>
    <td><strong>Cloner vers ce programme/dossier</strong> : les opérations de clonage dans Marketo Engage offrent désormais de manière cohérente une option « Ce dossier » ou « Ce programme » comme premier choix lors du choix de la destination de la ressource clonée. La sélection de cette option clone la ressource dans le programme parent ou le dossier de la ressource active.</td>
