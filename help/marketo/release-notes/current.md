@@ -26,20 +26,20 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 29aa413a7346a79906f4021dedc79e8e48170c69
+source-git-commit: c36bbfe0f8ce46dfa6b5c708fa29c5a710cc2358
 workflow-type: tm+mt
 source-wordcount: '472'
 ht-degree: 15%
 ---
-# Notes De Mise À Jour : Octobre 2026 {#release-notes-oct-26}
+# Notes De Mise À Jour : Novembre 2026 {#release-notes-nov-26}
 
-Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 26 octobre. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
+Vous trouverez ci-dessous toutes les fonctionnalités incluses dans la version du 26 novembre. Vérifiez la disponibilité des fonctionnalités dans votre édition Adobe Marketo Engage.
 
 Les notes de mise à jour spécifiques à Adobe Dynamic Chat [peuvent être consultées ici](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 ## Fonctionnalités du cycle de publication standard {#standard-release-cycle-features}
 
-Les fonctionnalités suivantes font partie du cycle de publication standard et commenceront à être publiées le **23 octobre 2026**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication sont susceptibles d’être modifiées. Vérifiez le statut en regard de chaque fonctionnalité.
+Les fonctionnalités suivantes font partie du cycle de publication standard et commenceront à être publiées le **6 novembre 2026**, avec un déploiement échelonné des fonctionnalités restantes au cours des semaines suivantes. Les fonctionnalités et dates de publication sont susceptibles d’être modifiées. Vérifiez le statut en regard de chaque fonctionnalité.
 
 <table style="table-layout:auto">
  <tbody>
@@ -91,8 +91,8 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
 
 ## Annonces {#announcements}
 
-* **Obsolescence des images capturées sur le web** : pour se conformer aux bonnes pratiques modernes en matière de sécurité et de confidentialité, la fonctionnalité [Capturer des images sur le web](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} sera abandonnée à compter de la version d’octobre.
+* **Obsolescence des images capturées sur le web** : pour se conformer aux bonnes pratiques modernes en matière de sécurité et de confidentialité, la fonctionnalité [Capturer des images sur le web](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} sera abandonnée à compter de la version de novembre.
 
 * **Restrictions de nom d’API pour les attributs d’activité personnalisés** : les noms d’API pour les attributs d’activité personnalisés créés via l’API ou l’interface utilisateur peuvent désormais uniquement contenir des caractères alphanumériques et des traits de soulignement et doivent commencer par un caractère alphanumérique.
 
-* **Limites de taille de liste statique pour les activités Get Lead et Get Lead Changes** : depuis le 30 septembre 2026, les appels aux points d’entrée Get Lead Activities ou Get Lead Changes qui incluent le paramètre `listId` ont commencé à échouer avec un code d’erreur 1003 (indiquant que la liste statique cible contient trop d’enregistrements) si les listes cibles contiennent 10 000 leads ou plus. Consultez le [&#x200B; Guide de migration &#x200B;](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} pour plus d’informations.
+* **Limites de taille de liste statique pour les activités Get Lead et Get Lead Changes** : depuis le 30 septembre 2026, les appels aux points d’entrée Get Lead Activities ou Get Lead Changes qui incluent le paramètre `listId` ont commencé à échouer avec un code d’erreur 1003 (indiquant que la liste statique cible contient trop d’enregistrements) si les listes cibles contiennent 10 000 leads ou plus. Consultez le [ Guide de migration ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"} pour plus d’informations.
