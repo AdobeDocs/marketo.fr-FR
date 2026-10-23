@@ -58,11 +58,11 @@ La correspondance entre les leads et les comptes Marketo suit un processus en 4 
 
 >[!NOTE]
 >
->Si vous utilisez LeanData dans Salesforce pour effectuer une correspondance entre les prospects et les comptes, Marketo dispose d’une intégration qui synchronise ces correspondances avec votre instance Marketo. Pour activer cette fonctionnalité, contactez l’assistance technique de [](https://nation.marketo.com/t5/Support/ct-p/Support) Découvrez comment configurer LeanData ci-dessous.
+>Si vous utilisez LeanData dans Salesforce pour effectuer une correspondance entre les prospects et les comptes, Marketo dispose d’une intégration qui synchronise ces correspondances avec votre instance Marketo. Pour activer cette fonctionnalité, contactez l’assistance technique de [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support) Découvrez comment configurer LeanData ci-dessous.
 
 ## Utilisation de données complètes pour la correspondance des prospects et des comptes {#using-leandata-for-lead-to-account-matching}
 
-Une fois que la prise en charge de [](https://nation.marketo.com/t5/Support/ct-p/Support) a activé LeanData pour votre compte, suivez les étapes ci-dessous pour le configurer.
+Une fois que la prise en charge de [&#128279;](https://nation.marketo.com/t5/Support/ct-p/Support) a activé LeanData pour votre compte, suivez les étapes ci-dessous pour le configurer.
 
 1. Dans Salesforce, cliquez sur **[!UICONTROL Configurer l’accueil]** dans le volet de navigation de gauche.
 
