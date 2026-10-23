@@ -90,7 +90,7 @@ Trois nouveaux appels pour l’API REST de lead et d’activité :
 * Obtenir les leads par ID de programme
 * Obtenir les leads supprimés
 
-Il existe également une nouvelle option pour le prospect de synchronisation, permettant d’écrire le changement de prospect de manière asynchrone pour un appel API plus rapide. Des détails complets seront disponibles après la publication sur [&#128279;](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/home)
+Il existe également une nouvelle option pour le prospect de synchronisation, permettant d’écrire le changement de prospect de manière asynchrone pour un appel API plus rapide. Des détails complets seront disponibles après la publication sur [](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/home)
 
 **Prise en charge des objets personnalisés dans le script d’e-mail**
 
@@ -100,7 +100,7 @@ Accédez maintenant aux objets personnalisés associés à l’objet Compte dans
 
 **Remarketing personnalisé pour Google et[!DNL Facebook]**
 
-Le remarketing présente des publicités destinées aux personnes qui ont visité votre site web. Vous pouvez désormais personnaliser vos campagnes de remarketing sur [&#128279;](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) et [[!DNL Facebook]](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) à l’aide des données de Real-Time Personalization. Remarquez les audiences de différents secteurs d’activité, les listes de comptes nommés, les tailles d’entreprise ou toute donnée provenant de prospects connus.
+Le remarketing présente des publicités destinées aux personnes qui ont visité votre site web. Vous pouvez désormais personnaliser vos campagnes de remarketing sur [](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) et [[!DNL Facebook]](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) à l’aide des données de Real-Time Personalization. Remarquez les audiences de différents secteurs d’activité, les listes de comptes nommés, les tailles d’entreprise ou toute donnée provenant de prospects connus.
 
 [Module de liste de comptes nommés](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
 
@@ -121,7 +121,7 @@ Les options de balise RTP sous Paramètres du compte ont été mises à jour pou
 1. Balise asynchrone sans réseau CDN
 1. Balise synchrone sans réseau CDN
 
-Pour de meilleures performances, il est recommandé de placer la balise en haut de l’en-tête de votre page web après `<head>`. Toutes les balises permettent d’utiliser l’[API RTP](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Pour plus d’informations sur le déploiement de la balise RTP, voir [ici](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Pour de meilleures performances, il est recommandé de placer la balise en haut de l’en-tête de votre page web après `<head>`. Toutes les balises permettent d’utiliser l’[API RTP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Pour plus d’informations sur le déploiement de la balise RTP, voir [ici](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)
 
@@ -149,7 +149,7 @@ et remplacera les protocoles de sécurité actuellement utilisés (SHA-1 et SSL)
 
 Cela se produira peu de temps après cette version. Le protocole SHA-1 sera temporairement pris en charge sur le domaine [mktoapi.com](https://mktoapi.com) jusqu&#39;en décembre 2015 pour permettre aux propriétaires de systèmes et d&#39;applications hérités de mettre à jour leurs systèmes avec la compatibilité SHA-2.
 
-[!DNL Munchkin]&#x200B;**sécurisé**
+[!DNL Munchkin]**sécurisé**
 
 Nous supprimons notre prise en charge de SSL3. Nous avons maintenu SSL3 jusqu’à présent pour maintenir la prise en charge des anciens navigateurs web, mais en 2015, nous ne voyons plus de trafic web important provenant de ces navigateurs. Cela n’affecte que les [!DNL Munchkin] lorsqu’elles sont utilisées sur des pages sécurisées et se déploie lentement après la version de février.
 
@@ -191,7 +191,7 @@ Liez votre [[!DNL Google AdWords] compte à Marketo](/help/marketo/product-docs/
 
 ## Nouvelles API REST de ressources {#new-asset-rest-apis}
 
-[Nouvelles API REST de ressources](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/assets/assets)
+[Nouvelles API REST de ressources](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
 La création et la modification d’e-mails, de modèles, de mes jetons, de fichiers et de fragments de code sont désormais prises en charge [via l’API](https://developer.adobe.com/marketo-apis/api/asset/) !
 
@@ -221,7 +221,7 @@ Les fonctionnalités suivantes sont incluses dans la version d’avril 2015. Con
 >
 >Cette fonctionnalité sera publiée le mardi 28 avril.
 
-La nouvelle page d’accueil [[!UICONTROL Analytics] &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) permet un accès rapide pour l’exécution de rapports ad hoc sur tous les types de rapports disponibles.
+La nouvelle page d’accueil [[!UICONTROL Analytics] ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) permet un accès rapide pour l’exécution de rapports ad hoc sur tous les types de rapports disponibles.
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 
@@ -423,7 +423,7 @@ Les statistiques sur les e-mails envoyés par le biais de campagnes intelligente
 
 ## RTP - Content Analytics et recommandations {#rtp-content-analytics-and-recommendations}
 
-[&#128279;](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) et Recommendations
+[](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) et Recommendations
 
 RTP Content Analytics vous montre les performances de vos ressources de contenu web à partir de visites web régulières et aussi des visites générées à partir du moteur de recommandation de contenu de RTP.
 

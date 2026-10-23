@@ -283,7 +283,7 @@ Les fonctionnalités suivantes devraient sortir au cours du deuxième trimestre 
 * **Intégration de Drift** : découvrez comment les conversations Drift affectent le parcours de votre client. [!DNL Bizible] extraira également les adresses e-mail des conversations pour créer un nouveau prospect ou connecter le point de contact à un prospect existant.
 * **Localisation** : [!DNL Bizible] est désormais disponible dans toutes les langues prises en charge par Marketo (anglais, japonais, allemand, espagnol, français et portugais).
 
-_&#x200B;**Webinaire de mise à jour des produits**&#x200B;_ Regardez l’enregistrement de notre webinaire sur les innovations de mise à jour du 19 juin [ici](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
+_**Webinaire de mise à jour des produits**_ Regardez l’enregistrement de notre webinaire sur les innovations de mise à jour du 19 juin [ici](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
 
 ## Août 2019 {#august}
 
@@ -299,7 +299,7 @@ Les fonctionnalités suivantes ont été publiées le 16 août 2019.
 * **Mise à jour de l’API Smart Campaign** : gérez les fonctionnalités de cycle de vie des campagnes intelligentes tout en complétant l’interface CRUD (création, lecture, mise à jour, suppression).
 * **Modification de l’API Update Email Headers** : l’API Update Email Header ne nécessite plus qu’un e-mail soit associé à un modèle pour mettre à jour les champs d’en-tête, tels que l’objet.
 
-**&#x200B;**&#x200B;![(étoile)](assets/yellow-star.png)
+**** ![(étoile)](assets/yellow-star.png)
 
 * **[!DNL LinkedIn]correspondance de compte** auparavant en version Beta, est désormais disponible pour tous.
 * **AccountAI** est officiellement rebaptisé **Profil de compte**.

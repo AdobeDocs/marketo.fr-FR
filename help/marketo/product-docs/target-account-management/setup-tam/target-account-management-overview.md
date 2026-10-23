@@ -68,8 +68,8 @@ Marketo Account Based Marketing propose également divers outils pour personnali
 
 * Personalization d’e-mail et de page de destination
 * Web Personalization
-* URL [&#128279;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
-* Annonce [&#128279;](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+* URL [](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+* Annonce [](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 * [Personnalisé](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) Remarketing
 
 J&#39;y suis ! Comment démarrer ?

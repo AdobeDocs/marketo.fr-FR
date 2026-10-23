@@ -91,7 +91,7 @@ Ces informations incluent :
 
 ![](assets/image2014-11-12-10-3a48-3a9.png)
 
-Pour activer ou désactiver un segment, cochez la case correspondant à ce segment dans le tableau, puis dans la liste déroulante « [!UICONTROL &#x200B; Choisir une action &#x200B;] » au bas du tableau, sélectionnez l’action « [!UICONTROL &#x200B; Activer &#x200B;] » ou « [!UICONTROL &#x200B; Désactiver &#x200B;]. Lorsqu’un segment est désactivé, le mot « désactiver » s’affiche sous la colonne [!UICONTROL État].
+Pour activer ou désactiver un segment, cochez la case correspondant à ce segment dans le tableau, puis dans la liste déroulante « [!UICONTROL  Choisir une action ] » au bas du tableau, sélectionnez l’action « [!UICONTROL  Activer ] » ou « [!UICONTROL  Désactiver ]. Lorsqu’un segment est désactivé, le mot « désactiver » s’affiche sous la colonne [!UICONTROL État].
 
 ## Création de segments {#create-segments}
 
@@ -202,7 +202,7 @@ Effectuez une sélection dans une [Liste de comptes nommés](/help/marketo/produ
 
 >[!NOTE]
 >
->Le nombre entre crochets en regard du nom de la liste des comptes nommés est utilisé comme référence d’index pour la liste de Web Personalization [API de lecture](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/web-personalization).
+>Le nombre entre crochets en regard du nom de la liste des comptes nommés est utilisé comme référence d’index pour la liste de Web Personalization [API de lecture](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **Exclure le FAI**
 
@@ -301,7 +301,7 @@ Ajoutez la valeur d’événement à cibler. E.g. à partir de sources de donné
 
 **API de contexte utilisateur**
 
-Appel API Web Personalization [en savoir plus ici.](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Appel API Web Personalization [en savoir plus ici.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >
