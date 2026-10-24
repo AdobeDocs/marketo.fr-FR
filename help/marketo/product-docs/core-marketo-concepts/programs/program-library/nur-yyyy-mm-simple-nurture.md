@@ -6,18 +6,21 @@ exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
 TQID: https://experienceleague.adobe.com/4dEZucMMXmSHngRHdUqasKVAg08MkwZFIDn1OzbxnVg
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: 369
+source-wordcount: '369'
 ht-degree: 20%
-
 ---
-
 # NUR-AAAA-MM-Fidélisation simple {#nur-yyyy-mm-simple-nurture}
 
 Il s’agit d’un exemple de programmes de formation simples, utilisant le programme d’engagement Marketo Engage, avec du contenu cadencé qui s’écoule au fil du temps vers votre base de données tout en utilisant des flux pour guider les enregistrements à travers les parcours en fonction du comportement.
@@ -150,20 +153,20 @@ Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un program
 ## Règles de conflit {#conflict-rules}
 
 * **Balises de programme**
-   * Créer des balises dans cet abonnement - _Recommandé_
-   * Ignorer
+  * Créer des balises dans cet abonnement - _Recommandé_
+  * Ignorer
 
 * **Modèle de page de destination portant le même nom**
-   * Copier le modèle d&#39;origine
-   * Utiliser le modèle de destination - _Recommandé_
+  * Copier le modèle d&#39;origine
+  * Utiliser le modèle de destination - _Recommandé_
 
 * **Images du même nom**
-   * Conserver les deux fichiers
-   * Remplacer l&#39;élément dans cet abonnement - _Recommandé_
+  * Conserver les deux fichiers
+  * Remplacer l&#39;élément dans cet abonnement - _Recommandé_
 
 * **Modèles d’e-mail portant le même nom**
-   * Conserver les deux modèles
-   * Remplacer le modèle existant - _Recommandé_
+  * Conserver les deux modèles
+  * Remplacer le modèle existant - _Recommandé_
 
 ## Meilleures pratiques {#best-practices}
 

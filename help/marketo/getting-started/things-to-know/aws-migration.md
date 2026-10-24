@@ -9,9 +9,9 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: 6d87546b2dda91d292596a246fda2aec8c5b496a
+source-git-commit: 26cd137342ecb342803a74c44713541af9faf28c
 workflow-type: tm+mt
-source-wordcount: '1245'
+source-wordcount: '1282'
 ht-degree: 4%
 ---
 # Migration d’AWS {#aws-migration}
@@ -32,7 +32,7 @@ Pendant la période de migration, tous les services Marketo Engage ne seront pas
 
 * **Évitez d’exécuter** d’importer ou d’exporter des données ou toute campagne majeure de génération de leads/personnes.
 
-* **Examinez et mettez à jour les places sur la liste autorisée IP** pour la connexion, l’accès aux API, l’envoi d’e-mails, le tracking web et les intégrations.
+* **Examinez et mettez à jour les places sur la liste autorisée IP** pour la connexion, l’accès à l’API, l’envoi d’e-mails, le tracking web et les intégrations (telles que la synchronisation CRM et les Webhooks).
 
 * **Ajoutez de nouvelles adresses IP** et conservez vos adresses IP actuelles en l’état. Voir les adresses IP à ajouter via le [tableau ci-dessous](#ip-addresses).
 
@@ -332,7 +332,7 @@ Si, pour une raison quelconque, une migration échoue, vous en serez informé et
 
 ## Adresses IP à ajouter {#ip-addresses}
 
-En fonction de votre centre de données, collaborez avec votre service informatique pour ajouter les adresses IP respectives.
+Si votre entreprise utilise une liste autorisée IP, un pare-feu, une liste de contrôle d’accès, un groupe de sécurité ou tout autre serveur ou service tiers configuré pour accepter les connexions à partir de Marketo Engage, contactez votre service informatique pour ajouter les adresses IP spécifiques à votre centre de données, répertoriées dans le tableau ci-dessous.
 
 <table>
 <tbody>

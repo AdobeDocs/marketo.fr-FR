@@ -7,34 +7,51 @@ feature: Users and Roles
 TQID: https://experienceleague.adobe.com/3n-kUApPaDh4HNYgYPGgo94S04tjxqrTgA7UxdwY1h4
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: a8c137b3-8aa5-433e-bdc9-0a216c2a11c1
+    internal-label: Custom activities
   - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+    internal-label: Custom objects
   - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
   - id: f7d2c504-7d5f-4a94-b77e-7fce7ef46c22
+    internal-label: Audit trail
   - id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+    internal-label: Users and roles
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 source-git-commit: e8a199f7105f301b7328def28ea172da00285da9
 workflow-type: tm+mt
-source-wordcount: 1338
+source-wordcount: '1338'
 ht-degree: 18%
-
 ---
-
 # Descriptions des autorisations de rôles {#descriptions-of-role-permissions}
 
 Vous trouverez ci-dessous une liste de toutes les autorisations disponibles que vous pouvez attribuer à vos rôles. Les autorisations sont généralement associées à des zones fonctionnelles spécifiques dans Marketo et peuvent vous aider à contrôler les zones et fonctionnalités auxquelles différents utilisateurs ont accès.
@@ -139,53 +156,53 @@ Donne aux utilisateurs l’accès aux présentations du calendrier - active l’
 Permet aux utilisateurs d’accéder à l’onglet Design Studio et à la vue de l’arborescence, mais pas aux détails.
 
 * Accès aux e-mails
-   * Modifier l’e-mail - Donne aux utilisateurs l’autorisation de modifier, créer et cloner des e-mails
-      * Créer et modifier des e-mails opérationnels - Donne aux utilisateurs l’autorisation de créer et/ou de modifier des e-mails opérationnels. Voir : [Rendre un email opérationnel](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+  * Modifier l’e-mail - Donne aux utilisateurs l’autorisation de modifier, créer et cloner des e-mails
+    * Créer et modifier des e-mails opérationnels - Donne aux utilisateurs l’autorisation de créer et/ou de modifier des e-mails opérationnels. Voir : [Rendre un email opérationnel](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
-      * Approuver l’e-mail - Permet aux utilisateurs d’approuver les e-mails.
-      * Supprimer l’e-mail - Permet aux utilisateurs de supprimer des e-mails.
-      * Définir un domaine de marque : permet aux utilisateurs de travailler avec des domaines de marque. Voir : [Ajouter un domaine de marque supplémentaire](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
+    * Approuver l’e-mail - Permet aux utilisateurs d’approuver les e-mails.
+    * Supprimer l’e-mail - Permet aux utilisateurs de supprimer des e-mails.
+    * Définir un domaine de marque : permet aux utilisateurs de travailler avec des domaines de marque. Voir : [Ajouter un domaine de marque supplémentaire](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
 
 * Accès au modèle d&#39;e-mail
 
-   * Approuver le modèle d&#39;e-mail
-   * Supprimer le modèle d&#39;e-mail
-   * Modifier le modèle d’e-mail - Modifiez, créez et clonez des modèles d’e-mail
+  * Approuver le modèle d&#39;e-mail
+  * Supprimer le modèle d&#39;e-mail
+  * Modifier le modèle d’e-mail - Modifiez, créez et clonez des modèles d’e-mail
 
 * Accès au formulaire
 
-   * Approuver le formulaire
-   * Supprimer le formulaire
-   * Modifier le formulaire - Modifier, créer et cloner des formulaires
+  * Approuver le formulaire
+  * Supprimer le formulaire
+  * Modifier le formulaire - Modifier, créer et cloner des formulaires
 
 * Accès aux images
 
-   * Supprimer l&#39;image
-   * Télécharger l&#39;image
+  * Supprimer l&#39;image
+  * Télécharger l&#39;image
 
 * Accès à la page de destination
 
-   * Approuver la page de destination
-   * Supprimer la page de destination
-   * Modifier la page de destination : modifiez, créez et clonez des pages de destination
+  * Approuver la page de destination
+  * Supprimer la page de destination
+  * Modifier la page de destination : modifiez, créez et clonez des pages de destination
 
-* Accès au modèle de page de destination
+* Accéder au modèle de page de destination
 
-   * Approuver le modèle de page de destination
-   * Supprimer le modèle de page de destination
-   * Modifier le modèle de page de destination : modifiez, créez et clonez des modèles de page de destination
+  * Approuver le modèle de page de destination
+  * Supprimer le modèle de page de destination
+  * Modifier le modèle de page de destination : modifiez, créez et clonez des modèles de page de destination
 
 * Accès à l&#39;extrait
 
-   * Approuver l&#39;extrait
-   * Supprimer l’extrait
-   * Modifier l’extrait
+  * Approuver l&#39;extrait
+  * Supprimer l’extrait
+  * Modifier l’extrait
 
 * Accès à l&#39;application sociale
 
-   * Approuver l&#39;application sociale
-   * Supprimer l&#39;application sociale
-   * Modifier l&#39;application sociale
+  * Approuver l&#39;application sociale
+  * Supprimer l&#39;application sociale
+  * Modifier l&#39;application sociale
 
 ## Accès à la base de données {#access-database}
 
@@ -193,14 +210,14 @@ Affichez la base de données et affichez et modifiez les listes dynamiques/stati
 
 * Accès à la segmentation
 
-   * Approuver la segmentation
-   * Supprimer la segmentation
-   * Modifier la segmentation
+  * Approuver la segmentation
+  * Supprimer la segmentation
+  * Modifier la segmentation
 
 * Supprimer une personne
 * Créer une liste
-   * Accès à la création d’une ressource de liste dans les activités de base de données et marketing
-   * Accès à la création d’une ressource de liste dynamique dans les activités de base de données et marketing
+  * Accès à la création d’une ressource de liste dans les activités de base de données et marketing
+  * Accès à la création d’une ressource de liste dynamique dans les activités de base de données et marketing
 * Supprimer une liste
 * Modifier une personne - Empêche la modification manuelle et l’exécution d’étapes de flux unique ; vous pouvez toujours modifier des personnes en exécutant des campagnes sur elles
 * Exporter des personnes : exportez des feuilles de calcul à partir des listes de votre base de données.
@@ -217,15 +234,15 @@ Affichez l’onglet Activités marketing, les campagnes et les dossiers de campa
 
 * Accéder à un message SMS
 
-   * Approuver un message SMS
-   * Supprimer un message SMS
-   * Modifier un message SMS
+  * Approuver un message SMS
+  * Supprimer un message SMS
+  * Modifier un message SMS
 
 * Accéder à la notification Push
 
-   * Approuver la notification Push
-   * Supprimer la notification Push
-   * Modifier la notification Push
+  * Approuver la notification Push
+  * Supprimer la notification Push
+  * Modifier la notification Push
 
 * Accéder aux récompenses
 * Activer la campagne à déclencheurs

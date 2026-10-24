@@ -6,20 +6,24 @@ exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
 TQID: https://experienceleague.adobe.com/hdywHZ1nm-guYiDHprc3a7l9u2iab-kCGvkIxd-oLoo
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: 508
+source-wordcount: '508'
 ht-degree: 16%
-
 ---
-
 # NUR-AAAA-MM-Fidélisation avancée {#nur-yyyy-mm-advanced-nurture}
 
 Il s’agit d’un exemple de programmes de formation avancés utilisant le programme d’engagement Marketo Engage. Les programmes d’e-mail imbriqués empêchent les personnes de recevoir du contenu qu’elles ont déjà consommé ou contrôlent le type de contenu qu’elles doivent consommer dans chaque flux. Les rapports d’attribution peuvent être exécutés pour chaque programme d’e-mail imbriqué individuel. Canaux : un canal « Cultiver » et un canal « Cultiver l’e-mail » dédié pour les programmes d’e-mail imbriqués envoient un e-mail de newsletter à l’aide d’un programme d’e-mail Marketo Engage. L’e-mail peut inclure ou non un test A/B.
@@ -194,20 +198,20 @@ Pour obtenir de l’aide sur la stratégie ou la personnalisation d’un program
 ## Règles de conflit {#conflict-rules}
 
 * **Balises de programme**
-   * Créer des balises dans cet abonnement - _Recommandé_
-   * Ignorer
+  * Créer des balises dans cet abonnement - _Recommandé_
+  * Ignorer
 
 * **Modèle de page de destination portant le même nom**
-   * Copier le modèle d&#39;origine
-   * Utiliser le modèle de destination - _Recommandé_
+  * Copier le modèle d&#39;origine
+  * Utiliser le modèle de destination - _Recommandé_
 
 * **Images du même nom**
-   * Conserver les deux fichiers
-   * Remplacer l&#39;élément dans cet abonnement - _Recommandé_
+  * Conserver les deux fichiers
+  * Remplacer l&#39;élément dans cet abonnement - _Recommandé_
 
 * **Modèles d’e-mail portant le même nom**
-   * Conserver les deux modèles
-   * Remplacer le modèle existant - _Recommandé_
+  * Conserver les deux modèles
+  * Remplacer le modèle existant - _Recommandé_
 
 ## Meilleures pratiques {#best-practices}
 
