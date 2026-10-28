@@ -8,14 +8,14 @@ product_v2:
 feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
     internal-label: Reporting
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 96caeb4343efdbe747a93c2424c50840d6917798
 workflow-type: tm+mt
-source-wordcount: '1084'
+source-wordcount: '1078'
 ht-degree: 5%
 ---
 # Politique de conservation des données d’activité de Marketo - Impact sur les rapports
 
-Marketo conserve les données d’activité marketing de manière progressive. Les données sur les activités et les adhésions aux campagnes sont stockées pendant 25 mois consécutifs après la date d’activité. Par défaut, les données d’activité volumineuses sont conservées pendant 90 jours consécutifs après la date d’activité, après quoi elles peuvent être ajustées par utilisateur. Au-delà de ces périodes de conservation, les données ne sont plus disponibles via l’interface utilisateur de Marketo.
+Marketo conserve les données d’activité marketing de manière progressive. Les données d’activité et d’appartenance à une campagne sont stockées pendant une période glissante de 25 mois après la date d’activité et les données d’activité volumineuses sont conservées pendant une période glissante de 90 jours après la date d’activité par défaut. Au-delà de ces périodes de conservation, les données ne sont plus disponibles via l’interface utilisateur de Marketo.
 
 ## Rapports Marketo Analytics
 
