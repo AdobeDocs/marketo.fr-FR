@@ -64,4 +64,4 @@ Votre service [!DNL Adobe Connect] est désormais synchronisé avec Marketo Enga
 
 >[!MORELIKETHIS]
 >
->Découvrez comment [ créer un événement avec  [!DNL Adobe Connect]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md){target="_blank"}.
+>Découvrez comment [&#x200B; créer un événement avec  [!DNL Adobe Connect]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md){target="_blank"}.
