@@ -16,9 +16,9 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '228'
 ht-degree: 5%
 ---
 # Créer un nouvel espace de travail {#create-a-new-workspace}
@@ -38,9 +38,9 @@ Les espaces de travail sont utiles pour subdiviser votre entreprise. Les raisons
 
 >[!TIP]
 >
->Pour en savoir plus sur les bonnes pratiques relatives à Workspace, contactez [les services professionnels de Marketo](https://business.adobe.com/fr/products/marketo/services-support.html){target="_blank"}.
+>Pour en savoir plus sur les bonnes pratiques relatives à Workspace, contactez [les services professionnels de Marketo](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/create-a-new-workspace-1.png)
 

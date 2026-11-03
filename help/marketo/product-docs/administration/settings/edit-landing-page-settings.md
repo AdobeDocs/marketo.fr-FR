@@ -21,9 +21,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '237'
 ht-degree: 7%
 ---
 # Modifier les paramètres de la page de destination {#edit-landing-page-settings}
@@ -34,7 +34,7 @@ Vous pouvez modifier votre nom de domaine et votre page de secours, activer ou d
 >
 >**Autorisations d’administration requises**
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/edit-landing-page-settings-1.png)
 
@@ -53,7 +53,7 @@ Vous pouvez modifier votre nom de domaine et votre page de secours, activer ou d
    | Terme | Définition |
    |---|---|
    | [!UICONTROL Nom de domaine pour les landing pages] | Il s’agit de votre CNAME. Un CNAME est la première partie de l’URL que vous fournissez aux personnes pour les pages de destination. Par exemple, dans `https://go.yourCompany.com`, le mot « go » correspond au CNAME. Vous pouvez en avoir plusieurs, mais la plupart des gens n’en utilisent qu’une seule. |
-   | [!UICONTROL &#x200B; Page de secours &#x200B;] | C’est là que aller si la page de destination n’existe pas ou est en panne. En savoir plus sur les [pages de secours](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
+   | [!UICONTROL  Page de secours ] | C’est là que aller si la page de destination n’existe pas ou est en panne. En savoir plus sur les [pages de secours](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
    | [!UICONTROL Page d’accueil] | Saisissez l’URL de votre site d’entreprise. |
 
 1. Cochez la case **[!UICONTROL Préremplissage de formulaire]** pour permettre aux formulaires de préremplir des informations pour des personnes connues (cookies). Décochez pour bloquer.

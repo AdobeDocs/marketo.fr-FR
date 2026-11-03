@@ -18,9 +18,9 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '109'
 ht-degree: 13%
 ---
 # Accorder l’accès à un espace de travail à un utilisateur ou à une utilisatrice {#allow-user-access-to-a-workspace}
@@ -35,7 +35,7 @@ Les espaces de travail peuvent être utilisés pour n’importe quelle raison (s
 >
 >En savoir plus sur les [espaces de travail](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/allow-user-access-to-a-workspace-1.png)
 

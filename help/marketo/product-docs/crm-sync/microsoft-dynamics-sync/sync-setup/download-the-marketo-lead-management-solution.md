@@ -14,9 +14,9 @@ feature_v2:
 subfeature_v2:
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
     internal-label: Microsoft Dynamics
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '106'
 ht-degree: 15%
 ---
 # Télécharger la solution de gestion des leads Marketo {#download-the-marketo-lead-management-solution}
@@ -35,7 +35,7 @@ Vous devrez télécharger et installer une solution Marketo dans votre compte [!
 >
 >Actuellement, Marketo ne prend en charge que les certificats SSL compatibles avec Java 7.
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/download-the-marketo-lead-management-solution-1.png)
 

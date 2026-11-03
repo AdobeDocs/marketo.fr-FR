@@ -18,13 +18,11 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 273
+source-wordcount: '274'
 ht-degree: 5%
-
 ---
-
 # Limiter la connexion de l’utilisateur ou de l’utilisatrice aux connexions par authentification unique {#restrict-user-login-to-sso-only}
 
 Si vous [utilisez SSO](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) et souhaitez vous assurer que les utilisateurs ne peuvent pas contourner la sécurité SSO, suivez ces instructions.
@@ -37,7 +35,7 @@ Si vous [utilisez SSO](/help/marketo/product-docs/administration/additional-inte
 >
 >**Autorisations d’administration requises**
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/restrict-user-login-to-sso-only-1.png)
 
@@ -55,7 +53,7 @@ Si vous [utilisez SSO](/help/marketo/product-docs/administration/additional-inte
 
 >[!NOTE]
 >
->Une bonne pratique consiste à inviter le(s) utilisateur(s) et à accepter l’invitation. _Une fois_ l’invitation acceptée, les administrateurs doivent la définir sur « [!UICONTROL &#x200B; Exiger une authentification unique &#x200B;]. »
+>Une bonne pratique consiste à inviter le(s) utilisateur(s) et à accepter l’invitation. _Une fois_ l’invitation acceptée, les administrateurs doivent la définir sur « [!UICONTROL  Exiger une authentification unique ]. »
 
 >[!TIP]
 >

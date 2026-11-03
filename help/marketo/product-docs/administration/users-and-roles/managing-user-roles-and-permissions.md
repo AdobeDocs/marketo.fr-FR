@@ -21,13 +21,11 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 492
+source-wordcount: '496'
 ht-degree: 2%
-
 ---
-
 # Gestion des rôles et autorisations des utilisateurs et des utilisatrices {#managing-user-roles-and-permissions}
 
 Définissez, créez et modifiez des rôles d’utilisateur et affectez-les à des utilisateurs. Vous pouvez ainsi contrôler les zones et les fonctionnalités auxquelles chaque utilisateur de Marketo a accès.
@@ -53,7 +51,7 @@ Vous ne pouvez pas supprimer les rôles d’administrateur ou d’administrateur
 
 Vous pouvez affecter des rôles à un utilisateur ou une utilisatrice lorsque vous [créez des utilisateurs et utilisatrices pour la première fois](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md).
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/managing-user-roles-and-permissions-1.png)
 
@@ -77,7 +75,7 @@ Vous pouvez affecter des rôles à un utilisateur ou une utilisatrice lorsque vo
 
 Parfois, votre organisation compte des employés dont les rôles sont très spécifiques et qui nécessitent une combinaison personnalisée d’autorisations.
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/managing-user-roles-and-permissions-5.png)
 
@@ -101,7 +99,7 @@ Parfois, votre organisation compte des employés dont les rôles sont très spé
 
 Si vous devez modifier les autorisations associées à un rôle existant, vous pouvez modifier le rôle.
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/managing-user-roles-and-permissions-10.png)
 
@@ -129,7 +127,7 @@ Si vous devez modifier les autorisations associées à un rôle existant, vous p
 
 Si un rôle devient inutile, vous pouvez le supprimer.
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/managing-user-roles-and-permissions-15.png)
 

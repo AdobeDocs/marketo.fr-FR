@@ -19,9 +19,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '139'
 ht-degree: 13%
 ---
 # Modifier votre domaine de branding par défaut {#edit-your-default-branding-domain}
@@ -32,7 +32,7 @@ La modification de votre domaine de marque par défaut est la première étape d
 >
 >Assurez-vous d’avoir [configuré un CNAME dans votre DNS](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"} avant d’ajouter vos domaines de marque dans Marketo.
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/edit-your-default-branding-domain-1.png)
 
@@ -56,4 +56,4 @@ Vous pouvez désormais [ajouter des domaines de marque supplémentaires](/help/m
 
 >[!NOTE]
 >
->Si vous devez mettre à jour ou supprimer un SSL existant, contactez l’assistance technique de [&#128279;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+>Si vous devez mettre à jour ou supprimer un SSL existant, contactez l’assistance technique de [](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.

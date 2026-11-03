@@ -18,22 +18,20 @@ topic_v2:
     internal-label: Troubleshooting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 116
+source-wordcount: '118'
 ht-degree: 6%
-
 ---
-
 # Informations sur l’API d’exportation en masse {#bulk-export-api-information}
 
-Découvrez comment vérifier la quantité de capacité [API d’extraction en bloc](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} qui a été absorbée par votre instance Marketo Engage au cours des sept derniers jours.
+Découvrez comment vérifier la quantité de capacité [API d’extraction en bloc](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} qui a été absorbée par votre instance Marketo Engage au cours des sept derniers jours.
 
 >[!NOTE]
 >
 >Si vous avez besoin de capacité supplémentaire, contactez votre représentant de compte.
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/bulk-export-api-information-1.png)
 
@@ -49,4 +47,4 @@ Découvrez comment vérifier la quantité de capacité [API d’extraction en bl
 
 >[!NOTE]
 >
->L’allocation de votre instance Marketo Engage se réinitialise tous les jours à 12 :00 HNC.
+>L’allocation de votre instance Marketo Engage se réinitialise tous les jours à 00 h 00 (heure de Paris).

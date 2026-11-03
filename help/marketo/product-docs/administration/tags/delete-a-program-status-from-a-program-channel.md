@@ -19,16 +19,16 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '132'
 ht-degree: 12%
 ---
 # Supprimer un statut de programme d’un canal de programme {#delete-a-program-status-from-a-program-channel}
 
 Les statuts du programme sont les points de contrôle via le chemin d’accès (canal) d’un programme. Si vous créez un statut par erreur ou que vous n’en avez plus besoin, vous pouvez le supprimer.
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-1.png)
 

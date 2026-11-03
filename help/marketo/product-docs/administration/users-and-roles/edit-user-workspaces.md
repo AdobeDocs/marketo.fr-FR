@@ -13,14 +13,14 @@ feature_v2:
 subfeature_v2:
   - id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
     internal-label: Users and roles
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '41'
+source-wordcount: '42'
 ht-degree: 0%
 ---
 # Modifier les espaces de travail utilisateur {#edit-user-workspaces}
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/edit-user-workspaces-1.png)
 

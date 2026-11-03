@@ -13,16 +13,16 @@ feature_v2:
 subfeature_v2:
   - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
     internal-label: Email setup
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 7%
+source-wordcount: '158'
+ht-degree: 6%
 ---
 # Supprimer le texte de désabonnement {#remove-unsubscribe-text}
 
 La seule raison pour laquelle vous devriez supprimer complètement le contenu de désabonnement de la zone **[!UICONTROL Admin]** > **[!UICONTROL E-mail]** est que vous choisissez de créer le lien de désabonnement dans les modèles d’e-mail eux-mêmes. La zone de texte comporte une validation qui ne vous permet pas d’enregistrer sans contenu. Vous pouvez contourner ce problème en ajoutant un petit commentaire HTML. Le commentaire HTML ne s’affichera pas dans le client de messagerie, car il effectue le rendu de l’e-mail dans HTML et les commentaires sont omis.
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-1.png)
 

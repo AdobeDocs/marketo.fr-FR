@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10095636
 description: Découvrez comment activer l’absence de brouillon pour les fragments de code afin que les modifications apportées aux fragments de code s’appliquent aux ressources approuvées sans nécessiter de nouveaux brouillons.
-title: Activer l’absence de brouillon pour les extraits
+title: Activer le mode Sans brouillon (No-Draft) pour les extraits
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 feature: Users and Roles
 TQID: https://experienceleague.adobe.com/nAwbSiNOywTfvFLik5J5QFdc1x4ScglfrVxsSVuLBSc
@@ -27,14 +27,12 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 169
+source-wordcount: '170'
 ht-degree: 7%
-
 ---
-
-# Activer l’absence de brouillon pour les extraits {#enable-no-draft-for-snippets}
+# Activer le mode Sans brouillon (No-Draft) pour les extraits {#enable-no-draft-for-snippets}
 
 L’option Aucun brouillon pour les fragments de code vous permet de distribuer les modifications des fragments de code sans créer de ressources approuvées les utilisant. Toutes les ressources qui utilisent le fragment de code modifié reçoivent les mises à jour et conservent leurs statuts respectifs :
 
@@ -48,7 +46,7 @@ L’option sans brouillon est automatiquement activée pour tous les rôles d’
 >
 >**Autorisations d’administration requises**
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/enable-no-draft-for-snippets-1.png)
 

@@ -20,9 +20,9 @@ topic_v2:
     internal-label: Troubleshooting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '687'
+source-wordcount: '689'
 ht-degree: 3%
 ---
 # Ajout [!DNL Munchkin] code de suivi à votre site web {#add-munchkin-tracking-code-to-your-website}
@@ -39,11 +39,11 @@ Le code de suivi JavaScript personnalisé de Marketo, appelé [!DNL Munchkin], p
 >
 >Les utilisateurs d’Adobe Experience Cloud peuvent également utiliser l’intégration [Marketo dans Adobe Launch](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"} pour inclure [!DNL Munchkin] script sur leurs pages web. Si vous utilisez Adobe Launch, _le script [!DNL Munchkin] est ajouté automatiquement_ vous n’avez donc pas besoin de l’ajouter vous-même.
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-1.png)
 
-1. Cliquez sur **&#x200B;**.
+1. Cliquez sur ****.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-2.png)
 
@@ -79,11 +79,11 @@ Le code de suivi JavaScript personnalisé de Marketo, appelé [!DNL Munchkin], p
 
 Si vous utilisez des espaces de travail dans votre compte Marketo, il est probable que vous disposiez également d’espaces de travail différents. Dans ce cas, vous pouvez utiliser le JavaScript de suivi [!DNL Munchkin] pour affecter vos personnes anonymes à l’espace de travail et à la partition appropriés.
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-6.png)
 
-1. Cliquez sur **&#x200B;**.
+1. Cliquez sur ****.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-7.png)
 
@@ -145,7 +145,7 @@ Pour vérifier que votre code [!DNL Munchkin] fonctionne après l’avoir ajout�
 
    ![](assets/add-munchkin-tracking-code-to-your-website-14.png)
 
-1. Remplacez Source d’activité par **[!UICONTROL Visiteurs anonymes (y compris les FAI)]** puis cliquez sur **[!UICONTROL Appliquer]**.
+1. Remplacez Source d’activité] par **[!UICONTROL Visiteurs anonymes (y compris les FAI)]** puis cliquez sur **[!UICONTROL Appliquer]**.[!UICONTROL 
 
    ![](assets/add-munchkin-tracking-code-to-your-website-15.png)
 

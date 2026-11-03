@@ -14,13 +14,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 249
+source-wordcount: '250'
 ht-degree: 7%
-
 ---
-
 # Restreindre les connexions à Marketo en fonction de l’adresse IP {#restrict-marketo-logins-based-on-ip}
 
 Vous pouvez empêcher ou autoriser des utilisateurs à accéder à Marketo en fonction de leurs adresses IP. Suivez les étapes ci-après.
@@ -31,14 +29,14 @@ Vous pouvez empêcher ou autoriser des utilisateurs à accéder à Marketo en fo
 
 >[!IMPORTANT]
 >
->Adobe Admin Console (AAC) prend en charge le [contrôle d’accès basé sur IP](https://helpx.adobe.com/fr/enterprise/using/ip-based-access.html){target="_blank"}. Pour garantir une transition en douceur, les restrictions IP Marketo Engage existantes seront actives, y compris pour les utilisateurs d’Adobe ID jusqu’au 1er trimestre 2027 dans les abonnements où cette fonctionnalité est activée.
+>Adobe Admin Console (AAC) prend en charge le [contrôle d’accès basé sur IP](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}. Pour garantir une transition en douceur, les restrictions IP Marketo Engage existantes seront actives, y compris pour les utilisateurs d’Adobe ID jusqu’au 1er trimestre 2027 dans les abonnements où cette fonctionnalité est activée.
 >
 >* Vous pouvez configurer l’accès basé sur l’adresse IP AAC à tout moment.
 >* Les restrictions AAC et Marketo Engage peuvent s’exécuter simultanément. Utilisez la même liste autorisée IP pour la compatibilité.
 >
 >Après le 1er trimestre 2027, les restrictions IP de Marketo Engage seront supprimées. L’accès basé sur les adresses IP sera géré exclusivement par l’intermédiaire d’AAC et doit être configuré pour appliquer les restrictions de connexion. Une date de transition définitive sera annoncée ultérieurement.
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/restrict-marketo-logins-based-on-ip-1.png)
 

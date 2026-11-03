@@ -20,9 +20,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '111'
 ht-degree: 15%
 ---
 # Suivi des ouvertures d’e-mails au niveau de la campagne {#email-open-tracking-at-campaign-level}
@@ -33,7 +33,7 @@ Cette fonctionnalité vous permet de contrôler le suivi des ouvertures d’e-ma
 >
 >**Autorisations d’administration requises**
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/email-open-tracking-at-campaign-level-1.png)
 

@@ -19,9 +19,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '306'
 ht-degree: 3%
 ---
 # Ajouter des champs d’objet personnalisé Marketo {#add-marketo-custom-object-fields}
@@ -30,7 +30,7 @@ Après avoir créé un objet personnalisé, vous devez y ajouter des champs pour
 
 Les champs définissent les informations spécifiques utilisées par un objet personnalisé. Les champs de lien ont un objectif spécifique (connexion d’objets personnalisés) et sont traités dans un [article distinct](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/add-marketo-custom-object-fields-1.png)
 

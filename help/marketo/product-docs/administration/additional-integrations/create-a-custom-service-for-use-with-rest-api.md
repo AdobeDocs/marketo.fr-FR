@@ -16,13 +16,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 175
+source-wordcount: '177'
 ht-degree: 15%
-
 ---
-
 # Créer un service personnalisé à utiliser avec l’API REST {#create-a-custom-service-for-use-with-rest-api}
 
 Si vous souhaitez intégrer à Marketo via l’API ReST, vous devez créer un service personnalisé.
@@ -43,7 +41,7 @@ Si vous souhaitez intégrer à Marketo via l’API ReST, vous devez créer un se
 
 ## Créer un service personnalisé {#create-custom-service}
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-1.png)
 
@@ -67,7 +65,7 @@ Si vous souhaitez intégrer à Marketo via l’API ReST, vous devez créer un se
 
 ## Informations d’identification pour l’accès à l’API {#credentials-for-api-access}
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-6.png)
 
