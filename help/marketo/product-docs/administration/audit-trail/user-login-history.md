@@ -21,9 +21,9 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '192'
 ht-degree: 6%
 ---
 # Historique des connexions d’utilisateur et d’utilisatrice {#user-login-history}
@@ -44,7 +44,7 @@ L’historique de connexion de l’utilisateur identifie les personnes qui se co
 
 Pour afficher l’historique de connexion de l’utilisateur :
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/user-login-history-1.png)
 

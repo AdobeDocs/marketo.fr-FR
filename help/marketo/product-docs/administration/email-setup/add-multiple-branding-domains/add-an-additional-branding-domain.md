@@ -19,9 +19,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '707'
+source-wordcount: '708'
 ht-degree: 20%
 ---
 # Ajouter un domaine de branding supplémentaire {#add-an-additional-branding-domain}
@@ -32,7 +32,7 @@ Ajoutez un domaine de branding supplémentaire lorsque vous exécutez plusieurs 
 >
 >Vous devez [remplacer le lien de suivi générique](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md){target="_blank"} par un domaine de marque avant d’ajouter d’autres domaines de marque.
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/add-an-additional-branding-domain-1.png)
 

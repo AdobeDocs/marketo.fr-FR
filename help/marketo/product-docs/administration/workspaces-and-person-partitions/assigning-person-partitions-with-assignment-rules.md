@@ -16,10 +16,10 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 10%
+source-wordcount: '171'
+ht-degree: 9%
 ---
 # Attribution de partitions de personnes avec des règles d’attribution {#assigning-person-partitions-with-assignment-rules}
 
@@ -37,7 +37,7 @@ Lors de l’utilisation de partitions de personne, configurez des règles d’af
 >
 >Seules les personnes créées dans Marketo à partir de votre CRM et via l’API SOAP se verront appliquer des règles d’affectation.
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-1.png)
 

@@ -19,9 +19,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '100'
 ht-degree: 13%
 ---
 # Encodage des jetons en HTML dans les e-mails {#html-encode-tokens-in-emails}
@@ -36,7 +36,7 @@ Activez ou désactivez les jetons de personne et d’entreprise utilisés dans l
 >
 >Le codage convertit les caractères dans leurs versions de code HTML pour éviter toute confusion lors de la transmission (c’est-à-dire que «&amp; » est remplacé par `&amp;`). Pour plus de détails, consultez un développeur Web.
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/html-encode-tokens-in-emails-1.png)
 

@@ -21,9 +21,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '1703'
+source-wordcount: '1704'
 ht-degree: 84%
 ---
 # Étapes de configuration {#setup-steps}
@@ -73,7 +73,7 @@ La première partie est le CNAME de suivi de l’e-mail, `[EmailTrackingCNAME]`.
 >
 >Les CNAME d’e-mail et de page de destination doivent être différents. Évitez également les CNAME tels que « suivi » ou « lien ». Il est souvent marqué comme spam.
 
-Pour trouver votre lien de suivi Marketo, accédez à la zone **[!UICONTROL Admin]**.
+Pour trouver votre lien de suivi Marketo, dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
 ![](assets/setup-steps-1.png)
 

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 17728028
-description: Ajoutez [!DNL Zoom] as a LaunchPoint Service pour que Marketo puisse gérer l’inscription et la participation au webinaire.
-title: Add [!DNL Zoom] as a [!DNL LaunchPoint] Service
+description: Ajoutez [!DNL Zoom] en tant que service LaunchPoint afin que Marketo puisse gérer l’inscription et la participation au webinaire.
+title: Ajouter [!DNL Zoom] as a [!DNL LaunchPoint] Service
 exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
 feature: Administration, Integrations
 TQID: https://experienceleague.adobe.com/b0mxXTjrJjwRWHpeCdcNYu6JjY6qcHM7NX7ghiqMLaw
@@ -16,13 +16,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 131
+source-wordcount: '135'
 ht-degree: 2%
-
 ---
-
 # Ajouter [!DNL Zoom] as a [!DNL LaunchPoint] Service {#add-zoom-as-a-launchpoint-service}
 
 Marketo gère l’inscription et la participation aux [!DNL Zoom].
@@ -35,7 +33,7 @@ Marketo gère l’inscription et la participation aux [!DNL Zoom].
 >
 >Un abonnement existant aux droits d’[!DNL Zoom] et d’administration est nécessaire pour cette étape. Ayez à portée de main l’adresse électronique et le mot de passe que vous utilisez pour vous [!DNL Zoom].
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/add-zoom-as-a-launchpoint-service-1.png)
 

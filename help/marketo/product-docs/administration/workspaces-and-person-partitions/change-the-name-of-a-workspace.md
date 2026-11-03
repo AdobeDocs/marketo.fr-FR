@@ -16,9 +16,9 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '75'
 ht-degree: 20%
 ---
 # Modifier le nom d’un espace de travail {#change-the-name-of-a-workspace}
@@ -37,7 +37,7 @@ Les utilisateurs peuvent modifier le nom d’un espace de travail.
 >
 >Pour plus d’informations, voir [Présentation des espaces de travail et des partitions de personne](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/change-the-name-of-a-workspace-1.png)
 

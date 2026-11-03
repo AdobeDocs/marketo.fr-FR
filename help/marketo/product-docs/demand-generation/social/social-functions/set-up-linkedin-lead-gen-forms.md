@@ -20,9 +20,9 @@ feature_v2:
 subfeature_v2:
   - id: e9b7b90f-6f8a-4637-a2ca-00239808918c
     internal-label: Social
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '513'
 ht-degree: 3%
 ---
 # Configurer les formulaires de génération de leads LinkedIn {#set-up-linkedin-lead-gen-forms}
@@ -37,7 +37,7 @@ Utilisez LinkedIn Lead Gen Forms pour exécuter des campagnes publicitaires dans
 >
 >* Un prospect LinkedIn n’apparaît pas dans Marketo Engage s’il correspond à un enregistrement de personne existant dans Marketo associé à un enregistrement d’entreprise créé à l’aide des API de l’entreprise et si l’abonnement à Marketo n’est pas associé à un CRM.
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/set-up-linkedin-lead-gen-forms-1.png)
 

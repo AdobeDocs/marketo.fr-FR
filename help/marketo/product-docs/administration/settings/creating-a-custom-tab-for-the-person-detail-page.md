@@ -16,18 +16,16 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 138
-ht-degree: 13%
-
+source-wordcount: '139'
+ht-degree: 12%
 ---
-
 # Création d’un onglet personnalisé pour la page Détails de la personne {#creating-a-custom-tab-for-the-person-detail-page}
 
 Si vous avez fréquemment besoin d’accéder à un ensemble spécifique de champs dans la page des détails d’une personne, pensez à créer une mise en page personnalisée.
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
 

@@ -21,9 +21,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '771'
+source-wordcount: '774'
 ht-degree: 4%
 ---
 # Créer des objets personnalisés Marketo {#create-marketo-custom-objects}
@@ -42,7 +42,7 @@ Utilisez des objets personnalisés dans Marketo pour effectuer le suivi des mesu
 
 Cet exemple illustre un objet personnalisé Car à utiliser dans une structure de type « un à plusieurs ». Par la suite, vous allez créer un objet personnalisé de cours et un objet intermédiaire à utiliser dans une structure multiple-à-multiple.
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/create-marketo-custom-objects-1.png)
 
@@ -88,7 +88,7 @@ Cet exemple montre un objet personnalisé de cours que vous utiliserez pour cré
 >
 >Pour une relation multiple-à-multiple, il n’est pas nécessaire de créer un lien dans l’objet personnalisé. À la place, vous allez ajouter deux liens à l’objet intermédiaire (voir ci-dessous).
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/create-marketo-custom-objects-7.png)
 
@@ -130,7 +130,7 @@ Utilisez un objet intermédiaire pour connecter un objet personnalisé à des pe
 >
 >Vous n’avez pas besoin de créer un objet intermédiaire pour une structure d’objet personnalisée un-à-plusieurs.
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/create-marketo-custom-objects-13.png)
 

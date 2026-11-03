@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360217
 description: Comment définir les options d’attribution première touche et multipoint, de conversion de piste et d’opportunité influencée par le marketing dans Revenue Cycle Analytics.
-title: Modifier les paramètres d’attribution dans Analytics
+title: Modifier les paramètres d’attribution pour Analytics
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 feature: Administration
 TQID: https://experienceleague.adobe.com/AjpEYRzLKRQQsTmYdQUvAVnlcmG-Q6nbVjaZCuQYaUc
@@ -21,18 +21,16 @@ topic_v2:
     internal-label: Reporting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 174
+source-wordcount: '175'
 ht-degree: 5%
-
 ---
-
-# Modifier les paramètres d’attribution dans Analytics {#change-attribution-settings-for-analytics}
+# Modifier les paramètres d’attribution pour Analytics {#change-attribution-settings-for-analytics}
 
 Vous pouvez modifier la manière dont Marketo lie les contacts aux opportunités d’attribution première touche et multitouche, aux mesures de conversion des prospects et à l’indicateur d’opportunité influencé par le marketing.
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/change-attribution-settings-for-analytics-1.png)
 

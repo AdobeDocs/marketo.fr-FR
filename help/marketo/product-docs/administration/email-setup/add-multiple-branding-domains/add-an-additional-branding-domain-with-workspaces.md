@@ -19,9 +19,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '132'
 ht-degree: 13%
 ---
 # Ajouter un domaine de branding supplémentaire avec des espaces de travail {#add-an-additional-branding-domain-with-workspaces}
@@ -34,7 +34,7 @@ Si vous disposez d’espaces de travail, vous pouvez ajouter des domaines de bra
 >
 >* [Remplacez le lien de suivi générique](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md) par un domaine de branding avant d’ajouter d’autres domaines de branding.
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/add-an-additional-branding-domain-with-workspaces-1.png)
 

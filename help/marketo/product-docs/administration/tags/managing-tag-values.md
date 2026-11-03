@@ -19,9 +19,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '192'
 ht-degree: 4%
 ---
 # Gestion des valeurs de balises {#managing-tag-values}
@@ -38,7 +38,7 @@ Les [balises](/help/marketo/product-docs/core-marketo-concepts/programs/working-
 
 ## Ajout de valeurs de balise {#adding-tag-values}
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/managing-tag-values-1.png)
 

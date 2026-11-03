@@ -21,9 +21,9 @@ topic_v2:
     internal-label: Metadata
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '135'
 ht-degree: 11%
 ---
 # Modifier les alias de champ pour l’import de liste {#edit-field-aliases-for-list-import}
@@ -34,7 +34,7 @@ Lorsque vous importez une liste dont les en-têtes sont inconnus, vous pouvez cr
 >
 >**Autorisations d’administration requises**
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/edit-field-aliases-for-list-import-1.png)
 

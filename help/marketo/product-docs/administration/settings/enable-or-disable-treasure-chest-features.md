@@ -14,13 +14,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 85
+source-wordcount: '86'
 ht-degree: 17%
-
 ---
-
 # Activer ou désactiver les fonctionnalités du Coffre au trésor {#enable-or-disable-treasure-chest-features}
 
 Le coffre au trésor contient des fonctionnalités expérimentales qui ne sont pas entièrement prises en charge.
@@ -29,7 +27,7 @@ Le coffre au trésor contient des fonctionnalités expérimentales qui ne sont p
 >
 >**Autorisations d’administration requises**
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/enable-or-disable-treasure-chest-features-1.png)
 

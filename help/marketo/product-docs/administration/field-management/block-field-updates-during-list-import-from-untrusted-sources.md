@@ -19,9 +19,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '206'
 ht-degree: 10%
 ---
 # Bloquer les mises à jour des champs lors de l’import de liste à partir de sources non approuvées {#block-field-updates-during-list-import-from-untrusted-sources}
@@ -34,7 +34,7 @@ Vous pouvez faire davantage confiance aux données de certaines listes qu’à c
 
 ## Blocage Des Mises À Jour De Champs Provenant De Sources Non Approuvées {#blocking-field-updates-from-untrusted-sources}
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-1.png)
 

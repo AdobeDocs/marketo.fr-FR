@@ -25,9 +25,9 @@ topic_v2:
     internal-label: Metadata
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '736'
+source-wordcount: '737'
 ht-degree: 1%
 ---
 # Présentation des objets personnalisés Marketo {#understanding-marketo-custom-objects}
@@ -62,7 +62,7 @@ Les objets personnalisés multiples-à-multiples utilisent deux champs de lien, 
 
 ## Accès aux objets personnalisés Marketo {#accessing-marketo-custom-objects}
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 

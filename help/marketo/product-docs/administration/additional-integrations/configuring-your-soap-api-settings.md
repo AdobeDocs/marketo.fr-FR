@@ -17,24 +17,22 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 105
+source-wordcount: '106'
 ht-degree: 16%
-
 ---
-
 # Configuration des paramètres de votre API SOAP {#configuring-your-soap-api-settings}
 
 >[!IMPORTANT]
 >
->L’API SOAP est [en cours d’obsolescence](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/soap/soap-api) depuis le 31 juillet 2026. Il est recommandé d’utiliser plutôt l’[API REST](https://developer.adobe.com/marketo-apis/).
+>L’API SOAP est [en cours d’obsolescence](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) depuis le 31 juillet 2026. Il est recommandé d’utiliser plutôt l’[API REST](https://developer.adobe.com/marketo-apis/).
 
 >[!NOTE]
 >
 >**Autorisations d’administration requises**
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/configuring-your-soap-api-settings-1.png)
 

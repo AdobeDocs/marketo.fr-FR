@@ -23,9 +23,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '735'
+source-wordcount: '737'
 ht-degree: 2%
 ---
 # Ajouter des champs de lien d’objet personnalisé Marketo {#add-marketo-custom-object-link-fields}
@@ -43,7 +43,7 @@ Lorsque vous créez des objets personnalisés, vous devez fournir des champs de 
 
 Suivez les étapes ci-dessous pour créer un champ de lien dans un objet personnalisé pour une structure un-à-plusieurs.
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/add-marketo-custom-object-link-fields-1.png)
 
@@ -97,7 +97,7 @@ Suivez les étapes ci-dessous pour créer un champ de lien dans un objet interm�
 >
 >Vous devez avoir déjà créé l’objet intermédiaire et les objets personnalisés que vous avez l’intention de lier.
 
-1. Accédez à la zone **[!UICONTROL Admin]**.
+1. Dans Mon Marketo, cliquez sur **[!UICONTROL Admin]**.
 
    ![](assets/add-marketo-custom-object-link-fields-9.png)
 
