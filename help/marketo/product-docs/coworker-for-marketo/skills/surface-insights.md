@@ -1,15 +1,14 @@
 ---
 description: Discutez de vos données de performances avec CX Enterprise Coworker for Marketo Engage. Posez vos questions en langage simple et obtenez des réponses ancrées dans votre environnement Marketo Engage.
 title: Informations sur la surface
-badge: Beta
 hide: true
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 26d2dab1123b77187e5d73a2ee0e67940c39e082
 workflow-type: tm+mt
-source-wordcount: '537'
-ht-degree: 1%
+source-wordcount: '536'
+ht-degree: 0%
 ---
 # Informations sur la surface {#surface-insights}
 
@@ -17,7 +16,7 @@ Les informations de surface vous permettent d’avoir une conversation sur vos d
 
 >[!PREREQUISITES]
 >
->* Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [&#x200B; Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
+>* Pour utiliser cette fonctionnalité, vous devez d’abord accepter les termes [ Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Pour plus d’informations, contactez l’équipe du compte Adobe (votre gestionnaire de compte).
 >
 >* Vous devez avoir accès aux programmes et aux rapports sur lesquels vous vous renseignez.
 
