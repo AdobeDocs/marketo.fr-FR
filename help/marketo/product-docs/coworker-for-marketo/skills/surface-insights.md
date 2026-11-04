@@ -1,15 +1,14 @@
 ---
 description: Discutez de vos données de performances avec CX Enterprise Coworker for Marketo Engage. Posez vos questions en langage simple et obtenez des réponses ancrées dans votre environnement Marketo Engage.
 title: Informations sur la surface
-badge: Beta
 hide: true
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 26d2dab1123b77187e5d73a2ee0e67940c39e082
 workflow-type: tm+mt
-source-wordcount: '537'
-ht-degree: 1%
+source-wordcount: '536'
+ht-degree: 0%
 ---
 # Informations sur la surface {#surface-insights}
 

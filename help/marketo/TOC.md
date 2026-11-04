@@ -4,9 +4,9 @@ user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 9eb8c0e78a581bc9093f0f017a3ad3525d2b9667
+source-git-commit: b1ab5ab541fd79c8c42fbcd018e23baf51337aac
 workflow-type: tm+mt
-source-wordcount: '8944'
+source-wordcount: '8948'
 ht-degree: 96%
 ---
 
@@ -491,8 +491,10 @@ ht-degree: 96%
     + [Fiche d’information sur CX Enterprise Coworker for Marketo Engage](product-docs/coworker-for-marketo/data-information.md)
     + Compétences {#skills}
       + [Connaissances du produit](product-docs/coworker-for-marketo/skills/product-knowledge.md)
+      + {hide-from-toc}[Agents appelables](product-docs/coworker-for-marketo/skills/callable-agents.md)
       + {hide-from-toc}[Informations sur la surface](product-docs/coworker-for-marketo/skills/surface-insights.md)
       + [Créer des programmes](product-docs/coworker-for-marketo/skills/build-programs.md)
+      + {hide-from-toc}[Planifier des campagnes](product-docs/coworker-for-marketo/skills/plan-campaigns.md)
       + {hide-from-toc}[Cloner le programme](product-docs/coworker-for-marketo/skills/clone-program.md)
       + [Enquête sur les prospects](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [Importer les leads](product-docs/coworker-for-marketo/skills/import-leads.md)
