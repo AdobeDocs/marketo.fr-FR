@@ -1,7 +1,7 @@
 ---
 description: Utilisez CX Enterprise Coworker for Marketo Engage pour créer un programme Marketo en adaptant un modèle existant. Préparez les campagnes intelligentes, la planification et les espaces réservés de ressources à examiner et à affiner.
 title: Créer des programmes
-source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
+source-git-commit: 93193d2bf1f673472bb52d806864bfb083216cab
 workflow-type: tm+mt
 source-wordcount: '828'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Les [règles d’organisation](/help/marketo/product-docs/coworker-for-marketo/o
 
 ## Utilisation {#how-to-use}
 
-1. Dans Mon Marketo, cliquez sur la mosaïque **CX Enterprise Coworker pour Marketo Engage**.
+1. Dans Mon Marketo, cliquez sur la mosaïque **[!UICONTROL CX Enterprise Coworker pour Marketo Engage]**.
 
 1. Sélectionnez un modèle de programme. Choisissez un programme existant correspondant à votre type de campagne (par exemple, e-mail, webinaire, formation).
 

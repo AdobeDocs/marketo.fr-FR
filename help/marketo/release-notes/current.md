@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: e72db83a5f1f3c58a29da7c4b4b1bbb79a61b596
+source-git-commit: bc2b6050e8782249331ee34a59b5858fd15e656f
 workflow-type: tm+mt
-source-wordcount: '471'
-ht-degree: 14%
+source-wordcount: '545'
+ht-degree: 12%
 ---
 # Notes De Mise À Jour : Novembre 2026 {#release-notes-nov-26}
 
@@ -90,6 +90,8 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
 <br/>
 
 ## Annonces {#announcements}
+
+* **Obsolescence de l’interface utilisateur classique** : l’interface de Marketo Engage a été actualisée, avec des menus, des icônes et une disposition mis à jour pour une expérience plus épurée et plus moderne. Il s’agit d’une mise à jour visuelle uniquement ; aucune fonctionnalité ou workflow existant n’est modifié. Vous pouvez actuellement basculer entre les interfaces Classic et actualisée à l’aide d’un menu déroulant, mais l’interface Classic sera supprimée d’ici la fin de la version de janvier 2027 (la date exacte sera bientôt déterminée).
 
 * **Obsolescence des images capturées sur le web** : pour se conformer aux bonnes pratiques modernes en matière de sécurité et de confidentialité, la fonctionnalité [Capturer des images sur le web](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"} sera abandonnée à compter de la version de novembre.
 
