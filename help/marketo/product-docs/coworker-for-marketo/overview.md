@@ -4,9 +4,9 @@ title: Présentation de CX Enterprise Coworker for Marketo Engage
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: e72db83a5f1f3c58a29da7c4b4b1bbb79a61b596
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '468'
 ht-degree: 1%
 ---
 # Présentation de CX Enterprise Coworker for Marketo Engage {#overview}
@@ -15,7 +15,7 @@ CX Enterprise Coworker for Marketo Engage fournit des compétences d’agent con
 
 >[!AVAILABILITY]
 >
->Cette fonctionnalité est disponible pour tous les abonnements. Si la mosaïque CX Enterprise Coworker for Marketo Engage ne s’affiche pas sur votre écran Mon Marketo, contactez votre gestionnaire de compte. Vous devez également accepter les termes [&#x200B; Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
+>Cette fonctionnalité est disponible pour tous les abonnements. Si la mosaïque CX Enterprise Coworker for Marketo Engage ne s’affiche pas sur votre écran Mon Marketo, contactez votre gestionnaire de compte. Vous devez également accepter les termes [ Core Gen-AI et les termes supplémentaires](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
 
 >[!IMPORTANT]
 >
@@ -37,6 +37,10 @@ Saisissez votre requête dans le champ d’invite, sélectionnez l’une des com
 
 La console centrale dispose d’un ensemble croissant de compétences d’agent disponibles pour vous aider à effectuer diverses tâches. Chaque compétence est un assistant d’IA personnalisé avec lequel vous interagissez en langage naturel pour terminer une tâche spécifique.
 
+### Planification de campagnes {#plan-campaigns}
+
+Transformez un brief de campagne en un plan d’implémentation structuré pour Marketo Engage. La compétence Planifier des campagnes décrit la structure du programme, la logique d’audience, les e-mails, les campagnes intelligentes, les jetons, le compte rendu des performances et les contrôles de préactivation. En savoir plus sur la compétence [Planifier des campagnes](/help/marketo/product-docs/coworker-for-marketo/skills/plan-campaigns.md){target="_blank"}.
+
 ### Créer des programmes {#build-programs}
 
 Décrivez une campagne marketing en langage clair et CX Enterprise Coworker for Marketo Engage crée la structure du programme, avec les espaces réservés aux ressources et la planification. En savoir plus sur la compétence [Créer des programmes](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}.
@@ -51,20 +55,16 @@ La connaissance des produits vous donne un accès à la demande à l’expertise
 
 ### Valider les programmes {#validate-programs}
 
-L’option Valider les programmes vérifie automatiquement votre configuration par rapport aux bonnes pratiques de Marketo et recherche les problèmes avant le lancement. En savoir plus sur la compétence [&#x200B; Valider les programmes &#x200B;](/help/marketo/product-docs/coworker-for-marketo/skills/validate-programs.md){target="_blank"}.
+L’option Valider les programmes vérifie automatiquement votre configuration par rapport aux bonnes pratiques de Marketo et recherche les problèmes avant le lancement. En savoir plus sur la compétence [ Valider les programmes ](/help/marketo/product-docs/coworker-for-marketo/skills/validate-programs.md){target="_blank"}.
 
 ### Importer les leads {#import-leads}
 
-Importez et dédupliquez des listes de prospects dans votre base de données Marketo Engage avec l’aide du mappage des champs. En savoir plus sur la compétence [&#x200B; Importer des prospects &#x200B;](/help/marketo/product-docs/coworker-for-marketo/skills/import-leads.md){target="_blank"}.
+Importez et dédupliquez des listes de prospects dans votre base de données Marketo Engage avec l’aide du mappage des champs. En savoir plus sur la compétence [ Importer des prospects ](/help/marketo/product-docs/coworker-for-marketo/skills/import-leads.md){target="_blank"}.
 
 ## Bientôt disponible {#coming-soon}
 
-D’autres agents conçus pour gérer le travail le plus répétitif et le plus chronophage seront bientôt disponibles, tels que :
-
-* Diagnostiquer les raisons pour lesquelles un lead n’a pas appliqué MQL ou progresser tout au long du cycle de vie
-* Générer des programmes Marketo Engage complets directement à partir d’un résumé de campagne.
-* Et plus encore.
+D’autres compétences conçues pour gérer les tâches les plus répétitives et les plus chronophages seront bientôt disponibles.
 
 >[!MORELIKETHIS]
 >
->Le [serveur Marketo Engage MCP](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=fr){target="_blank"} fait office de pont entre votre assistant d’IA et Marketo Engage.
+>Le [serveur Marketo Engage MCP](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"} fait office de pont entre votre assistant d’IA et Marketo Engage.
