@@ -1,9 +1,9 @@
 ---
 description: Utilisez CX Enterprise Coworker for Marketo Engage pour transformer un résumé de campagne en un plan de programme structuré couvrant la logique de l’audience, les e-mails, les jetons et les contrôles QA.
 title: Planification de campagnes
-source-git-commit: b47454801d391f4d7a75ebcfce7ac76c2f4b8af4
+source-git-commit: e72db83a5f1f3c58a29da7c4b4b1bbb79a61b596
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '754'
 ht-degree: 1%
 ---
 # Planification de campagnes {#plan-campaigns}
@@ -12,7 +12,8 @@ Transformez un brief de campagne en un plan d’implémentation structuré pour 
 
 >[!NOTE]
 >
->Cette compétence génère des plans d’implémentation pour les programmes Marketo Engage (documents structurés qui indiquent à un humain ou à un système d’automatisation comment créer une campagne). Il ne crée rien dans Marketo Engage. Il y a une compétence distincte pour [programmes de renforcement](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md).
+>- Cette compétence génère des plans d’implémentation pour les programmes Marketo Engage (documents structurés qui indiquent à un humain ou à un système d’automatisation comment créer une campagne). Il ne crée rien dans Marketo Engage. Il y a une compétence distincte pour [programmes de renforcement](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}.
+>- Cette compétence est guidée par [les règles d’organisation](/help/marketo/product-docs/coworker-for-marketo/organizational-rules.md){target="_blank"}.
 
 ## Conditions préalables {#prerequisites}
 

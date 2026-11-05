@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: c36bbfe0f8ce46dfa6b5c708fa29c5a710cc2358
+source-git-commit: e72db83a5f1f3c58a29da7c4b4b1bbb79a61b596
 workflow-type: tm+mt
-source-wordcount: '472'
-ht-degree: 15%
+source-wordcount: '471'
+ht-degree: 14%
 ---
 # Notes De Mise À Jour : Novembre 2026 {#release-notes-nov-26}
 
@@ -50,8 +50,8 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
   </tr>
   <tr>
    <td><strong>Compétences en matière de planification de campagnes</strong> : CX Enterprise Coworker for Marketo Engage peut désormais transformer un résumé de campagne en un document de configuration de programme Marketo Engage complet. Le document comprend la structure des dossiers, les campagnes intelligentes, les configurations d’e-mail, les jetons et une liste de contrôle d’assurance qualité. Cela permet aux équipes de lancer des campagnes plus rapidement et de normaliser la configuration du programme. La compétence peut être configurée via Markdown.</td>
-   <td><i>Bientôt disponible</i></td>
-   <td><i>Bientôt disponible</i></td>
+   <td>Libéré</td>
+   <td><a href="/help/marketo/product-docs/coworker-for-marketo/skills/plan-campaigns.md" target="_blank">Planification de campagnes</a></td>
   </tr>
   <tr>
    <td> </td>

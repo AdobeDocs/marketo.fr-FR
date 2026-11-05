@@ -4,9 +4,9 @@ title: Présentation de CX Enterprise Coworker for Marketo Engage
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: e72db83a5f1f3c58a29da7c4b4b1bbb79a61b596
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '468'
 ht-degree: 1%
 ---
 # Présentation de CX Enterprise Coworker for Marketo Engage {#overview}
@@ -37,6 +37,10 @@ Saisissez votre requête dans le champ d’invite, sélectionnez l’une des com
 
 La console centrale dispose d’un ensemble croissant de compétences d’agent disponibles pour vous aider à effectuer diverses tâches. Chaque compétence est un assistant d’IA personnalisé avec lequel vous interagissez en langage naturel pour terminer une tâche spécifique.
 
+### Planification de campagnes {#plan-campaigns}
+
+Transformez un brief de campagne en un plan d’implémentation structuré pour Marketo Engage. La compétence Planifier des campagnes décrit la structure du programme, la logique d’audience, les e-mails, les campagnes intelligentes, les jetons, le compte rendu des performances et les contrôles de préactivation. En savoir plus sur la compétence [Planifier des campagnes](/help/marketo/product-docs/coworker-for-marketo/skills/plan-campaigns.md){target="_blank"}.
+
 ### Créer des programmes {#build-programs}
 
 Décrivez une campagne marketing en langage clair et CX Enterprise Coworker for Marketo Engage crée la structure du programme, avec les espaces réservés aux ressources et la planification. En savoir plus sur la compétence [Créer des programmes](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}.
@@ -59,11 +63,7 @@ Importez et dédupliquez des listes de prospects dans votre base de données Mar
 
 ## Bientôt disponible {#coming-soon}
 
-D’autres agents conçus pour gérer le travail le plus répétitif et le plus chronophage seront bientôt disponibles, tels que :
-
-* Diagnostiquer les raisons pour lesquelles un lead n’a pas appliqué MQL ou progresser tout au long du cycle de vie
-* Générer des programmes Marketo Engage complets directement à partir d’un résumé de campagne.
-* Et plus encore.
+D’autres compétences conçues pour gérer les tâches les plus répétitives et les plus chronophages seront bientôt disponibles.
 
 >[!MORELIKETHIS]
 >

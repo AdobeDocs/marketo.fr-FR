@@ -4,7 +4,7 @@ user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: b1ab5ab541fd79c8c42fbcd018e23baf51337aac
+source-git-commit: e72db83a5f1f3c58a29da7c4b4b1bbb79a61b596
 workflow-type: tm+mt
 source-wordcount: '8948'
 ht-degree: 96%
@@ -494,7 +494,7 @@ ht-degree: 96%
       + {hide-from-toc}[Agents appelables](product-docs/coworker-for-marketo/skills/callable-agents.md)
       + {hide-from-toc}[Informations sur la surface](product-docs/coworker-for-marketo/skills/surface-insights.md)
       + [Créer des programmes](product-docs/coworker-for-marketo/skills/build-programs.md)
-      + {hide-from-toc}[Planifier des campagnes](product-docs/coworker-for-marketo/skills/plan-campaigns.md)
+      + [Planification de campagnes](product-docs/coworker-for-marketo/skills/plan-campaigns.md)
       + {hide-from-toc}[Cloner le programme](product-docs/coworker-for-marketo/skills/clone-program.md)
       + [Enquête sur les prospects](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [Importer les leads](product-docs/coworker-for-marketo/skills/import-leads.md)
