@@ -4,9 +4,9 @@ title: Agents appelables
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 93193d2bf1f673472bb52d806864bfb083216cab
+source-git-commit: 16b8e470bd4a4460c0179ccdd406ef89af7e9e17
 workflow-type: tm+mt
-source-wordcount: '2004'
+source-wordcount: '2002'
 ht-degree: 1%
 ---
 # Agents appelables {#callable-agents}
@@ -36,7 +36,7 @@ Les agents appelables vous permettent d’utiliser un agent d’IA comme étape 
 
 1. Sélectionnez **[!UICONTROL Enregistrer]** pour enregistrer un brouillon, ou **[!UICONTROL Enregistrer et publier]** pour rendre l’agent disponible dans Marketo Engage.
 
-1. Ouvrez une campagne dynamique et sélectionnez l’onglet **[!UICONTROL Flux]** . Dans la section Marketing de la liste des étapes de flux, recherchez **Appeler l’agent : _[Nom de l’agent]_**&#x200B;et faites-le glisser dans le flux.
+1. Ouvrez une campagne dynamique et sélectionnez l’onglet **[!UICONTROL Flux]** . Dans la section Marketing de la liste des étapes de flux, recherchez **Appeler l’agent : _[Nom de l’agent]_**et faites-le glisser dans le flux.
 
 1. Testez la campagne avec un petit ensemble de prospects. Consultez le journal des activités et vérifiez que les champs de sortie se mettent à jour comme prévu avant d’activer la campagne pour tous les prospects.
 
@@ -58,7 +58,7 @@ Choisissez un modèle pour préremplir les instructions, les champs d’entrée 
 
 | Modèle | But | Entrées | Sorties |
 | --- | --- | --- | --- |
-| Normaliseur de nom de société | Nettoie les noms de société en supprimant les suffixes légaux, en corrigeant les fautes de frappe courantes et en appliquant des majuscules de marque standard. | Société | Société normalisée (texte) ; confiance (nombre, 0-1) |
+| Normaliseur de nom de société | Nettoie les noms de société en supprimant les suffixes légaux, en corrigeant les fautes de frappe courantes et en appliquant des majuscules de marque standard. | Société | Société normalisée (texte) ; degré de confiance (nombre) |
 | Téléphone E.164 Formateur | Met en forme les numéros de téléphone selon la norme internationale E.164. | Téléphone | Téléphone normalisé (texte) ; degré de confiance (nombre) |
 | Normaliseur de titre de tâche | Standardise les titres de postes et déduit l’ancienneté. | Titre | Titre normalisé (texte); ancienneté (niveau C, vice-président, directeur, gestionnaire, individu ou inconnu); confiance |
 | Détecteur de robots et de spams | Signale les envois de formulaires de spam ou de robots. | E-mail, Prénom, Nom, Société, Téléphone | N’est pas (true/false) ; confiance ; raison ; indicateurs (séparés par des virgules) |
