@@ -36,7 +36,7 @@ Les agents appelables vous permettent d’utiliser un agent d’IA comme étape 
 
 1. Sélectionnez **[!UICONTROL Enregistrer]** pour enregistrer un brouillon, ou **[!UICONTROL Enregistrer et publier]** pour rendre l’agent disponible dans Marketo Engage.
 
-1. Ouvrez une campagne dynamique et sélectionnez l’onglet **[!UICONTROL Flux]** . Dans la section Marketing de la liste des étapes de flux, recherchez **Appeler l’agent : _[Nom de l’agent]_**et faites-le glisser dans le flux.
+1. Ouvrez une campagne dynamique et sélectionnez l’onglet **[!UICONTROL Flux]** . Dans la section Marketing de la liste des étapes de flux, recherchez **Appeler l’agent : _[Nom de l’agent]_**&#x200B;et faites-le glisser dans le flux.
 
 1. Testez la campagne avec un petit ensemble de prospects. Consultez le journal des activités et vérifiez que les champs de sortie se mettent à jour comme prévu avant d’activer la campagne pour tous les prospects.
 
