@@ -4,10 +4,10 @@ title: Paramètres et configuration
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 8f3a0c1b4eccb91701eab8a079a72c4a6d8d7092
 workflow-type: tm+mt
-source-wordcount: '585'
-ht-degree: 3%
+source-wordcount: '588'
+ht-degree: 4%
 ---
 # Paramètres et configuration {#settings-setup}
 
@@ -37,6 +37,10 @@ Il existe une autorisation _Accéder à un collègue pour Marketo Engage_ et un 
 ### Accéder à l’autorisation Coworker for Marketo Engage {#access-coworker-marketo-permission}
 
 Suivez les étapes ci-dessous pour activer _Access Coworker for Marketo Engage_ pour les rôles qualifiés qui ne l’ont pas déjà activé.
+
+>[!NOTE]
+>
+>**Autorisations d’administration requises**
 
 1. Dans Mon Marketo, cliquez sur **Admin**, puis **Utilisateurs et rôles**.
 
