@@ -19,9 +19,9 @@ subfeature_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: bc2b6050e8782249331ee34a59b5858fd15e656f
+source-git-commit: 8bb77c46ff74e07c9b150961259ccbd55930b5ce
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '201'
 ht-degree: 62%
 ---
 # Calendrier de publication {#release-schedule}
@@ -78,12 +78,12 @@ _Les dates de publication et les fonctionnalités sont susceptibles d’être mo
   <tr>
   <td><a href="https://experienceleague.adobe.com/fr/docs/marketo/using/release-notes/previous-releases/2026/release-notes-sep-26">Septembre '26</a></td>
    <td>25 septembre 2026</td>
-   <td>En cours</td>
+   <td>Terminé</td>
   </tr>
   <tr>
   <td><a href="/help/marketo/release-notes/current.md">Novembre 2026</a></td>
    <td>6 novembre 2026</td>
-   <td>Prévu</td>
+   <td>En cours</td>
   </tr>
   <tr>
   <td>Janvier 2027</td>
