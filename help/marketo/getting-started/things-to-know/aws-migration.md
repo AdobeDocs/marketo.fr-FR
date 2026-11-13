@@ -9,9 +9,9 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: e5afc046c226779f9969569cf4648792d8c32ae5
+source-git-commit: 8bb77c46ff74e07c9b150961259ccbd55930b5ce
 workflow-type: tm+mt
-source-wordcount: '1278'
+source-wordcount: '1286'
 ht-degree: 4%
 ---
 # Migration d’AWS {#aws-migration}
@@ -26,32 +26,32 @@ Pendant la période de migration, tous les services Marketo Engage ne seront pas
 
 * **Évitez de créer ou de mettre à jour des prospects/personnes** ou d’exécuter des processus qui modifient les enregistrements de personne.
 
-* **Ne déclenchez pas de processus de suivi** car toutes les campagnes planifiées seront suspendues.
+* **Ne déclenchez pas de processus de suivi**, car toutes les campagnes planifiées seront suspendues.
 
-* **Désactivez temporairement toutes les intégrations** qui envoient ou reçoivent des données vers ou depuis Marketo Engage.
+* **Désactivez temporairement les intégrations** qui envoient ou reçoivent des données vers ou depuis Marketo Engage.
 
-* **Évitez d’exécuter** d’importer ou d’exporter des données ou toute campagne majeure de génération de leads/personnes.
+* **Évitez d&#39;exécuter** des importations ou des exportations de données ou toute campagne majeure de génération de leads/personnes.
 
-* **Examinez et mettez à jour les places sur la liste autorisée IP** pour la connexion, l’accès à l’API, l’envoi d’e-mails, le tracking web et les intégrations (telles que la synchronisation CRM et les Webhooks).
+* **Vérifiez et mettez à jour les places sur la liste autorisée IP** pour la connexion, l’accès à l’API, l’envoi d’e-mails, le tracking web et les intégrations (telles que la synchronisation CRM et les Webhooks).
 
-* **Ajoutez de nouvelles adresses IP** et conservez vos adresses IP actuelles en l’état. Voir les adresses IP à ajouter via le [tableau ci-dessous](#ip-addresses).
+* **Ajoutez de nouvelles adresses IP** et conservez vos adresses IP actuelles en l’état. Voir les adresses IP à ajouter via le tableau [ci-dessous](#ip-addresses).
 
 ## Impacts attendus sur le service {#impacts}
 
 Les impacts ci-dessous ne nécessitent aucune action de votre part.
 
 * **Les intégrations CRM et les services LaunchPoint** seront désactivés, mais devraient reprendre automatiquement par la suite.
-* Les **pages de destination, formulaires et collecte de données** ne seront pas disponibles et un message de maintenance s’affichera (voir ci-dessous).
+* **Les pages de destination, les formulaires et la collecte de données** ne seront pas disponibles et un message de maintenance s’affichera (voir ci-dessous).
 
-  ![Message que vos clients voient lorsqu’ils accèdent à vos pages de destination Marketo Engage pendant les temps d’arrêt](assets/maintenance-in-progress.png)
+  ![Message que vos clients voient lorsqu’ils accèdent à vos pages de destination Marketo Engage pendant le temps d’arrêt](assets/maintenance-in-progress.png)
 
 >[!IMPORTANT]
 >
->Si vous utilisez [formulaires externes](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} et souhaitez éviter de perdre les données d’envoi de formulaire collectées alors que Marketo Engage n’est pas disponible pendant votre période de migration, contactez [l’assistance Adobe](https://experienceleague.adobe.com/fr/support){target="_blank"} **au moins deux jours ouvrables** à l’avance et fournissez l’ID de formulaire et l’ID de Munchkin de votre abonnement.
+>Si vous utilisez des [formulaires externes](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} et souhaitez éviter de perdre les données d’envoi de formulaire collectées alors que Marketo Engage n’est pas disponible pendant votre période de migration, contactez [l’assistance d’Adobe](https://experienceleague.adobe.com/en/support){target="_blank"} **au moins deux jours ouvrables** à l’avance et fournissez l’ID de formulaire et l’ID de Munchkin de votre abonnement.
 
 ## Identifier votre datacenter/pod {#identify}
 
-Avant de consulter le planning ci-dessous, [découvrez comment identifier](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify){target="_blank"} le centre de données et le pod/serveur dans lesquels se trouve votre abonnement.
+Avant de passer en revue le planning ci-dessous, [découvrez comment identifier](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify){target="_blank"} le centre de données et le pod/serveur où se trouve votre abonnement.
 
 ## Planning {#schedule}
 
@@ -60,6 +60,7 @@ De nouvelles dates et informations sur le datacenter/pod sont régulièrement aj
 Si, pour une raison quelconque, une migration échoue, vous en serez informé et nous replanifierons l’opération.
 
 +++Planning de juillet
+
 <table>
  <tbody>
   <tr>
@@ -171,7 +172,7 @@ Si, pour une raison quelconque, une migration échoue, vous en serez informé et
    <td>26 Août 2026</td>
    <td><i>AB40</i><br>
    AB50</td>
-   <td>17 <i> PDT</i><br>
+   <td><i>17 h PDT</i><br>
    18 h (HAP)</td>
    <td><i>Reporté (date à déterminer)</i><br>
    Terminé</td>
@@ -180,7 +181,7 @@ Si, pour une raison quelconque, une migration échoue, vous en serez informé et
    <td>28 Août 2026</td>
    <td><i>AB53</i><br>
    AB56</td>
-   <td>15 <i> PDT</i><br>
+   <td><i>15 h PDT</i><br>
    16 h (HAP)</td>
    <td><i>Reporté (date à déterminer)</i><br>
    Terminé</td>
@@ -237,7 +238,7 @@ Si, pour une raison quelconque, une migration échoue, vous en serez informé et
    <td>25 septembre 2026</td>
    <td><i>AB10</i><br>
    AB11</td>
-   <td>16 <i> PDT</i><br>
+   <td><i>16 h PDT</i><br>
    17 h (HAP)</td>
    <td><i>Reporté (date à déterminer)</i><br>
    Terminé</td>
@@ -252,6 +253,8 @@ Si, pour une raison quelconque, une migration échoue, vous en serez informé et
 </table>
 
 +++
+
++++ Planning d’octobre
 
 <table>
  <tbody>
@@ -306,17 +309,30 @@ Si, pour une raison quelconque, une migration échoue, vous en serez informé et
    <td>Terminé<br>
    Terminé</td>
   </tr>
+  </body>
+</table>
+
++++
+
+<table>
+ <tbody>
+  <tr>
+   <th style="width:25%">Date</th>
+   <th style="width:25%">Centre de données/pod</th>
+   <th style="width:25%">Heure</th>
+   <th style="width:25%">Statut</th>
+  </tr>
   <tr>
    <td>6 novembre 2026</td>
    <td>AB18</td>
    <td>16 h (heure du Pacifique)</td>
-   <td>Prévu</td>
+   <td>Terminé</td>
   </tr>
   <tr>
    <td>18 Novembre 2026</td>
-   <td>SJ14</td>
-   <td>17 h (heure du Pacifique)</td>
-   <td>Prévu</td>
+   <td><i>SJ14</i></td>
+   <td><i>17 h (heure du Pacifique)</i></td>
+   <td><i>Reporté (date à déterminer)</i></td>
   </tr>
   <tr>
    <td>20 Novembre 2026</td>
@@ -365,9 +381,9 @@ Si votre entreprise utilise une liste autorisée IP, un pare-feu, une liste de c
 
 Pour obtenir les dernières informations, mettez un signet sur cette page.
 
-Pour les mises à jour de statut, vous pouvez vous [abonner pour les recevoir](https://experienceleague.adobe.com/fr/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} au début et à la fin de la migration. Vous pouvez également consulter [status.adobe.com](https://status.adobe.com/fr){target="_blank"} pendant la période de migration.
+Pour les mises à jour de statut, vous pouvez [vous abonner pour les recevoir](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} au début et à la fin de la migration. Vous pouvez également consulter [status.adobe.com](https://status.adobe.com/fr){target="_blank"} pendant votre période de migration.
 
-Pour toute question, contactez l’assistance Adobe via le portail d’assistance d’Admin Console ou [Experience League](https://experienceleague.adobe.com/fr/support){target="_blank"}.
+Pour toute question, contactez l’assistance Adobe via le portail d’assistance d’Admin Console ou [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
 
 ## Questions fréquentes {#faq}
 
@@ -377,7 +393,7 @@ Toutes les données utilisateur de Marketo sont stockées sur Amazon Web Service
 **Où précisément les données personnelles sont-elles stockées ?**
 Les données personnelles sont stockées dans Amazon Aurora, le service de base de données relationnelle entièrement géré d&#39;AWS. Aurora reproduit les données de six façons sur trois zones de disponibilité distinctes dans la région AWS afin de protéger les données personnelles contre les défaillances matérielles, la dégradation du stockage et les événements d&#39;infrastructure localisés.
 
-**À qui appartient l’environnement de stockage ?**
+**À qui appartient l&#39;environnement de stockage ?**
 L’infrastructure de stockage est détenue et exploitée par Amazon Web Services (AWS). Adobe (Marketo) fonctionne comme un client d’AWS selon un modèle de responsabilité partagée : AWS est responsable de la sécurité et de la disponibilité de l’infrastructure sous-jacente, tandis qu’Adobe est responsable de la sécurité des données et des applications qu’il contient.
 
 **Quels sont les détails complets sur la production, les emplacements de sauvegarde/reprise après sinistre et la technologie de stockage ?**
@@ -387,12 +403,12 @@ Aurora effectue également des sauvegardes automatiques continues vers Amazon S3
 
 Actuellement, le déploiement de Marketo Aurora fonctionne dans une seule région AWS, sans réplication inter-régions. Les données de production restent au sein de l&#39;infrastructure régionale désignée, et la reprise après sinistre est assurée par la redondance du stockage multi-AZ d&#39;Aurora et des sauvegardes continues plutôt que par le basculement géographique vers une région secondaire. Cela peut être évalué plus en détail à mesure que l’infrastructure AWS de Marketo se développe.
 
-**Comment les désabonnements sont-ils gérés pendant les temps d’arrêt ?**
+**Comment les désabonnements sont-ils gérés pendant les temps d&#39;arrêt ?**
 Les désabonnements standard et de liste (clients de messagerie) sont toujours reçus et seront traités peu de temps après la migration.
 
 **Existe-t-il des alternatives à la suspension des campagnes ?**
 Oui. Si vous souhaitez empêcher les utilisateurs d’avancer sans perdre les données entrantes, tenez compte des options suivantes :
 
-* Ajouter une étape de choix : au lieu de désactiver votre campagne, laissez-la active, mais ajoutez une [étape de flux d’attente](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview){target="_blank"} ou une étape « Ne rien faire » immédiate tout en haut du flux. Définissez une [règle de choix](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step){target="_blank"} qui dirige vos personnes vers cet état en pause, puis mettez à jour les règles de choix lorsque vous êtes prêt.
-* Supprimer du flux : si des personnes ont déjà rejoint la campagne, mais que vous devez arrêter leur progression, utilisez l’action [Supprimer du flux](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow){target="_blank"} pour les extraire sans désactiver définitivement le déclencheur de la campagne.
+* Ajouter une étape de choix : au lieu de désactiver votre campagne, laissez-la active, mais ajoutez une [étape de flux d’attente](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview){target="_blank"} ou une étape « Ne rien faire » immédiate tout en haut du flux. Définissez une [règle de choix](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step){target="_blank"} qui dirige vos personnes vers cet état en pause, puis mettez à jour les règles de choix lorsque vous êtes prêt.
+* Supprimer du flux : si des personnes ont déjà rejoint la campagne, mais que vous devez arrêter leur progression, utilisez l’action [Supprimer du flux](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow){target="_blank"} pour les extraire sans désactiver définitivement le déclencheur de la campagne.
 * Alternative par lots : envisagez de convertir les campagnes par déclencheurs en campagnes par lots si vous n’avez pas besoin de routage instantané ou de réponses et que vous souhaitez simplement traiter les personnes du jour au lendemain ou à des intervalles planifiés.
