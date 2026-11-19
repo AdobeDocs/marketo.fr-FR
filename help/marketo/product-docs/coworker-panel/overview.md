@@ -1,20 +1,18 @@
 ---
 description: Découvrez la version Beta du panneau Coworker dans Marketo Engage, qui vous permet d’ouvrir CX Enterprise Coworker à partir de Marketo Engage sans changer d’interface.
-title: Panneau CX Enterprise Coworker dans Marketo Engage (Beta)
+title: Panneau CX Enterprise Coworker dans Marketo Engage
 badge: Beta
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 8fdac8e20931dac59034be5ec8557ad1a7f13236
+source-git-commit: e33fb9e112e42d714f81b82fa46cc393e5877c79
 workflow-type: tm+mt
-source-wordcount: '722'
+source-wordcount: '608'
 ht-degree: 1%
 ---
-# Panneau CX Enterprise Coworker dans Marketo Engage (Beta) {#coworker-panel-overview}
+# Panneau CX Enterprise Coworker dans Marketo Engage {#coworker-panel-overview}
 
-Le panneau Coworker vous permet d’ouvrir CX Enterprise Coworker directement à partir de Marketo Engage, de sorte que vous puissiez poser des questions sans avoir à passer à une autre interface.
-
-Ce panneau incorporé est une version bêta disponible pour une sélection de clients Marketo Engage. Il s’exécute avec l’expérience CX Enterprise Coworker for Marketo Engage existante plutôt que de la remplacer, et les deux conservent un historique et un contexte de conversation distincts. En version bêta, le panneau peut continuer à changer.
+Le panneau Coworker vous permet d’ouvrir CX Enterprise Coworker directement à partir de Marketo Engage, de sorte que vous puissiez poser des questions sans avoir à passer à une autre interface. Il s’agit d’une expérience différente de celle de CX Enterprise Coworker pour Marketo Engage. En version bêta, le panneau peut continuer à changer.
 
 >[!IMPORTANT]
 >
@@ -24,17 +22,17 @@ Ce panneau incorporé est une version bêta disponible pour une sélection de cl
 
 | Zone | Détails |
 | --- | --- |
-| Accès | Ouvrez la version Beta intégrée à partir de Marketo Engage. L’expérience CX Enterprise Coworker for Marketo Engage existante reste disponible via son point d’accès actuel. |
+| Accès | Ouvrez la version Beta intégrée à partir de Marketo Engage. L’expérience CX Enterprise Coworker for Marketo Engage existante reste disponible via son [point d’accès actuel](/help/marketo/product-docs/coworker-for-marketo/overview.md#access). |
 | Conversations existantes | L’historique des conversations existant reste disponible dans la version actuelle de CX Enterprise Coworker for Marketo Engage. L’activation de la version bêta ne supprime pas cet historique. |
 | Histoire et contexte | La version bêta et l’expérience existante ont un historique et un contexte de conversation distincts. Une conversation dans l’un n’est pas disponible dans l’autre. |
-| Fonctionnalités existantes | Vous pouvez continuer à utiliser les fonctionnalités disponibles dans l’expérience actuelle. |
+| Fonctionnalités existantes | Reste disponible dans l’expérience actuelle. |
 | Réponses et interface | Les réponses, contrôles et mises en page peuvent différer d’une expérience à l’autre. |
 
 ## Ouvrir et utiliser le panneau Collègue {#open-and-use-the-coworker-panel}
 
 1. Dans Marketo Engage, sélectionnez l’icône **Collègue** dans le volet de navigation supérieur.
 
-CAPTURE D’ÉCRAN
+   ![](assets/panel-overview-1.png)
 
 1. Saisissez votre demande. Incluez les détails dont a besoin le collaborateur, tels qu’un nom de programme ou une période ; ne supposez pas qu’il sait quel élément vous consultez.
 
@@ -44,17 +42,9 @@ CAPTURE D’ÉCRAN
 
 1. Passez en revue les réponses générées et les modifications proposées avant de les utiliser.
 
-## Historique et contexte des conversations {#conversation-history-and-context}
+## Votre expérience CX Enterprise Coworker existante {#your-existing-cx-enterprise-coworker-experience}
 
-L’historique et le contexte des conversations ne sont pas partagés entre le panneau Collègue dans Marketo Engage et CX Enterprise Coworker for Marketo Engage. Chaque expérience entretient ses propres conversations. Vous ne pouvez pas reprendre une conversation à partir d’une expérience dans l’autre.
-
-Lorsque vous changez d’expérience, démarrez une nouvelle conversation et fournissez à nouveau le contexte, les exigences et les détails pertinents.
-
-## Continuer à utiliser CX Enterprise Coworker pour Marketo Engage {#continue-using-cx-enterprise-coworker-for-marketo-engage}
-
-Il n’est pas nécessaire de déplacer votre travail existant pour essayer la version bêta. Ouvrez l’expérience CX Enterprise Coworker for Marketo Engage actuelle via son point d’accès existant lorsque vous souhaitez revenir sur une conversation précédente ou utiliser les fonctionnalités disponibles à cet emplacement.
-
-Votre historique et vos fonctionnalités existants restent disponibles dans cette expérience. Elles n’apparaissent pas dans la version Beta intégrée et un accès continu à l’expérience actuelle ne signifie pas que les deux expériences ont la parité des fonctionnalités.
+Votre historique et vos fonctionnalités existants restent disponibles dans Coworker for Marketo Engage. Elles n’apparaissent pas dans la version Beta intégrée et un accès continu à l’expérience actuelle ne signifie pas que les deux expériences ont les mêmes fonctionnalités.
 
 ## Différences entre les expériences {#differences-between-the-experiences}
 
@@ -63,30 +53,30 @@ La version bêta et CX Enterprise Coworker for Marketo Engage incorporées sont 
 - **Réponses :** Le libellé, l&#39;organisation, le niveau de détail ou la présentation peuvent varier.
 - **Interface :** Les contrôles, les mises en page et la manière dont vous examinez les réponses peuvent différer.
 
-Ne vous attendez pas à des réponses ou une interface identiques. Si une fonctionnalité que vous utilisez aujourd’hui n’est pas disponible dans la version bêta, continuez à l’utiliser dans l’expérience actuelle.
+Si une fonctionnalité que vous utilisez aujourd’hui n’est pas disponible dans la version bêta, continuez à l’utiliser dans l’expérience actuelle.
 
 ## Questions fréquentes {#frequently-asked-questions}
 
-### La version bêta remplace-t-elle CX Enterprise Coworker for Marketo Engage ?
+**La version bêta remplace-t-elle complètement CX Enterprise Coworker pour Marketo Engage ?**
 
 Non. Les deux expériences sont disponibles en parallèle pendant la version bêta.
 
-### Vais-je perdre mes conversations ou fonctionnalités existantes ?
+**L&#39;historique des conversations et le contexte sont-ils partagés entre les deux expériences ?**
+
+Non. Le panneau Collègue de Marketo Engage et CX Enterprise Coworker for Marketo Engage ont un historique et un contexte de conversation distincts. Les conversations des deux expériences n’apparaissent pas dans l’autre. Pour revenir sur une conversation existante, ouvrez l’expérience où vous l’avez démarrée. Lors du changement d’expérience, indiquez à nouveau l’arrière-plan et les détails nécessaires à votre requête.
+
+**Vais-je perdre mes conversations ou fonctionnalités existantes ?**
 
 Non. L’activation de la version bêta ne supprime pas votre historique de conversations ou votre fonctionnalité de l’expérience CX Enterprise Coworker for Marketo Engage actuelle.
 
-### L’historique des conversations ou le contexte sont-ils partagés entre les deux expériences ?
-
-Non. Chaque expérience possède un historique et un contexte de conversation distincts. Pour revenir sur une conversation, ouvrez l’expérience où vous l’avez démarrée. Lors du changement, indiquez à nouveau l’arrière-plan et les détails nécessaires à votre requête.
-
-### Pourquoi la même invite peut-elle produire une réponse différente ?
+**Pourquoi la même invite peut-elle produire une réponse différente ?**
 
 Les expériences sont distinctes, de sorte que leurs réponses peuvent différer en termes de formulation, d’organisation, de niveau de détail ou de présentation. Examinez la substance d’une réponse avant de l’utiliser.
 
-### Que dois-je faire si je ne vois pas la version bêta ?
+**Que dois-je faire si je ne vois pas la version bêta ?**
 
 Demandez à votre administrateur Marketo Engage si votre abonnement participe à la version bêta.
 
-### Que se passe-t-il si je rencontre un problème avec la version bêta ?
+**Que se passe-t-il si je rencontre un problème avec la version bêta ?**
 
 Vous pouvez continuer à utiliser l’expérience CX Enterprise Coworker for Marketo Engage actuelle. Demandez à votre administrateur Marketo Engage des instructions d’assistance ou de retour pour la version bêta.
