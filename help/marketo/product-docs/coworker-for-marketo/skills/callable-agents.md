@@ -4,9 +4,9 @@ title: Agents appelables
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 5381bb670df1f69e535d0b349833f07b241a8ffd
+source-git-commit: 359355d18f91035b54e7cd33e3cea0d78a5b6ef8
 workflow-type: tm+mt
-source-wordcount: '1959'
+source-wordcount: '1971'
 ht-degree: 1%
 ---
 # Agents appelables {#callable-agents}
@@ -37,6 +37,10 @@ Les agents appelables vous permettent d’utiliser un agent d’IA comme étape 
    ![](assets/callable-agents-3.png)
 
 1. Pour utiliser un modèle, cliquez sur **Démarrer à partir d&#39;un modèle** et sélectionnez-en un.
+
+   >[!NOTE]
+   >
+   >Pour plus d&#39;informations sur les modèles d&#39;agent appelables, consultez [Démarrer à partir d&#39;un modèle](#start-from-a-template).
 
 1. Pour créer le vôtre, saisissez un **[!UICONTROL nom de l’agent]** et écrivez **[!UICONTROL instructions de l’agent]** décrivant comment traiter chaque prospect.
 
