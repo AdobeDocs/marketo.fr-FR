@@ -4,7 +4,7 @@ title: Agents appelables
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 359355d18f91035b54e7cd33e3cea0d78a5b6ef8
+source-git-commit: 44aea0fb30c2793856e910d7ecc638e2e661a6a9
 workflow-type: tm+mt
 source-wordcount: '1971'
 ht-degree: 1%
@@ -15,7 +15,7 @@ Les agents appelables vous permettent d’utiliser un agent d’IA comme étape 
 
 >[!NOTE]
 >
->Autorisations **Admin** requises.
+>**Autorisations d’administrateur requises.**
 
 ## Avant de commencer {#before-you-begin}
 

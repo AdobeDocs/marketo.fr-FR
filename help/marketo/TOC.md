@@ -4,7 +4,7 @@ user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: a913c84b1c4f8927c951af685884edfc792ff213
+source-git-commit: 44aea0fb30c2793856e910d7ecc638e2e661a6a9
 workflow-type: tm+mt
 source-wordcount: '8958'
 ht-degree: 96%
@@ -492,7 +492,7 @@ ht-degree: 96%
     + [Fiche d’information sur CX Enterprise Coworker for Marketo Engage](product-docs/coworker-for-marketo/data-information.md)
     + Compétences {#skills}
       + [Connaissances du produit](product-docs/coworker-for-marketo/skills/product-knowledge.md)
-      + {hide-from-toc}[Agents appelables](product-docs/coworker-for-marketo/skills/callable-agents.md)
+      + [Agents appelables](product-docs/coworker-for-marketo/skills/callable-agents.md)
       + {hide-from-toc}[Informations sur la surface](product-docs/coworker-for-marketo/skills/surface-insights.md)
       + [Créer des programmes](product-docs/coworker-for-marketo/skills/build-programs.md)
       + [Planification de campagnes](product-docs/coworker-for-marketo/skills/plan-campaigns.md)
@@ -500,7 +500,7 @@ ht-degree: 96%
       + [Enquête sur les prospects](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [Importer les leads](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [Valider les programmes](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Panneau CX Enterprise Coworker {#coworker-panel}
     + {hide-from-toc}[Vue d’ensemble](product-docs/coworker-panel/overview.md)
   + Synchronisation CRM {#crm-sync}
