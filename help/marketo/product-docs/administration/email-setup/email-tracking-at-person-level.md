@@ -91,7 +91,7 @@ Les champs de remplacement sont des champs de personne booléens. Définissez-le
 
 | Méthode | Notes |
 |---|---|
-| [Étape de flux Modifier la valeur de données](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value){target="_blank"} | Utilisez une campagne dynamique pour définir un champ lorsqu’une personne répond à vos critères, comme l’envoi d’une case à cocher de consentement sur un formulaire. |
+| [Étape de flux Modifier la valeur de données](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value){target="_blank"} | Utilisez une campagne dynamique pour définir un champ lorsqu’une personne répond à vos critères, comme l’envoi d’une case à cocher de consentement sur un formulaire. |
 | Formulaires | Mappez une case à cocher ou un champ masqué d’un formulaire Marketo Engage au champ de personne. |
 | Import de liste | Insérez le champ sous forme d’une colonne dans le fichier d’importation. |
 | API REST | Utilisez les noms de champ API `overrideOpenTrackingDefault` et `overrideClickTrackingDefault`. |
@@ -115,7 +115,7 @@ Lorsque Marketo Engage ne suit pas une personne, il modifie le contenu de l’e-
 | E-mails de déclenchement, tels que les e-mails envoyés à partir d’un déclencheur de campagne intelligente | Oui |
 | E-mails avec tests A/B ou variantes championnes ou challenger | Oui. Le tracking est décidé séparément pour chaque personne, quelle que soit la variante qu&#39;elle reçoit. |
 | Afficher en tant que page web | Oui. La version web suit les paramètres actuels de la personne. L’affichage d’une modification peut prendre jusqu’à une heure. |
-| [E-mails opérationnels](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational){target="_blank"} | Non. Ils suivent le comportement normal de suivi. |
+| [E-mails opérationnels](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational){target="_blank"} | Non. Ils suivent le comportement normal de suivi. |
 | Exemples d’e-mails (test) | Non. Ils suivent le comportement normal de suivi. |
 | Prévisualisations des e-mails | Pas de changement. Les aperçus ne sont pas suivis. |
 | E-mails d’alerte | Pas de changement. Les alertes ne sont pas suivies. |
@@ -125,7 +125,7 @@ Lorsque Marketo Engage ne suit pas une personne, il modifie le contenu de l’e-
 
 Marketo Engage lit les valeurs de remplacement d’une personne lorsqu’il prépare l’e-mail à envoyer.
 
-- **Diffusion planifiée ou différée :** Si un e-mail est préparé maintenant et envoyé ultérieurement (par exemple, avec [Démarrage anticipé](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs){target="_blank"} ou [Fuseau horaire du destinataire](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone){target="_blank"}), les valeurs au moment de la préparation s&#39;appliquent. Une modification apportée après la préparation ne modifie pas cet e-mail.
+- **Diffusion planifiée ou différée :** Si un e-mail est préparé maintenant et envoyé ultérieurement (par exemple, avec [Démarrage anticipé](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs){target="_blank"} ou [Fuseau horaire du destinataire](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone){target="_blank"}), les valeurs au moment de la préparation s&#39;appliquent. Une modification apportée après la préparation ne modifie pas cet e-mail.
 - **E-mails déjà diffusés :** La modification du remplacement d’une personne ne modifie pas les e-mails qu’elle a déjà reçus. Les clics sur les liens des e-mails précédemment envoyés peuvent toujours être suivis si ces liens ont été préparés avec le suivi activé.
 - **Courriers électroniques futurs :** Une modification s’applique aux courriers électroniques que Marketo Engage prépare après la modification.
 
