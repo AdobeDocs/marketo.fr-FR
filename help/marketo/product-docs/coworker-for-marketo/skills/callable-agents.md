@@ -4,9 +4,9 @@ title: Agents appelables
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 387abcce00de365f2b4abda9565b0eada2598cfd
+source-git-commit: 359355d18f91035b54e7cd33e3cea0d78a5b6ef8
 workflow-type: tm+mt
-source-wordcount: '1995'
+source-wordcount: '1971'
 ht-degree: 1%
 ---
 # Agents appelables {#callable-agents}
@@ -26,17 +26,35 @@ Les agents appelables vous permettent d’utiliser un agent d’IA comme étape 
 
 1. Dans Mon Marketo, cliquez sur la mosaïque **[!UICONTROL CX Enterprise Coworker pour Marketo Engage]**.
 
-1. Sélectionnez **[!UICONTROL Agents appelables]** dans le volet de navigation de gauche. La liste affiche le nom, la date de création, le créateur et le statut de chaque agent. Effectuez une recherche par nom ou un tri par nom ou date de création.
+   ![](assets/callable-agents-1.png)
 
-1. Sélectionnez **[!UICONTROL Créer un agent appelant]**. Choisissez un modèle ou laissez le sélecteur de modèle vide pour commencer à partir de zéro.
+1. Dans le coin supérieur droit, sélectionnez **[!UICONTROL Agents]**.
 
-1. Saisissez un **[!UICONTROL nom d’agent]** et écrivez **[!UICONTROL instructions d’agent]** décrivant comment traiter chaque prospect.
+   ![](assets/callable-agents-2.png)
 
-1. Sous **[!UICONTROL Champs de prospect à envoyer]**, ajoutez les champs de prospect dont l’agent a besoin en tant qu’entrées. Sous **[!UICONTROL Champs de lead à mettre à jour]**, ajoutez chaque valeur que l’agent doit renvoyer et mappez-la à un champ de lead pouvant être mis à jour.
+1. Sélectionnez **[!UICONTROL Créer un agent appelant]**.
 
-1. Sélectionnez **[!UICONTROL Enregistrer]** pour enregistrer un brouillon ou **[!UICONTROL Enregistrer et publier]** pour rendre l’agent disponible dans Marketo Engage.
+   ![](assets/callable-agents-3.png)
 
-1. Ouvrez une campagne dynamique et sélectionnez l’onglet **[!UICONTROL Flux]**. Dans la section Marketing de la liste des étapes de flux, recherchez **Appeler l’agent : _[Nom de l’agent]_**&#x200B;et faites-le glisser dans le flux.
+1. Pour utiliser un modèle, cliquez sur **Démarrer à partir d&#39;un modèle** et sélectionnez-en un.
+
+   >[!NOTE]
+   >
+   >Pour plus d&#39;informations sur les modèles d&#39;agent appelables, consultez [Démarrer à partir d&#39;un modèle](#start-from-a-template).
+
+1. Pour créer le vôtre, saisissez un **[!UICONTROL nom de l’agent]** et écrivez **[!UICONTROL instructions de l’agent]** décrivant comment traiter chaque prospect.
+
+1. Sous **[!UICONTROL Champs de prospect à envoyer]**, ajoutez les champs de prospect dont l’agent a besoin en tant qu’entrées. Sous **[!UICONTROL Champs de lead à mettre à jour]**, ajoutez chaque valeur que l’agent doit renvoyer et mappez-la à un champ de lead pouvant être mis à jour. Cliquez sur **[!UICONTROL Créer]** lorsque vous avez terminé.
+
+   ![](assets/callable-agents-4.png)
+
+1. Ouvrez une campagne dynamique et sélectionnez l’onglet **[!UICONTROL Flux]**.
+
+   ![](assets/callable-agents-5.png)
+
+1. Saisissez « callable » dans la recherche d’actions de flux. Localisez l’agent souhaité et faites-le glisser sur la zone de travail.
+
+   ![](assets/callable-agents-6.png)
 
 1. Testez la campagne avec un petit ensemble de prospects. Consultez le journal des activités et vérifiez que les champs de sortie se mettent à jour comme prévu avant d’activer la campagne pour tous les prospects.
 
