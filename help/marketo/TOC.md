@@ -4,9 +4,9 @@ user-guide-title: Guide Marketo
 user-guide-description: Documentation du produit Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 44aea0fb30c2793856e910d7ecc638e2e661a6a9
+source-git-commit: 376ea702dfd536192f50b7db0d08486462b70e87
 workflow-type: tm+mt
-source-wordcount: '8958'
+source-wordcount: '8953'
 ht-degree: 96%
 ---
 
@@ -83,7 +83,6 @@ ht-degree: 96%
       + [Ajouter l’authentification unique à un portail](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
       + [Ajouter Webex en tant que service LaunchPoint](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
       + [Ajouter Zoom en tant que service LaunchPoint](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
-      + {hide-from-toc}[Configuration des paramètres de l’API SOAP](product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md)
       + [Connecter BrightTALK à Marketo](product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md)
       + [Créer un service personnalisé à utiliser avec l’API REST](product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
       + [Créer un webhook](product-docs/administration/additional-integrations/create-a-webhook.md)

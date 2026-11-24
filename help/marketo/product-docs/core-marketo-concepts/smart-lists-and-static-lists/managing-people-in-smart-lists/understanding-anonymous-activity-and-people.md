@@ -25,9 +25,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 376ea702dfd536192f50b7db0d08486462b70e87
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '254'
 ht-degree: 3%
 ---
 # Présentation des activités et des personnes anonymes {#understanding-anonymous-activity-and-people}
@@ -36,26 +36,25 @@ La première fois qu’une personne visite une page de destination de Marketo (o
 
 >[!IMPORTANT]
 >
->L’activation de la fonction Beta **[!DNL Munchkin]l’activité de relecture anonyme V2 sur Connu** garantit que les campagnes déclenchées par la promotion de prospect anonyme seront toujours relues une fois le prospect anonyme fusionné avec succès dans l’enregistrement connu. Par conséquent, les champs personnalisés modifiés par les étapes Modifier la valeur des données dans les campagnes relues seront conservés dans l’enregistrement connu.
+>L’activation de la fonction Beta **[!DNL Munchkin]Activité de relecture anonyme V2 sur Connu** garantit que les campagnes déclenchées par une promotion de prospect anonyme seront toujours relues une fois le prospect anonyme fusionné avec succès dans l’enregistrement connu. Par conséquent, les champs personnalisés modifiés par les étapes Modifier la valeur des données dans les campagnes relues seront conservés dans l’enregistrement connu.
 
-Une activité **Anonyme** est créée lorsque quelqu’un :
+**Une activité anonyme** est créée lorsque quelqu’un :
 
 * Première visite de votre page de destination Marketo.
-* Visite une page de votre site qui a un [suivi &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
+* Visite une page de votre site qui a un [suivi Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
 * Clique sur le lien [Afficher en tant que page web](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"} dans un e-mail Marketo.
 
 >[!NOTE]
 >
->Contrairement aux autres liens dans les e-mails Marketo, [Afficher en tant que page web](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"} n’est pas suivi comme un clic sur un e-mail.
+>Contrairement aux autres liens dans les e-mails Marketo, [Afficher en tant que page web](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"} n&#39;est pas suivi comme un clic sur un e-mail.
 
 Une activité anonyme est fusionnée en une personne nouvelle ou existante lorsque quelqu’un :
 
-* Clique sur un [lien dans un email Marketo](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"}.
-* Remplit un Marketo [Form](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}.
-* Utilise l’API de Marketo [SOAP](/help/marketo/product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md){target="_blank"} ou [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} (pour les développeurs) pour associer une personne anonyme à un enregistrement connu.
+* Clique sur un lien [dans un e-mail Marketo](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"}.
+* Remplit un [formulaire](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} Marketo.
 
 Un nom de la base de données peut être lié à de nombreux cookies, car les visiteurs utilisent souvent différents appareils et navigateurs pour visiter votre site.
 
 >[!NOTE]
 >
->Lorsque des enregistrements anonymes sont fusionnés dans un enregistrement de personne nouveau ou existant, les valeurs de champ personnalisé ne sont *transférées*
+>Lorsque des enregistrements anonymes sont fusionnés dans un enregistrement de personne nouveau ou existant, les valeurs de champ personnalisé ne sont *pas* transférées.
