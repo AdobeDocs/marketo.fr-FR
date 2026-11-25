@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: cf360493b3793110b90d1371b38f89c2b0ef20d3
+source-git-commit: 57f148c56e1d0690db8abdac5ba22dfeed20c35f
 workflow-type: tm+mt
-source-wordcount: '542'
-ht-degree: 11%
+source-wordcount: '576'
+ht-degree: 10%
 ---
 # Notes De Mise À Jour : Novembre 2026 {#release-notes-nov-26}
 
@@ -47,6 +47,16 @@ Les fonctionnalités suivantes font partie du cycle de publication standard et c
    <th style="width:65%">Fonctionnalité</th>
    <th style="width:10%">Statut</th>
    <th style="width:25%">Documentation</th>
+  </tr>
+  <tr>
+   <td><strong>Suivi des e-mails au niveau de la personne</strong> : les remplacements du suivi des e-mails au niveau de la personne vous permettent de contrôler l’ouverture des e-mails et le suivi des clics pour une personne individuelle ; prenant en charge les exigences de consentement et de confidentialité.</td>
+   <td>Libéré</td>
+   <td><a href="/help/marketo/product-docs/administration/email-setup/email-tracking-at-person-level.md" target="_blank">Suivi des e-mails au niveau de la personne</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
   </tr>
   <tr>
    <td><strong>Compétence en matière de planification de campagnes</strong> : CX Enterprise Coworker for Marketo Engage peut désormais transformer un résumé de campagne en un document complet de configuration du programme Marketo Engage. Le document comprend la structure des dossiers, les campagnes intelligentes, les configurations d’e-mail, les jetons et une liste de contrôle d’assurance qualité. Cela permet aux équipes de lancer des campagnes plus rapidement et de normaliser la configuration du programme. La compétence peut être configurée via Markdown.</td>
