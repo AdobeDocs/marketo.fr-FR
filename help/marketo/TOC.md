@@ -499,7 +499,7 @@ ht-degree: 96%
       + [Enquête sur les prospects](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [Importer les leads](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [Valider les programmes](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/fr/docs/marketo-developer/marketo/mcp-server)
   + Panneau CX Enterprise Coworker {#coworker-panel}
     + {hide-from-toc}[Vue d’ensemble](product-docs/coworker-panel/overview.md)
   + Synchronisation CRM {#crm-sync}
